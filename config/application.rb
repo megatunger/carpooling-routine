@@ -24,6 +24,7 @@ module CarpoolingRoutine
     # Initialize configuration defaults for originally generated Rails version.
     Faker::Config.locale = :vi
     config.load_defaults 6.1
+    config.time_zone = "Hanoi"
 
     # Configuration for the application, engines, and railties goes here.
     #

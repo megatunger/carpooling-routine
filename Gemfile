@@ -4,13 +4,18 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '3.0.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
-gem 'tomoto', require: false
+gem 'tomoto'
+gem 'simple_form'
+gem 'kaminari'
+gem 'groupdate'
+gem 'bootstrap4-kaminari-views'
+gem 'json'
 gem 'google-maps'
 # gem 'rice'
 gem 'faker'
 gem 'rails', '~> 6.1.3', '>= 6.1.3.1'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3', '~> 1.4'
+gem 'pg'
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets

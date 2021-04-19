@@ -3,7 +3,11 @@ Rails.application.routes.draw do
   root 'application#index'
 
   resources :users, only: [:index]
+  resources :locations, only: [:index]
 
-  resources :modeling, only: [:index]
+  namespace :modeling do
+    get 'pre-processing-lda'
+    get 'training-lda'
+  end
 end
 

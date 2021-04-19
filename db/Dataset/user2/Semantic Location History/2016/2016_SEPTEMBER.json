@@ -1,0 +1,168 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210723825,
+        "longitudeE7" : 1056937881
+      },
+      "endLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "duration" : {
+        "startTimestampMs" : "1472845758149",
+        "endTimestampMs" : "1472860694810"
+      },
+      "distance" : 755,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 42.00934336789638
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 35.219389683484955
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 8.68537060855844
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210726985,
+          "lngE7" : 1056938323
+        }, {
+          "latE7" : 210715293,
+          "lngE7" : 1056992340
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "address" : "Dự án Nam đường 32 - Vietinco, Hà Nội 100000, Việt Nam",
+        "name" : "Dự án Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 67.49596
+      },
+      "duration" : {
+        "startTimestampMs" : "1472860694810",
+        "endTimestampMs" : "1472904730874"
+      },
+      "centerLatE7" : 210723604,
+      "centerLngE7" : 1056943090,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 18.399965
+      }, {
+        "latitudeE7" : 210723825,
+        "longitudeE7" : 1056937881,
+        "placeId" : "ChIJkYwUd9RVNDERAAAAAAAAAAA",
+        "locationConfidence" : 10.305466
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 2.1377568
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 Westpoint Trạm Trôi",
+        "locationConfidence" : 1.3196782
+      }, {
+        "latitudeE7" : 210722840,
+        "longitudeE7" : 1056966499,
+        "placeId" : "ChIJj2Lds9NVNDERLAfMNfz4HSA",
+        "name" : "Mian Store",
+        "locationConfidence" : 0.3411816
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210723825,
+        "longitudeE7" : 1056937881,
+        "placeId" : "ChIJkYwUd9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 66.79738
+      },
+      "duration" : {
+        "startTimestampMs" : "1472948159366",
+        "endTimestampMs" : "1472990651492"
+      },
+      "centerLatE7" : 210724619,
+      "centerLngE7" : 1056941690,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 18.344936
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Dự án Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 7.750333
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 3.745476
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.59554464
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.50446284
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 0.32181945
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.23024367
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 Westpoint Trạm Trôi",
+        "locationConfidence" : 0.22857818
+      }, {
+        "latitudeE7" : 210737044,
+        "longitudeE7" : 1056951000,
+        "placeId" : "ChIJYTXd5dNVNDERmOLqtZZQACw",
+        "name" : "Xưởng Sản Xuất Đồ Gỗ Trí Mỹ",
+        "locationConfidence" : 0.22629593
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

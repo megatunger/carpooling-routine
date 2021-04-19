@@ -1,0 +1,3406 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 82.23942
+      },
+      "endLocation" : {
+        "latitudeE7" : 210316711,
+        "longitudeE7" : 1058127366
+      },
+      "duration" : {
+        "startTimestampMs" : "1462318025480",
+        "endTimestampMs" : "1462319806014"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210287094,
+          "lngE7" : 1058316192
+        }, {
+          "latE7" : 210315170,
+          "lngE7" : 1058126907
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210317895,
+        "longitudeE7" : 1058120046
+      },
+      "endLocation" : {
+        "latitudeE7" : 210321155,
+        "longitudeE7" : 1058099886
+      },
+      "duration" : {
+        "startTimestampMs" : "1462320523284",
+        "endTimestampMs" : "1462321077883"
+      },
+      "distance" : 186,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210317058,
+          "lngE7" : 1058119735
+        }, {
+          "latE7" : 210321121,
+          "lngE7" : 1058099899
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210322890,
+        "longitudeE7" : 1058089153
+      },
+      "endLocation" : {
+        "latitudeE7" : 210333511,
+        "longitudeE7" : 1058023465
+      },
+      "duration" : {
+        "startTimestampMs" : "1462322148895",
+        "endTimestampMs" : "1462323485464"
+      },
+      "distance" : 675,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210323867,
+          "lngE7" : 1058089447
+        }, {
+          "latE7" : 210333766,
+          "lngE7" : 1058022918
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210333935,
+        "longitudeE7" : 1058020837
+      },
+      "endLocation" : {
+        "latitudeE7" : 210339832,
+        "longitudeE7" : 1057984362
+      },
+      "duration" : {
+        "startTimestampMs" : "1462323866683",
+        "endTimestampMs" : "1462325160265"
+      },
+      "distance" : 351,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210333881,
+          "lngE7" : 1058020629
+        }, {
+          "latE7" : 210339565,
+          "lngE7" : 1057985458
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210342948,
+        "longitudeE7" : 1057965082
+      },
+      "endLocation" : {
+        "latitudeE7" : 210344762,
+        "longitudeE7" : 1057953857
+      },
+      "duration" : {
+        "startTimestampMs" : "1462326662529",
+        "endTimestampMs" : "1462327099344"
+      },
+      "distance" : 101,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210343246,
+          "lngE7" : 1057965164
+        }, {
+          "latE7" : 210344924,
+          "lngE7" : 1057953948
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210349772,
+        "longitudeE7" : 1057922855
+      },
+      "endLocation" : {
+        "latitudeE7" : 210352466,
+        "longitudeE7" : 1057906183
+      },
+      "duration" : {
+        "startTimestampMs" : "1462330010333",
+        "endTimestampMs" : "1462330386925"
+      },
+      "distance" : 158,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210348110,
+          "lngE7" : 1057922210
+        }, {
+          "latE7" : 210356082,
+          "lngE7" : 1057908477
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210354012,
+        "longitudeE7" : 1057896612
+      },
+      "endLocation" : {
+        "latitudeE7" : 210357251,
+        "longitudeE7" : 1057876567
+      },
+      "duration" : {
+        "startTimestampMs" : "1462331100103",
+        "endTimestampMs" : "1462331491102"
+      },
+      "distance" : 195,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210354194,
+          "lngE7" : 1057895965
+        }, {
+          "latE7" : 210355796,
+          "lngE7" : 1057875137
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210358927,
+        "longitudeE7" : 1057866196
+      },
+      "endLocation" : {
+        "latitudeE7" : 210365646,
+        "longitudeE7" : 1057824604
+      },
+      "duration" : {
+        "startTimestampMs" : "1462332597487",
+        "endTimestampMs" : "1462333821066"
+      },
+      "distance" : 417,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210359230,
+          "lngE7" : 1057865753
+        }, {
+          "latE7" : 210365238,
+          "lngE7" : 1057824783
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210364501,
+        "longitudeE7" : 1057820458,
+        "placeId" : "ChIJxe64UrVUNDERy-ZlrdwwtJo",
+        "address" : "241 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "Starbucks IPH",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 52.165443
+      },
+      "duration" : {
+        "startTimestampMs" : "1462334076012",
+        "endTimestampMs" : "1462339350528"
+      },
+      "centerLatE7" : 210365170,
+      "centerLngE7" : 1057822848,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210376612,
+        "longitudeE7" : 1057842767,
+        "placeId" : "ChIJ079uYDWrNTERu-8Efv3cYeQ",
+        "semanticType" : "TYPE_WORK",
+        "locationConfidence" : 16.620186
+      }, {
+        "latitudeE7" : 210364050,
+        "longitudeE7" : 1057822901,
+        "placeId" : "ChIJrbCzrUqrNTERAgD0L1Ovzec",
+        "name" : "Highlands Coffee",
+        "locationConfidence" : 16.419212
+      }, {
+        "latitudeE7" : 210362610,
+        "longitudeE7" : 1057824400,
+        "placeId" : "ChIJS8ZZsUqrNTER8VO-u_8-YQE",
+        "name" : "CGV IPH",
+        "locationConfidence" : 2.9542594
+      }, {
+        "latitudeE7" : 210374230,
+        "longitudeE7" : 1057819441,
+        "placeId" : "ChIJf9J9q0qrNTERzHkgTWh6QD8",
+        "name" : "Đại học Quốc gia Hà Nội",
+        "locationConfidence" : 2.1514184
+      }, {
+        "latitudeE7" : 210365768,
+        "longitudeE7" : 1057822413,
+        "placeId" : "ChIJfRIhrUqrNTEROB88QWGdUIg",
+        "name" : "Kính Mắt Hàng Hiệu - Thời Trang Thế Giới",
+        "locationConfidence" : 2.0925887
+      }, {
+        "latitudeE7" : 210364050,
+        "longitudeE7" : 1057822901,
+        "placeId" : "ChIJrbCzrUqrNTERkaYG9uM2HcQ",
+        "name" : "Tiệm Bánh Tous Les Jours",
+        "locationConfidence" : 1.1329969
+      }, {
+        "latitudeE7" : 210371076,
+        "longitudeE7" : 1057833383,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "name" : "Hanoi National University of Education",
+        "locationConfidence" : 0.8637971
+      }, {
+        "latitudeE7" : 210364050,
+        "longitudeE7" : 1057822901,
+        "placeId" : "ChIJrbCzrUqrNTERCvkLfAgR4io",
+        "name" : "Tòa Nhà Iph",
+        "locationConfidence" : 0.83470416
+      }, {
+        "latitudeE7" : 210365357,
+        "longitudeE7" : 1057819980,
+        "placeId" : "ChIJKadeTbVUNDEREmrBDRD4w1I",
+        "name" : "Học Viện Đào Tạo DigiBrand",
+        "locationConfidence" : 0.47017252
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210364501,
+        "longitudeE7" : 1057820458
+      },
+      "endLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877
+      },
+      "duration" : {
+        "startTimestampMs" : "1462339350528",
+        "endTimestampMs" : "1462341933193"
+      },
+      "distance" : 5146,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210365333,
+          "lngE7" : 1057820968
+        }, {
+          "latE7" : 210285987,
+          "lngE7" : 1058319549
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 85.8513
+      },
+      "duration" : {
+        "startTimestampMs" : "1462341933193",
+        "endTimestampMs" : "1462582737213"
+      },
+      "centerLatE7" : 210285685,
+      "centerLngE7" : 1058318738,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210288009,
+        "longitudeE7" : 1058321062,
+        "placeId" : "ChIJE-0v-J6rNTERhjncmwTyarg",
+        "name" : "Sở Kế hoạch và Đầu tư Hà Nội",
+        "locationConfidence" : 8.2119
+      }, {
+        "latitudeE7" : 210298340,
+        "longitudeE7" : 1058329196,
+        "placeId" : "ChIJVXGgG5-rNTER8VOSSaG4lPM",
+        "name" : "Hàng Đẫy Stadium",
+        "locationConfidence" : 1.7162658
+      }, {
+        "latitudeE7" : 210284800,
+        "longitudeE7" : 1058318560,
+        "placeId" : "ChIJAQAAMJ6rNTERgzMvcLW7EXE",
+        "name" : "Công ty CP Hanel Mirolin",
+        "locationConfidence" : 1.2832005
+      }, {
+        "latitudeE7" : 210286540,
+        "longitudeE7" : 1058319870,
+        "placeId" : "ChIJh17Z956rNTER07KHDr34dws",
+        "name" : "Cty Oriflame",
+        "locationConfidence" : 0.5517995
+      }, {
+        "latitudeE7" : 210289259,
+        "longitudeE7" : 1058316819,
+        "placeId" : "ChIJPwg9V56rNTERN5UhWlinbcc",
+        "name" : "Overseas Worker Center",
+        "locationConfidence" : 0.37916258
+      }, {
+        "latitudeE7" : 210284405,
+        "longitudeE7" : 1058321866,
+        "placeId" : "ChIJM5eP9p6rNTERHM2bp-vXAyE",
+        "name" : "Công ty CP Siêu thị Bathplus",
+        "locationConfidence" : 0.2897133
+      }, {
+        "latitudeE7" : 210285206,
+        "longitudeE7" : 1058324388,
+        "placeId" : "ChIJ3a4Z8Z6rNTEReV-lZ7hTArU",
+        "name" : "23, 25, 38",
+        "locationConfidence" : 0.19045283
+      }, {
+        "latitudeE7" : 210280536,
+        "longitudeE7" : 1058316086,
+        "placeId" : "ChIJufasYJ6rNTERIPlQlUqjkm8",
+        "name" : "Thuê váy cưới và trang điểm cô dâu",
+        "locationConfidence" : 0.1503121
+      }, {
+        "latitudeE7" : 210263875,
+        "longitudeE7" : 1058318996,
+        "placeId" : "ChIJw-Z0052rNTERnqI-G-Rs0eA",
+        "name" : "Trường Cao đẳng Y tế Hà Nội",
+        "locationConfidence" : 0.07219157
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210338612,
+        "longitudeE7" : 1058073111
+      },
+      "endLocation" : {
+        "latitudeE7" : 210353071,
+        "longitudeE7" : 1058005404
+      },
+      "duration" : {
+        "startTimestampMs" : "1462583320256",
+        "endTimestampMs" : "1462585426935"
+      },
+      "distance" : 720,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210338668,
+          "lngE7" : 1058072967
+        }, {
+          "latE7" : 210354080,
+          "lngE7" : 1058003997
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210353071,
+        "longitudeE7" : 1058005404
+      },
+      "endLocation" : {
+        "latitudeE7" : 210379908,
+        "longitudeE7" : 1057879691
+      },
+      "duration" : {
+        "startTimestampMs" : "1462585426935",
+        "endTimestampMs" : "1462587765127"
+      },
+      "distance" : 1338,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210354080,
+          "lngE7" : 1058003997
+        }, {
+          "latE7" : 210380058,
+          "lngE7" : 1057878494
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210379908,
+        "longitudeE7" : 1057879691
+      },
+      "endLocation" : {
+        "latitudeE7" : 210388803,
+        "longitudeE7" : 1057838015
+      },
+      "duration" : {
+        "startTimestampMs" : "1462587765127",
+        "endTimestampMs" : "1462595488748"
+      },
+      "distance" : 443,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210380058,
+          "lngE7" : 1057878494
+        }, {
+          "latE7" : 210388202,
+          "lngE7" : 1057837600
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210376612,
+        "longitudeE7" : 1057842767,
+        "placeId" : "ChIJ079uYDWrNTERu-8Efv3cYeQ",
+        "address" : "Giáo dục E-CENTER, Cầu Giấy, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_WORK",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 85.48166
+      },
+      "duration" : {
+        "startTimestampMs" : "1462595488748",
+        "endTimestampMs" : "1462596559539"
+      },
+      "centerLatE7" : 210395900,
+      "centerLngE7" : 1057835100,
+      "visitConfidence" : 41,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210382056,
+        "longitudeE7" : 1057840851,
+        "placeId" : "ChIJM-QPQjWrNTERqa43PYzu4hg",
+        "name" : "Trường THPT chuyên ĐH Sư phạm",
+        "locationConfidence" : 8.984584
+      }, {
+        "latitudeE7" : 210371076,
+        "longitudeE7" : 1057833383,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "name" : "Hanoi National University of Education",
+        "locationConfidence" : 2.0151212
+      }, {
+        "latitudeE7" : 210389749,
+        "longitudeE7" : 1057817006,
+        "placeId" : "ChIJV8yTzcpUNDERcozM7kYCWkY",
+        "name" : "University of Languages and International Studies",
+        "locationConfidence" : 1.0356495
+      }, {
+        "latitudeE7" : 210402031,
+        "longitudeE7" : 1057830763,
+        "placeId" : "ChIJxWVl2TSrNTERQBNawLzUSHU",
+        "name" : "Foreign Language Specialized School",
+        "locationConfidence" : 0.4341763
+      }, {
+        "latitudeE7" : 210393272,
+        "longitudeE7" : 1057837183,
+        "placeId" : "ChIJmbZYFzWrNTERJ7CH04CaD28",
+        "name" : "Chùa Thánh Chúa",
+        "locationConfidence" : 0.27221483
+      }, {
+        "latitudeE7" : 210374230,
+        "longitudeE7" : 1057819441,
+        "placeId" : "ChIJf9J9q0qrNTERzHkgTWh6QD8",
+        "name" : "Đại học Quốc gia Hà Nội",
+        "locationConfidence" : 0.15383528
+      }, {
+        "latitudeE7" : 210382602,
+        "longitudeE7" : 1057824127,
+        "placeId" : "ChIJM8IgSTWrNTERN0_cv6MTA10",
+        "name" : "Trường Đại học Công nghệ ĐHQG Hà Nội",
+        "locationConfidence" : 0.1338681
+      }, {
+        "latitudeE7" : 210378720,
+        "longitudeE7" : 1057861276,
+        "placeId" : "ChIJTb2PlDWrNTERMHOrOplO8vc",
+        "name" : "Nha Xanh Market",
+        "locationConfidence" : 0.13338499
+      }, {
+        "latitudeE7" : 210381220,
+        "longitudeE7" : 1057828774,
+        "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+        "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+        "locationConfidence" : 0.10153834
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210376612,
+        "longitudeE7" : 1057842767,
+        "placeId" : "ChIJ079uYDWrNTERu-8Efv3cYeQ",
+        "address" : "Giáo dục E-CENTER, Cầu Giấy, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_WORK",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 85.48166
+      },
+      "endLocation" : {
+        "latitudeE7" : 210383611,
+        "longitudeE7" : 1057912643
+      },
+      "duration" : {
+        "startTimestampMs" : "1462596559539",
+        "endTimestampMs" : "1462597907855"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210391044,
+          "lngE7" : 1057836837
+        }, {
+          "latE7" : 210383949,
+          "lngE7" : 1057912673
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210383611,
+        "longitudeE7" : 1057912643
+      },
+      "endLocation" : {
+        "latitudeE7" : 210288005,
+        "longitudeE7" : 1058307916
+      },
+      "duration" : {
+        "startTimestampMs" : "1462597907855",
+        "endTimestampMs" : "1462599117700"
+      },
+      "distance" : 4201,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210383949,
+          "lngE7" : 1057912673
+        }, {
+          "latE7" : 210289230,
+          "lngE7" : 1058308334
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210288720,
+        "longitudeE7" : 1058304962
+      },
+      "endLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 83.133545
+      },
+      "duration" : {
+        "startTimestampMs" : "1462599117700",
+        "endTimestampMs" : "1462599279939"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210289516,
+          "lngE7" : 1058305206
+        }, {
+          "latE7" : 210285739,
+          "lngE7" : 1058317337
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 83.133545
+      },
+      "duration" : {
+        "startTimestampMs" : "1462599279939",
+        "endTimestampMs" : "1462687284124"
+      },
+      "centerLatE7" : 210285632,
+      "centerLngE7" : 1058318695,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210288009,
+        "longitudeE7" : 1058321062,
+        "placeId" : "ChIJE-0v-J6rNTERhjncmwTyarg",
+        "name" : "Sở Kế hoạch và Đầu tư Hà Nội",
+        "locationConfidence" : 8.003084
+      }, {
+        "latitudeE7" : 210284800,
+        "longitudeE7" : 1058318560,
+        "placeId" : "ChIJAQAAMJ6rNTERgzMvcLW7EXE",
+        "name" : "Công ty CP Hanel Mirolin",
+        "locationConfidence" : 4.5340843
+      }, {
+        "latitudeE7" : 210298340,
+        "longitudeE7" : 1058329196,
+        "placeId" : "ChIJVXGgG5-rNTER8VOSSaG4lPM",
+        "name" : "Hàng Đẫy Stadium",
+        "locationConfidence" : 1.6992675
+      }, {
+        "latitudeE7" : 210286540,
+        "longitudeE7" : 1058319870,
+        "placeId" : "ChIJh17Z956rNTER07KHDr34dws",
+        "name" : "Cty Oriflame",
+        "locationConfidence" : 0.5267869
+      }, {
+        "latitudeE7" : 210284405,
+        "longitudeE7" : 1058321866,
+        "placeId" : "ChIJM5eP9p6rNTERHM2bp-vXAyE",
+        "name" : "Công ty CP Siêu thị Bathplus",
+        "locationConfidence" : 0.26797053
+      }, {
+        "latitudeE7" : 210285206,
+        "longitudeE7" : 1058324388,
+        "placeId" : "ChIJ3a4Z8Z6rNTEReV-lZ7hTArU",
+        "name" : "23, 25, 38",
+        "locationConfidence" : 0.18877864
+      }, {
+        "latitudeE7" : 210289259,
+        "longitudeE7" : 1058316819,
+        "placeId" : "ChIJPwg9V56rNTERN5UhWlinbcc",
+        "name" : "Overseas Worker Center",
+        "locationConfidence" : 0.15438569
+      }, {
+        "latitudeE7" : 210280536,
+        "longitudeE7" : 1058316086,
+        "placeId" : "ChIJufasYJ6rNTERIPlQlUqjkm8",
+        "name" : "Thuê váy cưới và trang điểm cô dâu",
+        "locationConfidence" : 0.14158286
+      }, {
+        "latitudeE7" : 210263875,
+        "longitudeE7" : 1058318996,
+        "placeId" : "ChIJw-Z0052rNTERnqI-G-Rs0eA",
+        "name" : "Trường Cao đẳng Y tế Hà Nội",
+        "locationConfidence" : 0.06987281
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 83.133545
+      },
+      "endLocation" : {
+        "latitudeE7" : 210150283,
+        "longitudeE7" : 1058566134,
+        "placeId" : "ChIJdZLAyPOrNTERyZz2VJw7-1I",
+        "address" : "86 Lò Đúc\nPhạm Đình Hổ\nHai Bà Trưng\nHà Nội\nViệt Nam",
+        "name" : "Trường Mẫu Giáo Chim Non",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 91.82286
+      },
+      "duration" : {
+        "startTimestampMs" : "1462687284124",
+        "endTimestampMs" : "1462691747197"
+      },
+      "distance" : 2985,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210285587,
+          "lngE7" : 1058317260
+        }, {
+          "latE7" : 210152091,
+          "lngE7" : 1058568038
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210150283,
+        "longitudeE7" : 1058566134,
+        "placeId" : "ChIJdZLAyPOrNTERyZz2VJw7-1I",
+        "address" : "86 Lò Đúc\nPhạm Đình Hổ\nHai Bà Trưng\nHà Nội\nViệt Nam",
+        "name" : "Trường Mẫu Giáo Chim Non",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 91.82286
+      },
+      "duration" : {
+        "startTimestampMs" : "1462691747197",
+        "endTimestampMs" : "1462692721924"
+      },
+      "centerLatE7" : 210150533,
+      "centerLngE7" : 1058566156,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210155030,
+        "longitudeE7" : 1058574581,
+        "placeId" : "ChIJZfHEdtKsNTER1OVC3VFrfAk",
+        "name" : "Chung cư westa Hà Đông, Công ty cổ phần Coma 18",
+        "locationConfidence" : 1.9136044
+      }, {
+        "latitudeE7" : 210151200,
+        "longitudeE7" : 1058569945,
+        "placeId" : "ChIJ6eoftvOrNTERkL6sdDWjYsA",
+        "name" : "Kampong",
+        "locationConfidence" : 1.7443612
+      }, {
+        "latitudeE7" : 210157942,
+        "longitudeE7" : 1058561874,
+        "placeId" : "ChIJTZ17TfKrNTERQd_QDfOfQtM",
+        "name" : "Cửa hàng Sâm Cheonjiyang",
+        "locationConfidence" : 0.9628891
+      }, {
+        "latitudeE7" : 210150708,
+        "longitudeE7" : 1058572197,
+        "placeId" : "ChIJA89GyfOrNTERLx-aiY5MNhA",
+        "name" : "Coffee Shop 89",
+        "locationConfidence" : 0.9401555
+      }, {
+        "latitudeE7" : 210143700,
+        "longitudeE7" : 1058566610,
+        "placeId" : "ChIJbbjrvvOrNTERu25BaQbAwFU",
+        "locationConfidence" : 0.2573775
+      }, {
+        "latitudeE7" : 210161095,
+        "longitudeE7" : 1058562970,
+        "placeId" : "ChIJoxcoT_KrNTERMDSCISGHHKs",
+        "name" : "Lotteria Lò Đúc",
+        "locationConfidence" : 0.18090686
+      }, {
+        "latitudeE7" : 210161273,
+        "longitudeE7" : 1058572733,
+        "placeId" : "ChIJA6w1N_KrNTERXmX64T9yuNU",
+        "name" : "Sunway Hotel",
+        "locationConfidence" : 0.1762278
+      }, {
+        "latitudeE7" : 210146055,
+        "longitudeE7" : 1058570999,
+        "placeId" : "ChIJKTAAx_OrNTERtU-T9dFAgS4",
+        "name" : "Tân Hoàng Minh Group",
+        "locationConfidence" : 0.17485107
+      }, {
+        "latitudeE7" : 210152526,
+        "longitudeE7" : 1058567463,
+        "placeId" : "ChIJQ-lxtvOrNTERQDH6iIGtQMo",
+        "name" : "Urban Station Coffee",
+        "locationConfidence" : 0.16865152
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210150283,
+        "longitudeE7" : 1058566134
+      },
+      "endLocation" : {
+        "latitudeE7" : 210450515,
+        "longitudeE7" : 1058416217
+      },
+      "duration" : {
+        "startTimestampMs" : "1462692721924",
+        "endTimestampMs" : "1462696912174"
+      },
+      "distance" : 3692,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210152091,
+          "lngE7" : 1058568038
+        }, {
+          "latE7" : 210450839,
+          "lngE7" : 1058417587
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210450515,
+        "longitudeE7" : 1058416217
+      },
+      "endLocation" : {
+        "latitudeE7" : 210496054,
+        "longitudeE7" : 1058394229
+      },
+      "duration" : {
+        "startTimestampMs" : "1462696912174",
+        "endTimestampMs" : "1462697808344"
+      },
+      "distance" : 575,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210450839,
+          "lngE7" : 1058417587
+        }, {
+          "latE7" : 210496501,
+          "lngE7" : 1058394622
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210496054,
+        "longitudeE7" : 1058394229
+      },
+      "endLocation" : {
+        "latitudeE7" : 210150149,
+        "longitudeE7" : 1058566434
+      },
+      "duration" : {
+        "startTimestampMs" : "1462697808344",
+        "endTimestampMs" : "1462698919682"
+      },
+      "distance" : 4239,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210496501,
+          "lngE7" : 1058394622
+        }, {
+          "latE7" : 210151176,
+          "lngE7" : 1058568572
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210150283,
+        "longitudeE7" : 1058566134,
+        "placeId" : "ChIJdZLAyPOrNTERyZz2VJw7-1I",
+        "address" : "86 Lò Đúc\nPhạm Đình Hổ\nHai Bà Trưng\nHà Nội\nViệt Nam",
+        "name" : "Trường Mẫu Giáo Chim Non",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 91.198074
+      },
+      "duration" : {
+        "startTimestampMs" : "1462698919682",
+        "endTimestampMs" : "1462704679062"
+      },
+      "centerLatE7" : 210150376,
+      "centerLngE7" : 1058565685,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210151200,
+        "longitudeE7" : 1058569945,
+        "placeId" : "ChIJ6eoftvOrNTERkL6sdDWjYsA",
+        "name" : "Kampong",
+        "locationConfidence" : 2.5961008
+      }, {
+        "latitudeE7" : 210155030,
+        "longitudeE7" : 1058574581,
+        "placeId" : "ChIJZfHEdtKsNTER1OVC3VFrfAk",
+        "name" : "Chung cư westa Hà Đông, Công ty cổ phần Coma 18",
+        "locationConfidence" : 1.5479004
+      }, {
+        "latitudeE7" : 210150708,
+        "longitudeE7" : 1058572197,
+        "placeId" : "ChIJA89GyfOrNTERLx-aiY5MNhA",
+        "name" : "Coffee Shop 89",
+        "locationConfidence" : 1.403625
+      }, {
+        "latitudeE7" : 210157942,
+        "longitudeE7" : 1058561874,
+        "placeId" : "ChIJTZ17TfKrNTERQd_QDfOfQtM",
+        "name" : "Cửa hàng Sâm Cheonjiyang",
+        "locationConfidence" : 0.5945216
+      }, {
+        "latitudeE7" : 210152526,
+        "longitudeE7" : 1058567463,
+        "placeId" : "ChIJQ-lxtvOrNTERQDH6iIGtQMo",
+        "name" : "Urban Station Coffee",
+        "locationConfidence" : 0.45900756
+      }, {
+        "latitudeE7" : 210161095,
+        "longitudeE7" : 1058562970,
+        "placeId" : "ChIJoxcoT_KrNTERMDSCISGHHKs",
+        "name" : "Lotteria Lò Đúc",
+        "locationConfidence" : 0.30680603
+      }, {
+        "latitudeE7" : 210143700,
+        "longitudeE7" : 1058566610,
+        "placeId" : "ChIJbbjrvvOrNTERu25BaQbAwFU",
+        "locationConfidence" : 0.2587233
+      }, {
+        "latitudeE7" : 210161273,
+        "longitudeE7" : 1058572733,
+        "placeId" : "ChIJA6w1N_KrNTERXmX64T9yuNU",
+        "name" : "Sunway Hotel",
+        "locationConfidence" : 0.16499524
+      }, {
+        "latitudeE7" : 210147290,
+        "longitudeE7" : 1058570356,
+        "placeId" : "ChIJM_6pyPOrNTER3k0MvHtB0Lw",
+        "name" : "Tuan Vu Fitness 88 Lò Đúc",
+        "locationConfidence" : 0.12143438
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210150283,
+        "longitudeE7" : 1058566134
+      },
+      "endLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 85.20839
+      },
+      "duration" : {
+        "startTimestampMs" : "1462704679062",
+        "endTimestampMs" : "1462705589313"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210152091,
+          "lngE7" : 1058568038
+        }, {
+          "latE7" : 210285415,
+          "lngE7" : 1058322677
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 85.20839
+      },
+      "duration" : {
+        "startTimestampMs" : "1462705589313",
+        "endTimestampMs" : "1462750148193"
+      },
+      "centerLatE7" : 210285748,
+      "centerLngE7" : 1058318803,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210288009,
+        "longitudeE7" : 1058321062,
+        "placeId" : "ChIJE-0v-J6rNTERhjncmwTyarg",
+        "name" : "Sở Kế hoạch và Đầu tư Hà Nội",
+        "locationConfidence" : 8.855058
+      }, {
+        "latitudeE7" : 210298340,
+        "longitudeE7" : 1058329196,
+        "placeId" : "ChIJVXGgG5-rNTER8VOSSaG4lPM",
+        "name" : "Hàng Đẫy Stadium",
+        "locationConfidence" : 1.7749251
+      }, {
+        "latitudeE7" : 210284800,
+        "longitudeE7" : 1058318560,
+        "placeId" : "ChIJAQAAMJ6rNTERgzMvcLW7EXE",
+        "name" : "Công ty CP Hanel Mirolin",
+        "locationConfidence" : 1.507417
+      }, {
+        "latitudeE7" : 210286540,
+        "longitudeE7" : 1058319870,
+        "placeId" : "ChIJh17Z956rNTER07KHDr34dws",
+        "name" : "Cty Oriflame",
+        "locationConfidence" : 0.54740644
+      }, {
+        "latitudeE7" : 210285206,
+        "longitudeE7" : 1058324388,
+        "placeId" : "ChIJ3a4Z8Z6rNTEReV-lZ7hTArU",
+        "name" : "23, 25, 38",
+        "locationConfidence" : 0.18953508
+      }, {
+        "latitudeE7" : 210289259,
+        "longitudeE7" : 1058316819,
+        "placeId" : "ChIJPwg9V56rNTERN5UhWlinbcc",
+        "name" : "Overseas Worker Center",
+        "locationConfidence" : 0.17300913
+      }, {
+        "latitudeE7" : 210280536,
+        "longitudeE7" : 1058316086,
+        "placeId" : "ChIJufasYJ6rNTERIPlQlUqjkm8",
+        "name" : "Thuê váy cưới và trang điểm cô dâu",
+        "locationConfidence" : 0.1474785
+      }, {
+        "latitudeE7" : 210284405,
+        "longitudeE7" : 1058321866,
+        "placeId" : "ChIJM5eP9p6rNTERHM2bp-vXAyE",
+        "name" : "Công ty CP Siêu thị Bathplus",
+        "locationConfidence" : 0.121929154
+      }, {
+        "latitudeE7" : 210263875,
+        "longitudeE7" : 1058318996,
+        "placeId" : "ChIJw-Z0052rNTERnqI-G-Rs0eA",
+        "name" : "Trường Cao đẳng Y tế Hà Nội",
+        "locationConfidence" : 0.0717794
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877
+      },
+      "endLocation" : {
+        "latitudeE7" : 210335349,
+        "longitudeE7" : 1058158329
+      },
+      "duration" : {
+        "startTimestampMs" : "1462750148193",
+        "endTimestampMs" : "1462751090107"
+      },
+      "distance" : 1653,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210285987,
+          "lngE7" : 1058319549
+        }, {
+          "latE7" : 210334625,
+          "lngE7" : 1058158187
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210343795,
+        "longitudeE7" : 1058131531
+      },
+      "endLocation" : {
+        "latitudeE7" : 210357859,
+        "longitudeE7" : 1058086901
+      },
+      "duration" : {
+        "startTimestampMs" : "1462753108591",
+        "endTimestampMs" : "1462753841785"
+      },
+      "distance" : 458,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210341491,
+          "lngE7" : 1058130874
+        }, {
+          "latE7" : 210357646,
+          "lngE7" : 1058086013
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210360111,
+        "longitudeE7" : 1058079755
+      },
+      "endLocation" : {
+        "latitudeE7" : 210365374,
+        "longitudeE7" : 1058063054
+      },
+      "duration" : {
+        "startTimestampMs" : "1462756517124",
+        "endTimestampMs" : "1462756919531"
+      },
+      "distance" : 168,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210360374,
+          "lngE7" : 1058079757
+        }, {
+          "latE7" : 210365104,
+          "lngE7" : 1058063735
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210379500,
+        "longitudeE7" : 1058018220
+      },
+      "endLocation" : {
+        "latitudeE7" : 210384036,
+        "longitudeE7" : 1058003824
+      },
+      "duration" : {
+        "startTimestampMs" : "1462760146750",
+        "endTimestampMs" : "1462760521612"
+      },
+      "distance" : 128,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210379009,
+          "lngE7" : 1058017807
+        }, {
+          "latE7" : 210383224,
+          "lngE7" : 1058003082
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210384036,
+        "longitudeE7" : 1058003824
+      },
+      "endLocation" : {
+        "latitudeE7" : 210389715,
+        "longitudeE7" : 1057985797
+      },
+      "duration" : {
+        "startTimestampMs" : "1462760631670",
+        "endTimestampMs" : "1462761241718"
+      },
+      "distance" : 189,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210383224,
+          "lngE7" : 1058003082
+        }, {
+          "latE7" : 210390129,
+          "lngE7" : 1057985763
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210399585,
+        "longitudeE7" : 1057954467
+      },
+      "endLocation" : {
+        "latitudeE7" : 210404745,
+        "longitudeE7" : 1057938088
+      },
+      "duration" : {
+        "startTimestampMs" : "1462763557778",
+        "endTimestampMs" : "1462763871644"
+      },
+      "distance" : 150,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210397739,
+          "lngE7" : 1057952270
+        }, {
+          "latE7" : 210402908,
+          "lngE7" : 1057938079
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210408979,
+        "longitudeE7" : 1057924646
+      },
+      "endLocation" : {
+        "latitudeE7" : 210419149,
+        "longitudeE7" : 1057898631
+      },
+      "duration" : {
+        "startTimestampMs" : "1462764802839",
+        "endTimestampMs" : "1462765483615"
+      },
+      "distance" : 11643725,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210408897,
+          "lngE7" : 1057924652
+        }, {
+          "latE7" : 210416316,
+          "lngE7" : 1057898635
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210419149,
+        "longitudeE7" : 1057898631,
+        "placeId" : "ChIJ_Rs_zDarNTER8ucU6W6WPMI",
+        "address" : "129 Nguyễn Phong Sắc\nDịch Vọng Hậu\nCau Giay District\nHà Nội\nViệt Nam",
+        "name" : "Hanoi Customs Department",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 32.455067
+      },
+      "duration" : {
+        "startTimestampMs" : "1462765483615",
+        "endTimestampMs" : "1462766746401"
+      },
+      "centerLatE7" : 210415615,
+      "centerLngE7" : 1057902915,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210390510,
+        "longitudeE7" : 1057889600,
+        "placeId" : "ChIJ_SRI2jarNTERSl6iyS2an3I",
+        "name" : "KTX Học viện Báo Chí",
+        "locationConfidence" : 9.411934
+      }, {
+        "latitudeE7" : 210416680,
+        "longitudeE7" : 1057907000,
+        "placeId" : "ChIJKahh1jarNTERVQ11ZfQF9O0",
+        "name" : "CÔNG TY CỔ PHẦN CÔNG NGHỆ NANOSOFT",
+        "locationConfidence" : 6.055032
+      }, {
+        "latitudeE7" : 210414435,
+        "longitudeE7" : 1057902771,
+        "placeId" : "ChIJw_FK2jarNTER4KR859Jzeu4",
+        "name" : "Hải sản Bốn Mùa",
+        "locationConfidence" : 5.5330963
+      }, {
+        "latitudeE7" : 210415430,
+        "longitudeE7" : 1057904995,
+        "placeId" : "ChIJ0SzV0DarNTERIEBXpDItgKM",
+        "name" : "Ninki Shop Tô Hiệu",
+        "locationConfidence" : 3.838363
+      }, {
+        "latitudeE7" : 210419030,
+        "longitudeE7" : 1057904499,
+        "placeId" : "ChIJkTy60zarNTER8NODhNMsMYw",
+        "name" : "Công ty Thương mại và Giáo dục Hòa Bình",
+        "locationConfidence" : 3.2718027
+      }, {
+        "latitudeE7" : 210420743,
+        "longitudeE7" : 1057905453,
+        "placeId" : "ChIJY12l1DarNTERCeAMmA20cus",
+        "name" : "Công Ty Thương Mại Hội Chợ Triển Lãm Sao Việt",
+        "locationConfidence" : 1.6465505
+      }, {
+        "latitudeE7" : 210417207,
+        "longitudeE7" : 1057899465,
+        "placeId" : "ChIJIz31zjarNTERYICmjvo53Dc",
+        "name" : "Tra Tien Huong 1A",
+        "locationConfidence" : 1.5134269
+      }, {
+        "latitudeE7" : 210417542,
+        "longitudeE7" : 1057904318,
+        "placeId" : "ChIJJ8Fe0TarNTERH56Ot2dGKfI",
+        "name" : "Pizza Quality",
+        "locationConfidence" : 1.5105581
+      }, {
+        "latitudeE7" : 210412504,
+        "longitudeE7" : 1057904108,
+        "placeId" : "ChIJXQNK2jarNTERM4qJ0PGzmsg",
+        "name" : "Bánh Tráng Thịt Heo Vân Béo",
+        "locationConfidence" : 1.0887533
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210419149,
+        "longitudeE7" : 1057898631
+      },
+      "endLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877
+      },
+      "duration" : {
+        "startTimestampMs" : "1462766746401",
+        "endTimestampMs" : "1462768667965"
+      },
+      "distance" : 4522,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210416316,
+          "lngE7" : 1057898635
+        }, {
+          "latE7" : 210285987,
+          "lngE7" : 1058319549
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 82.543884
+      },
+      "duration" : {
+        "startTimestampMs" : "1462768667965",
+        "endTimestampMs" : "1462837766628"
+      },
+      "centerLatE7" : 210285729,
+      "centerLngE7" : 1058318633,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210288009,
+        "longitudeE7" : 1058321062,
+        "placeId" : "ChIJE-0v-J6rNTERhjncmwTyarg",
+        "name" : "Sở Kế hoạch và Đầu tư Hà Nội",
+        "locationConfidence" : 10.666153
+      }, {
+        "latitudeE7" : 210284800,
+        "longitudeE7" : 1058318560,
+        "placeId" : "ChIJAQAAMJ6rNTERgzMvcLW7EXE",
+        "name" : "Công ty CP Hanel Mirolin",
+        "locationConfidence" : 1.7081962
+      }, {
+        "latitudeE7" : 210298340,
+        "longitudeE7" : 1058329196,
+        "placeId" : "ChIJVXGgG5-rNTER8VOSSaG4lPM",
+        "name" : "Hàng Đẫy Stadium",
+        "locationConfidence" : 1.6343421
+      }, {
+        "latitudeE7" : 210286540,
+        "longitudeE7" : 1058319870,
+        "placeId" : "ChIJh17Z956rNTER07KHDr34dws",
+        "name" : "Cty Oriflame",
+        "locationConfidence" : 0.49716836
+      }, {
+        "latitudeE7" : 210289259,
+        "longitudeE7" : 1058316819,
+        "placeId" : "ChIJPwg9V56rNTERN5UhWlinbcc",
+        "name" : "Overseas Worker Center",
+        "locationConfidence" : 0.45102268
+      }, {
+        "latitudeE7" : 210286323,
+        "longitudeE7" : 1058316859,
+        "placeId" : "ChIJeUkCWp6rNTERAm_tAtaZLfg",
+        "name" : "Công Ty Cp Thiết Kế Công Nghiệp Hóa Chất",
+        "locationConfidence" : 0.44160712
+      }, {
+        "latitudeE7" : 210284405,
+        "longitudeE7" : 1058321866,
+        "placeId" : "ChIJM5eP9p6rNTERHM2bp-vXAyE",
+        "name" : "Công ty CP Siêu thị Bathplus",
+        "locationConfidence" : 0.2707091
+      }, {
+        "latitudeE7" : 210285206,
+        "longitudeE7" : 1058324388,
+        "placeId" : "ChIJ3a4Z8Z6rNTEReV-lZ7hTArU",
+        "name" : "23, 25, 38",
+        "locationConfidence" : 0.18755598
+      }, {
+        "latitudeE7" : 210280536,
+        "longitudeE7" : 1058316086,
+        "placeId" : "ChIJufasYJ6rNTERIPlQlUqjkm8",
+        "name" : "Thuê váy cưới và trang điểm cô dâu",
+        "locationConfidence" : 0.14313948
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 82.543884
+      },
+      "endLocation" : {
+        "latitudeE7" : 210296849,
+        "longitudeE7" : 1058254949
+      },
+      "duration" : {
+        "startTimestampMs" : "1462837766628",
+        "endTimestampMs" : "1462839531335"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210286808,
+          "lngE7" : 1058306427
+        }, {
+          "latE7" : 210300674,
+          "lngE7" : 1058256301
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210296849,
+        "longitudeE7" : 1058254949
+      },
+      "endLocation" : {
+        "latitudeE7" : 210342609,
+        "longitudeE7" : 1058020061
+      },
+      "duration" : {
+        "startTimestampMs" : "1462839531335",
+        "endTimestampMs" : "1462846719953"
+      },
+      "distance" : 2490,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210300922,
+          "lngE7" : 1058255538
+        }, {
+          "latE7" : 210345592,
+          "lngE7" : 1058014678
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210342609,
+        "longitudeE7" : 1058020061
+      },
+      "endLocation" : {
+        "latitudeE7" : 210361524,
+        "longitudeE7" : 1057922920
+      },
+      "duration" : {
+        "startTimestampMs" : "1462846719953",
+        "endTimestampMs" : "1462848256082"
+      },
+      "distance" : 1022,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210341110,
+          "lngE7" : 1058020401
+        }, {
+          "latE7" : 210361022,
+          "lngE7" : 1057924270
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210361926,
+        "longitudeE7" : 1057920852
+      },
+      "endLocation" : {
+        "latitudeE7" : 210365092,
+        "longitudeE7" : 1057904591
+      },
+      "duration" : {
+        "startTimestampMs" : "1462848354065",
+        "endTimestampMs" : "1462848453453"
+      },
+      "distance" : 139,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210360927,
+          "lngE7" : 1057920455
+        }, {
+          "latE7" : 210363197,
+          "lngE7" : 1057903900
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210364490,
+        "longitudeE7" : 1057907682
+      },
+      "endLocation" : {
+        "latitudeE7" : 210367044,
+        "longitudeE7" : 1057894564
+      },
+      "duration" : {
+        "startTimestampMs" : "1462848453453",
+        "endTimestampMs" : "1462849157432"
+      },
+      "distance" : 100,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210364494,
+          "lngE7" : 1057907714
+        }, {
+          "latE7" : 210364818,
+          "lngE7" : 1057894210
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210367086,
+        "longitudeE7" : 1057894345
+      },
+      "endLocation" : {
+        "latitudeE7" : 210377167,
+        "longitudeE7" : 1057842554
+      },
+      "duration" : {
+        "startTimestampMs" : "1462849424304",
+        "endTimestampMs" : "1462851384401"
+      },
+      "distance" : 548,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210364856,
+          "lngE7" : 1057893981
+        }, {
+          "latE7" : 210376071,
+          "lngE7" : 1057842483
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210379070,
+        "longitudeE7" : 1057832778
+      },
+      "endLocation" : {
+        "latitudeE7" : 210380931,
+        "longitudeE7" : 1057823215
+      },
+      "duration" : {
+        "startTimestampMs" : "1462851721622",
+        "endTimestampMs" : "1462851900517"
+      },
+      "distance" : 80,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210379066,
+          "lngE7" : 1057832794
+        }, {
+          "latE7" : 210380935,
+          "lngE7" : 1057823181
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210380931,
+        "longitudeE7" : 1057823215
+      },
+      "endLocation" : {
+        "latitudeE7" : 210376612,
+        "longitudeE7" : 1057842767
+      },
+      "duration" : {
+        "startTimestampMs" : "1462851985056",
+        "endTimestampMs" : "1462853098185"
+      },
+      "distance" : 224,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210380935,
+          "lngE7" : 1057823181
+        }, {
+          "latE7" : 210365238,
+          "lngE7" : 1057824783
+        }, {
+          "latE7" : 210365238,
+          "lngE7" : 1057824783
+        }, {
+          "latE7" : 210365238,
+          "lngE7" : 1057824783
+        }, {
+          "latE7" : 210365238,
+          "lngE7" : 1057824783
+        }, {
+          "latE7" : 210365238,
+          "lngE7" : 1057824783
+        }, {
+          "latE7" : 210365238,
+          "lngE7" : 1057824783
+        }, {
+          "latE7" : 210358295,
+          "lngE7" : 1057830810
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210360336,
+          "lngE7" : 1057823029,
+          "timestampMs" : "1462852296094",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 210360584,
+          "lngE7" : 1057823105,
+          "timestampMs" : "1462852413571",
+          "accuracyMeters" : 46
+        }, {
+          "latE7" : 210360622,
+          "lngE7" : 1057823715,
+          "timestampMs" : "1462852492090",
+          "accuracyMeters" : 50
+        }, {
+          "latE7" : 210360527,
+          "lngE7" : 1057823410,
+          "timestampMs" : "1462852543017",
+          "accuracyMeters" : 47
+        }, {
+          "latE7" : 210360470,
+          "lngE7" : 1057822800,
+          "timestampMs" : "1462852655413",
+          "accuracyMeters" : 43
+        }, {
+          "latE7" : 210360756,
+          "lngE7" : 1057823410,
+          "timestampMs" : "1462852735249",
+          "accuracyMeters" : 30
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210376612,
+        "longitudeE7" : 1057842767,
+        "placeId" : "ChIJ079uYDWrNTERu-8Efv3cYeQ",
+        "address" : "Giáo dục E-CENTER, Cầu Giấy, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_WORK",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 86.15375
+      },
+      "duration" : {
+        "startTimestampMs" : "1462853098185",
+        "endTimestampMs" : "1462872715089"
+      },
+      "centerLatE7" : 210372189,
+      "centerLngE7" : 1057835886,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210362610,
+        "longitudeE7" : 1057824400,
+        "placeId" : "ChIJS8ZZsUqrNTER8VO-u_8-YQE",
+        "name" : "CGV IPH",
+        "locationConfidence" : 2.2706041
+      }, {
+        "latitudeE7" : 210371076,
+        "longitudeE7" : 1057833383,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "name" : "Hanoi National University of Education",
+        "locationConfidence" : 1.6327614
+      }, {
+        "latitudeE7" : 210351699,
+        "longitudeE7" : 1057830834,
+        "placeId" : "ChIJC74XxEqrNTERMowyS6RbqhU",
+        "name" : "Trung tâm Giáo dục Thường xuyên Cầu Giấy",
+        "locationConfidence" : 1.0565411
+      }, {
+        "latitudeE7" : 210374230,
+        "longitudeE7" : 1057819441,
+        "placeId" : "ChIJf9J9q0qrNTERzHkgTWh6QD8",
+        "name" : "Đại học Quốc gia Hà Nội",
+        "locationConfidence" : 0.9704548
+      }, {
+        "latitudeE7" : 210382056,
+        "longitudeE7" : 1057840851,
+        "placeId" : "ChIJM-QPQjWrNTERqa43PYzu4hg",
+        "name" : "Trường THPT chuyên ĐH Sư phạm",
+        "locationConfidence" : 0.8035404
+      }, {
+        "latitudeE7" : 210360089,
+        "longitudeE7" : 1057825004,
+        "placeId" : "ChIJkZpMsUqrNTERxmF09uS1gok",
+        "name" : "Aia viet nam",
+        "locationConfidence" : 0.5831584
+      }, {
+        "latitudeE7" : 210365243,
+        "longitudeE7" : 1057832471,
+        "placeId" : "ChIJv3SXo0qrNTERqho-B46E3S0",
+        "name" : "Siêu Thị Thời Trang Thế Giới",
+        "locationConfidence" : 0.3535302
+      }, {
+        "latitudeE7" : 210365268,
+        "longitudeE7" : 1057831988,
+        "placeId" : "ChIJp2-Po0qrNTERjPY8_YBYCmI",
+        "name" : "Thời Trang Thế Giới",
+        "locationConfidence" : 0.31771412
+      }, {
+        "latitudeE7" : 210361153,
+        "longitudeE7" : 1057832830,
+        "placeId" : "ChIJbXb2vEqrNTERg-c_FR95ya8",
+        "name" : "駐越南台北辦事處",
+        "locationConfidence" : 0.3150851
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210376612,
+        "longitudeE7" : 1057842767
+      },
+      "endLocation" : {
+        "latitudeE7" : 210366250,
+        "longitudeE7" : 1057914724
+      },
+      "duration" : {
+        "startTimestampMs" : "1462872715089",
+        "endTimestampMs" : "1462877341632"
+      },
+      "distance" : 136,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210366744,
+          "lngE7" : 1057851867
+        }, {
+          "latE7" : 210367069,
+          "lngE7" : 1057914886
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210367457,
+        "longitudeE7" : 1057908691
+      },
+      "endLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 82.69342
+      },
+      "duration" : {
+        "startTimestampMs" : "1462877341632",
+        "endTimestampMs" : "1462879791105"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210367355,
+          "lngE7" : 1057908706
+        }, {
+          "latE7" : 210328426,
+          "lngE7" : 1058104171
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 82.69342
+      },
+      "duration" : {
+        "startTimestampMs" : "1462879791105",
+        "endTimestampMs" : "1462922670215"
+      },
+      "centerLatE7" : 210285789,
+      "centerLngE7" : 1058318423,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210288009,
+        "longitudeE7" : 1058321062,
+        "placeId" : "ChIJE-0v-J6rNTERhjncmwTyarg",
+        "name" : "Sở Kế hoạch và Đầu tư Hà Nội",
+        "locationConfidence" : 10.682356
+      }, {
+        "latitudeE7" : 210298340,
+        "longitudeE7" : 1058329196,
+        "placeId" : "ChIJVXGgG5-rNTER8VOSSaG4lPM",
+        "name" : "Hàng Đẫy Stadium",
+        "locationConfidence" : 1.6539354
+      }, {
+        "latitudeE7" : 210284800,
+        "longitudeE7" : 1058318560,
+        "placeId" : "ChIJAQAAMJ6rNTERgzMvcLW7EXE",
+        "name" : "Công ty CP Hanel Mirolin",
+        "locationConfidence" : 1.4888757
+      }, {
+        "latitudeE7" : 210286540,
+        "longitudeE7" : 1058319870,
+        "placeId" : "ChIJh17Z956rNTER07KHDr34dws",
+        "name" : "Cty Oriflame",
+        "locationConfidence" : 0.4987072
+      }, {
+        "latitudeE7" : 210289259,
+        "longitudeE7" : 1058316819,
+        "placeId" : "ChIJPwg9V56rNTERN5UhWlinbcc",
+        "name" : "Overseas Worker Center",
+        "locationConfidence" : 0.46444315
+      }, {
+        "latitudeE7" : 210286323,
+        "longitudeE7" : 1058316859,
+        "placeId" : "ChIJeUkCWp6rNTERAm_tAtaZLfg",
+        "name" : "Công Ty Cp Thiết Kế Công Nghiệp Hóa Chất",
+        "locationConfidence" : 0.44526806
+      }, {
+        "latitudeE7" : 210284405,
+        "longitudeE7" : 1058321866,
+        "placeId" : "ChIJM5eP9p6rNTERHM2bp-vXAyE",
+        "name" : "Công ty CP Siêu thị Bathplus",
+        "locationConfidence" : 0.26489368
+      }, {
+        "latitudeE7" : 210285206,
+        "longitudeE7" : 1058324388,
+        "placeId" : "ChIJ3a4Z8Z6rNTEReV-lZ7hTArU",
+        "name" : "23, 25, 38",
+        "locationConfidence" : 0.18452638
+      }, {
+        "latitudeE7" : 210280536,
+        "longitudeE7" : 1058316086,
+        "placeId" : "ChIJufasYJ6rNTERIPlQlUqjkm8",
+        "name" : "Thuê váy cưới và trang điểm cô dâu",
+        "locationConfidence" : 0.14664738
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210285470,
+        "longitudeE7" : 1058318060
+      },
+      "endLocation" : {
+        "latitudeE7" : 210336429,
+        "longitudeE7" : 1058063600
+      },
+      "duration" : {
+        "startTimestampMs" : "1462922670215",
+        "endTimestampMs" : "1462927796219"
+      },
+      "distance" : 2602,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210285701,
+          "lngE7" : 1058317337
+        }, {
+          "latE7" : 210336074,
+          "lngE7" : 1058063278
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210336429,
+        "longitudeE7" : 1058063600
+      },
+      "endLocation" : {
+        "latitudeE7" : 210376612,
+        "longitudeE7" : 1057842767,
+        "placeId" : "ChIJ079uYDWrNTERu-8Efv3cYeQ",
+        "address" : "Giáo dục E-CENTER, Cầu Giấy, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_WORK",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 82.65479
+      },
+      "duration" : {
+        "startTimestampMs" : "1462927796219",
+        "endTimestampMs" : "1462931411805"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210336074,
+          "lngE7" : 1058063278
+        }, {
+          "latE7" : 210381813,
+          "lngE7" : 1057837219
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210376612,
+        "longitudeE7" : 1057842767,
+        "placeId" : "ChIJ079uYDWrNTERu-8Efv3cYeQ",
+        "address" : "Giáo dục E-CENTER, Cầu Giấy, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_WORK",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 82.65479
+      },
+      "duration" : {
+        "startTimestampMs" : "1462931411805",
+        "endTimestampMs" : "1462934680382"
+      },
+      "centerLatE7" : 210378300,
+      "centerLngE7" : 1057846100,
+      "visitConfidence" : 40,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210382056,
+        "longitudeE7" : 1057840851,
+        "placeId" : "ChIJM-QPQjWrNTERqa43PYzu4hg",
+        "name" : "Trường THPT chuyên ĐH Sư phạm",
+        "locationConfidence" : 14.9646635
+      }, {
+        "latitudeE7" : 210371076,
+        "longitudeE7" : 1057833383,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "name" : "Hanoi National University of Education",
+        "locationConfidence" : 1.6110427
+      }, {
+        "latitudeE7" : 210378720,
+        "longitudeE7" : 1057861276,
+        "placeId" : "ChIJTb2PlDWrNTERMHOrOplO8vc",
+        "name" : "Nha Xanh Market",
+        "locationConfidence" : 0.228323
+      }, {
+        "latitudeE7" : 210372220,
+        "longitudeE7" : 1057845065,
+        "placeId" : "ChIJ86VrYTWrNTERIfoSotTNzEs",
+        "name" : "Trường THPT Nguyễn Tất Thành",
+        "locationConfidence" : 0.16125499
+      }, {
+        "latitudeE7" : 210374230,
+        "longitudeE7" : 1057819441,
+        "placeId" : "ChIJf9J9q0qrNTERzHkgTWh6QD8",
+        "name" : "Đại học Quốc gia Hà Nội",
+        "locationConfidence" : 0.035042826
+      }, {
+        "latitudeE7" : 210381220,
+        "longitudeE7" : 1057828774,
+        "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+        "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+        "locationConfidence" : 0.030687505
+      }, {
+        "latitudeE7" : 210389749,
+        "longitudeE7" : 1057817006,
+        "placeId" : "ChIJV8yTzcpUNDERcozM7kYCWkY",
+        "name" : "University of Languages and International Studies",
+        "locationConfidence" : 0.024923494
+      }, {
+        "latitudeE7" : 210380489,
+        "longitudeE7" : 1057833731,
+        "placeId" : "ChIJj_wtQjWrNTER3dasZRbNz4Y",
+        "name" : "Khoa Điện tử Viễn thông",
+        "locationConfidence" : 0.023308478
+      }, {
+        "latitudeE7" : 210382602,
+        "longitudeE7" : 1057824127,
+        "placeId" : "ChIJM8IgSTWrNTERN0_cv6MTA10",
+        "name" : "Trường Đại học Công nghệ ĐHQG Hà Nội",
+        "locationConfidence" : 0.022587335
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210376612,
+        "longitudeE7" : 1057842767,
+        "placeId" : "ChIJ079uYDWrNTERu-8Efv3cYeQ",
+        "address" : "Giáo dục E-CENTER, Cầu Giấy, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_WORK",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 82.65479
+      },
+      "endLocation" : {
+        "latitudeE7" : 210328924,
+        "longitudeE7" : 1058102098
+      },
+      "duration" : {
+        "startTimestampMs" : "1462934680382",
+        "endTimestampMs" : "1462939464936"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210376338,
+          "lngE7" : 1057859954
+        }, {
+          "latE7" : 210328998,
+          "lngE7" : 1058102111
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210333573,
+        "longitudeE7" : 1058078789
+      },
+      "endLocation" : {
+        "latitudeE7" : 210313698,
+        "longitudeE7" : 1058178425
+      },
+      "duration" : {
+        "startTimestampMs" : "1462939464936",
+        "endTimestampMs" : "1462939867734"
+      },
+      "distance" : 976,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210333671,
+          "lngE7" : 1058078765
+        }, {
+          "latE7" : 210313472,
+          "lngE7" : 1058179168
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210315192,
+        "longitudeE7" : 1058170935
+      },
+      "endLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 87.29689
+      },
+      "duration" : {
+        "startTimestampMs" : "1462939867734",
+        "endTimestampMs" : "1462940451164"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210315284,
+          "lngE7" : 1058171615
+        }, {
+          "latE7" : 210301628,
+          "lngE7" : 1058243026
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 87.29689
+      },
+      "duration" : {
+        "startTimestampMs" : "1462940451164",
+        "endTimestampMs" : "1463009228620"
+      },
+      "centerLatE7" : 210285548,
+      "centerLngE7" : 1058318886,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210288009,
+        "longitudeE7" : 1058321062,
+        "placeId" : "ChIJE-0v-J6rNTERhjncmwTyarg",
+        "name" : "Sở Kế hoạch và Đầu tư Hà Nội",
+        "locationConfidence" : 3.19526
+      }, {
+        "latitudeE7" : 210298340,
+        "longitudeE7" : 1058329196,
+        "placeId" : "ChIJVXGgG5-rNTER8VOSSaG4lPM",
+        "name" : "Hàng Đẫy Stadium",
+        "locationConfidence" : 1.6972353
+      }, {
+        "latitudeE7" : 210280536,
+        "longitudeE7" : 1058316086,
+        "placeId" : "ChIJufasYJ6rNTERIPlQlUqjkm8",
+        "name" : "Thuê váy cưới và trang điểm cô dâu",
+        "locationConfidence" : 1.3170495
+      }, {
+        "latitudeE7" : 210286323,
+        "longitudeE7" : 1058316859,
+        "placeId" : "ChIJeUkCWp6rNTERAm_tAtaZLfg",
+        "name" : "Công Ty Cp Thiết Kế Công Nghiệp Hóa Chất",
+        "locationConfidence" : 1.0506878
+      }, {
+        "latitudeE7" : 210286540,
+        "longitudeE7" : 1058319870,
+        "placeId" : "ChIJh17Z956rNTER07KHDr34dws",
+        "name" : "Cty Oriflame",
+        "locationConfidence" : 0.92942166
+      }, {
+        "latitudeE7" : 210284405,
+        "longitudeE7" : 1058321866,
+        "placeId" : "ChIJM5eP9p6rNTERHM2bp-vXAyE",
+        "name" : "Công ty CP Siêu thị Bathplus",
+        "locationConfidence" : 0.6628978
+      }, {
+        "latitudeE7" : 210289259,
+        "longitudeE7" : 1058316819,
+        "placeId" : "ChIJPwg9V56rNTERN5UhWlinbcc",
+        "name" : "Overseas Worker Center",
+        "locationConfidence" : 0.2685121
+      }, {
+        "latitudeE7" : 210263875,
+        "longitudeE7" : 1058318996,
+        "placeId" : "ChIJw-Z0052rNTERnqI-G-Rs0eA",
+        "name" : "Trường Cao đẳng Y tế Hà Nội",
+        "locationConfidence" : 0.22852735
+      }, {
+        "latitudeE7" : 210279926,
+        "longitudeE7" : 1058316220,
+        "placeId" : "ChIJwejHYJ6rNTERiE-9DcmatPc",
+        "name" : "View Coffe",
+        "locationConfidence" : 0.1914915
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 87.29689
+      },
+      "endLocation" : {
+        "latitudeE7" : 210376612,
+        "longitudeE7" : 1057842767
+      },
+      "duration" : {
+        "startTimestampMs" : "1463009228620",
+        "endTimestampMs" : "1463013996997"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210286102,
+          "lngE7" : 1058314132
+        }, {
+          "latE7" : 210376052,
+          "lngE7" : 1057842788
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210376612,
+        "longitudeE7" : 1057842767,
+        "placeId" : "ChIJ079uYDWrNTERu-8Efv3cYeQ",
+        "address" : "Giáo dục E-CENTER, Cầu Giấy, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_WORK",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 79.418846
+      },
+      "duration" : {
+        "startTimestampMs" : "1463013996997",
+        "endTimestampMs" : "1463023688741"
+      },
+      "centerLatE7" : 210376695,
+      "centerLngE7" : 1057846086,
+      "visitConfidence" : 69,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210382056,
+        "longitudeE7" : 1057840851,
+        "placeId" : "ChIJM-QPQjWrNTERqa43PYzu4hg",
+        "name" : "Trường THPT chuyên ĐH Sư phạm",
+        "locationConfidence" : 14.940356
+      }, {
+        "latitudeE7" : 210371076,
+        "longitudeE7" : 1057833383,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "name" : "Hanoi National University of Education",
+        "locationConfidence" : 4.51319
+      }, {
+        "latitudeE7" : 210372220,
+        "longitudeE7" : 1057845065,
+        "placeId" : "ChIJ86VrYTWrNTERIfoSotTNzEs",
+        "name" : "Trường THPT Nguyễn Tất Thành",
+        "locationConfidence" : 0.53299963
+      }, {
+        "latitudeE7" : 210378720,
+        "longitudeE7" : 1057861276,
+        "placeId" : "ChIJTb2PlDWrNTERMHOrOplO8vc",
+        "name" : "Nha Xanh Market",
+        "locationConfidence" : 0.18323444
+      }, {
+        "latitudeE7" : 210374230,
+        "longitudeE7" : 1057819441,
+        "placeId" : "ChIJf9J9q0qrNTERzHkgTWh6QD8",
+        "name" : "Đại học Quốc gia Hà Nội",
+        "locationConfidence" : 0.03873531
+      }, {
+        "latitudeE7" : 210381220,
+        "longitudeE7" : 1057828774,
+        "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+        "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+        "locationConfidence" : 0.031993106
+      }, {
+        "latitudeE7" : 210389749,
+        "longitudeE7" : 1057817006,
+        "placeId" : "ChIJV8yTzcpUNDERcozM7kYCWkY",
+        "name" : "University of Languages and International Studies",
+        "locationConfidence" : 0.024811454
+      }, {
+        "latitudeE7" : 210368343,
+        "longitudeE7" : 1057843785,
+        "placeId" : "ChIJGWmUgkqrNTERUhjGSoE_MbE",
+        "name" : "Cafe Sách",
+        "locationConfidence" : 0.024776025
+      }, {
+        "latitudeE7" : 210382602,
+        "longitudeE7" : 1057824127,
+        "placeId" : "ChIJM8IgSTWrNTERN0_cv6MTA10",
+        "name" : "Trường Đại học Công nghệ ĐHQG Hà Nội",
+        "locationConfidence" : 0.024403345
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210379700,
+        "longitudeE7" : 1057842887
+      },
+      "endLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877
+      },
+      "duration" : {
+        "startTimestampMs" : "1463023688741",
+        "endTimestampMs" : "1463026723698"
+      },
+      "distance" : 5262,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210379638,
+          "lngE7" : 1057844696
+        }, {
+          "latE7" : 210285987,
+          "lngE7" : 1058319549
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 80.0818
+      },
+      "duration" : {
+        "startTimestampMs" : "1463026723698",
+        "endTimestampMs" : "1463219934552"
+      },
+      "centerLatE7" : 210285701,
+      "centerLngE7" : 1058318758,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210288009,
+        "longitudeE7" : 1058321062,
+        "placeId" : "ChIJE-0v-J6rNTERhjncmwTyarg",
+        "name" : "Sở Kế hoạch và Đầu tư Hà Nội",
+        "locationConfidence" : 9.916861
+      }, {
+        "latitudeE7" : 210284800,
+        "longitudeE7" : 1058318560,
+        "placeId" : "ChIJAQAAMJ6rNTERgzMvcLW7EXE",
+        "name" : "Công ty CP Hanel Mirolin",
+        "locationConfidence" : 5.193029
+      }, {
+        "latitudeE7" : 210298340,
+        "longitudeE7" : 1058329196,
+        "placeId" : "ChIJVXGgG5-rNTER8VOSSaG4lPM",
+        "name" : "Hàng Đẫy Stadium",
+        "locationConfidence" : 1.5395073
+      }, {
+        "latitudeE7" : 210286540,
+        "longitudeE7" : 1058319870,
+        "placeId" : "ChIJh17Z956rNTER07KHDr34dws",
+        "name" : "Cty Oriflame",
+        "locationConfidence" : 0.47447824
+      }, {
+        "latitudeE7" : 210289259,
+        "longitudeE7" : 1058316819,
+        "placeId" : "ChIJPwg9V56rNTERN5UhWlinbcc",
+        "name" : "Overseas Worker Center",
+        "locationConfidence" : 0.40497288
+      }, {
+        "latitudeE7" : 210286323,
+        "longitudeE7" : 1058316859,
+        "placeId" : "ChIJeUkCWp6rNTERAm_tAtaZLfg",
+        "name" : "Công Ty Cp Thiết Kế Công Nghiệp Hóa Chất",
+        "locationConfidence" : 0.38824198
+      }, {
+        "latitudeE7" : 210284405,
+        "longitudeE7" : 1058321866,
+        "placeId" : "ChIJM5eP9p6rNTERHM2bp-vXAyE",
+        "name" : "Công ty CP Siêu thị Bathplus",
+        "locationConfidence" : 0.26104748
+      }, {
+        "latitudeE7" : 210285206,
+        "longitudeE7" : 1058324388,
+        "placeId" : "ChIJ3a4Z8Z6rNTEReV-lZ7hTArU",
+        "name" : "23, 25, 38",
+        "locationConfidence" : 0.2518743
+      }, {
+        "latitudeE7" : 210280536,
+        "longitudeE7" : 1058316086,
+        "placeId" : "ChIJufasYJ6rNTERIPlQlUqjkm8",
+        "name" : "Thuê váy cưới và trang điểm cô dâu",
+        "locationConfidence" : 0.13949314
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877
+      },
+      "endLocation" : {
+        "latitudeE7" : 210259008,
+        "longitudeE7" : 1058336165
+      },
+      "duration" : {
+        "startTimestampMs" : "1463219934552",
+        "endTimestampMs" : "1463224046573"
+      },
+      "distance" : 11647982,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210285987,
+          "lngE7" : 1058319549
+        }, {
+          "latE7" : 210299263,
+          "lngE7" : 1058337326
+        }, {
+          "latE7" : 210260124,
+          "lngE7" : 1058336639
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210299225,
+          "lngE7" : 1058337479,
+          "timestampMs" : "1463220394091",
+          "accuracyMeters" : 22
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210252112,
+        "longitudeE7" : 1058332496
+      },
+      "endLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877
+      },
+      "duration" : {
+        "startTimestampMs" : "1463234887354",
+        "endTimestampMs" : "1463235013873"
+      },
+      "distance" : 11647982,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210286388,
+          "lngE7" : 1058320465
+        }, {
+          "latE7" : 210285987,
+          "lngE7" : 1058319549
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 82.764534
+      },
+      "duration" : {
+        "startTimestampMs" : "1463235013873",
+        "endTimestampMs" : "1463297017437"
+      },
+      "centerLatE7" : 210285721,
+      "centerLngE7" : 1058318598,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210288009,
+        "longitudeE7" : 1058321062,
+        "placeId" : "ChIJE-0v-J6rNTERhjncmwTyarg",
+        "name" : "Sở Kế hoạch và Đầu tư Hà Nội",
+        "locationConfidence" : 10.647121
+      }, {
+        "latitudeE7" : 210284800,
+        "longitudeE7" : 1058318560,
+        "placeId" : "ChIJAQAAMJ6rNTERgzMvcLW7EXE",
+        "name" : "Công ty CP Hanel Mirolin",
+        "locationConfidence" : 1.8695619
+      }, {
+        "latitudeE7" : 210298340,
+        "longitudeE7" : 1058329196,
+        "placeId" : "ChIJVXGgG5-rNTER8VOSSaG4lPM",
+        "name" : "Hàng Đẫy Stadium",
+        "locationConfidence" : 1.647572
+      }, {
+        "latitudeE7" : 210286540,
+        "longitudeE7" : 1058319870,
+        "placeId" : "ChIJh17Z956rNTER07KHDr34dws",
+        "name" : "Cty Oriflame",
+        "locationConfidence" : 0.5033063
+      }, {
+        "latitudeE7" : 210286323,
+        "longitudeE7" : 1058316859,
+        "placeId" : "ChIJeUkCWp6rNTERAm_tAtaZLfg",
+        "name" : "Công Ty Cp Thiết Kế Công Nghiệp Hóa Chất",
+        "locationConfidence" : 0.444623
+      }, {
+        "latitudeE7" : 210289259,
+        "longitudeE7" : 1058316819,
+        "placeId" : "ChIJPwg9V56rNTERN5UhWlinbcc",
+        "name" : "Overseas Worker Center",
+        "locationConfidence" : 0.20433089
+      }, {
+        "latitudeE7" : 210285206,
+        "longitudeE7" : 1058324388,
+        "placeId" : "ChIJ3a4Z8Z6rNTEReV-lZ7hTArU",
+        "name" : "23, 25, 38",
+        "locationConfidence" : 0.1856067
+      }, {
+        "latitudeE7" : 210280536,
+        "longitudeE7" : 1058316086,
+        "placeId" : "ChIJufasYJ6rNTERIPlQlUqjkm8",
+        "name" : "Thuê váy cưới và trang điểm cô dâu",
+        "locationConfidence" : 0.1468885
+      }, {
+        "latitudeE7" : 210284405,
+        "longitudeE7" : 1058321866,
+        "placeId" : "ChIJM5eP9p6rNTERHM2bp-vXAyE",
+        "name" : "Công ty CP Siêu thị Bathplus",
+        "locationConfidence" : 0.117910676
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877
+      },
+      "endLocation" : {
+        "latitudeE7" : 210232034,
+        "longitudeE7" : 1058319572
+      },
+      "duration" : {
+        "startTimestampMs" : "1463297017437",
+        "endTimestampMs" : "1463297499227"
+      },
+      "distance" : 584,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210285987,
+          "lngE7" : 1058319549
+        }, {
+          "latE7" : 210231781,
+          "lngE7" : 1058320312
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210232034,
+        "longitudeE7" : 1058319572,
+        "placeId" : "ChIJtTqf_ZyrNTER11KiPEVRuiY",
+        "address" : "182 P. Tôn Đức Thắng\nHàng Bột\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "Trung tâm thiết kế & quảng cáo SMART",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 34.577297
+      },
+      "duration" : {
+        "startTimestampMs" : "1463297499227",
+        "endTimestampMs" : "1463299073674"
+      },
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 210236795,
+          "longitudeE7" : 1058321717,
+          "placeId" : "ChIJTwiNV5yrNTERQ8y0Wp7Nb34",
+          "address" : "115 P. Tôn Đức Thắng\nHàng Bột\nĐống Đa\nHà Nội\nViệt Nam",
+          "name" : "Công Ty Thời Trang Ngọc Thành",
+          "sourceInfo" : {
+            "deviceTag" : 529972068
+          },
+          "locationConfidence" : 10.723379
+        },
+        "duration" : {
+          "startTimestampMs" : "1463297499227",
+          "endTimestampMs" : "1463299073674"
+        },
+        "centerLatE7" : 210234633,
+        "centerLngE7" : 1058325133,
+        "visitConfidence" : 50,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210229692,
+          "longitudeE7" : 1058323432,
+          "placeId" : "ChIJV2JW-5yrNTER5RoqT3D2rzs",
+          "name" : "Cửa Hàng Bánh Paris Gateaux Tôn Đức Thắng",
+          "locationConfidence" : 8.680483
+        }, {
+          "latitudeE7" : 210237511,
+          "longitudeE7" : 1058324125,
+          "placeId" : "ChIJmbHYVZyrNTER5FcbCOpO5cw",
+          "name" : "Cửa Hàng Dây Lưng Ví Da Cá Sấu",
+          "locationConfidence" : 6.6744065
+        }, {
+          "latitudeE7" : 210238419,
+          "longitudeE7" : 1058311970,
+          "placeId" : "ChIJ09Llp52rNTER0Hg5tO_TEP4",
+          "name" : "myna bra",
+          "locationConfidence" : 3.1221836
+        }, {
+          "latitudeE7" : 210224818,
+          "longitudeE7" : 1058315617,
+          "placeId" : "ChIJr08oGZ2rNTERNxdPmHR2J4c",
+          "name" : "FORMAT",
+          "locationConfidence" : 3.0992486
+        }, {
+          "latitudeE7" : 210231420,
+          "longitudeE7" : 1058338950,
+          "placeId" : "ChIJ623KjpyrNTERuwVfYLL_NtE",
+          "name" : "Hagi Shop",
+          "locationConfidence" : 3.0483007
+        }, {
+          "latitudeE7" : 210233055,
+          "longitudeE7" : 1058323037,
+          "placeId" : "ChIJD3H_-5yrNTERigDXPdt7Ays",
+          "name" : "Hanoi Foot Massage",
+          "locationConfidence" : 2.965693
+        }, {
+          "latitudeE7" : 210231578,
+          "longitudeE7" : 1058322365,
+          "placeId" : "ChIJJcJR_JyrNTER4Sypd-4Wahk",
+          "name" : "Công ty cổ phần Hoa Cỏ May",
+          "locationConfidence" : 2.470169
+        }, {
+          "latitudeE7" : 210235934,
+          "longitudeE7" : 1058322161,
+          "placeId" : "ChIJ46Ns_5yrNTERyoVFxj20S2c",
+          "name" : "Nhà Duy An Duy Khôi",
+          "locationConfidence" : 1.8731496
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 210234633,
+      "centerLngE7" : 1058325133,
+      "visitConfidence" : 50,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210236795,
+        "longitudeE7" : 1058321717,
+        "placeId" : "ChIJTwiNV5yrNTERQ8y0Wp7Nb34",
+        "name" : "Cửa Hàng Thời Trang Chic - Land",
+        "locationConfidence" : 7.0155244
+      }, {
+        "latitudeE7" : 210229692,
+        "longitudeE7" : 1058323432,
+        "placeId" : "ChIJV2JW-5yrNTER5RoqT3D2rzs",
+        "name" : "Cửa Hàng Bánh Paris Gateaux Tôn Đức Thắng",
+        "locationConfidence" : 5.679007
+      }, {
+        "latitudeE7" : 210237511,
+        "longitudeE7" : 1058324125,
+        "placeId" : "ChIJmbHYVZyrNTER5FcbCOpO5cw",
+        "name" : "Cửa Hàng Dây Lưng Ví Da Cá Sấu",
+        "locationConfidence" : 4.366577
+      }, {
+        "latitudeE7" : 210238419,
+        "longitudeE7" : 1058311970,
+        "placeId" : "ChIJ09Llp52rNTER0Hg5tO_TEP4",
+        "name" : "myna bra",
+        "locationConfidence" : 2.0426168
+      }, {
+        "latitudeE7" : 210224818,
+        "longitudeE7" : 1058315617,
+        "placeId" : "ChIJr08oGZ2rNTERNxdPmHR2J4c",
+        "name" : "FORMAT",
+        "locationConfidence" : 2.0276122
+      }, {
+        "latitudeE7" : 210231420,
+        "longitudeE7" : 1058338950,
+        "placeId" : "ChIJ623KjpyrNTERuwVfYLL_NtE",
+        "name" : "Hagi Shop",
+        "locationConfidence" : 1.9942807
+      }, {
+        "latitudeE7" : 210233055,
+        "longitudeE7" : 1058323037,
+        "placeId" : "ChIJD3H_-5yrNTERigDXPdt7Ays",
+        "name" : "Hanoi Foot Massage",
+        "locationConfidence" : 1.9402364
+      }, {
+        "latitudeE7" : 210231578,
+        "longitudeE7" : 1058322365,
+        "placeId" : "ChIJJcJR_JyrNTER4Sypd-4Wahk",
+        "name" : "Công ty cổ phần Hoa Cỏ May",
+        "locationConfidence" : 1.6160514
+      }, {
+        "latitudeE7" : 210235934,
+        "longitudeE7" : 1058322161,
+        "placeId" : "ChIJ46Ns_5yrNTERyoVFxj20S2c",
+        "name" : "Nhà Duy An Duy Khôi",
+        "locationConfidence" : 1.2254652
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210232034,
+        "longitudeE7" : 1058319572
+      },
+      "endLocation" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877
+      },
+      "duration" : {
+        "startTimestampMs" : "1463299073674",
+        "endTimestampMs" : "1463301976577"
+      },
+      "distance" : 584,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210231781,
+          "lngE7" : 1058320312
+        }, {
+          "latE7" : 210285987,
+          "lngE7" : 1058319549
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210284607,
+        "longitudeE7" : 1058318877,
+        "placeId" : "ChIJ-yKPWJ6rNTEROZP0VYrTJkI",
+        "address" : "19 Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 82.4858
+      },
+      "duration" : {
+        "startTimestampMs" : "1463301976577",
+        "endTimestampMs" : "1463498341059"
+      },
+      "centerLatE7" : 210285802,
+      "centerLngE7" : 1058318747,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210288009,
+        "longitudeE7" : 1058321062,
+        "placeId" : "ChIJE-0v-J6rNTERhjncmwTyarg",
+        "name" : "Sở Kế hoạch và Đầu tư Hà Nội",
+        "locationConfidence" : 10.70649
+      }, {
+        "latitudeE7" : 210284800,
+        "longitudeE7" : 1058318560,
+        "placeId" : "ChIJAQAAMJ6rNTERgzMvcLW7EXE",
+        "name" : "Công ty CP Hanel Mirolin",
+        "locationConfidence" : 1.9074745
+      }, {
+        "latitudeE7" : 210298340,
+        "longitudeE7" : 1058329196,
+        "placeId" : "ChIJVXGgG5-rNTER8VOSSaG4lPM",
+        "name" : "Hàng Đẫy Stadium",
+        "locationConfidence" : 1.7966567
+      }, {
+        "latitudeE7" : 210286540,
+        "longitudeE7" : 1058319870,
+        "placeId" : "ChIJh17Z956rNTER07KHDr34dws",
+        "name" : "Cty Oriflame",
+        "locationConfidence" : 0.5246033
+      }, {
+        "latitudeE7" : 210286323,
+        "longitudeE7" : 1058316859,
+        "placeId" : "ChIJeUkCWp6rNTERAm_tAtaZLfg",
+        "name" : "Công Ty Cp Thiết Kế Công Nghiệp Hóa Chất",
+        "locationConfidence" : 0.39248917
+      }, {
+        "latitudeE7" : 210289259,
+        "longitudeE7" : 1058316819,
+        "placeId" : "ChIJPwg9V56rNTERN5UhWlinbcc",
+        "name" : "Overseas Worker Center",
+        "locationConfidence" : 0.2144022
+      }, {
+        "latitudeE7" : 210285206,
+        "longitudeE7" : 1058324388,
+        "placeId" : "ChIJ3a4Z8Z6rNTEReV-lZ7hTArU",
+        "name" : "23, 25, 38",
+        "locationConfidence" : 0.19287725
+      }, {
+        "latitudeE7" : 210280536,
+        "longitudeE7" : 1058316086,
+        "placeId" : "ChIJufasYJ6rNTERIPlQlUqjkm8",
+        "name" : "Thuê váy cưới và trang điểm cô dâu",
+        "locationConfidence" : 0.13640201
+      }, {
+        "latitudeE7" : 210284405,
+        "longitudeE7" : 1058321866,
+        "placeId" : "ChIJM5eP9p6rNTERHM2bp-vXAyE",
+        "name" : "Công ty CP Siêu thị Bathplus",
+        "locationConfidence" : 0.12006497
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

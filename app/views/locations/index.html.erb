@@ -1,0 +1,40 @@
+<h2>Locations</h2>
+<div class="table-responsive">
+  <table class="table table-striped table-sm">
+    <thead>
+    <tr>
+      <th>ID</th>
+      <th>User ID</th>
+      <th>Latitude</th>
+      <th>Longitude</th>
+      <th>Place ID</th>
+      <th>Location Name</th>
+      <th>Address</th>
+      <th>Semantic Type</th>
+      <th>Confidence</th>
+      <th>Start Time</th>
+      <th>End Time</th>
+    </tr>
+    </thead>
+    <tbody>
+    <% @locations.each do |location| %>
+      <tr>
+        <td><%= location.id %></td>
+        <td><%= location.user_id %></td>
+        <td><%= location.latitude %></td>
+        <td><%= location.longitude %></td>
+        <td><%= location.place_id %></td>
+        <td><%= location.location_name %></td>
+        <td><%= location.address %></td>
+        <td><%= location.semantic_type %></td>
+        <td><%= location.confidence %></td>
+        <td><%= location.start_time %></td>
+        <td><%= location.end_time %></td>
+      </tr>
+    <% end %>
+    </tbody>
+  </table>
+  <%= paginate @locations, theme: 'twitter-bootstrap-4',
+               pagination_class: "pagination-sm",
+               nav_class: "d-inline-b" %>
+</div>

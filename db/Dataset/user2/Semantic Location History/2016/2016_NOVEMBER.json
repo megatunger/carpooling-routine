@@ -1,0 +1,629 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210723856,
+        "longitudeE7" : 1056937906
+      },
+      "endLocation" : {
+        "latitudeE7" : 210737733,
+        "longitudeE7" : 1056901267
+      },
+      "duration" : {
+        "startTimestampMs" : "1478043319928",
+        "endTimestampMs" : "1478043442132"
+      },
+      "distance" : 410,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 50.1979536671588
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 36.525426538191056
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 10.001303391102047
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210726985,
+          "lngE7" : 1056938323
+        }, {
+          "latE7" : 210737113,
+          "lngE7" : 1056900863
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210737733,
+        "longitudeE7" : 1056901267,
+        "placeId" : "ChIJgYc7xNVVNDERq_cMxjmfU_Y",
+        "address" : "Khu Sau Hàng, Thôn Triều, Xã Đức Thượng, Huyện Hoài Đức, Thành Phố Hà Nội, Việt Nam",
+        "name" : "Công Ty Trách Nhiệm Hữu Hạn Liên Trọng",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 82.53454
+      },
+      "duration" : {
+        "startTimestampMs" : "1478043442132",
+        "endTimestampMs" : "1478511681613"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210729338,
+      "centerLngE7" : 1056936449,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210723856,
+        "longitudeE7" : 1056937906,
+        "placeId" : "ChIJSXsUd9RVNDERAAAAAAAAAAA",
+        "locationConfidence" : 9.4290085
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 2.443731
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.6400522
+      }, {
+        "latitudeE7" : 210755258,
+        "longitudeE7" : 1056897388,
+        "placeId" : "ChIJw3CYctZVNDERWQebC2AUz_w",
+        "name" : "Duc Thuong Junior High School",
+        "locationConfidence" : 1.1721132
+      }, {
+        "latitudeE7" : 210762466,
+        "longitudeE7" : 1056900392,
+        "placeId" : "ChIJTzH8adZVNDER8NVNeSjEPzM",
+        "name" : "Duc Thuong Elementary School",
+        "locationConfidence" : 0.73377657
+      }, {
+        "latitudeE7" : 210754965,
+        "longitudeE7" : 1056924180,
+        "placeId" : "ChIJk6BUltZVNDER481eg1me0y4",
+        "name" : "Cửa Hàng Bách Hóa Ngọ Tuấn",
+        "locationConfidence" : 0.6758554
+      }, {
+        "latitudeE7" : 210757575,
+        "longitudeE7" : 1056914087,
+        "placeId" : "ChIJ0ytfidZVNDERKNqLaxomw0k",
+        "name" : "Quán Thịt Cầy Hồng Hiệp",
+        "locationConfidence" : 0.4176669
+      }, {
+        "latitudeE7" : 210738529,
+        "longitudeE7" : 1056930175,
+        "placeId" : "ChIJORASGtRVNDERCQX-juFpI-A",
+        "name" : "Cửa Hàng Inox Thành Đạt",
+        "locationConfidence" : 0.29094988
+      }, {
+        "latitudeE7" : 210753520,
+        "longitudeE7" : 1056921613,
+        "placeId" : "ChIJnRWmkNZVNDER3og0BNGWEFY",
+        "name" : "Cửa Hàng Đá Ốp Lát Hoàng Long",
+        "locationConfidence" : 0.21234386
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210723856,
+        "longitudeE7" : 1056937906
+      },
+      "endLocation" : {
+        "latitudeE7" : 210688005,
+        "longitudeE7" : 1056956571
+      },
+      "duration" : {
+        "startTimestampMs" : "1478511681613",
+        "endTimestampMs" : "1478513825362"
+      },
+      "distance" : 99,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 36.43173960472697
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 30.2076251301693
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 19.01755126613128
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210726985,
+          "lngE7" : 1056938323
+        }, {
+          "latE7" : 210687961,
+          "lngE7" : 1056956558
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210688005,
+        "longitudeE7" : 1056956571
+      },
+      "endLocation" : {
+        "latitudeE7" : 210663579,
+        "longitudeE7" : 1056965663
+      },
+      "duration" : {
+        "startTimestampMs" : "1478513825362",
+        "endTimestampMs" : "1478514519844"
+      },
+      "distance" : 283,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 31.464623072360087
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 31.45314748691274
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 17.470713056788654
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210687961,
+          "lngE7" : 1056956558
+        }, {
+          "latE7" : 210663490,
+          "lngE7" : 1056965484
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210663579,
+        "longitudeE7" : 1056965663
+      },
+      "endLocation" : {
+        "latitudeE7" : 210723856,
+        "longitudeE7" : 1056937906
+      },
+      "duration" : {
+        "startTimestampMs" : "1478514519844",
+        "endTimestampMs" : "1478515617498"
+      },
+      "distance" : 766,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 71.78509842991781
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 10.598531234705533
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 10.541524394091432
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210663490,
+          "lngE7" : 1056965484
+        }, {
+          "latE7" : 210726985,
+          "lngE7" : 1056938323
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210723856,
+        "longitudeE7" : 1056937906,
+        "placeId" : "ChIJSXsUd9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 90.36865
+      },
+      "duration" : {
+        "startTimestampMs" : "1478515617498",
+        "endTimestampMs" : "1478562459826"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210724023,
+      "centerLngE7" : 1056937564,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 5.277077
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 2.1469285
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.47095686
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 0.39542726
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.19583744
+      }, {
+        "latitudeE7" : 210738529,
+        "longitudeE7" : 1056930175,
+        "placeId" : "ChIJORASGtRVNDERCQX-juFpI-A",
+        "name" : "Cửa Hàng Inox Thành Đạt",
+        "locationConfidence" : 0.15117751
+      }, {
+        "latitudeE7" : 210737308,
+        "longitudeE7" : 1056952972,
+        "placeId" : "ChIJC8hR5tNVNDERrDWmIjBGFc4",
+        "name" : "Cửa Hàng Điện Nước Tiên Tiến",
+        "locationConfidence" : 0.12795347
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERRSVz9BUiaSY",
+        "name" : "Ngân Hàng Chính Sách Xã Hội (Vbsp) - Đgd Xã Đức Thượng",
+        "locationConfidence" : 0.116753064
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.10737253
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210723856,
+        "longitudeE7" : 1056937906
+      },
+      "endLocation" : {
+        "latitudeE7" : 210733096,
+        "longitudeE7" : 1056909091
+      },
+      "duration" : {
+        "startTimestampMs" : "1478562459826",
+        "endTimestampMs" : "1478563200000"
+      },
+      "distance" : 325,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 39.47027293636614
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 36.04154061079418
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.15726642822973
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210726985,
+          "lngE7" : 1056938323
+        }, {
+          "latE7" : 210733509,
+          "lngE7" : 1056908187
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210723856,
+        "longitudeE7" : 1056937906,
+        "placeId" : "ChIJSXsUd9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 91.42536
+      },
+      "duration" : {
+        "startTimestampMs" : "1478563200000",
+        "endTimestampMs" : "1478648275250"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210726511,
+      "centerLngE7" : 1056939600,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 4.492641
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 2.4270775
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 0.29483968
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.28259805
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.14203568
+      }, {
+        "latitudeE7" : 210737308,
+        "longitudeE7" : 1056952972,
+        "placeId" : "ChIJC8hR5tNVNDERrDWmIjBGFc4",
+        "name" : "Cửa Hàng Điện Nước Tiên Tiến",
+        "locationConfidence" : 0.105927505
+      }, {
+        "latitudeE7" : 210738529,
+        "longitudeE7" : 1056930175,
+        "placeId" : "ChIJORASGtRVNDERCQX-juFpI-A",
+        "name" : "Cửa Hàng Inox Thành Đạt",
+        "locationConfidence" : 0.10255279
+      }, {
+        "latitudeE7" : 210737044,
+        "longitudeE7" : 1056951000,
+        "placeId" : "ChIJYTXd5dNVNDERmOLqtZZQACw",
+        "name" : "Xưởng Sản Xuất Đồ Gỗ Trí Mỹ",
+        "locationConfidence" : 0.09740689
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERRSVz9BUiaSY",
+        "name" : "Ngân Hàng Chính Sách Xã Hội (Vbsp) - Đgd Xã Đức Thượng",
+        "locationConfidence" : 0.09037002
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210723856,
+        "longitudeE7" : 1056937906
+      },
+      "endLocation" : {
+        "latitudeE7" : 210723819,
+        "longitudeE7" : 1056937882
+      },
+      "duration" : {
+        "startTimestampMs" : "1478648275250",
+        "endTimestampMs" : "1478652726390"
+      },
+      "distance" : 1160,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 50.69200494394034
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 21.348736275826944
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 14.543620778637106
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210723819,
+        "longitudeE7" : 1056937882,
+        "placeId" : "ChIJBY0Ud9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 92.41505
+      },
+      "duration" : {
+        "startTimestampMs" : "1478652726390",
+        "endTimestampMs" : "1478755547981"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210727795,
+      "centerLngE7" : 1056940435,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 4.233467
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 1.766735
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.34230605
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 0.30235967
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.12324817
+      }, {
+        "latitudeE7" : 210738529,
+        "longitudeE7" : 1056930175,
+        "placeId" : "ChIJORASGtRVNDERCQX-juFpI-A",
+        "name" : "Cửa Hàng Inox Thành Đạt",
+        "locationConfidence" : 0.09223062
+      }, {
+        "latitudeE7" : 210737308,
+        "longitudeE7" : 1056952972,
+        "placeId" : "ChIJC8hR5tNVNDERrDWmIjBGFc4",
+        "name" : "Cửa Hàng Điện Nước Tiên Tiến",
+        "locationConfidence" : 0.089329235
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERRSVz9BUiaSY",
+        "name" : "Ngân Hàng Chính Sách Xã Hội (Vbsp) - Đgd Xã Đức Thượng",
+        "locationConfidence" : 0.07689768
+      }, {
+        "latitudeE7" : 210739114,
+        "longitudeE7" : 1056955088,
+        "placeId" : "ChIJ4eRV59NVNDERqGcSIFZTyUA",
+        "name" : "Nhà Thuốc Phú Đa",
+        "locationConfidence" : 0.0753011
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210723819,
+        "longitudeE7" : 1056937882,
+        "placeId" : "ChIJBY0Ud9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 79.16683
+      },
+      "duration" : {
+        "startTimestampMs" : "1479594437515",
+        "endTimestampMs" : "1479792940046"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210726178,
+      "centerLngE7" : 1056939366,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 12.972282
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 5.375534
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 0.7762002
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.4668858
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.20624919
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.16011646
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERRSVz9BUiaSY",
+        "name" : "Ngân Hàng Chính Sách Xã Hội (Vbsp) - Đgd Xã Đức Thượng",
+        "locationConfidence" : 0.099911526
+      }, {
+        "latitudeE7" : 210737044,
+        "longitudeE7" : 1056951000,
+        "placeId" : "ChIJYTXd5dNVNDERmOLqtZZQACw",
+        "name" : "Xưởng Sản Xuất Đồ Gỗ Trí Mỹ",
+        "locationConfidence" : 0.098023266
+      }, {
+        "latitudeE7" : 210738529,
+        "longitudeE7" : 1056930175,
+        "placeId" : "ChIJORASGtRVNDERCQX-juFpI-A",
+        "name" : "Cửa Hàng Inox Thành Đạt",
+        "locationConfidence" : 0.0945588
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210726178,
+        "longitudeE7" : 1056939366
+      },
+      "endLocation" : {
+        "latitudeE7" : 210727152,
+        "longitudeE7" : 1056940042
+      },
+      "duration" : {
+        "startTimestampMs" : "1479792940046",
+        "endTimestampMs" : "1483193125940"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210874181,
+          "lngE7" : 1057555261,
+          "timestampMs" : "1482065065000",
+          "accuracyMeters" : 11
+        } ]
+      }
+    }
+  } ]
+}

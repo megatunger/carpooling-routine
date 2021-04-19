@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>CarpoolingRoutine</title>
+    <title>Carpooling Routine</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
@@ -32,6 +32,11 @@
                   Users
                 </a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="<%= locations_path %>">
+                  Locations
+                </a>
+              </li>
             </ul>
 
             <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
@@ -39,27 +44,33 @@
             </h6>
             <ul class="nav flex-column mb-2">
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="<%= modeling_pre_processing_lda_path %>">
                   <span data-feather="file-text"></span>
-                  Pre-processing
+                  Pre-processing LDA
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="<%= modeling_training_lda_path %>">
+                  <span data-feather="file-text"></span>
+                  Training LDA
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
                   <span data-feather="file-text"></span>
-                  Last quarter
+                  Routes Trip LDA
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
                   <span data-feather="file-text"></span>
-                  Social engagement
+                  Matching
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
                   <span data-feather="file-text"></span>
-                  Year-end sale
+                  Review
                 </a>
               </li>
             </ul>

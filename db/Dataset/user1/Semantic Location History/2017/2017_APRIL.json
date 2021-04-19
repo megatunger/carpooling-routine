@@ -1,0 +1,117 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210154318,
+        "longitudeE7" : 1058565981
+      },
+      "endLocation" : {
+        "latitudeE7" : 210150750,
+        "longitudeE7" : 1058565863
+      },
+      "duration" : {
+        "startTimestampMs" : "1491554461678",
+        "endTimestampMs" : "1491730259756"
+      },
+      "distance" : 9397,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 47.76312785825042
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 21.15096808818098
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.480972977994135
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210154685,
+          "lngE7" : 1058566741
+        }, {
+          "latE7" : 210151939,
+          "lngE7" : 1058568267
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210153572,
+        "longitudeE7" : 1058566675,
+        "placeId" : "ChIJETpotPOrNTERAO_NjpcurKY",
+        "address" : "84 Lò Đúc, Phạm Đình Hồ, Hai Bà Trưng, Hà Nội, Việt Nam",
+        "name" : "Giầy khiêu vũ trẻ em 84 lò đúc",
+        "sourceInfo" : {
+          "deviceTag" : 529972068
+        },
+        "locationConfidence" : 62.270718
+      },
+      "duration" : {
+        "startTimestampMs" : "1492333034767",
+        "endTimestampMs" : "1492334883869"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 210150943,
+      "centerLngE7" : 1058566126,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210151433,
+        "longitudeE7" : 1058565923,
+        "placeId" : "ChIJqYk0tPOrNTERv8wMReF6RZU",
+        "locationConfidence" : 28.066574
+      }, {
+        "latitudeE7" : 210157942,
+        "longitudeE7" : 1058561874,
+        "placeId" : "ChIJTZ17TfKrNTERQd_QDfOfQtM",
+        "name" : "Cửa hàng Sâm Cheonjiyang",
+        "locationConfidence" : 1.0181661
+      }, {
+        "latitudeE7" : 210151535,
+        "longitudeE7" : 1058567528,
+        "placeId" : "ChIJI5PYtvOrNTERiM7hN811S9I",
+        "name" : "Chim Non Nursery School",
+        "locationConfidence" : 0.892535
+      }, {
+        "latitudeE7" : 210151225,
+        "longitudeE7" : 1058569422,
+        "placeId" : "ChIJ6eoftvOrNTERkL6sdDWjYsA",
+        "name" : "Kampong Chicken House",
+        "locationConfidence" : 0.52698934
+      }, {
+        "latitudeE7" : 210150708,
+        "longitudeE7" : 1058572197,
+        "placeId" : "ChIJA89GyfOrNTERLx-aiY5MNhA",
+        "name" : "Coffee Shop 89",
+        "locationConfidence" : 0.4193383
+      }, {
+        "latitudeE7" : 210152526,
+        "longitudeE7" : 1058567463,
+        "placeId" : "ChIJQ-lxtvOrNTERQDH6iIGtQMo",
+        "locationConfidence" : 0.35058692
+      }, {
+        "latitudeE7" : 210160998,
+        "longitudeE7" : 1058562648,
+        "placeId" : "ChIJoxcoT_KrNTERMDSCISGHHKs",
+        "name" : "Lotteria Lò Đúc",
+        "locationConfidence" : 0.29847187
+      }, {
+        "latitudeE7" : 210153458,
+        "longitudeE7" : 1058569589,
+        "placeId" : "ChIJ4ZSayPOrNTERvFvlvq_-5KQ",
+        "name" : "Fivimart Lo Duc",
+        "locationConfidence" : 0.25563553
+      }, {
+        "latitudeE7" : 210163476,
+        "longitudeE7" : 1058571311,
+        "placeId" : "ChIJA6w1N_KrNTERXmX64T9yuNU",
+        "name" : "Sunway Hotel",
+        "locationConfidence" : 0.21906674
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

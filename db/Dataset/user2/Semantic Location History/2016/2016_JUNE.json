@@ -1,0 +1,5490 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "duration" : {
+        "startTimestampMs" : "1464825294026",
+        "endTimestampMs" : "1464825600000"
+      },
+      "distance" : 773,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210715293,
+          "lngE7" : 1056992340
+        }, {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "address" : "Dự án Nam đường 32 Vietinco, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 88.931076
+      },
+      "duration" : {
+        "startTimestampMs" : "1464825600000",
+        "endTimestampMs" : "1464867888313"
+      },
+      "centerLatE7" : 210719402,
+      "centerLngE7" : 1056935942,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 7.46234
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 1.1118312
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 1.0681318
+      }, {
+        "latitudeE7" : 210657792,
+        "longitudeE7" : 1056969282,
+        "placeId" : "ChIJ6R4Q_ixUNDER_nRPf6PuBd8",
+        "name" : "Chùa Linh Tiên",
+        "locationConfidence" : 0.8850349
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 0.54158497
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "endLocation" : {
+        "latitudeE7" : 210685319,
+        "longitudeE7" : 1056955800
+      },
+      "duration" : {
+        "startTimestampMs" : "1464867888313",
+        "endTimestampMs" : "1464872102649"
+      },
+      "distance" : 115,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719337,
+          "lngE7" : 1056934280
+        }, {
+          "latE7" : 210686016,
+          "lngE7" : 1056955566
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210689574,
+        "longitudeE7" : 1056953147
+      },
+      "endLocation" : {
+        "latitudeE7" : 210685614,
+        "longitudeE7" : 1056955785
+      },
+      "duration" : {
+        "startTimestampMs" : "1464872102649",
+        "endTimestampMs" : "1464872467049"
+      },
+      "distance" : 54,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210689563,
+          "lngE7" : 1056953125
+        }, {
+          "latE7" : 210686054,
+          "lngE7" : 1056955642
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210685614,
+        "longitudeE7" : 1056955785
+      },
+      "endLocation" : {
+        "latitudeE7" : 210723690,
+        "longitudeE7" : 1056938050
+      },
+      "duration" : {
+        "startTimestampMs" : "1464872467049",
+        "endTimestampMs" : "1464872585649"
+      },
+      "distance" : 460,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210686054,
+          "lngE7" : 1056955642
+        }, {
+          "latE7" : 210723628,
+          "lngE7" : 1056941680
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 51.3699
+      },
+      "duration" : {
+        "startTimestampMs" : "1464872585649",
+        "endTimestampMs" : "1464913444654"
+      },
+      "centerLatE7" : 210723475,
+      "centerLngE7" : 1056935662,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 19.299696
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 7.901109
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 5.7590246
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 4.665421
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 4.0466266
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 1.1730717
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.8296143
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.6754385
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERRSVz9BUiaSY",
+        "name" : "Ngân Hàng Chính Sách Xã Hội (Vbsp) - Đgd Xã Đức Thượng",
+        "locationConfidence" : 0.43906325
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210738298,
+        "longitudeE7" : 1056945747
+      },
+      "duration" : {
+        "startTimestampMs" : "1464913444654",
+        "endTimestampMs" : "1464914878833"
+      },
+      "distance" : 640,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        }, {
+          "latE7" : 210757465,
+          "lngE7" : 1056954727
+        }, {
+          "latE7" : 210718593,
+          "lngE7" : 1056935958
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210759964,
+          "lngE7" : 1056956024,
+          "timestampMs" : "1464914477941",
+          "accuracyMeters" : 12
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210740041,
+        "longitudeE7" : 1056946614
+      },
+      "endLocation" : {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954
+      },
+      "duration" : {
+        "startTimestampMs" : "1464914878833",
+        "endTimestampMs" : "1464915669387"
+      },
+      "distance" : 247,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210718593,
+          "lngE7" : 1056935958
+        }, {
+          "latE7" : 210719413,
+          "lngE7" : 1056934127
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "address" : "thôn Chiến\nHoài Đức\nHà Nội 100000\nViệt Nam",
+        "name" : "Trường Tiểu học Đức Thượng",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 32.521305
+      },
+      "duration" : {
+        "startTimestampMs" : "1464915669387",
+        "endTimestampMs" : "1464917064388"
+      },
+      "centerLatE7" : 210750200,
+      "centerLngE7" : 1056926100,
+      "visitConfidence" : 28,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 13.466406
+      }, {
+        "latitudeE7" : 210754965,
+        "longitudeE7" : 1056924180,
+        "placeId" : "ChIJk6BUltZVNDER481eg1me0y4",
+        "name" : "Cửa Hàng Bách Hóa Ngọ Tuấn",
+        "locationConfidence" : 6.717473
+      }, {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "locationConfidence" : 3.9425578
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 3.7408545
+      }, {
+        "latitudeE7" : 210753700,
+        "longitudeE7" : 1056932700,
+        "placeId" : "ChIJQ0SFutZVNDERaf0a7bBtUTs",
+        "name" : "An Hung Furniture Joint Stock Company",
+        "locationConfidence" : 2.93582
+      }, {
+        "latitudeE7" : 210763735,
+        "longitudeE7" : 1056914753,
+        "placeId" : "ChIJheJ19NZVNDERWOcVYIYSeqc",
+        "name" : "Khánh Hòa Coffee",
+        "locationConfidence" : 2.5342832
+      }, {
+        "latitudeE7" : 210760209,
+        "longitudeE7" : 1056953430,
+        "placeId" : "ChIJfVdePtFVNDERLnY5aclQj2Q",
+        "name" : "Chợ Trôi",
+        "locationConfidence" : 2.4922273
+      }, {
+        "latitudeE7" : 210757575,
+        "longitudeE7" : 1056914087,
+        "placeId" : "ChIJ0ytfidZVNDERKNqLaxomw0k",
+        "name" : "Quán Thịt Cầy Hồng Hiệp",
+        "locationConfidence" : 1.9044789
+      }, {
+        "latitudeE7" : 210776343,
+        "longitudeE7" : 1056937977,
+        "placeId" : "ChIJLWmWK9dVNDERxVLxkVIXN-k",
+        "name" : "Đại Lý Bán Lẻ Xăng Dầu Việt Thắng",
+        "locationConfidence" : 1.6590858
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "duration" : {
+        "startTimestampMs" : "1464917064388",
+        "endTimestampMs" : "1464920120051"
+      },
+      "distance" : 213,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210742588,
+          "lngE7" : 1056937179
+        }, {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 60.973507
+      },
+      "duration" : {
+        "startTimestampMs" : "1464920120051",
+        "endTimestampMs" : "1464966363232"
+      },
+      "centerLatE7" : 210721654,
+      "centerLngE7" : 1056935500,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 16.073185
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 6.8267016
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 5.655777
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 2.06073
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.7845224
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 1.13435
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.6772085
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.64467376
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.54408306
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "duration" : {
+        "startTimestampMs" : "1464966363232",
+        "endTimestampMs" : "1464968594953"
+      },
+      "distance" : 773,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        }, {
+          "latE7" : 210715293,
+          "lngE7" : 1056992340
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "address" : "Dự án Nam đường 32 Vietinco, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 84.92881
+      },
+      "duration" : {
+        "startTimestampMs" : "1464968594953",
+        "endTimestampMs" : "1464972925695"
+      },
+      "centerLatE7" : 210674550,
+      "centerLngE7" : 1056957450,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 11.014846
+      }, {
+        "latitudeE7" : 210657792,
+        "longitudeE7" : 1056969282,
+        "placeId" : "ChIJ6R4Q_ixUNDER_nRPf6PuBd8",
+        "name" : "Chùa Linh Tiên",
+        "locationConfidence" : 1.3785999
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 1.020245
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 1.0200616
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 0.6374365
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "endLocation" : {
+        "latitudeE7" : 210674565,
+        "longitudeE7" : 1056957494
+      },
+      "duration" : {
+        "startTimestampMs" : "1464972925695",
+        "endTimestampMs" : "1464983755733"
+      },
+      "distance" : 621,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210715293,
+          "lngE7" : 1056992340
+        }, {
+          "latE7" : 210674152,
+          "lngE7" : 1056957626
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 59.271984
+      },
+      "duration" : {
+        "startTimestampMs" : "1465012809540",
+        "endTimestampMs" : "1465088647663"
+      },
+      "centerLatE7" : 210722591,
+      "centerLngE7" : 1056936172,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 13.900779
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 8.941155
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 6.516866
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 2.621261
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 2.359223
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 1.0074389
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.90664506
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.728417
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.5708062
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210800901,
+        "longitudeE7" : 1056930141
+      },
+      "endLocation" : {
+        "latitudeE7" : 210773782,
+        "longitudeE7" : 1056838436
+      },
+      "duration" : {
+        "startTimestampMs" : "1465169334397",
+        "endTimestampMs" : "1465181394239"
+      },
+      "distance" : 1486,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210795612,
+          "lngE7" : 1056939926
+        }, {
+          "latE7" : 210773143,
+          "lngE7" : 1056839523
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210773782,
+        "longitudeE7" : 1056838436
+      },
+      "endLocation" : {
+        "latitudeE7" : 210737094,
+        "longitudeE7" : 1056904086
+      },
+      "duration" : {
+        "startTimestampMs" : "1465181394239",
+        "endTimestampMs" : "1465188029543"
+      },
+      "distance" : 198,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210737094,
+        "longitudeE7" : 1056904086
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "duration" : {
+        "startTimestampMs" : "1465188029543",
+        "endTimestampMs" : "1465196944939"
+      },
+      "distance" : 152,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210735740,
+          "lngE7" : 1056903228
+        }, {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 74.3164
+      },
+      "duration" : {
+        "startTimestampMs" : "1465196944939",
+        "endTimestampMs" : "1465265794174"
+      },
+      "centerLatE7" : 210721736,
+      "centerLngE7" : 1056933678,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 10.482628
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 4.9963017
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.542623
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.5203567
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.9935299
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.57214516
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.4846496
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.36955345
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.26892275
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210681871,
+        "longitudeE7" : 1056955578
+      },
+      "duration" : {
+        "startTimestampMs" : "1465265794174",
+        "endTimestampMs" : "1465268883487"
+      },
+      "distance" : 179,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        }, {
+          "latE7" : 210663967,
+          "lngE7" : 1056965103
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210705766,
+        "longitudeE7" : 1056942397
+      },
+      "endLocation" : {
+        "latitudeE7" : 210703316,
+        "longitudeE7" : 1056944114
+      },
+      "duration" : {
+        "startTimestampMs" : "1465268883487",
+        "endTimestampMs" : "1465271822992"
+      },
+      "distance" : 918,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719509,
+          "lngE7" : 1056933898
+        }, {
+          "latE7" : 210701847,
+          "lngE7" : 1056943054
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210703316,
+        "longitudeE7" : 1056944114
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "duration" : {
+        "startTimestampMs" : "1465271822992",
+        "endTimestampMs" : "1465272537181"
+      },
+      "distance" : 191,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210701847,
+          "lngE7" : 1056943054
+        }, {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 72.26564
+      },
+      "duration" : {
+        "startTimestampMs" : "1465272537181",
+        "endTimestampMs" : "1465276921207"
+      },
+      "centerLatE7" : 210720558,
+      "centerLngE7" : 1056935333,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 12.751022
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.9249015
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 4.487793
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.6548333
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.7823818
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.50982624
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.43770498
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.33375737
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.2612336
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210750690,
+        "longitudeE7" : 1056885194
+      },
+      "duration" : {
+        "startTimestampMs" : "1465276921207",
+        "endTimestampMs" : "1465277677679"
+      },
+      "distance" : 618,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        }, {
+          "latE7" : 210751514,
+          "lngE7" : 1056883773
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210750690,
+        "longitudeE7" : 1056885194,
+        "placeId" : "ChIJF7DOANZVNDERVHQJxGsUjmk",
+        "address" : "Xã Đức Thượng, Huyện Hoài Đức, Hà Nội, Việt Nam",
+        "name" : "Binh Minh Private School",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 18.125784
+      },
+      "duration" : {
+        "startTimestampMs" : "1465277677679",
+        "endTimestampMs" : "1465280209740"
+      },
+      "centerLatE7" : 210760900,
+      "centerLngE7" : 1056899200,
+      "visitConfidence" : 25,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210737733,
+        "longitudeE7" : 1056901267,
+        "placeId" : "ChIJgYc7xNVVNDERq_cMxjmfU_Y",
+        "name" : "Công Ty Trách Nhiệm Hữu Hạn Liên Trọng",
+        "locationConfidence" : 17.314138
+      }, {
+        "latitudeE7" : 210762466,
+        "longitudeE7" : 1056900392,
+        "placeId" : "ChIJTzH8adZVNDER8NVNeSjEPzM",
+        "name" : "Duc Thuong Elementary School",
+        "locationConfidence" : 13.271394
+      }, {
+        "latitudeE7" : 210755258,
+        "longitudeE7" : 1056897388,
+        "placeId" : "ChIJw3CYctZVNDERWQebC2AUz_w",
+        "name" : "Duc Thuong Junior High School",
+        "locationConfidence" : 11.836464
+      }, {
+        "latitudeE7" : 210763735,
+        "longitudeE7" : 1056914753,
+        "placeId" : "ChIJheJ19NZVNDERWOcVYIYSeqc",
+        "name" : "Khánh Hòa Coffee",
+        "locationConfidence" : 7.317622
+      }, {
+        "latitudeE7" : 210759512,
+        "longitudeE7" : 1056904393,
+        "placeId" : "ChIJwYg9ZtZVNDERTaUgrOhVW00",
+        "name" : "Cửa Hàng Kim Khí Thanh Hương",
+        "locationConfidence" : 3.9318154
+      }, {
+        "latitudeE7" : 210757575,
+        "longitudeE7" : 1056914087,
+        "placeId" : "ChIJ0ytfidZVNDERKNqLaxomw0k",
+        "name" : "Quán Thịt Cầy Hồng Hiệp",
+        "locationConfidence" : 3.2880847
+      }, {
+        "latitudeE7" : 210767699,
+        "longitudeE7" : 1056901347,
+        "placeId" : "ChIJcZtORNZVNDERnTe_8gBSPPE",
+        "name" : "Cửa Hàng Đá Ốp Lát Hải Anh",
+        "locationConfidence" : 2.998566
+      }, {
+        "latitudeE7" : 210764514,
+        "longitudeE7" : 1056907826,
+        "placeId" : "ChIJAVKYXtZVNDERHilW4SUXp1E",
+        "name" : "Ba Vi Paint Shop",
+        "locationConfidence" : 2.9685707
+      }, {
+        "latitudeE7" : 210766470,
+        "longitudeE7" : 1056909404,
+        "placeId" : "ChIJxXfhWNZVNDERnJtESf8A5k4",
+        "name" : "Cửa Hàng Bia Rượu - Bánh Kẹo Bình Minh",
+        "locationConfidence" : 2.9432404
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210750690,
+        "longitudeE7" : 1056885194
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "duration" : {
+        "startTimestampMs" : "1465280209740",
+        "endTimestampMs" : "1465280360532"
+      },
+      "distance" : 618,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719318,
+          "lngE7" : 1056934356
+        }, {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 74.01599
+      },
+      "duration" : {
+        "startTimestampMs" : "1465280360532",
+        "endTimestampMs" : "1465360728188"
+      },
+      "centerLatE7" : 210721286,
+      "centerLngE7" : 1056934962,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 11.121412
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.8763914
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 4.3414054
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.4869462
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.8858637
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.5949368
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.4321293
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.32950583
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.2769485
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210664084,
+        "longitudeE7" : 1056967274
+      },
+      "duration" : {
+        "startTimestampMs" : "1465360728188",
+        "endTimestampMs" : "1465366195107"
+      },
+      "distance" : 542,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        }, {
+          "latE7" : 210663127,
+          "lngE7" : 1056967849
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210677162,
+        "longitudeE7" : 1056959590
+      },
+      "endLocation" : {
+        "latitudeE7" : 210671852,
+        "longitudeE7" : 1056961527
+      },
+      "duration" : {
+        "startTimestampMs" : "1465366195107",
+        "endTimestampMs" : "1465368005246"
+      },
+      "distance" : 165,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210663127,
+          "lngE7" : 1056967849
+        }, {
+          "latE7" : 210671882,
+          "lngE7" : 1056961669
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210671852,
+        "longitudeE7" : 1056961527
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "duration" : {
+        "startTimestampMs" : "1465368005246",
+        "endTimestampMs" : "1465369989739"
+      },
+      "distance" : 609,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210671882,
+          "lngE7" : 1056961669
+        }, {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 72.17926
+      },
+      "duration" : {
+        "startTimestampMs" : "1465369989739",
+        "endTimestampMs" : "1465374097518"
+      },
+      "centerLatE7" : 210720144,
+      "centerLngE7" : 1056934269,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 11.047854
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 4.9018106
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.3272295
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 3.514719
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.9647733
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.56324255
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.47062194
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.35885713
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.2714726
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "duration" : {
+        "startTimestampMs" : "1465374097518",
+        "endTimestampMs" : "1465380636731"
+      },
+      "distance" : 192,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210702877,
+          "lngE7" : 1056947912,
+          "timestampMs" : "1465374607920",
+          "accuracyMeters" : 13
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 74.80024
+      },
+      "duration" : {
+        "startTimestampMs" : "1465380636731",
+        "endTimestampMs" : "1465437276386"
+      },
+      "centerLatE7" : 210722146,
+      "centerLngE7" : 1056936669,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 9.1841955
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 5.2359576
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.69164
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 2.0457885
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.1152014
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.5768855
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.41481048
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.27878705
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.25747955
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "duration" : {
+        "startTimestampMs" : "1465437276386",
+        "endTimestampMs" : "1465439273003"
+      },
+      "distance" : 3986,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        }, {
+          "latE7" : 210603065,
+          "lngE7" : 1056791381
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210603523,
+          "lngE7" : 1056789932,
+          "timestampMs" : "1465438740765",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 71.37326
+      },
+      "duration" : {
+        "startTimestampMs" : "1465439273003",
+        "endTimestampMs" : "1465446468180"
+      },
+      "centerLatE7" : 210720305,
+      "centerLngE7" : 1056934661,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 12.6738405
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 4.6101766
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.5653067
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 2.9396212
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.78688633
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.48968962
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.44022512
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.33567902
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.24824932
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "duration" : {
+        "startTimestampMs" : "1465446468180",
+        "endTimestampMs" : "1465446589512"
+      },
+      "distance" : 773,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        }, {
+          "latE7" : 210719394,
+          "lngE7" : 1056934204
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "address" : "Dự án Nam đường 32 Vietinco, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 79.59644
+      },
+      "duration" : {
+        "startTimestampMs" : "1465446589512",
+        "endTimestampMs" : "1465447074521"
+      },
+      "centerLatE7" : 210700550,
+      "centerLngE7" : 1056960000,
+      "visitConfidence" : 62,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 10.190958
+      }, {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "locationConfidence" : 3.5061696
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 2.686688
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 2.369784
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 1.4871451
+      }, {
+        "latitudeE7" : 210711403,
+        "longitudeE7" : 1056986677,
+        "placeId" : "ChIJaSPQYdJVNDERbvZ9fwKUXPM",
+        "name" : "Long Lan Restaurant",
+        "locationConfidence" : 0.1628145
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "duration" : {
+        "startTimestampMs" : "1465447074521",
+        "endTimestampMs" : "1465447309616"
+      },
+      "distance" : 773,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719413,
+          "lngE7" : 1056934127
+        }, {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 74.81645
+      },
+      "duration" : {
+        "startTimestampMs" : "1465447309616",
+        "endTimestampMs" : "1465518056990"
+      },
+      "centerLatE7" : 210721803,
+      "centerLngE7" : 1056936133,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 10.922484
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 4.9314594
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.0071664
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.2718433
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.9414142
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.533741
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.45922723
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.35016844
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.25080907
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "duration" : {
+        "startTimestampMs" : "1465518056990",
+        "endTimestampMs" : "1465538767059"
+      },
+      "distance" : 773,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        }, {
+          "latE7" : 210719547,
+          "lngE7" : 1056933822
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "address" : "Dự án Nam đường 32 Vietinco, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 57.32616
+      },
+      "duration" : {
+        "startTimestampMs" : "1465538767059",
+        "endTimestampMs" : "1465539643251"
+      },
+      "centerLatE7" : 210660150,
+      "centerLngE7" : 1056956650,
+      "visitConfidence" : 48,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210657792,
+        "longitudeE7" : 1056969282,
+        "placeId" : "ChIJ6R4Q_ixUNDER_nRPf6PuBd8",
+        "name" : "Chùa Linh Tiên",
+        "locationConfidence" : 16.717278
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 14.620795
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 5.54382
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 4.227236
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 1.5647125
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "endLocation" : {
+        "latitudeE7" : 210791320,
+        "longitudeE7" : 1056882290
+      },
+      "duration" : {
+        "startTimestampMs" : "1465539643251",
+        "endTimestampMs" : "1465558470272"
+      },
+      "distance" : 1617,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210715293,
+          "lngE7" : 1056992340
+        }, {
+          "latE7" : 210719089,
+          "lngE7" : 1056934814
+        }, {
+          "latE7" : 210728416,
+          "lngE7" : 1056939086
+        }, {
+          "latE7" : 210791263,
+          "lngE7" : 1056882324
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210721245,
+          "lngE7" : 1056935959,
+          "timestampMs" : "1465555470507",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 210728626,
+          "lngE7" : 1056938477,
+          "timestampMs" : "1465555563517",
+          "accuracyMeters" : 9
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210791320,
+        "longitudeE7" : 1056882290,
+        "placeId" : "ChIJ1Wt339dVNDERTKRM_IzGH4w",
+        "address" : "Đức Thượng\nHoài Đức\nHà Nội\nViệt Nam",
+        "name" : "Đd XN May Mỹ Anh - QL32",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 10.364371
+      },
+      "duration" : {
+        "startTimestampMs" : "1465558470272",
+        "endTimestampMs" : "1465559815300"
+      },
+      "centerLatE7" : 210786450,
+      "centerLngE7" : 1056878950,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210796149,
+        "longitudeE7" : 1056877041,
+        "placeId" : "ChIJXQxDDHhWNDERZOk5J39Sw9k",
+        "name" : "Nhat Nguyet Karaoke",
+        "locationConfidence" : 9.093433
+      }, {
+        "latitudeE7" : 210789190,
+        "longitudeE7" : 1056886150,
+        "placeId" : "ChIJIyv029dVNDERTm8VOnuYWxI",
+        "name" : "XN Mỹ Anh - QL32",
+        "locationConfidence" : 8.899975
+      }, {
+        "latitudeE7" : 210777266,
+        "longitudeE7" : 1056883780,
+        "placeId" : "ChIJjzkDK9ZVNDERkEFFfZrOaVE",
+        "name" : "Quán Thịt Cầy Thanh Đỏ",
+        "locationConfidence" : 6.9287663
+      }, {
+        "latitudeE7" : 210802555,
+        "longitudeE7" : 1056853008,
+        "placeId" : "ChIJmaO5MnhWNDERhm45DkeZDuY",
+        "name" : "Chung cư Tân Tây Đô",
+        "locationConfidence" : 6.5058746
+      }, {
+        "latitudeE7" : 210791500,
+        "longitudeE7" : 1056878330,
+        "placeId" : "ChIJq6qqqnEBNTERuU61MabUYI4",
+        "name" : "ĐỒ GỖ DUY THI CHUYÊN ĐỒ GỖ NỘI THẤT CAO CẤP",
+        "locationConfidence" : 5.9300027
+      }, {
+        "latitudeE7" : 210795151,
+        "longitudeE7" : 1056854706,
+        "placeId" : "ChIJ85BpSnhWNDER-udTFMuXqKw",
+        "name" : "Caos Cafe",
+        "locationConfidence" : 4.268327
+      }, {
+        "latitudeE7" : 210796149,
+        "longitudeE7" : 1056870174,
+        "placeId" : "ChIJqaaJFHhWNDER3yrOtxWJaeE",
+        "name" : "Chien Anh Store",
+        "locationConfidence" : 3.7214842
+      }, {
+        "latitudeE7" : 210809144,
+        "longitudeE7" : 1056856330,
+        "placeId" : "ChIJdfGLKXhWNDERgtDw0qQm_14",
+        "name" : "Quán Karaoke",
+        "locationConfidence" : 2.7845747
+      }, {
+        "latitudeE7" : 210801773,
+        "longitudeE7" : 1056889718,
+        "placeId" : "ChIJuweJ8NdVNDERICmk3yUMMh4",
+        "name" : "Cửa Hàng Đồ Gỗ - Gốm Mỹ Nghệ Hoạt Mai",
+        "locationConfidence" : 2.55558
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 69.47024
+      },
+      "duration" : {
+        "startTimestampMs" : "1465665369414",
+        "endTimestampMs" : "1465703262051"
+      },
+      "centerLatE7" : 210722311,
+      "centerLngE7" : 1056937233,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 13.150433
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 5.145411
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.569982
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 4.0746546
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.8671781
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.5008626
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.36993083
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.253677
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.24363121
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210799890,
+        "longitudeE7" : 1057097854
+      },
+      "duration" : {
+        "startTimestampMs" : "1465703262051",
+        "endTimestampMs" : "1465705378095"
+      },
+      "distance" : 1885,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        }, {
+          "latE7" : 210800075,
+          "lngE7" : 1057099151
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210799890,
+        "longitudeE7" : 1057097854,
+        "placeId" : "ChIJ815gxsdVNDER5KznY5xwbjE",
+        "address" : "Tân Lập\nĐan Phượng\nHà Nội\nViệt Nam",
+        "name" : "Shop Quynh Trang",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 88.34794
+      },
+      "duration" : {
+        "startTimestampMs" : "1465705378095",
+        "endTimestampMs" : "1465705954638"
+      },
+      "centerLatE7" : 210795667,
+      "centerLngE7" : 1057099000,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210792160,
+        "longitudeE7" : 1057092734,
+        "placeId" : "ChIJM-PY0MdVNDER5LS64XslKMo",
+        "name" : "Đại lí Toàn Thuý",
+        "locationConfidence" : 3.6085246
+      }, {
+        "latitudeE7" : 210783357,
+        "longitudeE7" : 1057088503,
+        "placeId" : "ChIJVVWlfchVNDER3H99yvQxloE",
+        "name" : "Công ty TNHH thùng xe TST",
+        "locationConfidence" : 3.2464488
+      }, {
+        "latitudeE7" : 210809881,
+        "longitudeE7" : 1057097411,
+        "placeId" : "ChIJsUS5pMdVNDERy0fEhFUFdrY",
+        "name" : "Phố Chợ Tân Lập",
+        "locationConfidence" : 2.7749481
+      }, {
+        "latitudeE7" : 210809065,
+        "longitudeE7" : 1057104088,
+        "placeId" : "ChIJ0Y9FvMdVNDERzGGCTQWsqeY",
+        "name" : "UBND xã Tân Lập",
+        "locationConfidence" : 1.3001949
+      }, {
+        "latitudeE7" : 210813267,
+        "longitudeE7" : 1057104707,
+        "placeId" : "ChIJC2yUnsdVNDERDL5mF5IiPFA",
+        "name" : "29",
+        "locationConfidence" : 0.16868745
+      }, {
+        "latitudeE7" : 210812817,
+        "longitudeE7" : 1057102132,
+        "placeId" : "ChIJK4tQn8dVNDERzcX6NOgRJ8M",
+        "name" : "Hợp tác xã Nông nghiệp Tân Lập",
+        "locationConfidence" : 0.08924912
+      }, {
+        "latitudeE7" : 210808769,
+        "longitudeE7" : 1057096626,
+        "placeId" : "ChIJLaklu8dVNDERe-LRQzTvL5g",
+        "name" : "Nha khoa Quang Hưng",
+        "locationConfidence" : 0.08630502
+      }, {
+        "latitudeE7" : 210816123,
+        "longitudeE7" : 1057107389,
+        "placeId" : "ChIJ9_zMd8dVNDERHeMH3F4jRKc",
+        "name" : "Bấm Huyệt Trị Liệu",
+        "locationConfidence" : 0.081097074
+      }, {
+        "latitudeE7" : 210824916,
+        "longitudeE7" : 1057113714,
+        "placeId" : "ChIJDRgxYcdVNDERNZhsyei0aog",
+        "name" : "Trường THCS Tân Lập",
+        "locationConfidence" : 0.07968457
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210799890,
+        "longitudeE7" : 1057097854
+      },
+      "endLocation" : {
+        "latitudeE7" : 210811019,
+        "longitudeE7" : 1057106757
+      },
+      "duration" : {
+        "startTimestampMs" : "1465705954638",
+        "endTimestampMs" : "1465706695649"
+      },
+      "distance" : 170,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210800075,
+          "lngE7" : 1057099151
+        }, {
+          "latE7" : 210812950,
+          "lngE7" : 1057105941
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210811019,
+        "longitudeE7" : 1057106757
+      },
+      "endLocation" : {
+        "latitudeE7" : 210719384,
+        "longitudeE7" : 1056935205
+      },
+      "duration" : {
+        "startTimestampMs" : "1465706695649",
+        "endTimestampMs" : "1465707551557"
+      },
+      "distance" : 1918,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210812950,
+          "lngE7" : 1057105941
+        }, {
+          "latE7" : 210719013,
+          "lngE7" : 1056935043
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210725878,
+        "longitudeE7" : 1056948813
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 73.19633
+      },
+      "duration" : {
+        "startTimestampMs" : "1465707551557",
+        "endTimestampMs" : "1465707641525"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210726165,
+          "lngE7" : 1056948776
+        }, {
+          "latE7" : 210719070,
+          "lngE7" : 1056934890
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 73.19633
+      },
+      "duration" : {
+        "startTimestampMs" : "1465707641525",
+        "endTimestampMs" : "1465871205043"
+      },
+      "centerLatE7" : 210721325,
+      "centerLngE7" : 1056936034,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 10.936664
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 5.173306
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.0477085
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 2.6306276
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.0005261
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.53737545
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.48806244
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.37215576
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.25446412
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "duration" : {
+        "startTimestampMs" : "1465871205043",
+        "endTimestampMs" : "1465872429781"
+      },
+      "distance" : 550,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        }, {
+          "latE7" : 210761127,
+          "lngE7" : 1056951293
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "address" : "Dự án Nam đường 32 Vietinco, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 70.91952
+      },
+      "duration" : {
+        "startTimestampMs" : "1465872429781",
+        "endTimestampMs" : "1465873499070"
+      },
+      "centerLatE7" : 210713100,
+      "centerLngE7" : 1056960050,
+      "visitConfidence" : 68,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 7.1963315
+      }, {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "locationConfidence" : 7.149951
+      }, {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 6.617519
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 2.1114504
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 1.9283257
+      }, {
+        "latitudeE7" : 210725448,
+        "longitudeE7" : 1056982977,
+        "placeId" : "ChIJReN6QNJVNDERHLIXq_pb5es",
+        "name" : "Quán Cà Phê BI-A",
+        "locationConfidence" : 0.6873491
+      }, {
+        "latitudeE7" : 210737044,
+        "longitudeE7" : 1056951000,
+        "placeId" : "ChIJYTXd5dNVNDERmOLqtZZQACw",
+        "name" : "Xưởng Sản Xuất Đồ Gỗ Trí Mỹ",
+        "locationConfidence" : 0.6788022
+      }, {
+        "latitudeE7" : 210724817,
+        "longitudeE7" : 1056982914,
+        "placeId" : "ChIJz7VdQNJVNDERl5PwUk6sN98",
+        "name" : "Xưởng Sửa Chữa Ô Tô Đức Mạnh",
+        "locationConfidence" : 0.63630843
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 0.55256855
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "duration" : {
+        "startTimestampMs" : "1465873499070",
+        "endTimestampMs" : "1465874484164"
+      },
+      "distance" : 773,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210715293,
+          "lngE7" : 1056992340
+        }, {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 74.05129
+      },
+      "duration" : {
+        "startTimestampMs" : "1465874484164",
+        "endTimestampMs" : "1465900044826"
+      },
+      "centerLatE7" : 210719916,
+      "centerLngE7" : 1056935070,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 11.153579
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 5.3066196
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.0422792
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.3781204
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.0177548
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.5449254
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.49646667
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.37856415
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.25929815
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058
+      },
+      "endLocation" : {
+        "latitudeE7" : 210762466,
+        "longitudeE7" : 1056900392
+      },
+      "duration" : {
+        "startTimestampMs" : "1465900044826",
+        "endTimestampMs" : "1465904296246"
+      },
+      "distance" : 591,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719242,
+          "lngE7" : 1056934509
+        }, {
+          "latE7" : 210722293,
+          "lngE7" : 1056941680
+        }, {
+          "latE7" : 210762081,
+          "lngE7" : 1056900253
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210722332,
+          "lngE7" : 1056939011,
+          "timestampMs" : "1465900406779",
+          "accuracyMeters" : 30
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210762466,
+        "longitudeE7" : 1056900392,
+        "placeId" : "ChIJTzH8adZVNDER8NVNeSjEPzM",
+        "address" : "Duc Thuong Commune, Hoai Duc District, Ha Noi City, Vietnam",
+        "name" : "Duc Thuong Elementary School",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 15.085705
+      },
+      "duration" : {
+        "startTimestampMs" : "1465904296246",
+        "endTimestampMs" : "1465905333264"
+      },
+      "centerLatE7" : 210766433,
+      "centerLngE7" : 1056896033,
+      "visitConfidence" : 24,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210750690,
+        "longitudeE7" : 1056885194,
+        "placeId" : "ChIJF7DOANZVNDERVHQJxGsUjmk",
+        "name" : "Binh Minh Private School",
+        "locationConfidence" : 14.355776
+      }, {
+        "latitudeE7" : 210755258,
+        "longitudeE7" : 1056897388,
+        "placeId" : "ChIJw3CYctZVNDERWQebC2AUz_w",
+        "name" : "Duc Thuong Junior High School",
+        "locationConfidence" : 11.815004
+      }, {
+        "latitudeE7" : 210769792,
+        "longitudeE7" : 1056899677,
+        "placeId" : "ChIJhykDRtZVNDERSbeWVRSYrjc",
+        "name" : "Đại Lý Sơn Việt Dũng",
+        "locationConfidence" : 6.1712584
+      }, {
+        "latitudeE7" : 210767699,
+        "longitudeE7" : 1056901347,
+        "placeId" : "ChIJcZtORNZVNDERnTe_8gBSPPE",
+        "name" : "Cửa Hàng Đá Ốp Lát Hải Anh",
+        "locationConfidence" : 4.617839
+      }, {
+        "latitudeE7" : 210764514,
+        "longitudeE7" : 1056907826,
+        "placeId" : "ChIJAVKYXtZVNDERHilW4SUXp1E",
+        "name" : "Ba Vi Paint Shop",
+        "locationConfidence" : 4.346112
+      }, {
+        "latitudeE7" : 210737733,
+        "longitudeE7" : 1056901267,
+        "placeId" : "ChIJgYc7xNVVNDERq_cMxjmfU_Y",
+        "name" : "Công Ty Trách Nhiệm Hữu Hạn Liên Trọng",
+        "locationConfidence" : 4.219601
+      }, {
+        "latitudeE7" : 210759512,
+        "longitudeE7" : 1056904393,
+        "placeId" : "ChIJwYg9ZtZVNDERTaUgrOhVW00",
+        "name" : "Cửa Hàng Kim Khí Thanh Hương",
+        "locationConfidence" : 4.0781307
+      }, {
+        "latitudeE7" : 210766470,
+        "longitudeE7" : 1056909404,
+        "placeId" : "ChIJxXfhWNZVNDERnJtESf8A5k4",
+        "name" : "Cửa Hàng Bia Rượu - Bánh Kẹo Bình Minh",
+        "locationConfidence" : 3.7051783
+      }, {
+        "latitudeE7" : 210754965,
+        "longitudeE7" : 1056924180,
+        "placeId" : "ChIJk6BUltZVNDER481eg1me0y4",
+        "name" : "Cửa Hàng Bách Hóa Ngọ Tuấn",
+        "locationConfidence" : 3.500176
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210762466,
+        "longitudeE7" : 1056900392
+      },
+      "endLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "duration" : {
+        "startTimestampMs" : "1465905333264",
+        "endTimestampMs" : "1465912516350"
+      },
+      "distance" : 1284,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210762081,
+          "lngE7" : 1056900253
+        }, {
+          "latE7" : 210720005,
+          "lngE7" : 1056941604
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "address" : "Dự án Nam đường 32 Vietinco, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 80.97307
+      },
+      "duration" : {
+        "startTimestampMs" : "1465912516350",
+        "endTimestampMs" : "1465933272061"
+      },
+      "centerLatE7" : 210718823,
+      "centerLngE7" : 1056941033,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 9.301385
+      }, {
+        "latitudeE7" : 210657792,
+        "longitudeE7" : 1056969282,
+        "placeId" : "ChIJ6R4Q_ixUNDER_nRPf6PuBd8",
+        "name" : "Chùa Linh Tiên",
+        "locationConfidence" : 5.3418245
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 2.65143
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 1.0090684
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 0.72322285
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210719163,
+        "longitudeE7" : 1056934653
+      },
+      "endLocation" : {
+        "latitudeE7" : 210693938,
+        "longitudeE7" : 1056961635
+      },
+      "duration" : {
+        "startTimestampMs" : "1465945366229",
+        "endTimestampMs" : "1465948658533"
+      },
+      "distance" : 464,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719165,
+          "lngE7" : 1056934661
+        }, {
+          "latE7" : 210690631,
+          "lngE7" : 1056954956
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720233,
+        "longitudeE7" : 1056935058,
+        "placeId" : "ChIJFVeee9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 66.37168
+      },
+      "duration" : {
+        "startTimestampMs" : "1465990758390",
+        "endTimestampMs" : "1466037066553"
+      },
+      "centerLatE7" : 210723881,
+      "centerLngE7" : 1056937870,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 15.968305
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 5.171089
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.792836
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 2.839852
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.9868342
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.53467196
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.35490343
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.28582662
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.27147827
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "endLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "duration" : {
+        "startTimestampMs" : "1466037066553",
+        "endTimestampMs" : "1466039685003"
+      },
+      "distance" : 774,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        }, {
+          "latE7" : 210727043,
+          "lngE7" : 1056938095
+        }, {
+          "latE7" : 210715293,
+          "lngE7" : 1056992340
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210725212,
+          "lngE7" : 1056937408,
+          "timestampMs" : "1466037196783",
+          "accuracyMeters" : 8
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "address" : "Dự án Nam đường 32 Vietinco, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 73.57628
+      },
+      "duration" : {
+        "startTimestampMs" : "1466039685003",
+        "endTimestampMs" : "1466040050080"
+      },
+      "centerLatE7" : 210698933,
+      "centerLngE7" : 1056959200,
+      "visitConfidence" : 63,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 11.392346
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 4.1617646
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 3.8069668
+      }, {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "locationConfidence" : 3.789807
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 3.0113986
+      }, {
+        "latitudeE7" : 210711403,
+        "longitudeE7" : 1056986677,
+        "placeId" : "ChIJaSPQYdJVNDERbvZ9fwKUXPM",
+        "name" : "Long Lan Restaurant",
+        "locationConfidence" : 0.2614373
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "duration" : {
+        "startTimestampMs" : "1466040050080",
+        "endTimestampMs" : "1466040414534"
+      },
+      "distance" : 774,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210715293,
+          "lngE7" : 1056992340
+        }, {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 74.40576
+      },
+      "duration" : {
+        "startTimestampMs" : "1466040414534",
+        "endTimestampMs" : "1466150544751"
+      },
+      "centerLatE7" : 210721853,
+      "centerLngE7" : 1056936088,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 10.742678
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 5.445281
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 3.9701204
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.3538295
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.0339192
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.5377838
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.5043518
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.38457668
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.2528819
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "endLocation" : {
+        "latitudeE7" : 210758847,
+        "longitudeE7" : 1057039275
+      },
+      "duration" : {
+        "startTimestampMs" : "1466150544751",
+        "endTimestampMs" : "1466153732457"
+      },
+      "distance" : 1101,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        }, {
+          "latE7" : 210759067,
+          "lngE7" : 1057038803
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210758847,
+        "longitudeE7" : 1057039275
+      },
+      "endLocation" : {
+        "latitudeE7" : 210782151,
+        "longitudeE7" : 1057100771
+      },
+      "duration" : {
+        "startTimestampMs" : "1466153732457",
+        "endTimestampMs" : "1466154289031"
+      },
+      "distance" : 511,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210759067,
+          "lngE7" : 1057038803
+        }, {
+          "latE7" : 210782108,
+          "lngE7" : 1057100219
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210776224,
+        "longitudeE7" : 1057085129
+      },
+      "endLocation" : {
+        "latitudeE7" : 210722564,
+        "longitudeE7" : 1056939033
+      },
+      "duration" : {
+        "startTimestampMs" : "1466154289031",
+        "endTimestampMs" : "1466155141030"
+      },
+      "distance" : 2210,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210782108,
+          "lngE7" : 1057100219
+        }, {
+          "latE7" : 210799331,
+          "lngE7" : 1057099227
+        }, {
+          "latE7" : 210722522,
+          "lngE7" : 1056941680
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210799389,
+          "lngE7" : 1057099609,
+          "timestampMs" : "1466154443830",
+          "accuracyMeters" : 9
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210723685,
+        "longitudeE7" : 1056941375
+      },
+      "endLocation" : {
+        "latitudeE7" : 210721795,
+        "longitudeE7" : 1056934736
+      },
+      "duration" : {
+        "startTimestampMs" : "1466155141030",
+        "endTimestampMs" : "1466155333754"
+      },
+      "distance" : 90,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210723686,
+          "lngE7" : 1056941680
+        }, {
+          "latE7" : 210719642,
+          "lngE7" : 1056933593
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 76.1693
+      },
+      "duration" : {
+        "startTimestampMs" : "1466155333754",
+        "endTimestampMs" : "1466301948813"
+      },
+      "centerLatE7" : 210722277,
+      "centerLngE7" : 1056935942,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 10.047012
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 4.8250184
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 3.7436006
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.3198705
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.937999
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.49244243
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.45756137
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.3488982
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.23113091
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "endLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "duration" : {
+        "startTimestampMs" : "1466301948813",
+        "endTimestampMs" : "1466302687121"
+      },
+      "distance" : 774,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        }, {
+          "latE7" : 210715293,
+          "lngE7" : 1056992340
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "address" : "Dự án Nam đường 32 Vietinco, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 73.572945
+      },
+      "duration" : {
+        "startTimestampMs" : "1466302687121",
+        "endTimestampMs" : "1466303551106"
+      },
+      "centerLatE7" : 210684350,
+      "centerLngE7" : 1056957500,
+      "visitConfidence" : 14,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 15.097953
+      }, {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "locationConfidence" : 4.850721
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 3.9004467
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 1.328804
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 1.2491336
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "duration" : {
+        "startTimestampMs" : "1466303551106",
+        "endTimestampMs" : "1466304000629"
+      },
+      "distance" : 774,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719203,
+          "lngE7" : 1056934585
+        }, {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 72.10118
+      },
+      "duration" : {
+        "startTimestampMs" : "1466304000629",
+        "endTimestampMs" : "1466387575728"
+      },
+      "centerLatE7" : 210723293,
+      "centerLngE7" : 1056936426,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 12.557636
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 5.4959207
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.52325
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.6605216
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.91872406
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.4813566
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.3919199
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.25458977
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.22734973
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210719422,
+        "longitudeE7" : 1056934907
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "duration" : {
+        "startTimestampMs" : "1466387575728",
+        "endTimestampMs" : "1466390755221"
+      },
+      "distance" : 611,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719127,
+          "lngE7" : 1056934738
+        }, {
+          "latE7" : 210746402,
+          "lngE7" : 1056942367
+        }, {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210747795,
+          "lngE7" : 1056941910,
+          "timestampMs" : "1466388111840",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 52.65372
+      },
+      "duration" : {
+        "startTimestampMs" : "1466390755221",
+        "endTimestampMs" : "1466391995681"
+      },
+      "centerLatE7" : 210720714,
+      "centerLngE7" : 1056936643,
+      "visitConfidence" : 71,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 24.671906
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 9.575796
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 4.260529
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 4.0182314
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.8582418
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.58188117
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.32191047
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.30442384
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.23268756
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "endLocation" : {
+        "latitudeE7" : 210719468,
+        "longitudeE7" : 1056934970
+      },
+      "duration" : {
+        "startTimestampMs" : "1466391995681",
+        "endTimestampMs" : "1466403655409"
+      },
+      "distance" : 1523,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        }, {
+          "latE7" : 210719127,
+          "lngE7" : 1056934814
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 72.98781
+      },
+      "duration" : {
+        "startTimestampMs" : "1466403655409",
+        "endTimestampMs" : "1466549106493"
+      },
+      "centerLatE7" : 210720676,
+      "centerLngE7" : 1056935622,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 11.027997
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 4.906642
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.7874794
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 2.7080007
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.0492532
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.45107806
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.29752287
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.22197287
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.19307679
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "endLocation" : {
+        "latitudeE7" : 210750690,
+        "longitudeE7" : 1056885194
+      },
+      "duration" : {
+        "startTimestampMs" : "1466549106493",
+        "endTimestampMs" : "1466549591151"
+      },
+      "distance" : 617,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        }, {
+          "latE7" : 210751514,
+          "lngE7" : 1056883773
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210750690,
+        "longitudeE7" : 1056885194,
+        "placeId" : "ChIJF7DOANZVNDERVHQJxGsUjmk",
+        "address" : "Xã Đức Thượng, Huyện Hoài Đức, Hà Nội, Việt Nam",
+        "name" : "Binh Minh Private School",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 24.346046
+      },
+      "duration" : {
+        "startTimestampMs" : "1466549591151",
+        "endTimestampMs" : "1466550574537"
+      },
+      "centerLatE7" : 210763700,
+      "centerLngE7" : 1056897600,
+      "visitConfidence" : 19,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210762466,
+        "longitudeE7" : 1056900392,
+        "placeId" : "ChIJTzH8adZVNDER8NVNeSjEPzM",
+        "name" : "Duc Thuong Elementary School",
+        "locationConfidence" : 18.142406
+      }, {
+        "latitudeE7" : 210755258,
+        "longitudeE7" : 1056897388,
+        "placeId" : "ChIJw3CYctZVNDERWQebC2AUz_w",
+        "name" : "Duc Thuong Junior High School",
+        "locationConfidence" : 14.307701
+      }, {
+        "latitudeE7" : 210767699,
+        "longitudeE7" : 1056901347,
+        "placeId" : "ChIJcZtORNZVNDERnTe_8gBSPPE",
+        "name" : "Cửa Hàng Đá Ốp Lát Hải Anh",
+        "locationConfidence" : 4.3934007
+      }, {
+        "latitudeE7" : 210763735,
+        "longitudeE7" : 1056914753,
+        "placeId" : "ChIJheJ19NZVNDERWOcVYIYSeqc",
+        "name" : "Khánh Hòa Coffee",
+        "locationConfidence" : 4.028537
+      }, {
+        "latitudeE7" : 210737733,
+        "longitudeE7" : 1056901267,
+        "placeId" : "ChIJgYc7xNVVNDERq_cMxjmfU_Y",
+        "name" : "Công Ty Trách Nhiệm Hữu Hạn Liên Trọng",
+        "locationConfidence" : 3.8016963
+      }, {
+        "latitudeE7" : 210759512,
+        "longitudeE7" : 1056904393,
+        "placeId" : "ChIJwYg9ZtZVNDERTaUgrOhVW00",
+        "name" : "Cửa Hàng Kim Khí Thanh Hương",
+        "locationConfidence" : 3.6080253
+      }, {
+        "latitudeE7" : 210766470,
+        "longitudeE7" : 1056909404,
+        "placeId" : "ChIJxXfhWNZVNDERnJtESf8A5k4",
+        "name" : "Cửa Hàng Bia Rượu - Bánh Kẹo Bình Minh",
+        "locationConfidence" : 3.2039108
+      }, {
+        "latitudeE7" : 210766109,
+        "longitudeE7" : 1056901677,
+        "placeId" : "ChIJE6F4RNZVNDERNtU-1okExds",
+        "name" : "Công Ty Trách Nhiệm Hữu Hạn Cơ Khí Nội Thất Thiên An Phát",
+        "locationConfidence" : 2.8851795
+      }, {
+        "latitudeE7" : 210764514,
+        "longitudeE7" : 1056907826,
+        "placeId" : "ChIJAVKYXtZVNDERHilW4SUXp1E",
+        "name" : "Ba Vi Paint Shop",
+        "locationConfidence" : 2.8835976
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210750690,
+        "longitudeE7" : 1056885194
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "duration" : {
+        "startTimestampMs" : "1466550574537",
+        "endTimestampMs" : "1466554113098"
+      },
+      "distance" : 617,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210751514,
+          "lngE7" : 1056883773
+        }, {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 73.59305
+      },
+      "duration" : {
+        "startTimestampMs" : "1466554113098",
+        "endTimestampMs" : "1466586647194"
+      },
+      "centerLatE7" : 210719888,
+      "centerLngE7" : 1056934981,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 11.033032
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 4.9117117
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.8364134
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.7236091
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.043773
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.46151334
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.40404746
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.3037293
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.22661221
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "endLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "duration" : {
+        "startTimestampMs" : "1466586647194",
+        "endTimestampMs" : "1466586768733"
+      },
+      "distance" : 774,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        }, {
+          "latE7" : 210719470,
+          "lngE7" : 1056933975
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "address" : "Dự án Nam đường 32 Vietinco, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 79.12069
+      },
+      "duration" : {
+        "startTimestampMs" : "1466586768733",
+        "endTimestampMs" : "1466590222863"
+      },
+      "centerLatE7" : 210702100,
+      "centerLngE7" : 1056960000,
+      "visitConfidence" : 63,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 11.477653
+      }, {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "locationConfidence" : 3.485387
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 2.1721897
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 1.9138236
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 1.3817453
+      }, {
+        "latitudeE7" : 210711403,
+        "longitudeE7" : 1056986677,
+        "placeId" : "ChIJaSPQYdJVNDERbvZ9fwKUXPM",
+        "name" : "Long Lan Restaurant",
+        "locationConfidence" : 0.31020188
+      }, {
+        "latitudeE7" : 210725047,
+        "longitudeE7" : 1056980133,
+        "placeId" : "ChIJoSU5R9JVNDERaZfe8B4C0ko",
+        "name" : "Cửa Hàng Quà Lưu Niệm Minh Phương",
+        "locationConfidence" : 0.13830881
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "duration" : {
+        "startTimestampMs" : "1466590222863",
+        "endTimestampMs" : "1466590468091"
+      },
+      "distance" : 774,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210718975,
+          "lngE7" : 1056935119
+        }, {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 66.759895
+      },
+      "duration" : {
+        "startTimestampMs" : "1466590468091",
+        "endTimestampMs" : "1466590832330"
+      },
+      "centerLatE7" : 210719225,
+      "centerLngE7" : 1056934725,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 14.5549755
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 5.7569404
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 5.309327
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 2.5406542
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 2.0701988
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.4555755
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.42868274
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.3372691
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.32224807
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "endLocation" : {
+        "latitudeE7" : 210705882,
+        "longitudeE7" : 1056942900
+      },
+      "duration" : {
+        "startTimestampMs" : "1466590832330",
+        "endTimestampMs" : "1466597127200"
+      },
+      "distance" : 72,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        }, {
+          "latE7" : 210733470,
+          "lngE7" : 1056911468
+        }, {
+          "latE7" : 210707378,
+          "lngE7" : 1056945648
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210735149,
+          "lngE7" : 1056912155,
+          "timestampMs" : "1466592562308",
+          "accuracyMeters" : 6
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210705882,
+        "longitudeE7" : 1056942900
+      },
+      "endLocation" : {
+        "latitudeE7" : 210652798,
+        "longitudeE7" : 1056956247
+      },
+      "duration" : {
+        "startTimestampMs" : "1466597127200",
+        "endTimestampMs" : "1466625437040"
+      },
+      "distance" : 299,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210707378,
+          "lngE7" : 1056945648
+        }, {
+          "latE7" : 210652828,
+          "lngE7" : 1056956176
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210657792,
+        "longitudeE7" : 1056969282,
+        "placeId" : "ChIJ6R4Q_ixUNDER_nRPf6PuBd8",
+        "address" : "Đức Thượng\nHoài Đức\nHà Nội\nViệt Nam",
+        "name" : "Chùa Linh Tiên",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1466639379096",
+        "endTimestampMs" : "1466641644882"
+      },
+      "centerLatE7" : 210657433,
+      "centerLngE7" : 1056956467,
+      "visitConfidence" : 50,
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210657792,
+        "longitudeE7" : 1056969282
+      },
+      "endLocation" : {
+        "latitudeE7" : 210691957,
+        "longitudeE7" : 1056966582
+      },
+      "duration" : {
+        "startTimestampMs" : "1466641644882",
+        "endTimestampMs" : "1466654659075"
+      },
+      "distance" : 801,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210657234,
+          "lngE7" : 1056969604
+        }, {
+          "latE7" : 210608921,
+          "lngE7" : 1057035293
+        }, {
+          "latE7" : 210686225,
+          "lngE7" : 1056965484
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210608501,
+          "lngE7" : 1057034149,
+          "timestampMs" : "1466648521121",
+          "accuracyMeters" : 9
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210679512,
+        "longitudeE7" : 1056976444
+      },
+      "endLocation" : {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954
+      },
+      "duration" : {
+        "startTimestampMs" : "1466654659075",
+        "endTimestampMs" : "1466658704777"
+      },
+      "distance" : 213,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210679531,
+          "lngE7" : 1056976623
+        }, {
+          "latE7" : 210742588,
+          "lngE7" : 1056937179
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "address" : "thôn Chiến\nHoài Đức\nHà Nội 100000\nViệt Nam",
+        "name" : "Trường Tiểu học Đức Thượng",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 50.095688
+      },
+      "duration" : {
+        "startTimestampMs" : "1466658704777",
+        "endTimestampMs" : "1466659491570"
+      },
+      "centerLatE7" : 210737750,
+      "centerLngE7" : 1056941550,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 22.687557
+      }, {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "locationConfidence" : 3.6666803
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERRSVz9BUiaSY",
+        "name" : "Ngân Hàng Chính Sách Xã Hội (Vbsp) - Đgd Xã Đức Thượng",
+        "locationConfidence" : 2.6113667
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 2.6113667
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 2.0431945
+      }, {
+        "latitudeE7" : 210737044,
+        "longitudeE7" : 1056951000,
+        "placeId" : "ChIJYTXd5dNVNDERmOLqtZZQACw",
+        "name" : "Xưởng Sản Xuất Đồ Gỗ Trí Mỹ",
+        "locationConfidence" : 1.975116
+      }, {
+        "latitudeE7" : 210760209,
+        "longitudeE7" : 1056953430,
+        "placeId" : "ChIJfVdePtFVNDERLnY5aclQj2Q",
+        "name" : "Chợ Trôi",
+        "locationConfidence" : 1.7940025
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 1.3572912
+      }, {
+        "latitudeE7" : 210739114,
+        "longitudeE7" : 1056955088,
+        "placeId" : "ChIJ4eRV59NVNDERqGcSIFZTyUA",
+        "name" : "Nhà Thuốc Phú Đa",
+        "locationConfidence" : 1.3384454
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954
+      },
+      "endLocation" : {
+        "latitudeE7" : 210731333,
+        "longitudeE7" : 1056918425
+      },
+      "duration" : {
+        "startTimestampMs" : "1466659491570",
+        "endTimestampMs" : "1466663026599"
+      },
+      "distance" : 357,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210742588,
+          "lngE7" : 1056937179
+        }, {
+          "latE7" : 210721359,
+          "lngE7" : 1056929779
+        }, {
+          "latE7" : 210722560,
+          "lngE7" : 1056941680
+        }, {
+          "latE7" : 210731792,
+          "lngE7" : 1056918487
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210719147,
+          "lngE7" : 1056928635,
+          "timestampMs" : "1466659622396",
+          "accuracyMeters" : 51
+        }, {
+          "latE7" : 210722618,
+          "lngE7" : 1056938553,
+          "timestampMs" : "1466659747888",
+          "accuracyMeters" : 33
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210731333,
+        "longitudeE7" : 1056918425
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 72.29255
+      },
+      "duration" : {
+        "startTimestampMs" : "1466663026599",
+        "endTimestampMs" : "1466663333905"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210731792,
+          "lngE7" : 1056918487
+        }, {
+          "latE7" : 210717830,
+          "lngE7" : 1056937637
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 72.29255
+      },
+      "duration" : {
+        "startTimestampMs" : "1466663333905",
+        "endTimestampMs" : "1466681752082"
+      },
+      "centerLatE7" : 210719267,
+      "centerLngE7" : 1056935038,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 11.160598
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 5.540563
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 5.121608
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.8004695
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.1545556
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.4909358
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.44693166
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.33596608
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.24398659
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "endLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "duration" : {
+        "startTimestampMs" : "1466681752082",
+        "endTimestampMs" : "1466681882804"
+      },
+      "distance" : 774,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        }, {
+          "latE7" : 210719146,
+          "lngE7" : 1056934738
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "address" : "Dự án Nam đường 32 Vietinco, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 85.17984
+      },
+      "duration" : {
+        "startTimestampMs" : "1466681882804",
+        "endTimestampMs" : "1466729738711"
+      },
+      "centerLatE7" : 210716850,
+      "centerLngE7" : 1056938067,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 9.272671
+      }, {
+        "latitudeE7" : 210657792,
+        "longitudeE7" : 1056969282,
+        "placeId" : "ChIJ6R4Q_ixUNDER_nRPf6PuBd8",
+        "name" : "Chùa Linh Tiên",
+        "locationConfidence" : 3.4460106
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.71684384
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 0.7101909
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.67444605
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "duration" : {
+        "startTimestampMs" : "1466729738711",
+        "endTimestampMs" : "1466730117583"
+      },
+      "distance" : 774,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719528,
+          "lngE7" : 1056933898
+        }, {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 71.378525
+      },
+      "duration" : {
+        "startTimestampMs" : "1466730117583",
+        "endTimestampMs" : "1466738637169"
+      },
+      "centerLatE7" : 210719919,
+      "centerLngE7" : 1056934800,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 9.712027
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 5.5794854
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 5.0425124
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 4.1274285
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.2080483
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.45609584
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.4483471
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.34285498
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.22881605
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "endLocation" : {
+        "latitudeE7" : 210730329,
+        "longitudeE7" : 1056938912
+      },
+      "duration" : {
+        "startTimestampMs" : "1466738637169",
+        "endTimestampMs" : "1466739453475"
+      },
+      "distance" : 42,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        }, {
+          "latE7" : 210730075,
+          "lngE7" : 1056939697
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210726105,
+        "longitudeE7" : 1056937341
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "duration" : {
+        "startTimestampMs" : "1466739453475",
+        "endTimestampMs" : "1466740045880"
+      },
+      "distance" : 311,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210727157,
+          "lngE7" : 1056937866
+        }, {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 72.121254
+      },
+      "duration" : {
+        "startTimestampMs" : "1466740045880",
+        "endTimestampMs" : "1466982753575"
+      },
+      "centerLatE7" : 210721802,
+      "centerLngE7" : 1056935588,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 9.58904
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 6.4607625
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 5.615303
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 1.940979
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 1.2996532
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.5228745
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.45389754
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "name" : "Dự Án Nam 32 Lũng lô 5",
+        "locationConfidence" : 0.39305356
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.2328591
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927
+      },
+      "endLocation" : {
+        "latitudeE7" : 210737733,
+        "longitudeE7" : 1056901267
+      },
+      "duration" : {
+        "startTimestampMs" : "1466982753575",
+        "endTimestampMs" : "1466987853230"
+      },
+      "distance" : 399,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210719299,
+          "lngE7" : 1056934432
+        }, {
+          "latE7" : 210735282,
+          "lngE7" : 1056913681
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210737733,
+        "longitudeE7" : 1056901267,
+        "placeId" : "ChIJgYc7xNVVNDERq_cMxjmfU_Y",
+        "address" : "Khu Sau Hàng, Thôn Triều, Xã Đức Thượng, Huyện Hoài Đức, Thành Phố Hà Nội, Việt Nam",
+        "name" : "Công Ty Trách Nhiệm Hữu Hạn Liên Trọng",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 58.75555
+      },
+      "duration" : {
+        "startTimestampMs" : "1466987853230",
+        "endTimestampMs" : "1467006693341"
+      },
+      "centerLatE7" : 210734226,
+      "centerLngE7" : 1056914822,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 15.336539
+      }, {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "locationConfidence" : 9.070817
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 7.1422515
+      }, {
+        "latitudeE7" : 210757575,
+        "longitudeE7" : 1056914087,
+        "placeId" : "ChIJ0ytfidZVNDERKNqLaxomw0k",
+        "name" : "Quán Thịt Cầy Hồng Hiệp",
+        "locationConfidence" : 2.7168524
+      }, {
+        "latitudeE7" : 210755258,
+        "longitudeE7" : 1056897388,
+        "placeId" : "ChIJw3CYctZVNDERWQebC2AUz_w",
+        "name" : "Duc Thuong Junior High School",
+        "locationConfidence" : 1.1286135
+      }, {
+        "latitudeE7" : 210763735,
+        "longitudeE7" : 1056914753,
+        "placeId" : "ChIJheJ19NZVNDERWOcVYIYSeqc",
+        "name" : "Khánh Hòa Coffee",
+        "locationConfidence" : 0.8720503
+      }, {
+        "latitudeE7" : 210753700,
+        "longitudeE7" : 1056932700,
+        "placeId" : "ChIJQ0SFutZVNDERaf0a7bBtUTs",
+        "name" : "An Hung Furniture Joint Stock Company",
+        "locationConfidence" : 0.8688827
+      }, {
+        "latitudeE7" : 210762466,
+        "longitudeE7" : 1056900392,
+        "placeId" : "ChIJTzH8adZVNDER8NVNeSjEPzM",
+        "name" : "Duc Thuong Elementary School",
+        "locationConfidence" : 0.66506714
+      }, {
+        "latitudeE7" : 210754965,
+        "longitudeE7" : 1056924180,
+        "placeId" : "ChIJk6BUltZVNDER481eg1me0y4",
+        "name" : "Cửa Hàng Bách Hóa Ngọ Tuấn",
+        "locationConfidence" : 0.44654602
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210737733,
+        "longitudeE7" : 1056901267
+      },
+      "endLocation" : {
+        "latitudeE7" : 210720201,
+        "longitudeE7" : 1056933415
+      },
+      "duration" : {
+        "startTimestampMs" : "1467006693341",
+        "endTimestampMs" : "1467014233378"
+      },
+      "distance" : 173,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210732650,
+          "lngE7" : 1056914443
+        }, {
+          "latE7" : 210719814,
+          "lngE7" : 1056933212
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210720235,
+        "longitudeE7" : 1056934927,
+        "placeId" : "ChIJ0Y91e9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 74.94073
+      },
+      "duration" : {
+        "startTimestampMs" : "1467014233378",
+        "endTimestampMs" : "1467046737308"
+      },
+      "centerLatE7" : 210721170,
+      "centerLngE7" : 1056935714,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 9.683273
+      }, {
+        "latitudeE7" : 210704990,
+        "longitudeE7" : 1057007790,
+        "placeId" : "ChIJK_8WhaGsNTER7N9RVnyZUbs",
+        "name" : "Khu đô thị Nam đường 32 - Vietinco, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 4.8696165
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 4.0288343
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 3.0219145
+      }, {
+        "latitudeE7" : 210694830,
+        "longitudeE7" : 1056956430,
+        "placeId" : "ChIJe5fCONNVNDERqf04ZloySfw",
+        "name" : "patinphongba",
+        "locationConfidence" : 0.64721435
+      }, {
+        "latitudeE7" : 210702440,
+        "longitudeE7" : 1057054170,
+        "placeId" : "ChIJNf4WhaGsNTERwJGhvk3UHeA",
+        "name" : "Dự án Nam 32 - Westpoint, Trạm Trôi, Hoài Đức, Hà Nội",
+        "locationConfidence" : 0.496698
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 0.40462872
+      }, {
+        "latitudeE7" : 210687827,
+        "longitudeE7" : 1057043123,
+        "placeId" : "ChIJUd-pwMxVNDERxn4Exr9feb0",
+        "locationConfidence" : 0.3834769
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 0.24682526
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

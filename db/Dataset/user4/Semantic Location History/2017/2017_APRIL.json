@@ -1,0 +1,3417 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775
+      },
+      "endLocation" : {
+        "latitudeE7" : 210453136,
+        "longitudeE7" : 1058027816
+      },
+      "duration" : {
+        "startTimestampMs" : "1491094989971",
+        "endTimestampMs" : "1491095033277"
+      },
+      "distance" : 180,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 78.2888820319599
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 9.120873734277378
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 7.826748476314277
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210468292,
+          "lngE7" : 1058034286
+        }, {
+          "latE7" : 210451049,
+          "lngE7" : 1058027801
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210453136,
+        "longitudeE7" : 1058027816,
+        "placeId" : "ChIJRWYqID2rNTERnyuEVYlm5zo",
+        "address" : "29 Phùng Chí Kiên\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "Cửa Hàng Tạp Hóa",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 51.43499
+      },
+      "duration" : {
+        "startTimestampMs" : "1491095033277",
+        "endTimestampMs" : "1491104805508"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210454411,
+      "centerLngE7" : 1058028927,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "locationConfidence" : 4.859848
+      }, {
+        "latitudeE7" : 210457342,
+        "longitudeE7" : 1058029103,
+        "placeId" : "ChIJQye8Jj2rNTERQ4mC01Ba_CA",
+        "name" : "Công Ty Yashima Kizai",
+        "locationConfidence" : 2.638661
+      }, {
+        "latitudeE7" : 210457560,
+        "longitudeE7" : 1058025130,
+        "placeId" : "ChIJ_RHH2DyrNTERI-YfEKll21s",
+        "name" : "Sàn GPI Tràng An Complex",
+        "locationConfidence" : 2.2254896
+      }, {
+        "latitudeE7" : 210448899,
+        "longitudeE7" : 1058026337,
+        "placeId" : "ChIJHQb0HT2rNTERzOcBAPkYWlk",
+        "name" : "Chợ Khu Tập Thể Nghĩa Đô",
+        "locationConfidence" : 1.2747194
+      }, {
+        "latitudeE7" : 210459391,
+        "longitudeE7" : 1058031926,
+        "placeId" : "ChIJ-eNwJT2rNTERj5i_RurG8wc",
+        "name" : "Sell 24h Cafe",
+        "locationConfidence" : 1.2095298
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 1.1716598
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 1.034894
+      }, {
+        "latitudeE7" : 210446060,
+        "longitudeE7" : 1058029220,
+        "placeId" : "ChIJA-oruUOsNTERXGvP2cQgolc",
+        "name" : "Chung Cư Tràng An Complex",
+        "locationConfidence" : 0.82853746
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.7582439
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210453136,
+        "longitudeE7" : 1058027816
+      },
+      "endLocation" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775
+      },
+      "duration" : {
+        "startTimestampMs" : "1491104805508",
+        "endTimestampMs" : "1491104864399"
+      },
+      "distance" : 180,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 52.124757291434065
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 21.663287813837915
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 17.270721224692682
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210451049,
+          "lngE7" : 1058027801
+        }, {
+          "latE7" : 210468292,
+          "lngE7" : 1058034286
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 32.670296
+      },
+      "duration" : {
+        "startTimestampMs" : "1491104864399",
+        "endTimestampMs" : "1491105647019"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 210467962,
+      "centerLngE7" : 1058033256,
+      "visitConfidence" : 72,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 21.375425
+      }, {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 7.7158446
+      }, {
+        "latitudeE7" : 210490084,
+        "longitudeE7" : 1058039510,
+        "placeId" : "ChIJww0d8yKrNTER4KT_qxgD7wI",
+        "name" : "Shop Cần Câu",
+        "locationConfidence" : 1.119904
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.7601637
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.6539144
+      }, {
+        "latitudeE7" : 210465493,
+        "longitudeE7" : 1058032697,
+        "placeId" : "ChIJm250LT2rNTERSP41WBTCiNU",
+        "name" : "Công Ty TNHH Vật Tư Thiết Bị Tổng Hợp Phúc Khánh",
+        "locationConfidence" : 0.59292364
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 0.57097846
+      }, {
+        "latitudeE7" : 210464624,
+        "longitudeE7" : 1058038736,
+        "placeId" : "ChIJDdVVND2rNTERfN_wvyfiGek",
+        "name" : "Cty TNHH Techman",
+        "locationConfidence" : 0.43335456
+      }, {
+        "latitudeE7" : 210458601,
+        "longitudeE7" : 1058034146,
+        "placeId" : "ChIJqYrDOj2rNTER_KeWhXvdAQA",
+        "name" : "Trung Tâm thời Trang Đồng Phục Như Ý",
+        "locationConfidence" : 0.3530993
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210463707,
+        "longitudeE7" : 1058025661
+      },
+      "endLocation" : {
+        "latitudeE7" : 210896429,
+        "longitudeE7" : 1057683259
+      },
+      "duration" : {
+        "startTimestampMs" : "1491105647019",
+        "endTimestampMs" : "1491107277986"
+      },
+      "distance" : 5922,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 79.73674382618948
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.567072233635347
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.598902230348679
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210463085,
+          "lngE7" : 1058025665
+        }, {
+          "latE7" : 210896015,
+          "lngE7" : 1057683029
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210896429,
+        "longitudeE7" : 1057683259,
+        "placeId" : "ChIJCxfjbkZVNDERMXKS5g9tD_g",
+        "address" : "Hoàng Xá\nLiên Mạc\nTừ Liêm\nHà Nội\nViệt Nam",
+        "name" : "Tạp Hóa Hà Hân",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 57.709663
+      },
+      "duration" : {
+        "startTimestampMs" : "1491107277986",
+        "endTimestampMs" : "1491114205622"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210893667,
+      "centerLngE7" : 1057692894,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210900379,
+        "longitudeE7" : 1057699024,
+        "placeId" : "ChIJIY0QBEZVNDERuyKk9Vj-5zY",
+        "name" : "Điểm thủy chuẩn R6",
+        "locationConfidence" : 13.838763
+      }, {
+        "latitudeE7" : 210897601,
+        "longitudeE7" : 1057719336,
+        "placeId" : "ChIJ0RV68jdVNDEREzz2h9bzKzc",
+        "name" : "Chùa Chèm",
+        "locationConfidence" : 11.756404
+      }, {
+        "latitudeE7" : 210889258,
+        "longitudeE7" : 1057698444,
+        "placeId" : "ChIJK5tpIkZVNDER0gUU9jxJkmc",
+        "name" : "Ha Phuong Equipment & Construction Co., Ltd",
+        "locationConfidence" : 2.111737
+      }, {
+        "latitudeE7" : 210915647,
+        "longitudeE7" : 1057667522,
+        "placeId" : "ChIJKZUPMERVNDERKR3bFwTL45I",
+        "name" : "Đền Hoàng",
+        "locationConfidence" : 1.7935245
+      }, {
+        "latitudeE7" : 210915093,
+        "longitudeE7" : 1057698414,
+        "placeId" : "ChIJQ7Vl8UVVNDERtYyoE2Kg7Gs",
+        "name" : "Xưởng Chế Tạo Máy và Nơi Bày Bán Sản Phẩm, Công ty Cổ Phần Đầu Tư Tuấn Tú",
+        "locationConfidence" : 1.2451094
+      }, {
+        "latitudeE7" : 210915040,
+        "longitudeE7" : 1057697444,
+        "placeId" : "ChIJnyeb8UVVNDER6JUideDtsWc",
+        "name" : "XƯỞNG LẮP MÁY, BÁN SẢN PHẨM CỦA CÔNG TY CP ĐẦU TƯ TUẤN TÚ",
+        "locationConfidence" : 1.2314949
+      }, {
+        "latitudeE7" : 210907920,
+        "longitudeE7" : 1057667890,
+        "placeId" : "ChIJ99I6KERVNDERBc70vpEfk5c",
+        "name" : "ĐD Ban chỉ huy phòng chống bão lụt - Liên Mạc",
+        "locationConfidence" : 1.2238925
+      }, {
+        "latitudeE7" : 210912520,
+        "longitudeE7" : 1057673228,
+        "placeId" : "ChIJay8hLURVNDERHXe8bR5p-5s",
+        "name" : "Cây xăng Đền Hoàng",
+        "locationConfidence" : 1.1527283
+      }, {
+        "latitudeE7" : 210884453,
+        "longitudeE7" : 1057681278,
+        "placeId" : "ChIJ____T0ZVNDERYXzIV71b8Rs",
+        "name" : "-Văn Phòng",
+        "locationConfidence" : 0.8487422
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 73.39455
+      },
+      "duration" : {
+        "startTimestampMs" : "1491128094850",
+        "endTimestampMs" : "1491348973364"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210466653,
+      "centerLngE7" : 1058031047,
+      "visitConfidence" : 98,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 12.411842
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 4.3826494
+      }, {
+        "latitudeE7" : 210465493,
+        "longitudeE7" : 1058032697,
+        "placeId" : "ChIJm250LT2rNTERSP41WBTCiNU",
+        "name" : "Công Ty TNHH Vật Tư Thiết Bị Tổng Hợp Phúc Khánh",
+        "locationConfidence" : 0.27835515
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 0.2286942
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.21987468
+      }, {
+        "latitudeE7" : 210464331,
+        "longitudeE7" : 1058035492,
+        "placeId" : "ChIJKavkMz2rNTERME2Dt2WaOAw",
+        "name" : "Nhà Hàng Bia Hải Xồm",
+        "locationConfidence" : 0.21089052
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.20567109
+      }, {
+        "latitudeE7" : 210468800,
+        "longitudeE7" : 1058037760,
+        "placeId" : "ChIJCzaayyKrNTERhFooRq3x0dE",
+        "name" : "Chữ ký số giá rẻ",
+        "locationConfidence" : 0.17205691
+      }, {
+        "latitudeE7" : 210465283,
+        "longitudeE7" : 1058031022,
+        "placeId" : "ChIJdXJZLD2rNTERp15xYFTBW60",
+        "name" : "Bach Khoa Software Center",
+        "locationConfidence" : 0.13474266
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775
+      },
+      "endLocation" : {
+        "latitudeE7" : 210439704,
+        "longitudeE7" : 1057976309
+      },
+      "duration" : {
+        "startTimestampMs" : "1491348973364",
+        "endTimestampMs" : "1491358495414"
+      },
+      "distance" : 631,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 61.00582377900147
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 14.8156383362432
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 13.766570039262522
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210463008,
+          "lngE7" : 1058033676
+        }, {
+          "latE7" : 210439701,
+          "lngE7" : 1057975463
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210439704,
+        "longitudeE7" : 1057976309
+      },
+      "endLocation" : {
+        "latitudeE7" : 210361826,
+        "longitudeE7" : 1057825832
+      },
+      "duration" : {
+        "startTimestampMs" : "1491358495414",
+        "endTimestampMs" : "1491368538311"
+      },
+      "distance" : 1234,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 41.50571468094203
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 34.34904903146296
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 17.731958296930486
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210439720,
+          "lngE7" : 1057975387
+        }, {
+          "latE7" : 210364093,
+          "lngE7" : 1057826004
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210361826,
+        "longitudeE7" : 1057825832,
+        "placeId" : "ChIJbXb2vEqrNTERGZRetW2xUz0",
+        "address" : "241 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 100000\nViệt Nam",
+        "name" : "Indochina Plaza Hanoi Residences",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 98.88673
+      },
+      "duration" : {
+        "startTimestampMs" : "1491368538311",
+        "endTimestampMs" : "1491372994793"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 210360560,
+          "longitudeE7" : 1057822750,
+          "placeId" : "ChIJS8ZZsUqrNTER8VO-u_8-YQE",
+          "address" : "Indochina Plaza Hanoi Residences\n241 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội\nViệt Nam",
+          "name" : "Cinema (CGV Indochina Plaza Hà Nội)",
+          "sourceInfo" : {
+            "deviceTag" : -2098845055
+          },
+          "locationConfidence" : 43.117268
+        },
+        "duration" : {
+          "startTimestampMs" : "1491368538311",
+          "endTimestampMs" : "1491372994793"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 210360488,
+        "centerLngE7" : 1057824729,
+        "visitConfidence" : 70,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210361153,
+          "longitudeE7" : 1057832830,
+          "placeId" : "ChIJbXb2vEqrNTERg-c_FR95ya8",
+          "name" : "Taiwan Embassy",
+          "locationConfidence" : 23.254076
+        }, {
+          "latitudeE7" : 210377424,
+          "longitudeE7" : 1057846715,
+          "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+          "name" : "Hanoi National University of Education",
+          "locationConfidence" : 3.8232608
+        }, {
+          "latitudeE7" : 210361657,
+          "longitudeE7" : 1057825835,
+          "placeId" : "ChIJ85yupEqrNTERw-57TVcYA8U",
+          "name" : "Elite Fitness Club",
+          "locationConfidence" : 3.7959435
+        }, {
+          "latitudeE7" : 210361747,
+          "longitudeE7" : 1057823113,
+          "placeId" : "ChIJLcTVmEqrNTERmv7be4vRzpw",
+          "name" : "Văn phòng ảo P-Office",
+          "locationConfidence" : 2.2656283
+        }, {
+          "latitudeE7" : 210359147,
+          "longitudeE7" : 1057821648,
+          "placeId" : "ChIJr1FYu0qrNTERUHRJbITngjA",
+          "name" : "KFC IPH Chicken Restaurant",
+          "locationConfidence" : 1.9119252
+        }, {
+          "latitudeE7" : 210362179,
+          "longitudeE7" : 1057823965,
+          "placeId" : "ChIJCeleokqrNTERuS-WCPfQGrg",
+          "name" : "TiniWorld IPH",
+          "locationConfidence" : 1.3370236
+        }, {
+          "latitudeE7" : 210361658,
+          "longitudeE7" : 1057819949,
+          "placeId" : "ChIJ8e7DTLVUNDERHre1sERVO7M",
+          "name" : "Pizza Hut Indochina",
+          "locationConfidence" : 0.9760826
+        }, {
+          "latitudeE7" : 210362511,
+          "longitudeE7" : 1057832980,
+          "placeId" : "ChIJ21tgvEqrNTER3PRacvwdt68",
+          "name" : "HITC - Hanoi International Technology Centre",
+          "locationConfidence" : 0.64860386
+        }, {
+          "latitudeE7" : 210358683,
+          "longitudeE7" : 1057821929,
+          "placeId" : "ChIJTbRIsUqrNTERUTKrLMRbPcE",
+          "name" : "Daruma IPH",
+          "locationConfidence" : 0.62591755
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 210360488,
+      "centerLngE7" : 1057824729,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210361153,
+        "longitudeE7" : 1057832830,
+        "placeId" : "ChIJbXb2vEqrNTERg-c_FR95ya8",
+        "name" : "Taiwan Embassy",
+        "locationConfidence" : 0.65714854
+      }, {
+        "latitudeE7" : 210377424,
+        "longitudeE7" : 1057846715,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "name" : "Hanoi National University of Education",
+        "locationConfidence" : 0.10804344
+      }, {
+        "latitudeE7" : 210377430,
+        "longitudeE7" : 1057814180,
+        "placeId" : "ChIJZ6Sfr8pUNDER4RxOUc92_Uw",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.07818706
+      }, {
+        "latitudeE7" : 210362511,
+        "longitudeE7" : 1057832980,
+        "placeId" : "ChIJ21tgvEqrNTER3PRacvwdt68",
+        "name" : "HITC - Hanoi International Technology Centre",
+        "locationConfidence" : 0.01832922
+      }, {
+        "latitudeE7" : 210367998,
+        "longitudeE7" : 1057827683,
+        "placeId" : "ChIJJXOHq0qrNTERdVs0bUYlvmc",
+        "name" : "Đại học Quốc Gia",
+        "locationConfidence" : 0.01716099
+      }, {
+        "latitudeE7" : 210378030,
+        "longitudeE7" : 1057824159,
+        "placeId" : "ChIJqWcas8pUNDER3PiGihOuRFI",
+        "name" : "Khoa Luật ĐHQG Hà Nội",
+        "locationConfidence" : 0.014912224
+      }, {
+        "latitudeE7" : 210377882,
+        "longitudeE7" : 1057828490,
+        "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+        "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+        "locationConfidence" : 0.013766929
+      }, {
+        "latitudeE7" : 210359250,
+        "longitudeE7" : 1057835471,
+        "placeId" : "ChIJr9UDlkqrNTERVMrG-tBS6Fk",
+        "name" : "RICHLAND SOUTHERN",
+        "locationConfidence" : 0.010377058
+      }, {
+        "latitudeE7" : 210351699,
+        "longitudeE7" : 1057830834,
+        "placeId" : "ChIJC74XxEqrNTERMowyS6RbqhU",
+        "name" : "Trung tâm Giáo dục Thường xuyên Cầu Giấy",
+        "locationConfidence" : 0.009820777
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210361826,
+        "longitudeE7" : 1057825832
+      },
+      "endLocation" : {
+        "latitudeE7" : 210378041,
+        "longitudeE7" : 1057856161
+      },
+      "duration" : {
+        "startTimestampMs" : "1491372994793",
+        "endTimestampMs" : "1491384117424"
+      },
+      "distance" : 157,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 85.98213895572457
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.594553886154556
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 3.1302042522675584
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210378041,
+        "longitudeE7" : 1057856161
+      },
+      "endLocation" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775
+      },
+      "duration" : {
+        "startTimestampMs" : "1491384117424",
+        "endTimestampMs" : "1491387991806"
+      },
+      "distance" : 1978,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 60.04688725069538
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 16.65607363253607
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 14.242469913597814
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210378227,
+          "lngE7" : 1057851791
+        }, {
+          "latE7" : 210463008,
+          "lngE7" : 1058033676
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 77.377815
+      },
+      "duration" : {
+        "startTimestampMs" : "1491387991806",
+        "endTimestampMs" : "1491449003160"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210468552,
+      "centerLngE7" : 1058033459,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 15.185308
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 1.532108
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.37990022
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 0.27526367
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.25316143
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.23448625
+      }, {
+        "latitudeE7" : 210464331,
+        "longitudeE7" : 1058035492,
+        "placeId" : "ChIJKavkMz2rNTERME2Dt2WaOAw",
+        "name" : "Nhà Hàng Bia Hải Xồm",
+        "locationConfidence" : 0.22941183
+      }, {
+        "latitudeE7" : 210464752,
+        "longitudeE7" : 1058025455,
+        "placeId" : "ChIJqdfu1TyrNTERq_DnJRlWeQs",
+        "name" : "Công Ty Cổ Phần Thương Mại & Dịch Vụ Vạn Niên",
+        "locationConfidence" : 0.1737578
+      }, {
+        "latitudeE7" : 210482944,
+        "longitudeE7" : 1058047701,
+        "placeId" : "ChIJvUhdlyKrNTERg_zUi6hv1ao",
+        "name" : "Trạm Y Tế Phường Nghĩa Đô",
+        "locationConfidence" : 0.16275357
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775
+      },
+      "endLocation" : {
+        "latitudeE7" : 210896429,
+        "longitudeE7" : 1057683259
+      },
+      "duration" : {
+        "startTimestampMs" : "1491449003160",
+        "endTimestampMs" : "1491450227068"
+      },
+      "distance" : 6113,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 84.6297788270373
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 13.410407502098442
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.7078776554037282
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210463008,
+          "lngE7" : 1058033676
+        }, {
+          "latE7" : 210896015,
+          "lngE7" : 1057683029
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210896429,
+        "longitudeE7" : 1057683259,
+        "placeId" : "ChIJCxfjbkZVNDERMXKS5g9tD_g",
+        "address" : "Hoàng Xá\nLiên Mạc\nTừ Liêm\nHà Nội\nViệt Nam",
+        "name" : "Tạp Hóa Hà Hân",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 72.44097
+      },
+      "duration" : {
+        "startTimestampMs" : "1491450227068",
+        "endTimestampMs" : "1491459688854"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210893252,
+      "centerLngE7" : 1057692889,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210897601,
+        "longitudeE7" : 1057719336,
+        "placeId" : "ChIJ0RV68jdVNDEREzz2h9bzKzc",
+        "name" : "Chùa Chèm",
+        "locationConfidence" : 17.622114
+      }, {
+        "latitudeE7" : 210900379,
+        "longitudeE7" : 1057699024,
+        "placeId" : "ChIJIY0QBEZVNDERuyKk9Vj-5zY",
+        "name" : "Điểm thủy chuẩn R6",
+        "locationConfidence" : 6.051369
+      }, {
+        "latitudeE7" : 210889258,
+        "longitudeE7" : 1057698444,
+        "placeId" : "ChIJK5tpIkZVNDER0gUU9jxJkmc",
+        "name" : "Ha Phuong Equipment & Construction Co., Ltd",
+        "locationConfidence" : 1.1094402
+      }, {
+        "latitudeE7" : 210912520,
+        "longitudeE7" : 1057673228,
+        "placeId" : "ChIJay8hLURVNDERHXe8bR5p-5s",
+        "name" : "Cây xăng Đền Hoàng",
+        "locationConfidence" : 0.8057265
+      }, {
+        "latitudeE7" : 210884453,
+        "longitudeE7" : 1057681278,
+        "placeId" : "ChIJ____T0ZVNDERZ3AaVXPjuGE",
+        "name" : "Tiệm Làm Tóc",
+        "locationConfidence" : 0.30578604
+      }, {
+        "latitudeE7" : 210884453,
+        "longitudeE7" : 1057681278,
+        "placeId" : "ChIJ____T0ZVNDERO0ZlX0XZJQ0",
+        "name" : "công ty cổ phần công nghệ thương mại Huệ Quang",
+        "locationConfidence" : 0.23646864
+      }, {
+        "latitudeE7" : 210884453,
+        "longitudeE7" : 1057681278,
+        "placeId" : "ChIJ____T0ZVNDER3WrbIp3hxew",
+        "name" : "Công Ty Cổ Phần Thương Mại & Xuất Nhập Khẩu Hưng Thắng",
+        "locationConfidence" : 0.19675957
+      }, {
+        "latitudeE7" : 210884453,
+        "longitudeE7" : 1057681278,
+        "placeId" : "ChIJ____T0ZVNDERYfQEOLgoNxs",
+        "name" : "Cửa Hàng Phụ Tùng Xe Máy",
+        "locationConfidence" : 0.16614465
+      }, {
+        "latitudeE7" : 210915647,
+        "longitudeE7" : 1057667522,
+        "placeId" : "ChIJKZUPMERVNDERKR3bFwTL45I",
+        "name" : "Đền Hoàng",
+        "locationConfidence" : 0.15622939
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210896429,
+        "longitudeE7" : 1057683259
+      },
+      "endLocation" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775
+      },
+      "duration" : {
+        "startTimestampMs" : "1491459688854",
+        "endTimestampMs" : "1491465718262"
+      },
+      "distance" : 5833,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 71.77141152536389
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 22.29167054540451
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.8340957456019904
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210896015,
+          "lngE7" : 1057683029
+        }, {
+          "latE7" : 210463008,
+          "lngE7" : 1058033676
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 81.04165
+      },
+      "duration" : {
+        "startTimestampMs" : "1491465718262",
+        "endTimestampMs" : "1491590266236"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210465978,
+      "centerLngE7" : 1058031779,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 11.405488
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 2.4093587
+      }, {
+        "latitudeE7" : 210464331,
+        "longitudeE7" : 1058035492,
+        "placeId" : "ChIJKavkMz2rNTERME2Dt2WaOAw",
+        "name" : "Nhà Hàng Bia Hải Xồm",
+        "locationConfidence" : 0.82010514
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.3004922
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 0.19260362
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.18676655
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.18467481
+      }, {
+        "latitudeE7" : 210464752,
+        "longitudeE7" : 1058025455,
+        "placeId" : "ChIJqdfu1TyrNTERq_DnJRlWeQs",
+        "name" : "Công Ty Cổ Phần Thương Mại & Dịch Vụ Vạn Niên",
+        "locationConfidence" : 0.17509855
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.16423948
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210377424,
+        "longitudeE7" : 1057846715,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "address" : "136 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 10000\nViệt Nam",
+        "name" : "Hanoi National University of Education",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 97.881065
+      },
+      "duration" : {
+        "startTimestampMs" : "1491611410580",
+        "endTimestampMs" : "1491625203967"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210367420,
+      "centerLngE7" : 1057830383,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210361826,
+        "longitudeE7" : 1057825832,
+        "placeId" : "ChIJRRcBskqrNTERxFrm-j0n3e0",
+        "name" : "Indochina Plaza",
+        "locationConfidence" : 0.76768047
+      }, {
+        "latitudeE7" : 210377430,
+        "longitudeE7" : 1057814180,
+        "placeId" : "ChIJZ6Sfr8pUNDER4RxOUc92_Uw",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.3196524
+      }, {
+        "latitudeE7" : 210362511,
+        "longitudeE7" : 1057832980,
+        "placeId" : "ChIJ21tgvEqrNTER3PRacvwdt68",
+        "name" : "HITC - Hanoi International Technology Centre",
+        "locationConfidence" : 0.09633229
+      }, {
+        "latitudeE7" : 210382375,
+        "longitudeE7" : 1057827076,
+        "placeId" : "ChIJM8IgSTWrNTERN0_cv6MTA10",
+        "name" : "Trường Đại học Công nghệ - ĐHQG Hà Nội",
+        "locationConfidence" : 0.08920168
+      }, {
+        "latitudeE7" : 210367998,
+        "longitudeE7" : 1057827683,
+        "placeId" : "ChIJJXOHq0qrNTERdVs0bUYlvmc",
+        "name" : "Đại học Quốc Gia",
+        "locationConfidence" : 0.076565534
+      }, {
+        "latitudeE7" : 210389749,
+        "longitudeE7" : 1057817006,
+        "placeId" : "ChIJV8yTzcpUNDERcozM7kYCWkY",
+        "name" : "VNU University of Languages and International Studies",
+        "locationConfidence" : 0.067327075
+      }, {
+        "latitudeE7" : 210371042,
+        "longitudeE7" : 1057860057,
+        "placeId" : "ChIJTb2PlDWrNTERMHOrOplO8vc",
+        "name" : "Nha Xanh Market",
+        "locationConfidence" : 0.062028646
+      }, {
+        "latitudeE7" : 210377882,
+        "longitudeE7" : 1057828490,
+        "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+        "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+        "locationConfidence" : 0.033684656
+      }, {
+        "latitudeE7" : 210367915,
+        "longitudeE7" : 1057817527,
+        "placeId" : "ChIJscH3U7VUNDERMamg-FYIBYM",
+        "name" : "Đại học Quốc gia Hà Nội",
+        "locationConfidence" : 0.031691674
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210377424,
+        "longitudeE7" : 1057846715
+      },
+      "endLocation" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775
+      },
+      "duration" : {
+        "startTimestampMs" : "1491625203967",
+        "endTimestampMs" : "1491629161473"
+      },
+      "distance" : 2188,
+      "activityType" : "CYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 53.18174878290183
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 31.65017215465224
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.174336389797968
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210375862,
+          "lngE7" : 1057846603
+        }, {
+          "latE7" : 210468292,
+          "lngE7" : 1058034286
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 80.71539
+      },
+      "duration" : {
+        "startTimestampMs" : "1491629161473",
+        "endTimestampMs" : "1491758967614"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210465800,
+      "centerLngE7" : 1058029810,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 11.910765
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 3.1868327
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.419701
+      }, {
+        "latitudeE7" : 210464331,
+        "longitudeE7" : 1058035492,
+        "placeId" : "ChIJKavkMz2rNTERME2Dt2WaOAw",
+        "name" : "Nhà Hàng Bia Hải Xồm",
+        "locationConfidence" : 0.34821138
+      }, {
+        "latitudeE7" : 210474464,
+        "longitudeE7" : 1058006465,
+        "placeId" : "ChIJWUBMUSOrNTERILwaBrvLetA",
+        "name" : "Viện Công nghệ Sinh học",
+        "locationConfidence" : 0.14352603
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.12827888
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 0.124969855
+      }, {
+        "latitudeE7" : 210480797,
+        "longitudeE7" : 1058006305,
+        "placeId" : "ChIJ17GFQyOrNTERP9KceCrK_fA",
+        "name" : "Vietnam National Museum of Nature",
+        "locationConfidence" : 0.11199149
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.09587406
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 78.35465
+      },
+      "duration" : {
+        "startTimestampMs" : "1491782400000",
+        "endTimestampMs" : "1491842626634"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210465829,
+      "centerLngE7" : 1058030318,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 17.063074
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 1.4015824
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 0.2425203
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.22594137
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.2214033
+      }, {
+        "latitudeE7" : 210462148,
+        "longitudeE7" : 1058036023,
+        "placeId" : "ChIJ32MUMT2rNTERI67M9PGTM8U",
+        "name" : "Quán Bia Hơi Hoa Phong",
+        "locationConfidence" : 0.09999699
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.09693323
+      }, {
+        "latitudeE7" : 210447182,
+        "longitudeE7" : 1058018951,
+        "placeId" : "ChIJR5CS7zyrNTERSozwPlwNHV4",
+        "name" : "Military Defense College",
+        "locationConfidence" : 0.08995975
+      }, {
+        "latitudeE7" : 210465681,
+        "longitudeE7" : 1058041568,
+        "placeId" : "ChIJ-w-5Sj2rNTERihwQNDy_-v4",
+        "name" : "Hai Xom Beer",
+        "locationConfidence" : 0.08857357
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210440120,
+        "longitudeE7" : 1057977120
+      },
+      "endLocation" : {
+        "latitudeE7" : 210361826,
+        "longitudeE7" : 1057825832
+      },
+      "duration" : {
+        "startTimestampMs" : "1491872513369",
+        "endTimestampMs" : "1491877620600"
+      },
+      "distance" : 965,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 43.58042911380476
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 37.12612999534091
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.917514902792352
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210440120,
+          "lngE7" : 1057977142
+        }, {
+          "latE7" : 210365200,
+          "lngE7" : 1057825927
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1491877620600",
+        "location" : {
+          "latitudeE7" : 210361826,
+          "longitudeE7" : 1057825832
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210361826,
+        "longitudeE7" : 1057825832,
+        "placeId" : "ChIJbXb2vEqrNTERGZRetW2xUz0",
+        "address" : "241 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 100000\nViệt Nam",
+        "name" : "Indochina Plaza Hanoi Residences",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 99.11176
+      },
+      "duration" : {
+        "startTimestampMs" : "1491877620600",
+        "endTimestampMs" : "1491891404519"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 210360560,
+          "longitudeE7" : 1057822750,
+          "placeId" : "ChIJS8ZZsUqrNTER8VO-u_8-YQE",
+          "address" : "Indochina Plaza Hanoi Residences\n241 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội\nViệt Nam",
+          "name" : "Cinema (CGV Indochina Plaza Hà Nội)",
+          "sourceInfo" : {
+            "deviceTag" : -2098845055
+          },
+          "locationConfidence" : 54.834045
+        },
+        "duration" : {
+          "startTimestampMs" : "1491882935074",
+          "endTimestampMs" : "1491889571692"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 210360853,
+        "centerLngE7" : 1057824486,
+        "visitConfidence" : 70,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210361153,
+          "longitudeE7" : 1057832830,
+          "placeId" : "ChIJbXb2vEqrNTERg-c_FR95ya8",
+          "name" : "Taiwan Embassy",
+          "locationConfidence" : 10.085055
+        }, {
+          "latitudeE7" : 210377424,
+          "longitudeE7" : 1057846715,
+          "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+          "name" : "Hanoi National University of Education",
+          "locationConfidence" : 7.1177206
+        }, {
+          "latitudeE7" : 210361657,
+          "longitudeE7" : 1057825835,
+          "placeId" : "ChIJ85yupEqrNTERw-57TVcYA8U",
+          "name" : "Elite Fitness Club",
+          "locationConfidence" : 4.274134
+        }, {
+          "latitudeE7" : 210361747,
+          "longitudeE7" : 1057823113,
+          "placeId" : "ChIJLcTVmEqrNTERmv7be4vRzpw",
+          "name" : "Văn phòng ảo P-Office",
+          "locationConfidence" : 2.863479
+        }, {
+          "latitudeE7" : 210377882,
+          "longitudeE7" : 1057828490,
+          "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+          "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+          "locationConfidence" : 1.4388596
+        }, {
+          "latitudeE7" : 210359147,
+          "longitudeE7" : 1057821648,
+          "placeId" : "ChIJr1FYu0qrNTERUHRJbITngjA",
+          "name" : "KFC IPH Chicken Restaurant",
+          "locationConfidence" : 1.3026431
+        }, {
+          "latitudeE7" : 210362179,
+          "longitudeE7" : 1057823965,
+          "placeId" : "ChIJCeleokqrNTERuS-WCPfQGrg",
+          "name" : "TiniWorld IPH",
+          "locationConfidence" : 1.1426057
+        }, {
+          "latitudeE7" : 210362511,
+          "longitudeE7" : 1057832980,
+          "placeId" : "ChIJ21tgvEqrNTER3PRacvwdt68",
+          "name" : "HITC - Hanoi International Technology Centre",
+          "locationConfidence" : 0.65083706
+        }, {
+          "latitudeE7" : 210361658,
+          "longitudeE7" : 1057819949,
+          "placeId" : "ChIJ8e7DTLVUNDERHre1sERVO7M",
+          "name" : "Pizza Hut Indochina",
+          "locationConfidence" : 0.5306812
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 210359147,
+          "longitudeE7" : 1057821648,
+          "placeId" : "ChIJr1FYu0qrNTERUHRJbITngjA",
+          "address" : "241 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội\nViệt Nam",
+          "name" : "KFC",
+          "sourceInfo" : {
+            "deviceTag" : -2098845055
+          },
+          "locationConfidence" : 27.278072
+        },
+        "duration" : {
+          "startTimestampMs" : "1491889682072",
+          "endTimestampMs" : "1491890731663"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 210357850,
+        "centerLngE7" : 1057822867,
+        "visitConfidence" : 70,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210361153,
+          "longitudeE7" : 1057832830,
+          "placeId" : "ChIJbXb2vEqrNTERg-c_FR95ya8",
+          "name" : "Taiwan Embassy",
+          "locationConfidence" : 24.960966
+        }, {
+          "latitudeE7" : 210377424,
+          "longitudeE7" : 1057846715,
+          "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+          "name" : "Hanoi National University of Education",
+          "locationConfidence" : 11.842036
+        }, {
+          "latitudeE7" : 210360560,
+          "longitudeE7" : 1057822750,
+          "placeId" : "ChIJS8ZZsUqrNTER8VO-u_8-YQE",
+          "name" : "CGV Cinema IPH",
+          "locationConfidence" : 10.011519
+        }, {
+          "latitudeE7" : 210389749,
+          "longitudeE7" : 1057817006,
+          "placeId" : "ChIJV8yTzcpUNDERcozM7kYCWkY",
+          "name" : "VNU University of Languages and International Studies",
+          "locationConfidence" : 2.4704792
+        }, {
+          "latitudeE7" : 210361658,
+          "longitudeE7" : 1057819949,
+          "placeId" : "ChIJ8e7DTLVUNDERHre1sERVO7M",
+          "name" : "Pizza Hut Indochina",
+          "locationConfidence" : 1.5684406
+        }, {
+          "latitudeE7" : 210367998,
+          "longitudeE7" : 1057827683,
+          "placeId" : "ChIJJXOHq0qrNTERdVs0bUYlvmc",
+          "name" : "Đại học Quốc Gia",
+          "locationConfidence" : 1.0890887
+        }, {
+          "latitudeE7" : 210377882,
+          "longitudeE7" : 1057828490,
+          "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+          "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+          "locationConfidence" : 0.78411806
+        }, {
+          "latitudeE7" : 210358683,
+          "longitudeE7" : 1057821929,
+          "placeId" : "ChIJTbRIsUqrNTERUTKrLMRbPcE",
+          "name" : "Daruma IPH",
+          "locationConfidence" : 0.5917867
+        }, {
+          "latitudeE7" : 210362511,
+          "longitudeE7" : 1057832980,
+          "placeId" : "ChIJ21tgvEqrNTER3PRacvwdt68",
+          "name" : "HITC - Hanoi International Technology Centre",
+          "locationConfidence" : 0.5701158
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 210377424,
+          "longitudeE7" : 1057846715,
+          "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+          "address" : "136 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 10000\nViệt Nam",
+          "name" : "Hanoi National University of Education",
+          "sourceInfo" : {
+            "deviceTag" : -2098845055
+          },
+          "locationConfidence" : 42.365345
+        },
+        "duration" : {
+          "startTimestampMs" : "1491890783324",
+          "endTimestampMs" : "1491891404519"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 210363687,
+        "centerLngE7" : 1057824769,
+        "visitConfidence" : 70,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210367998,
+          "longitudeE7" : 1057827683,
+          "placeId" : "ChIJJXOHq0qrNTERdVs0bUYlvmc",
+          "name" : "Đại học Quốc Gia",
+          "locationConfidence" : 7.888617
+        }, {
+          "latitudeE7" : 210377882,
+          "longitudeE7" : 1057828490,
+          "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+          "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+          "locationConfidence" : 5.8881073
+        }, {
+          "latitudeE7" : 210361153,
+          "longitudeE7" : 1057832830,
+          "placeId" : "ChIJbXb2vEqrNTERg-c_FR95ya8",
+          "name" : "Taiwan Embassy",
+          "locationConfidence" : 3.9852846
+        }, {
+          "latitudeE7" : 210360560,
+          "longitudeE7" : 1057822750,
+          "placeId" : "ChIJS8ZZsUqrNTER8VO-u_8-YQE",
+          "name" : "CGV Cinema IPH",
+          "locationConfidence" : 3.9230742
+        }, {
+          "latitudeE7" : 210389749,
+          "longitudeE7" : 1057817006,
+          "placeId" : "ChIJV8yTzcpUNDERcozM7kYCWkY",
+          "name" : "VNU University of Languages and International Studies",
+          "locationConfidence" : 3.4474497
+        }, {
+          "latitudeE7" : 210364050,
+          "longitudeE7" : 1057822901,
+          "placeId" : "ChIJrbCzrUqrNTERAgD0L1Ovzec",
+          "name" : "Highlands Coffee Indochina",
+          "locationConfidence" : 1.5794927
+        }, {
+          "latitudeE7" : 210363792,
+          "longitudeE7" : 1057821609,
+          "placeId" : "ChIJxe64UrVUNDERy-ZlrdwwtJo",
+          "name" : "Starbucks IPH",
+          "locationConfidence" : 1.2743237
+        }, {
+          "latitudeE7" : 210378030,
+          "longitudeE7" : 1057824159,
+          "placeId" : "ChIJqWcas8pUNDER3PiGihOuRFI",
+          "name" : "Khoa Luật ĐHQG Hà Nội",
+          "locationConfidence" : 1.0077916
+        }, {
+          "latitudeE7" : 210362511,
+          "longitudeE7" : 1057832980,
+          "placeId" : "ChIJ21tgvEqrNTER3PRacvwdt68",
+          "name" : "HITC - Hanoi International Technology Centre",
+          "locationConfidence" : 0.7332767
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 210362870,
+      "centerLngE7" : 1057824410,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210361153,
+        "longitudeE7" : 1057832830,
+        "placeId" : "ChIJbXb2vEqrNTERg-c_FR95ya8",
+        "name" : "Taiwan Embassy",
+        "locationConfidence" : 0.3292133
+      }, {
+        "latitudeE7" : 210377424,
+        "longitudeE7" : 1057846715,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "name" : "Hanoi National University of Education",
+        "locationConfidence" : 0.23234858
+      }, {
+        "latitudeE7" : 210377882,
+        "longitudeE7" : 1057828490,
+        "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+        "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+        "locationConfidence" : 0.04696967
+      }, {
+        "latitudeE7" : 210362511,
+        "longitudeE7" : 1057832980,
+        "placeId" : "ChIJ21tgvEqrNTER3PRacvwdt68",
+        "name" : "HITC - Hanoi International Technology Centre",
+        "locationConfidence" : 0.021245714
+      }, {
+        "latitudeE7" : 210377430,
+        "longitudeE7" : 1057814180,
+        "placeId" : "ChIJZ6Sfr8pUNDER4RxOUc92_Uw",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.017012747
+      }, {
+        "latitudeE7" : 210378030,
+        "longitudeE7" : 1057824159,
+        "placeId" : "ChIJqWcas8pUNDER3PiGihOuRFI",
+        "name" : "Khoa Luật ĐHQG Hà Nội",
+        "locationConfidence" : 0.015552485
+      }, {
+        "latitudeE7" : 210389749,
+        "longitudeE7" : 1057817006,
+        "placeId" : "ChIJV8yTzcpUNDERcozM7kYCWkY",
+        "name" : "VNU University of Languages and International Studies",
+        "locationConfidence" : 0.013924204
+      }, {
+        "latitudeE7" : 210367998,
+        "longitudeE7" : 1057827683,
+        "placeId" : "ChIJJXOHq0qrNTERdVs0bUYlvmc",
+        "name" : "Đại học Quốc Gia",
+        "locationConfidence" : 0.013273164
+      }, {
+        "latitudeE7" : 210359250,
+        "longitudeE7" : 1057835471,
+        "placeId" : "ChIJr9UDlkqrNTERVMrG-tBS6Fk",
+        "name" : "RICHLAND SOUTHERN",
+        "locationConfidence" : 0.010139748
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210361826,
+        "longitudeE7" : 1057825832
+      },
+      "endLocation" : {
+        "latitudeE7" : 210377424,
+        "longitudeE7" : 1057846715
+      },
+      "duration" : {
+        "startTimestampMs" : "1491891404519",
+        "endTimestampMs" : "1491892394515"
+      },
+      "distance" : 166,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 45.27645888084746
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 24.732437184784626
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 23.06536586558151
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210364093,
+          "lngE7" : 1057826004
+        }, {
+          "latE7" : 210375862,
+          "lngE7" : 1057846603
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210377424,
+        "longitudeE7" : 1057846715,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "address" : "136 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 10000\nViệt Nam",
+        "name" : "Hanoi National University of Education",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 97.55684
+      },
+      "duration" : {
+        "startTimestampMs" : "1491892394515",
+        "endTimestampMs" : "1491925359073"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210444486,
+      "centerLngE7" : 1057970374,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210389749,
+        "longitudeE7" : 1057817006,
+        "placeId" : "ChIJV8yTzcpUNDERcozM7kYCWkY",
+        "name" : "VNU University of Languages and International Studies",
+        "locationConfidence" : 0.8712456
+      }, {
+        "latitudeE7" : 210371042,
+        "longitudeE7" : 1057860057,
+        "placeId" : "ChIJTb2PlDWrNTERMHOrOplO8vc",
+        "name" : "Nha Xanh Market",
+        "locationConfidence" : 0.31253415
+      }, {
+        "latitudeE7" : 210377882,
+        "longitudeE7" : 1057828490,
+        "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+        "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+        "locationConfidence" : 0.15710466
+      }, {
+        "latitudeE7" : 210402705,
+        "longitudeE7" : 1057830770,
+        "placeId" : "ChIJxWVl2TSrNTERQBNawLzUSHU",
+        "name" : "Foreign Language Specialized High School",
+        "locationConfidence" : 0.1266131
+      }, {
+        "latitudeE7" : 210405623,
+        "longitudeE7" : 1057834965,
+        "placeId" : "ChIJi-Va3TSrNTERy3Rl38qicKA",
+        "name" : "K-Language Center",
+        "locationConfidence" : 0.023048634
+      }, {
+        "latitudeE7" : 210367998,
+        "longitudeE7" : 1057827683,
+        "placeId" : "ChIJJXOHq0qrNTERdVs0bUYlvmc",
+        "name" : "Đại học Quốc Gia",
+        "locationConfidence" : 0.015353563
+      }, {
+        "latitudeE7" : 210416638,
+        "longitudeE7" : 1057836279,
+        "placeId" : "ChIJv0cKljSrNTERAisQHoZP0CA",
+        "name" : "Trần Quốc Hoàn",
+        "locationConfidence" : 0.013211626
+      }, {
+        "latitudeE7" : 210419445,
+        "longitudeE7" : 1057875681,
+        "placeId" : "ChIJk9C2tjarNTERmlAUdXJ7xXE",
+        "name" : "Trường THPT Nguyễn Bỉnh Khiêm",
+        "locationConfidence" : 0.012837886
+      }, {
+        "latitudeE7" : 210399583,
+        "longitudeE7" : 1057864502,
+        "placeId" : "ChIJ22gBSjSrNTERV8yo9Ds_Pj8",
+        "name" : "Cây Xăng Quân Đội, Phan Văn Trường, Hà Nội, Việt Nam",
+        "locationConfidence" : 0.012520778
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 80.34458
+      },
+      "duration" : {
+        "startTimestampMs" : "1491971932905",
+        "endTimestampMs" : "1492100633504"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210467617,
+      "centerLngE7" : 1058032607,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 12.384125
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 1.8488921
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.36133146
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 0.34920117
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.3243354
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.23313299
+      }, {
+        "latitudeE7" : 210474464,
+        "longitudeE7" : 1058006465,
+        "placeId" : "ChIJWUBMUSOrNTERILwaBrvLetA",
+        "name" : "Viện Công nghệ Sinh học",
+        "locationConfidence" : 0.1620878
+      }, {
+        "latitudeE7" : 210447182,
+        "longitudeE7" : 1058018951,
+        "placeId" : "ChIJR5CS7zyrNTERSozwPlwNHV4",
+        "name" : "Military Defense College",
+        "locationConfidence" : 0.15615182
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.13912025
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 78.994835
+      },
+      "duration" : {
+        "startTimestampMs" : "1492150240124",
+        "endTimestampMs" : "1492213794738"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210464352,
+      "centerLngE7" : 1058027864,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 14.978652
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 1.7937053
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 0.30661073
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.24280983
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.24195638
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.17946354
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.14983384
+      }, {
+        "latitudeE7" : 210447182,
+        "longitudeE7" : 1058018951,
+        "placeId" : "ChIJR5CS7zyrNTERSozwPlwNHV4",
+        "name" : "Military Defense College",
+        "locationConfidence" : 0.13477519
+      }, {
+        "latitudeE7" : 210474464,
+        "longitudeE7" : 1058006465,
+        "placeId" : "ChIJWUBMUSOrNTERILwaBrvLetA",
+        "name" : "Viện Công nghệ Sinh học",
+        "locationConfidence" : 0.113589354
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 75.14716
+      },
+      "duration" : {
+        "startTimestampMs" : "1492262402289",
+        "endTimestampMs" : "1492310958960"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210468787,
+      "centerLngE7" : 1058033524,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 19.357979
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 1.5871857
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 0.40505573
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.37387604
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.33092892
+      }, {
+        "latitudeE7" : 210447182,
+        "longitudeE7" : 1058018951,
+        "placeId" : "ChIJR5CS7zyrNTERSozwPlwNHV4",
+        "name" : "Military Defense College",
+        "locationConfidence" : 0.12393099
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.116241
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.08744909
+      }, {
+        "latitudeE7" : 210474464,
+        "longitudeE7" : 1058006465,
+        "placeId" : "ChIJWUBMUSOrNTERILwaBrvLetA",
+        "name" : "Viện Công nghệ Sinh học",
+        "locationConfidence" : 0.06395702
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210464091,
+        "longitudeE7" : 1058031165
+      },
+      "endLocation" : {
+        "latitudeE7" : 210896429,
+        "longitudeE7" : 1057683259
+      },
+      "duration" : {
+        "startTimestampMs" : "1492310958960",
+        "endTimestampMs" : "1492312629562"
+      },
+      "distance" : 5905,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 64.37263478954327
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 29.552099808536298
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.4654447357475626
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210463027,
+          "lngE7" : 1058031158
+        }, {
+          "latE7" : 210896015,
+          "lngE7" : 1057683029
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210896429,
+        "longitudeE7" : 1057683259,
+        "placeId" : "ChIJCxfjbkZVNDERMXKS5g9tD_g",
+        "address" : "Hoàng Xá\nLiên Mạc\nTừ Liêm\nHà Nội\nViệt Nam",
+        "name" : "Tạp Hóa Hà Hân",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 70.774956
+      },
+      "duration" : {
+        "startTimestampMs" : "1492312629562",
+        "endTimestampMs" : "1492327170738"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210893927,
+      "centerLngE7" : 1057693279,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210897601,
+        "longitudeE7" : 1057719336,
+        "placeId" : "ChIJ0RV68jdVNDEREzz2h9bzKzc",
+        "name" : "Chùa Chèm",
+        "locationConfidence" : 19.613928
+      }, {
+        "latitudeE7" : 210900379,
+        "longitudeE7" : 1057699024,
+        "placeId" : "ChIJIY0QBEZVNDERuyKk9Vj-5zY",
+        "name" : "Điểm thủy chuẩn R6",
+        "locationConfidence" : 5.698009
+      }, {
+        "latitudeE7" : 210889258,
+        "longitudeE7" : 1057698444,
+        "placeId" : "ChIJK5tpIkZVNDER0gUU9jxJkmc",
+        "name" : "Ha Phuong Equipment & Construction Co., Ltd",
+        "locationConfidence" : 1.6065521
+      }, {
+        "latitudeE7" : 210912520,
+        "longitudeE7" : 1057673228,
+        "placeId" : "ChIJay8hLURVNDERHXe8bR5p-5s",
+        "name" : "Cây xăng Đền Hoàng",
+        "locationConfidence" : 0.8314708
+      }, {
+        "latitudeE7" : 210883639,
+        "longitudeE7" : 1057682137,
+        "placeId" : "ChIJoWrrT0ZVNDERxh4ORT42uRg",
+        "name" : "Công Ty TNHH MTV Đầu Tư Dịch Vụ Xây Dựng Thương Mại Thảo Trang",
+        "locationConfidence" : 0.25674275
+      }, {
+        "latitudeE7" : 210915647,
+        "longitudeE7" : 1057667522,
+        "placeId" : "ChIJKZUPMERVNDERKR3bFwTL45I",
+        "name" : "Đền Hoàng",
+        "locationConfidence" : 0.19485967
+      }, {
+        "latitudeE7" : 210884453,
+        "longitudeE7" : 1057681278,
+        "placeId" : "ChIJ____T0ZVNDERZ3AaVXPjuGE",
+        "name" : "Tiệm Làm Tóc",
+        "locationConfidence" : 0.16831307
+      }, {
+        "latitudeE7" : 210884453,
+        "longitudeE7" : 1057681278,
+        "placeId" : "ChIJ____T0ZVNDER3WrbIp3hxew",
+        "name" : "Công Ty Cổ Phần Thương Mại & Xuất Nhập Khẩu Hưng Thắng",
+        "locationConfidence" : 0.15875266
+      }, {
+        "latitudeE7" : 210884453,
+        "longitudeE7" : 1057681278,
+        "placeId" : "ChIJ____T0ZVNDERO0ZlX0XZJQ0",
+        "name" : "công ty cổ phần công nghệ thương mại Huệ Quang",
+        "locationConfidence" : 0.074905075
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210892938,
+        "longitudeE7" : 1057696868
+      },
+      "endLocation" : {
+        "latitudeE7" : 210469177,
+        "longitudeE7" : 1058034834
+      },
+      "duration" : {
+        "startTimestampMs" : "1492327170738",
+        "endTimestampMs" : "1492328617011"
+      },
+      "distance" : 7747,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 83.66000639846085
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 13.317197762356498
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.7802316475120392
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210892906,
+          "lngE7" : 1057696990
+        }, {
+          "latE7" : 210837116,
+          "lngE7" : 1057774353
+        }, {
+          "latE7" : 210778446,
+          "lngE7" : 1057870178
+        }, {
+          "latE7" : 210562572,
+          "lngE7" : 1057822952
+        }, {
+          "latE7" : 210462989,
+          "lngE7" : 1058034744
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210837133,
+          "lngE7" : 1057774361,
+          "timestampMs" : "1492327295366",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 210777453,
+          "lngE7" : 1057868824,
+          "timestampMs" : "1492327646356",
+          "accuracyMeters" : 25
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468344,
+        "longitudeE7" : 1058033775,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 70.23569
+      },
+      "duration" : {
+        "startTimestampMs" : "1492328617011",
+        "endTimestampMs" : "1492352968707"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210469169,
+      "centerLngE7" : 1058034084,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 23.011606
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 1.9073963
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.81947905
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.5146393
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 0.49580127
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.11671137
+      }, {
+        "latitudeE7" : 210447182,
+        "longitudeE7" : 1058018951,
+        "placeId" : "ChIJR5CS7zyrNTERSozwPlwNHV4",
+        "name" : "Military Defense College",
+        "locationConfidence" : 0.112016365
+      }, {
+        "latitudeE7" : 210474464,
+        "longitudeE7" : 1058006465,
+        "placeId" : "ChIJWUBMUSOrNTERILwaBrvLetA",
+        "name" : "Viện Công nghệ Sinh học",
+        "locationConfidence" : 0.09772517
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.091802746
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210361826,
+        "longitudeE7" : 1057825832,
+        "placeId" : "ChIJbXb2vEqrNTERGZRetW2xUz0",
+        "address" : "241 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 100000\nViệt Nam",
+        "name" : "Indochina Plaza Hanoi Residences",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 83.243195
+      },
+      "duration" : {
+        "startTimestampMs" : "1492423288159",
+        "endTimestampMs" : "1492492515528"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 210361153,
+          "longitudeE7" : 1057832830,
+          "placeId" : "ChIJbXb2vEqrNTERg-c_FR95ya8",
+          "address" : "241 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội\nViệt Nam",
+          "name" : "Taiwan Embassy",
+          "sourceInfo" : {
+            "deviceTag" : -2098845055
+          },
+          "locationConfidence" : 36.88776
+        },
+        "duration" : {
+          "startTimestampMs" : "1492483711791",
+          "endTimestampMs" : "1492492515528"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 210360711,
+        "centerLngE7" : 1057824399,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210360560,
+          "longitudeE7" : 1057822750,
+          "placeId" : "ChIJS8ZZsUqrNTER8VO-u_8-YQE",
+          "name" : "CGV Cinema IPH",
+          "locationConfidence" : 16.286348
+        }, {
+          "latitudeE7" : 210382375,
+          "longitudeE7" : 1057827076,
+          "placeId" : "ChIJM8IgSTWrNTERN0_cv6MTA10",
+          "name" : "Trường Đại học Công nghệ - ĐHQG Hà Nội",
+          "locationConfidence" : 8.991251
+        }, {
+          "latitudeE7" : 210377424,
+          "longitudeE7" : 1057846715,
+          "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+          "name" : "Hanoi National University of Education",
+          "locationConfidence" : 3.3713984
+        }, {
+          "latitudeE7" : 210361657,
+          "longitudeE7" : 1057825835,
+          "placeId" : "ChIJ85yupEqrNTERw-57TVcYA8U",
+          "name" : "Elite Fitness Club",
+          "locationConfidence" : 1.9817643
+        }, {
+          "latitudeE7" : 210361747,
+          "longitudeE7" : 1057823113,
+          "placeId" : "ChIJLcTVmEqrNTERmv7be4vRzpw",
+          "name" : "Văn phòng ảo P-Office",
+          "locationConfidence" : 0.79950696
+        }, {
+          "latitudeE7" : 210362179,
+          "longitudeE7" : 1057823965,
+          "placeId" : "ChIJCeleokqrNTERuS-WCPfQGrg",
+          "name" : "TiniWorld IPH",
+          "locationConfidence" : 0.5043786
+        }, {
+          "latitudeE7" : 210359147,
+          "longitudeE7" : 1057821648,
+          "placeId" : "ChIJr1FYu0qrNTERUHRJbITngjA",
+          "name" : "KFC IPH Chicken Restaurant",
+          "locationConfidence" : 0.42325225
+        }, {
+          "latitudeE7" : 210361658,
+          "longitudeE7" : 1057819949,
+          "placeId" : "ChIJ8e7DTLVUNDERHre1sERVO7M",
+          "name" : "Pizza Hut Indochina",
+          "locationConfidence" : 0.34809467
+        }, {
+          "latitudeE7" : 210363040,
+          "longitudeE7" : 1057833272,
+          "placeId" : "ChIJk4sj-WmrNTER8oYcDfK0Ofs",
+          "name" : "NTT Data",
+          "locationConfidence" : 0.30822355
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 210435689,
+      "centerLngE7" : 1057971544,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210361153,
+        "longitudeE7" : 1057832830,
+        "placeId" : "ChIJbXb2vEqrNTERg-c_FR95ya8",
+        "name" : "Taiwan Embassy",
+        "locationConfidence" : 10.965433
+      }, {
+        "latitudeE7" : 210382375,
+        "longitudeE7" : 1057827076,
+        "placeId" : "ChIJM8IgSTWrNTERN0_cv6MTA10",
+        "name" : "Trường Đại học Công nghệ - ĐHQG Hà Nội",
+        "locationConfidence" : 2.6727824
+      }, {
+        "latitudeE7" : 210377424,
+        "longitudeE7" : 1057846715,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "name" : "Hanoi National University of Education",
+        "locationConfidence" : 1.0021981
+      }, {
+        "latitudeE7" : 210363040,
+        "longitudeE7" : 1057833272,
+        "placeId" : "ChIJk4sj-WmrNTER8oYcDfK0Ofs",
+        "name" : "NTT Data",
+        "locationConfidence" : 0.091624014
+      }, {
+        "latitudeE7" : 210359250,
+        "longitudeE7" : 1057835471,
+        "placeId" : "ChIJr9UDlkqrNTERVMrG-tBS6Fk",
+        "name" : "RICHLAND SOUTHERN",
+        "locationConfidence" : 0.08426934
+      }, {
+        "latitudeE7" : 210377882,
+        "longitudeE7" : 1057828490,
+        "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+        "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+        "locationConfidence" : 0.083430864
+      }, {
+        "latitudeE7" : 210362301,
+        "longitudeE7" : 1057833646,
+        "placeId" : "ChIJcYLwUbVUNDERvHdQ1bzbzgM",
+        "name" : "Trung Tâm Anh Ngữ Apollo",
+        "locationConfidence" : 0.0776518
+      }, {
+        "latitudeE7" : 210360700,
+        "longitudeE7" : 1057831431,
+        "placeId" : "ChIJazlXUrVUNDERj3EHVTQRvKA",
+        "name" : "DTN Software Solutions",
+        "locationConfidence" : 0.07160527
+      }, {
+        "latitudeE7" : 210377430,
+        "longitudeE7" : 1057814180,
+        "placeId" : "ChIJZ6Sfr8pUNDER4RxOUc92_Uw",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.0688366
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210363645,
+        "longitudeE7" : 1057834431
+      },
+      "endLocation" : {
+        "latitudeE7" : 210468335,
+        "longitudeE7" : 1058033763
+      },
+      "duration" : {
+        "startTimestampMs" : "1492492515528",
+        "endTimestampMs" : "1492493831395"
+      },
+      "distance" : 2286,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 60.12991432203465
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 13.518239103943074
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.017478476154672
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210363578,
+          "lngE7" : 1057835235
+        }, {
+          "latE7" : 210463008,
+          "lngE7" : 1058033752
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468335,
+        "longitudeE7" : 1058033763,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 69.24646
+      },
+      "duration" : {
+        "startTimestampMs" : "1492493831395",
+        "endTimestampMs" : "1492559507222"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210468546,
+      "centerLngE7" : 1058033655,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 19.858866
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 1.4853182
+      }, {
+        "latitudeE7" : 210460045,
+        "longitudeE7" : 1058010462,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "14, 45,13 - 91Hoàng Quốc Việt, Gần Học Viện Quốc Phòng",
+        "locationConfidence" : 1.329407
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 1.0531095
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.558093
+      }, {
+        "latitudeE7" : 210466364,
+        "longitudeE7" : 1058037756,
+        "placeId" : "ChIJD2qxND2rNTERowpdyziosYM",
+        "name" : "Công Ty Liên Doanh Maxpeed Việt Nam",
+        "locationConfidence" : 0.35984766
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.25726628
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.1993167
+      }, {
+        "latitudeE7" : 210464752,
+        "longitudeE7" : 1058025455,
+        "placeId" : "ChIJqdfu1TyrNTERq_DnJRlWeQs",
+        "name" : "Công Ty Cổ Phần Thương Mại & Dịch Vụ Vạn Niên",
+        "locationConfidence" : 0.19340259
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468335,
+        "longitudeE7" : 1058033763,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 73.49858
+      },
+      "duration" : {
+        "startTimestampMs" : "1492571949945",
+        "endTimestampMs" : "1492646400000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210466986,
+      "centerLngE7" : 1058032264,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 16.264729
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 1.3533262
+      }, {
+        "latitudeE7" : 210460570,
+        "longitudeE7" : 1058012610,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "Gần Học viện Quốc Phòng - 91 Hoàng Quốc Việt",
+        "locationConfidence" : 1.2772241
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 0.99467915
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.51345545
+      }, {
+        "latitudeE7" : 210466364,
+        "longitudeE7" : 1058037756,
+        "placeId" : "ChIJD2qxND2rNTERowpdyziosYM",
+        "name" : "Công Ty Liên Doanh Maxpeed Việt Nam",
+        "locationConfidence" : 0.30262405
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.23986655
+      }, {
+        "latitudeE7" : 210464752,
+        "longitudeE7" : 1058025455,
+        "placeId" : "ChIJqdfu1TyrNTERq_DnJRlWeQs",
+        "name" : "Công Ty Cổ Phần Thương Mại & Dịch Vụ Vạn Niên",
+        "locationConfidence" : 0.19331788
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.17181721
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468335,
+        "longitudeE7" : 1058033763,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 71.226654
+      },
+      "duration" : {
+        "startTimestampMs" : "1492659214406",
+        "endTimestampMs" : "1492914946991"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210467474,
+      "centerLngE7" : 1058032253,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 10.704587
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 3.707504
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 2.2263288
+      }, {
+        "latitudeE7" : 210460570,
+        "longitudeE7" : 1058012610,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "Gần Học viện Quốc Phòng - 91 Hoàng Quốc Việt",
+        "locationConfidence" : 1.7484549
+      }, {
+        "latitudeE7" : 210466364,
+        "longitudeE7" : 1058037756,
+        "placeId" : "ChIJD2qxND2rNTERowpdyziosYM",
+        "name" : "Công Ty Liên Doanh Maxpeed Việt Nam",
+        "locationConfidence" : 0.42846322
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.39879173
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.3896481
+      }, {
+        "latitudeE7" : 210464752,
+        "longitudeE7" : 1058025455,
+        "placeId" : "ChIJqdfu1TyrNTERq_DnJRlWeQs",
+        "name" : "Công Ty Cổ Phần Thương Mại & Dịch Vụ Vạn Niên",
+        "locationConfidence" : 0.3738061
+      }, {
+        "latitudeE7" : 210480797,
+        "longitudeE7" : 1058006305,
+        "placeId" : "ChIJ17GFQyOrNTERP9KceCrK_fA",
+        "name" : "Vietnam National Museum of Nature",
+        "locationConfidence" : 0.35930756
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210468335,
+        "longitudeE7" : 1058033763
+      },
+      "endLocation" : {
+        "latitudeE7" : 210468335,
+        "longitudeE7" : 1058033763
+      },
+      "duration" : {
+        "startTimestampMs" : "1492914946991",
+        "endTimestampMs" : "1492922178036"
+      },
+      "distance" : 185,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 41.763664646441704
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 27.37575943830366
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 15.181603931915449
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468335,
+        "longitudeE7" : 1058033763,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 77.67911
+      },
+      "duration" : {
+        "startTimestampMs" : "1492922178036",
+        "endTimestampMs" : "1493077950975"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210466536,
+      "centerLngE7" : 1058030055,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 13.136359
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 1.3936037
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 1.0871549
+      }, {
+        "latitudeE7" : 210460570,
+        "longitudeE7" : 1058012610,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "Gần Học viện Quốc Phòng - 91 Hoàng Quốc Việt",
+        "locationConfidence" : 1.0444462
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.9647851
+      }, {
+        "latitudeE7" : 210466364,
+        "longitudeE7" : 1058037756,
+        "placeId" : "ChIJD2qxND2rNTERowpdyziosYM",
+        "name" : "Công Ty Liên Doanh Maxpeed Việt Nam",
+        "locationConfidence" : 0.2432354
+      }, {
+        "latitudeE7" : 210465553,
+        "longitudeE7" : 1058037257,
+        "placeId" : "ChIJc9_0PDKrNTEROg2lJ4t9fhI",
+        "name" : "Vietnam Certification Services Centre",
+        "locationConfidence" : 0.1594173
+      }, {
+        "latitudeE7" : 210464752,
+        "longitudeE7" : 1058025455,
+        "placeId" : "ChIJqdfu1TyrNTERq_DnJRlWeQs",
+        "name" : "Công Ty Cổ Phần Thương Mại & Dịch Vụ Vạn Niên",
+        "locationConfidence" : 0.15304625
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.14797048
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210469264,
+        "longitudeE7" : 1058033916
+      },
+      "endLocation" : {
+        "latitudeE7" : 210416669,
+        "longitudeE7" : 1057867447
+      },
+      "duration" : {
+        "startTimestampMs" : "1493077950975",
+        "endTimestampMs" : "1493078498459"
+      },
+      "distance" : 3926,
+      "activityType" : "CYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 74.03043623851153
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 22.787908115693295
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.5454895956803292
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210469150,
+          "lngE7" : 1058034439
+        }, {
+          "latE7" : 210417709,
+          "lngE7" : 1057917709
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210419445,
+        "longitudeE7" : 1057875681,
+        "placeId" : "ChIJk9C2tjarNTERmlAUdXJ7xXE",
+        "address" : "Số 6 Trần Quốc Hoàn\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 100000\nViệt Nam",
+        "name" : "Nguyen Binh Khiem High School",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 61.68241
+      },
+      "duration" : {
+        "startTimestampMs" : "1493078498459",
+        "endTimestampMs" : "1493078960953"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 210416529,
+      "centerLngE7" : 1057866286,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210419598,
+        "longitudeE7" : 1057869854,
+        "placeId" : "ChIJ79zKAjSrNTERRO8UmclwdrU",
+        "name" : "Phố Vắng 1 Hotel",
+        "locationConfidence" : 2.2051318
+      }, {
+        "latitudeE7" : 210416837,
+        "longitudeE7" : 1057864238,
+        "placeId" : "ChIJY303bTSrNTERafOMxg99jC8",
+        "name" : "Language Link Vietnam",
+        "locationConfidence" : 1.5541987
+      }, {
+        "latitudeE7" : 210416645,
+        "longitudeE7" : 1057864078,
+        "placeId" : "ChIJPQo7bTSrNTERUkRFTq5cZYE",
+        "name" : "Amory Ice Cream",
+        "locationConfidence" : 1.1874784
+      }, {
+        "latitudeE7" : 210419022,
+        "longitudeE7" : 1057863041,
+        "placeId" : "ChIJE-H7czSrNTERglk2riGRelo",
+        "name" : "Nhà Hàng Trung Dũng",
+        "locationConfidence" : 0.91009635
+      }, {
+        "latitudeE7" : 210424409,
+        "longitudeE7" : 1057873236,
+        "placeId" : "ChIJlxqOBzSrNTERrpSqUtzAkf0",
+        "name" : "Nhà Nghỉ Hoa Hồng",
+        "locationConfidence" : 0.8899191
+      }, {
+        "latitudeE7" : 210412060,
+        "longitudeE7" : 1057877530,
+        "placeId" : "ChIJZ7s8Q6pUNDER1mE0KQdVltU",
+        "name" : "MÓN XƯA - 37 TRẦN QUỐC HOÀN",
+        "locationConfidence" : 0.7695097
+      }, {
+        "latitudeE7" : 210416638,
+        "longitudeE7" : 1057873159,
+        "placeId" : "ChIJ1cnIGjSrNTERVveVU6hOMmQ",
+        "name" : "Quán Kem Xôi - Chè Thái Lan",
+        "locationConfidence" : 0.72686696
+      }, {
+        "latitudeE7" : 210409328,
+        "longitudeE7" : 1057877826,
+        "placeId" : "ChIJld0pIDSrNTERyB5_tYQ2wls",
+        "name" : "Nhà Nghỉ Thảo Nguyên",
+        "locationConfidence" : 0.6748684
+      }, {
+        "latitudeE7" : 210432060,
+        "longitudeE7" : 1057859890,
+        "placeId" : "ChIJqacykDOrNTERkvQsslurbnU",
+        "name" : "Minh Vũ 3 Motel",
+        "locationConfidence" : 0.6718565
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210419445,
+        "longitudeE7" : 1057875681
+      },
+      "endLocation" : {
+        "latitudeE7" : 210361826,
+        "longitudeE7" : 1057825832
+      },
+      "duration" : {
+        "startTimestampMs" : "1493078960953",
+        "endTimestampMs" : "1493091971603"
+      },
+      "distance" : 877,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 75.86250630093063
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 9.480054797282374
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 9.458952032249766
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210416259,
+          "lngE7" : 1057865142
+        }, {
+          "latE7" : 210364093,
+          "lngE7" : 1057826004
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210361826,
+        "longitudeE7" : 1057825832,
+        "placeId" : "ChIJbXb2vEqrNTERGZRetW2xUz0",
+        "address" : "241 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 100000\nViệt Nam",
+        "name" : "Indochina Plaza Hanoi Residences",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 91.376625
+      },
+      "duration" : {
+        "startTimestampMs" : "1493091971603",
+        "endTimestampMs" : "1493093595335"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 210361153,
+          "longitudeE7" : 1057832830,
+          "placeId" : "ChIJbXb2vEqrNTERg-c_FR95ya8",
+          "address" : "241 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội\nViệt Nam",
+          "name" : "Taiwan Embassy",
+          "sourceInfo" : {
+            "deviceTag" : -2098845055
+          },
+          "locationConfidence" : 46.70513
+        },
+        "duration" : {
+          "startTimestampMs" : "1493091971603",
+          "endTimestampMs" : "1493093595335"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 210360393,
+        "centerLngE7" : 1057825267,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210360560,
+          "longitudeE7" : 1057822750,
+          "placeId" : "ChIJS8ZZsUqrNTER8VO-u_8-YQE",
+          "name" : "CGV Cinema IPH",
+          "locationConfidence" : 11.123986
+        }, {
+          "latitudeE7" : 210377424,
+          "longitudeE7" : 1057846715,
+          "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+          "name" : "Hanoi National University of Education",
+          "locationConfidence" : 8.782397
+        }, {
+          "latitudeE7" : 210382375,
+          "longitudeE7" : 1057827076,
+          "placeId" : "ChIJM8IgSTWrNTERN0_cv6MTA10",
+          "name" : "Trường Đại học Công nghệ - ĐHQG Hà Nội",
+          "locationConfidence" : 4.244909
+        }, {
+          "latitudeE7" : 210361657,
+          "longitudeE7" : 1057825835,
+          "placeId" : "ChIJ85yupEqrNTERw-57TVcYA8U",
+          "name" : "Elite Fitness Club",
+          "locationConfidence" : 1.5668249
+        }, {
+          "latitudeE7" : 210359147,
+          "longitudeE7" : 1057821648,
+          "placeId" : "ChIJr1FYu0qrNTERUHRJbITngjA",
+          "name" : "KFC IPH Chicken Restaurant",
+          "locationConfidence" : 1.2411898
+        }, {
+          "latitudeE7" : 210361747,
+          "longitudeE7" : 1057823113,
+          "placeId" : "ChIJLcTVmEqrNTERmv7be4vRzpw",
+          "name" : "Văn phòng ảo P-Office",
+          "locationConfidence" : 0.69908965
+        }, {
+          "latitudeE7" : 210358759,
+          "longitudeE7" : 1057821581,
+          "placeId" : "ChIJ8e7DTLVUNDERHre1sERVO7M",
+          "name" : "Pizza Hut Indochina",
+          "locationConfidence" : 0.64403963
+        }, {
+          "latitudeE7" : 210361056,
+          "longitudeE7" : 1057826355,
+          "placeId" : "ChIJj_Wb0jKrNTERtPEj68QpO3Q",
+          "name" : "Gangnam Bul Gogi",
+          "locationConfidence" : 0.6261593
+        }, {
+          "latitudeE7" : 210358822,
+          "longitudeE7" : 1057828286,
+          "placeId" : "ChIJTbRIsUqrNTERUTKrLMRbPcE",
+          "name" : "Daruma IPH",
+          "locationConfidence" : 0.41366622
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 210360393,
+      "centerLngE7" : 1057825267,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210361153,
+        "longitudeE7" : 1057832830,
+        "placeId" : "ChIJbXb2vEqrNTERg-c_FR95ya8",
+        "name" : "Taiwan Embassy",
+        "locationConfidence" : 5.967472
+      }, {
+        "latitudeE7" : 210377424,
+        "longitudeE7" : 1057846715,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "name" : "Hanoi National University of Education",
+        "locationConfidence" : 1.1221188
+      }, {
+        "latitudeE7" : 210382375,
+        "longitudeE7" : 1057827076,
+        "placeId" : "ChIJM8IgSTWrNTERN0_cv6MTA10",
+        "name" : "Trường Đại học Công nghệ - ĐHQG Hà Nội",
+        "locationConfidence" : 0.5423681
+      }, {
+        "latitudeE7" : 210389749,
+        "longitudeE7" : 1057817006,
+        "placeId" : "ChIJV8yTzcpUNDERcozM7kYCWkY",
+        "name" : "VNU University of Languages and International Studies",
+        "locationConfidence" : 0.043183334
+      }, {
+        "latitudeE7" : 210363040,
+        "longitudeE7" : 1057833272,
+        "placeId" : "ChIJk4sj-WmrNTER8oYcDfK0Ofs",
+        "name" : "NTT Data",
+        "locationConfidence" : 0.042825047
+      }, {
+        "latitudeE7" : 210359250,
+        "longitudeE7" : 1057835471,
+        "placeId" : "ChIJr9UDlkqrNTERVMrG-tBS6Fk",
+        "name" : "RICHLAND SOUTHERN",
+        "locationConfidence" : 0.041171376
+      }, {
+        "latitudeE7" : 210362301,
+        "longitudeE7" : 1057833646,
+        "placeId" : "ChIJcYLwUbVUNDERvHdQ1bzbzgM",
+        "name" : "Trung Tâm Anh Ngữ Apollo",
+        "locationConfidence" : 0.0356278
+      }, {
+        "latitudeE7" : 210362814,
+        "longitudeE7" : 1057833738,
+        "placeId" : "ChIJq1yggUqrNTER6qJuKIOe4nw",
+        "name" : "Harvey Nash Plc Vietnam",
+        "locationConfidence" : 0.033048954
+      }, {
+        "latitudeE7" : 210377882,
+        "longitudeE7" : 1057828490,
+        "placeId" : "ChIJHzD0TjWrNTERShRmw4fDub0",
+        "name" : "Trường ĐH Kinh Tế - Đại học Quốc Gia Hà Nội",
+        "locationConfidence" : 0.03297675
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210361826,
+        "longitudeE7" : 1057825832
+      },
+      "endLocation" : {
+        "latitudeE7" : 210468358,
+        "longitudeE7" : 1058033916
+      },
+      "duration" : {
+        "startTimestampMs" : "1493093595335",
+        "endTimestampMs" : "1493096244796"
+      },
+      "distance" : 2463,
+      "activityType" : "CYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 40.68295984797427
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 31.566786104889626
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 18.194261685935107
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210364093,
+          "lngE7" : 1057826004
+        }, {
+          "latE7" : 210468311,
+          "lngE7" : 1058034286
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468335,
+        "longitudeE7" : 1058033763,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 70.18451
+      },
+      "duration" : {
+        "startTimestampMs" : "1493096244796",
+        "endTimestampMs" : "1493517116559"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210468739,
+      "centerLngE7" : 1058033686,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 21.10974
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 0.9498695
+      }, {
+        "latitudeE7" : 210460570,
+        "longitudeE7" : 1058012610,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "Gần Học viện Quốc Phòng - 91 Hoàng Quốc Việt",
+        "locationConfidence" : 0.8050149
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.765598
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.44356617
+      }, {
+        "latitudeE7" : 210473313,
+        "longitudeE7" : 1058026153,
+        "placeId" : "ChIJc5DV1yKrNTERbX5EPwrnNt0",
+        "name" : "Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 1",
+        "locationConfidence" : 0.26957425
+      }, {
+        "latitudeE7" : 210464752,
+        "longitudeE7" : 1058025455,
+        "placeId" : "ChIJqdfu1TyrNTERq_DnJRlWeQs",
+        "name" : "Công Ty Cổ Phần Thương Mại & Dịch Vụ Vạn Niên",
+        "locationConfidence" : 0.15929611
+      }, {
+        "latitudeE7" : 210470434,
+        "longitudeE7" : 1058019891,
+        "placeId" : "ChIJoTydZiOrNTERW5IUaz58QEk",
+        "name" : "Vietnam National Satellite Center",
+        "locationConfidence" : 0.1578569
+      }, {
+        "latitudeE7" : 210474464,
+        "longitudeE7" : 1058006465,
+        "placeId" : "ChIJWUBMUSOrNTERILwaBrvLetA",
+        "name" : "Viện Công nghệ Sinh học",
+        "locationConfidence" : 0.14369392
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210468335,
+        "longitudeE7" : 1058033763
+      },
+      "endLocation" : {
+        "latitudeE7" : 210896429,
+        "longitudeE7" : 1057683259
+      },
+      "duration" : {
+        "startTimestampMs" : "1493517116559",
+        "endTimestampMs" : "1493518693573"
+      },
+      "distance" : 6048,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 68.431618519658
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 22.151533351367053
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 4.510654208851403
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210463008,
+          "lngE7" : 1058033752
+        }, {
+          "latE7" : 210896034,
+          "lngE7" : 1057683029
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210896429,
+        "longitudeE7" : 1057683259,
+        "placeId" : "ChIJCxfjbkZVNDERMXKS5g9tD_g",
+        "address" : "Hoàng Xá\nLiên Mạc\nTừ Liêm\nHà Nội\nViệt Nam",
+        "name" : "Tạp Hóa Hà Hân",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 69.14601
+      },
+      "duration" : {
+        "startTimestampMs" : "1493518693573",
+        "endTimestampMs" : "1493551069551"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210894485,
+      "centerLngE7" : 1057693801,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210897601,
+        "longitudeE7" : 1057719336,
+        "placeId" : "ChIJ0RV68jdVNDEREzz2h9bzKzc",
+        "name" : "Chùa Chèm",
+        "locationConfidence" : 22.294142
+      }, {
+        "latitudeE7" : 210900379,
+        "longitudeE7" : 1057699024,
+        "placeId" : "ChIJIY0QBEZVNDERuyKk9Vj-5zY",
+        "name" : "Điểm thủy chuẩn R6",
+        "locationConfidence" : 5.3822074
+      }, {
+        "latitudeE7" : 210912520,
+        "longitudeE7" : 1057673228,
+        "placeId" : "ChIJay8hLURVNDERHXe8bR5p-5s",
+        "name" : "Cây xăng Đền Hoàng",
+        "locationConfidence" : 0.67729205
+      }, {
+        "latitudeE7" : 210915647,
+        "longitudeE7" : 1057667522,
+        "placeId" : "ChIJKZUPMERVNDERKR3bFwTL45I",
+        "name" : "Đền Hoàng",
+        "locationConfidence" : 0.44549206
+      }, {
+        "latitudeE7" : 210883648,
+        "longitudeE7" : 1057697933,
+        "placeId" : "ChIJ7-SeJUZVNDERLr8B9DXzQWQ",
+        "name" : "Cửa hàng Điện - Nước Việt Hưng",
+        "locationConfidence" : 0.3660276
+      }, {
+        "latitudeE7" : 210888740,
+        "longitudeE7" : 1057673070,
+        "placeId" : "ChIJpSAL9kZVNDERQqX6K1pvpOU",
+        "name" : "Công Ty Cổ Phần Thương Mại BMQ",
+        "locationConfidence" : 0.26282954
+      }, {
+        "latitudeE7" : 210884453,
+        "longitudeE7" : 1057681278,
+        "placeId" : "ChIJ____T0ZVNDERYXzIV71b8Rs",
+        "name" : "-Văn Phòng",
+        "locationConfidence" : 0.25851598
+      }, {
+        "latitudeE7" : 210888396,
+        "longitudeE7" : 1057710993,
+        "placeId" : "ChIJbWXwl0hVNDERHIbBX8Hw9j0",
+        "name" : "Công Ty Tnhh Hòa Bình Phú",
+        "locationConfidence" : 0.1301628
+      }, {
+        "latitudeE7" : 210903000,
+        "longitudeE7" : 1057720000,
+        "placeId" : "ChIJm_rZNE9VNDERvMTPntcZcnc",
+        "name" : "Xưởng Sửa Chữa Cơ Điện Lạnh Hà Nội",
+        "locationConfidence" : 0.12512073
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210468335,
+        "longitudeE7" : 1058033763,
+        "placeId" : "ChIJ-34PmDyrNTERiWqKV_7oC3c",
+        "address" : "16 Hoàng Quốc Việt\nNghĩa Đô\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "16 Hoàng Quốc Việt",
+        "sourceInfo" : {
+          "deviceTag" : -2098845055
+        },
+        "locationConfidence" : 81.05363
+      },
+      "duration" : {
+        "startTimestampMs" : "1493568718608",
+        "endTimestampMs" : "1493736275016"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210468730,
+      "centerLngE7" : 1058033336,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210468153,
+        "longitudeE7" : 1058031252,
+        "placeId" : "ChIJK6o4qyKrNTERaqrjApz6Fd0",
+        "name" : "Viện Năng suất Việt Nam",
+        "locationConfidence" : 9.7955
+      }, {
+        "latitudeE7" : 210463885,
+        "longitudeE7" : 1058033610,
+        "placeId" : "ChIJX_t9HGAIVhERSjF6pv0CIr0",
+        "name" : "TH True Milk",
+        "locationConfidence" : 1.5658369
+      }, {
+        "latitudeE7" : 210460570,
+        "longitudeE7" : 1058012610,
+        "placeId" : "ChIJH-H0uDyrNTERy7C-KY34qEo",
+        "name" : "Gần Học viện Quốc Phòng - 91 Hoàng Quốc Việt",
+        "locationConfidence" : 0.9297659
+      }, {
+        "latitudeE7" : 210463751,
+        "longitudeE7" : 1058016987,
+        "placeId" : "ChIJpdJEzjyrNTER4vXwlk61PPM",
+        "name" : "4 Hoàng Quốc Việt",
+        "locationConfidence" : 0.8271187
+      }, {
+        "latitudeE7" : 210465202,
+        "longitudeE7" : 1058044419,
+        "placeId" : "ChIJLSZXTD2rNTEREmefYcBrpM0",
+        "name" : "Tòa Nhà Viglacera - QUALISERV",
+        "locationConfidence" : 0.33436355
+      }, {
+        "latitudeE7" : 210463250,
+        "longitudeE7" : 1058041441,
+        "placeId" : "ChIJoVj8IGarNTERQB93_gk9t9U",
+        "name" : "Huy Linh Co.,Ltd",
+        "locationConfidence" : 0.16721922
+      }, {
+        "latitudeE7" : 210458601,
+        "longitudeE7" : 1058034146,
+        "placeId" : "ChIJqYrDOj2rNTER_KeWhXvdAQA",
+        "name" : "Trung Tâm thời Trang Đồng Phục Như Ý",
+        "locationConfidence" : 0.12148174
+      }, {
+        "latitudeE7" : 210474464,
+        "longitudeE7" : 1058006465,
+        "placeId" : "ChIJWUBMUSOrNTERILwaBrvLetA",
+        "name" : "Viện Công nghệ Sinh học",
+        "locationConfidence" : 0.11870896
+      }, {
+        "latitudeE7" : 210464331,
+        "longitudeE7" : 1058035492,
+        "placeId" : "ChIJKavkMz2rNTERME2Dt2WaOAw",
+        "name" : "Nhà Hàng Bia Hải Xồm",
+        "locationConfidence" : 0.07506593
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

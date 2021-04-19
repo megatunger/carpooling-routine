@@ -1,0 +1,462 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "address" : "xa.duc.thuongĐường Không Tên, Nha.van.hoa, thôn Nội\nĐức Thượng\nHoài Đức\nHà Nội\nViệt Nam",
+        "name" : "Ubnd Xã Đức Thượng",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 38.264854
+      },
+      "duration" : {
+        "startTimestampMs" : "1490755093228",
+        "endTimestampMs" : "1490759238063"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210732585,
+      "centerLngE7" : 1056930931,
+      "visitConfidence" : 74,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210723883,
+        "longitudeE7" : 1056937923,
+        "placeId" : "ChIJP3QUd9RVNDERAAAAAAAAAAA",
+        "locationConfidence" : 20.390984
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 17.50816
+      }, {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 14.591198
+      }, {
+        "latitudeE7" : 210739114,
+        "longitudeE7" : 1056955088,
+        "placeId" : "ChIJ4eRV59NVNDERqGcSIFZTyUA",
+        "name" : "Nhà Thuốc Phú Đa",
+        "locationConfidence" : 2.6245995
+      }, {
+        "latitudeE7" : 210735693,
+        "longitudeE7" : 1056940260,
+        "placeId" : "ChIJK7ooCNRVNDERfo2FZ6rjgbs",
+        "name" : "Nhà May Thủy",
+        "locationConfidence" : 1.0904437
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.8295637
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 0.5894193
+      }, {
+        "latitudeE7" : 210736160,
+        "longitudeE7" : 1056942139,
+        "placeId" : "ChIJTe6e99NVNDERTxG51PolgFM",
+        "name" : "Vàng Mã Hoài Đức Phủ",
+        "locationConfidence" : 0.5234061
+      }, {
+        "latitudeE7" : 210745743,
+        "longitudeE7" : 1056941896,
+        "placeId" : "ChIJZZcEVdFVNDER8hA6dBMaq0E",
+        "name" : "Bưu Điện Văn Hóa Xã Đức Thượng",
+        "locationConfidence" : 0.35089934
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736
+      },
+      "endLocation" : {
+        "latitudeE7" : 201784949,
+        "longitudeE7" : 1059519553
+      },
+      "duration" : {
+        "startTimestampMs" : "1490759238063",
+        "endTimestampMs" : "1490763460482"
+      },
+      "distance" : 566,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 49.49111495978249
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 25.15983737675257
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 21.87511554754127
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210738086,
+          "lngE7" : 1056941757
+        }, {
+          "latE7" : 201784667,
+          "lngE7" : 1059519805
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1490763460482",
+        "location" : {
+          "latitudeE7" : 201784949,
+          "longitudeE7" : 1059519553
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 201784949,
+        "longitudeE7" : 1059519553,
+        "placeId" : "ChIJP12oeLl6NjERx85YpzG8Zm0",
+        "address" : "QL1A\nMai Sơn\nYên Mô\nNinh Bình\nViệt Nam",
+        "name" : "Cơ Sở Đá Mỹ Nghệ Đồng Tiến",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 76.751175
+      },
+      "duration" : {
+        "startTimestampMs" : "1490763460482",
+        "endTimestampMs" : "1490786555987"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 204539053,
+      "centerLngE7" : 1058731402,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 201784748,
+        "longitudeE7" : 1059519338,
+        "placeId" : "ChIJ8w4Jgrl6NjER3Aiq98qxONk",
+        "name" : "Nhà Nghĩ Sơn Thủy",
+        "locationConfidence" : 8.671196
+      }, {
+        "latitudeE7" : 201772361,
+        "longitudeE7" : 1059504050,
+        "placeId" : "ChIJ8-iQuLl6NjERVD1Fp2tt6oA",
+        "name" : "Nhà Hàng Trung Kiên",
+        "locationConfidence" : 4.4359455
+      }, {
+        "latitudeE7" : 201805996,
+        "longitudeE7" : 1059543961,
+        "placeId" : "ChIJp7Krj7t6NjERocVcb6z5Qyg",
+        "name" : "Cửa Hàng Tạp Hóa Niên Khương",
+        "locationConfidence" : 3.791866
+      }, {
+        "latitudeE7" : 201788927,
+        "longitudeE7" : 1059545785,
+        "placeId" : "ChIJkQzhr7t6NjERVBLyXzFtUyk",
+        "name" : "Nhà Thuốc Vũ Thị Hiên",
+        "locationConfidence" : 2.416108
+      }, {
+        "latitudeE7" : 201790689,
+        "longitudeE7" : 1059544766,
+        "placeId" : "ChIJkQ_Aurt6NjERz_slvuKpl2w",
+        "name" : "Cửa Hàng Kim Khí Điện Máy Minh Tuyến",
+        "locationConfidence" : 2.1300616
+      }, {
+        "latitudeE7" : 201789783,
+        "longitudeE7" : 1059545302,
+        "placeId" : "ChIJfUyourt6NjERxU6xTSuPAjQ",
+        "name" : "Cửa Hàng Vàng - Bạc Ngọc Tú",
+        "locationConfidence" : 1.8036484
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 201789866,
+        "longitudeE7" : 1059525473
+      },
+      "endLocation" : {
+        "latitudeE7" : 211954865,
+        "longitudeE7" : 1060669315
+      },
+      "duration" : {
+        "startTimestampMs" : "1490786555987",
+        "endTimestampMs" : "1490787036829"
+      },
+      "distance" : 113641,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 70.67615535467854
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 22.24975716286018
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 1.3942101772654683
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 201789417,
+          "lngE7" : 1059525833
+        }, {
+          "latE7" : 211955127,
+          "lngE7" : 1060669021
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1490787036829",
+        "location" : {
+          "latitudeE7" : 211954865,
+          "longitudeE7" : 1060669315
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 211954140,
+        "longitudeE7" : 1060666905,
+        "placeId" : "ChIJG3bn0CEMNTERbBvQG4w5vyQ",
+        "address" : "Lô 15 Lê Đức Thọ\nP. Đáp Cầu\nBắc Ninh\nViệt Nam",
+        "name" : "Nhà Hàng Đông Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 98.31796
+      },
+      "duration" : {
+        "startTimestampMs" : "1490787036829",
+        "endTimestampMs" : "1490787530000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 211954307,
+      "centerLngE7" : 1060666854,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 211961095,
+        "longitudeE7" : 1060640582,
+        "placeId" : "ChIJG5aNByAMNTER_UN9I47yElg",
+        "name" : "Chung Cu Hoa Long Kinh Bac",
+        "locationConfidence" : 0.60710526
+      }, {
+        "latitudeE7" : 211936403,
+        "longitudeE7" : 1060677128,
+        "placeId" : "ChIJBw-mEh8MNTERUvD41XC7i_s",
+        "name" : "Thiet Bi Y Te IHL",
+        "locationConfidence" : 0.28869534
+      }, {
+        "latitudeE7" : 211944602,
+        "longitudeE7" : 1060659492,
+        "placeId" : "ChIJ4YK9kR8MNTERVNqPsCVfEV8",
+        "name" : "Đại Lý Sơn Cấp 1 - Sơn Spec",
+        "locationConfidence" : 0.24638185
+      }, {
+        "latitudeE7" : 211939670,
+        "longitudeE7" : 1060648914,
+        "placeId" : "ChIJYwko6B8MNTERnff_V-vXMHA",
+        "name" : "Công ty TNHH TMDV BAHULI",
+        "locationConfidence" : 0.17123477
+      }, {
+        "latitudeE7" : 211945353,
+        "longitudeE7" : 1060677515,
+        "placeId" : "ChIJswU7ZR8MNTERUZMz7pzAds0",
+        "name" : "Công Ty TNHH Thương Mại Dịch Vụ ADL",
+        "locationConfidence" : 0.13069804
+      }, {
+        "latitudeE7" : 211948754,
+        "longitudeE7" : 1060653913,
+        "placeId" : "ChIJX8sX8x8MNTERp2FmHklUbYQ",
+        "name" : "Cửa Hàng Vlxd - Thiết Bị Vệ Sinh Long Tuấn",
+        "locationConfidence" : 0.07591922
+      }, {
+        "latitudeE7" : 211946603,
+        "longitudeE7" : 1060694575,
+        "placeId" : "ChIJmYS5Vh8MNTERVJeQEU7IBvQ",
+        "name" : "Phòng Giáo Dục & Đào Tạo Thành Phố Bắc Ninh",
+        "locationConfidence" : 0.07534181
+      }, {
+        "latitudeE7" : 211950394,
+        "longitudeE7" : 1060636597,
+        "placeId" : "ChIJhRmdBqAONTERV3UxpkG4jcM",
+        "name" : "Viet Thanh Garment General Import Export Co.",
+        "locationConfidence" : 0.0520589
+      }, {
+        "latitudeE7" : 211938412,
+        "longitudeE7" : 1060681052,
+        "placeId" : "ChIJzSydax8MNTERmFePZuOCKj4",
+        "name" : "Công Ty TNHH Một Thành Viên Công Nghệ Phúc Sơn",
+        "locationConfidence" : 0.034599338
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210723883,
+        "longitudeE7" : 1056937923,
+        "placeId" : "ChIJP3QUd9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 62.41513
+      },
+      "duration" : {
+        "startTimestampMs" : "1490801783563",
+        "endTimestampMs" : "1490832000000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210727022,
+      "centerLngE7" : 1056940143,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 21.304949
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 7.7261686
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 3.0417428
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 1.4532039
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 0.7480237
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.30812463
+      }, {
+        "latitudeE7" : 210742539,
+        "longitudeE7" : 1056941950,
+        "placeId" : "ChIJgx-p_9NVNDERb_mkBDAYpG0",
+        "name" : "Trung Tâm Thể Thao Văn Hóa Xã Đức Thượng",
+        "locationConfidence" : 0.2693693
+      }, {
+        "latitudeE7" : 210745743,
+        "longitudeE7" : 1056941896,
+        "placeId" : "ChIJZZcEVdFVNDER8hA6dBMaq0E",
+        "name" : "Bưu Điện Văn Hóa Xã Đức Thượng",
+        "locationConfidence" : 0.25913066
+      }, {
+        "latitudeE7" : 210739114,
+        "longitudeE7" : 1056955088,
+        "placeId" : "ChIJ4eRV59NVNDERqGcSIFZTyUA",
+        "name" : "Nhà Thuốc Phú Đa",
+        "locationConfidence" : 0.20033605
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210723883,
+        "longitudeE7" : 1056937923,
+        "placeId" : "ChIJP3QUd9RVNDERAAAAAAAAAAA",
+        "address" : "Đức Thượng, Hoài Đức, Hà Nội, Việt Nam",
+        "sourceInfo" : {
+          "deviceTag" : -940663424
+        },
+        "locationConfidence" : 62.56734
+      },
+      "duration" : {
+        "startTimestampMs" : "1490857321452",
+        "endTimestampMs" : "1490887674737"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210727869,
+      "centerLngE7" : 1056940662,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210734346,
+        "longitudeE7" : 1056949601,
+        "placeId" : "ChIJhV1V7tNVNDERIO0A1_kgVQQ",
+        "name" : "Gánh Hát Quan Họ Bắc Ninh",
+        "locationConfidence" : 21.217226
+      }, {
+        "latitudeE7" : 210739406,
+        "longitudeE7" : 1056934954,
+        "placeId" : "ChIJHeIABdRVNDERnqzDvmu8ZwI",
+        "name" : "Trường tiểu học Đức Thượng",
+        "locationConfidence" : 7.695649
+      }, {
+        "latitudeE7" : 210738084,
+        "longitudeE7" : 1056941736,
+        "placeId" : "ChIJYXhG-NNVNDERq9ijz4zPn4Y",
+        "name" : "Ubnd Xã Đức Thượng",
+        "locationConfidence" : 3.0307465
+      }, {
+        "latitudeE7" : 210701510,
+        "longitudeE7" : 1057001914,
+        "placeId" : "ChIJU4lAY81VNDER8b9X9ocAq-0",
+        "name" : "ĐTM Nam 32 - Lũng Lô 5 - BQP",
+        "locationConfidence" : 1.4463313
+      }, {
+        "latitudeE7" : 210723318,
+        "longitudeE7" : 1056920419,
+        "placeId" : "ChIJly4cW9RVNDER6LWrUMXuNkY",
+        "name" : "Trường THCS Đức Thượng",
+        "locationConfidence" : 0.74462205
+      }, {
+        "latitudeE7" : 210735231,
+        "longitudeE7" : 1056941628,
+        "placeId" : "ChIJf2Wz99NVNDER-O1qJkIJWf0",
+        "name" : "Cửa Hàng Vlxd Thanh Hằng",
+        "locationConfidence" : 0.3066031
+      }, {
+        "latitudeE7" : 210742539,
+        "longitudeE7" : 1056941950,
+        "placeId" : "ChIJgx-p_9NVNDERb_mkBDAYpG0",
+        "name" : "Trung Tâm Thể Thao Văn Hóa Xã Đức Thượng",
+        "locationConfidence" : 0.26798105
+      }, {
+        "latitudeE7" : 210745743,
+        "longitudeE7" : 1056941896,
+        "placeId" : "ChIJZZcEVdFVNDER8hA6dBMaq0E",
+        "name" : "Bưu Điện Văn Hóa Xã Đức Thượng",
+        "locationConfidence" : 0.25832072
+      }, {
+        "latitudeE7" : 210739114,
+        "longitudeE7" : 1056955088,
+        "placeId" : "ChIJ4eRV59NVNDERqGcSIFZTyUA",
+        "name" : "Nhà Thuốc Phú Đa",
+        "locationConfidence" : 0.19951011
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
