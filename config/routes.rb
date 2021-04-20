@@ -7,7 +7,9 @@ Rails.application.routes.draw do
 
   namespace :modeling do
     get 'pre-processing-lda'
-    get 'training-lda'
+    get 'training-lda', action: 'get_training_lda'
+    post 'training-lda', action: 'training_lda'
+    get 'routes-trip-lda'
   end
 end
 

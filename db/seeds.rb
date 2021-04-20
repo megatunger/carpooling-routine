@@ -9,7 +9,7 @@ require 'faker'
 require 'json'
 
 def seed_user
-  (1..4).each do
+  (1..8).each do
     User.create(user_name: Faker::Name.name)
   end
 end
@@ -20,9 +20,14 @@ def seed_location
     'db/Dataset/user2/**/*.json',
     'db/Dataset/user3/**/*.json',
     'db/Dataset/user4/**/*.json',
+    'db/Dataset/user5/**/*.json',
+    'db/Dataset/user6/**/*.json',
+    'db/Dataset/user7/**/*.json',
+    'db/Dataset/user8/**/*.json',
+    'db/Dataset/user9/**/*.json',
   ]
   User.all.each_with_index do |user, index|
-    Dir.glob(directories[index%4]) do |rb_filename|
+    Dir.glob(directories[index%9]) do |rb_filename|
       data_hash = JSON.parse(File.read(rb_filename))
       data_hash['timelineObjects'].each do |object|
         if object['placeVisit']

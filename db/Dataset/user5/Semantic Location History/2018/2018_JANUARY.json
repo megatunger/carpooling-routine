@@ -1,0 +1,3460 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190029700,
+        "longitudeE7" : 1055990400
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1514801070138",
+        "endTimestampMs" : "1514807412926"
+      },
+      "distance" : 423,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 64.69340291138666
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.06427321856615
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 13.385065239768501
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190029335,
+          "lngE7" : 1055990447
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633
+      },
+      "duration" : {
+        "startTimestampMs" : "1514807412926",
+        "endTimestampMs" : "1515049183356"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190059876,
+          "lngE7" : 1056008781,
+          "timestampMs" : "1514867019822",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 190051121,
+          "lngE7" : 1056005574,
+          "timestampMs" : "1514944249666",
+          "accuracyMeters" : 27
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633
+      },
+      "endLocation" : {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154
+      },
+      "duration" : {
+        "startTimestampMs" : "1515049183356",
+        "endTimestampMs" : "1515054349128"
+      },
+      "distance" : 182,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 54.5006583107437
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 23.52984417552356
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.787669739265688
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1055995330
+        }, {
+          "latE7" : 190060596,
+          "lngE7" : 1056013336
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154
+      },
+      "endLocation" : {
+        "latitudeE7" : 190049918,
+        "longitudeE7" : 1056007750
+      },
+      "duration" : {
+        "startTimestampMs" : "1515054349128",
+        "endTimestampMs" : "1515147468641"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190061627,
+          "lngE7" : 1056006755,
+          "timestampMs" : "1515082390799",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190051031,
+          "lngE7" : 1056009239,
+          "timestampMs" : "1515135700655",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 190049365,
+          "lngE7" : 1056004657,
+          "timestampMs" : "1515139105816",
+          "accuracyMeters" : 27
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190049918,
+        "longitudeE7" : 1056007750
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061820,
+        "longitudeE7" : 1056007177
+      },
+      "duration" : {
+        "startTimestampMs" : "1515147468641",
+        "endTimestampMs" : "1515147708738"
+      },
+      "distance" : 134,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 60.6246196629769
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 27.866866096070208
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.907086923329274
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190050945,
+          "lngE7" : 1056007537
+        }, {
+          "latE7" : 190062065,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061820,
+        "longitudeE7" : 1056007177
+      },
+      "endLocation" : {
+        "latitudeE7" : 190049355,
+        "longitudeE7" : 1056004656
+      },
+      "duration" : {
+        "startTimestampMs" : "1515221165607",
+        "endTimestampMs" : "1515223706612"
+      },
+      "distance" : 141,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 46.7434130747448
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 42.06197141595021
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.574357617136508
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190062065,
+          "lngE7" : 1056007919
+        }, {
+          "latE7" : 190050411,
+          "lngE7" : 1056004409
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061820,
+        "longitudeE7" : 1056007177
+      },
+      "endLocation" : {
+        "latitudeE7" : 190053617,
+        "longitudeE7" : 1055992289
+      },
+      "duration" : {
+        "startTimestampMs" : "1515287173587",
+        "endTimestampMs" : "1515287413913"
+      },
+      "distance" : 199,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 59.55323474801667
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 24.063758734346678
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 13.350556143482722
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190062065,
+          "lngE7" : 1056007919
+        }, {
+          "latE7" : 190053615,
+          "lngE7" : 1055992279
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190053617,
+        "longitudeE7" : 1055992289
+      },
+      "endLocation" : {
+        "latitudeE7" : 190060447,
+        "longitudeE7" : 1056003412
+      },
+      "duration" : {
+        "startTimestampMs" : "1515287654705",
+        "endTimestampMs" : "1515299088633"
+      },
+      "distance" : 370,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 56.968288871156666
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 25.12831958719287
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 10.081189619201913
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190053615,
+          "lngE7" : 1055992279
+        }, {
+          "latE7" : 190060024,
+          "lngE7" : 1056002044
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190060447,
+        "longitudeE7" : 1056003412
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1515299088633",
+        "endTimestampMs" : "1515466167367"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190050233,
+          "lngE7" : 1056004085,
+          "timestampMs" : "1515395572639",
+          "accuracyMeters" : 26
+        }, {
+          "latE7" : 190050128,
+          "lngE7" : 1056009239,
+          "timestampMs" : "1515406206758",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 190050128,
+          "lngE7" : 1056009239,
+          "timestampMs" : "1515407288756",
+          "accuracyMeters" : 23
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387
+      },
+      "duration" : {
+        "startTimestampMs" : "1515466167367",
+        "endTimestampMs" : "1515479744211"
+      },
+      "distance" : 708,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 61.65702360054826
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 20.304916698283968
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 13.605339157594818
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190020694,
+          "lngE7" : 1056053314
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387,
+        "placeId" : "ChIJmWCgclB7NzERR9YHaZ7kJvU",
+        "address" : "Thôn Đông Lộc, Xã Diễn Ngọc, Huyện Diễn Châu, Tỉnh Nghệ An\nDiễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Công Ty TNHH Châu Tín Nghệ An",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 40.17012
+      },
+      "duration" : {
+        "startTimestampMs" : "1515479744211",
+        "endTimestampMs" : "1515491143172"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190032956,
+      "centerLngE7" : 1056023294,
+      "visitConfidence" : 55,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190015244,
+        "longitudeE7" : 1056056764,
+        "placeId" : "ChIJi_hJcVB7NzERwLWdoeFb-jw",
+        "name" : "Huong Que Trading & Investment Joint Stock Company",
+        "locationConfidence" : 37.143574
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 20.199875
+      }, {
+        "latitudeE7" : 190003703,
+        "longitudeE7" : 1056089983,
+        "placeId" : "ChIJ9bClt6Z8NzERP7VIKIrZ07I",
+        "locationConfidence" : 2.4864318
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061454,
+        "longitudeE7" : 1056006463
+      },
+      "duration" : {
+        "startTimestampMs" : "1515491143172",
+        "endTimestampMs" : "1515501777885"
+      },
+      "distance" : 681,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 66.15700668933081
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 19.010335136289406
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.106691128113555
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190020694,
+          "lngE7" : 1056053314
+        }, {
+          "latE7" : 190061950,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 60.545315
+      },
+      "duration" : {
+        "startTimestampMs" : "1515501777885",
+        "endTimestampMs" : "1515561813161"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190052152,
+      "centerLngE7" : 1056016099,
+      "visitConfidence" : 57,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 22.757795
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 5.260426
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 4.184064
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 2.714365
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 1.5813032
+      }, {
+        "latitudeE7" : 190086026,
+        "longitudeE7" : 1055958047,
+        "placeId" : "ChIJbVnx6Ux7NzERWVgrae6Y8DQ",
+        "locationConfidence" : 1.3564478
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 1.0654637
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 0.53481865
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341
+      },
+      "duration" : {
+        "startTimestampMs" : "1515561813161",
+        "endTimestampMs" : "1515562202573"
+      },
+      "distance" : 797,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 73.1103854269332
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 20.319618365019316
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.985805802223442
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 189993267,
+          "lngE7" : 1055993194
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341,
+        "placeId" : "ChIJq6qqqlN7NzER5BNbF7F2uy0",
+        "address" : "Diễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Trường Tiểu học xã Diễn Ngọc",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 81.63434
+      },
+      "duration" : {
+        "startTimestampMs" : "1515562202573",
+        "endTimestampMs" : "1515576706447"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190021842,
+      "centerLngE7" : 1056007438,
+      "visitConfidence" : 66,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190029700,
+        "longitudeE7" : 1055990400,
+        "placeId" : "ChIJicfuE1J7NzER5eyFbTgDt48",
+        "name" : "Cửa Hàng Thiết Bị Điện Công Nghiệp NGỌC HOÀNG",
+        "locationConfidence" : 6.2090793
+      }, {
+        "latitudeE7" : 189989596,
+        "longitudeE7" : 1056003974,
+        "placeId" : "ChIJR6itWVF7NzERwAaajSweBMs",
+        "name" : "KTS Trường Sơn",
+        "locationConfidence" : 6.088781
+      }, {
+        "latitudeE7" : 190012363,
+        "longitudeE7" : 1055982774,
+        "placeId" : "ChIJ8abATFJ7NzERy6je39QG4KI",
+        "name" : "Công Ty TNHH Đầu Tư Thương Mại Và Phát Triển An Thịnh",
+        "locationConfidence" : 4.3225865
+      }, {
+        "latitudeE7" : 189994254,
+        "longitudeE7" : 1055989014,
+        "placeId" : "ChIJazwJ61N7NzERMf8HWf8A-xk",
+        "name" : "Cơ Sở Vận Tải Hành Khách Nguyễn Văn Tuấn",
+        "locationConfidence" : 1.7452154
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1515576706447",
+        "endTimestampMs" : "1515581030421"
+      },
+      "distance" : 790,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 61.09808613286513
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.958582660466163
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 14.983211343251721
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 189993267,
+          "lngE7" : 1055993194
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 56.94944
+      },
+      "duration" : {
+        "startTimestampMs" : "1515581030421",
+        "endTimestampMs" : "1515627517888"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190057274,
+      "centerLngE7" : 1056003533,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 26.13492
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 5.476406
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 4.708527
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 2.8541832
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 1.445909
+      }, {
+        "latitudeE7" : 190086026,
+        "longitudeE7" : 1055958047,
+        "placeId" : "ChIJbVnx6Ux7NzERWVgrae6Y8DQ",
+        "locationConfidence" : 1.1475165
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 0.9986065
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 0.2844922
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190015244,
+        "longitudeE7" : 1056056764
+      },
+      "duration" : {
+        "startTimestampMs" : "1515627517888",
+        "endTimestampMs" : "1515630167138"
+      },
+      "distance" : 765,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 68.39612481252615
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 13.545667638967709
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 13.137605070742858
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190012130,
+          "lngE7" : 1056056213
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190015244,
+        "longitudeE7" : 1056056764,
+        "placeId" : "ChIJi_hJcVB7NzERwLWdoeFb-jw",
+        "address" : "Xóm Đông Lộc, Xã Diễn Ngọc, Huyện Diễn Châu\nDiễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Huong Que Trading & Investment Joint Stock Company",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 40.467697
+      },
+      "duration" : {
+        "startTimestampMs" : "1515630167138",
+        "endTimestampMs" : "1515648788500"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190034000,
+      "centerLngE7" : 1056032920,
+      "visitConfidence" : 53,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387,
+        "placeId" : "ChIJmWCgclB7NzERR9YHaZ7kJvU",
+        "name" : "Công Ty TNHH Châu Tín Nghệ An",
+        "locationConfidence" : 37.86039
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 19.470062
+      }, {
+        "latitudeE7" : 190003703,
+        "longitudeE7" : 1056089983,
+        "placeId" : "ChIJ9bClt6Z8NzERP7VIKIrZ07I",
+        "locationConfidence" : 2.2018487
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190015244,
+        "longitudeE7" : 1056056764
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1515648788500",
+        "endTimestampMs" : "1515648806706"
+      },
+      "distance" : 714,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 62.45795163123289
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.878902929915625
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 16.20128745355621
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190012130,
+          "lngE7" : 1056056213
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 75.12008
+      },
+      "duration" : {
+        "startTimestampMs" : "1515648806706",
+        "endTimestampMs" : "1515670779765"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190061369,
+      "centerLngE7" : 1056005913,
+      "visitConfidence" : 56,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 11.717661
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 5.024617
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 2.9938693
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 2.2811344
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 1.0561339
+      }, {
+        "latitudeE7" : 190086026,
+        "longitudeE7" : 1055958047,
+        "placeId" : "ChIJbVnx6Ux7NzERWVgrae6Y8DQ",
+        "locationConfidence" : 0.8236484
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 0.51463765
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 0.46821764
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 189997095,
+        "longitudeE7" : 1055953823
+      },
+      "duration" : {
+        "startTimestampMs" : "1515670779765",
+        "endTimestampMs" : "1515670899797"
+      },
+      "distance" : 983,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 71.91683385571898
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 21.41440661836967
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.493484380214506
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 189997138,
+          "lngE7" : 1055953826
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 189997095,
+        "longitudeE7" : 1055953823,
+        "placeId" : "ChIJnVTGRlN7NzERfE7pXDDF7aY",
+        "address" : "Xóm Ngọc Tân, xã Diễn Ngọc, huyện Diễn Châu\nDiễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Doanh Nghiệp Tư Nhân Tám Hằng",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 35.10549
+      },
+      "duration" : {
+        "startTimestampMs" : "1515670899797",
+        "endTimestampMs" : "1515673060501"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 190018000,
+      "centerLngE7" : 1055950700,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190015760,
+        "longitudeE7" : 1055971848,
+        "placeId" : "ChIJt3RI_1J7NzERqA7YQvZTIIM",
+        "name" : "Ngu Hai Construction Investment Joint Stock Company",
+        "locationConfidence" : 27.314217
+      }, {
+        "latitudeE7" : 190022252,
+        "longitudeE7" : 1055956398,
+        "placeId" : "ChIJbVzhwlJ7NzER6o_cdfHdayc",
+        "name" : "Công Ty TNHH Tâm Trí Mạnh",
+        "locationConfidence" : 11.537874
+      }, {
+        "latitudeE7" : 190014969,
+        "longitudeE7" : 1055944222,
+        "placeId" : "ChIJX4hf1VJ7NzERuVgX_E19drY",
+        "name" : "Cửa Hàng Máy Nông Nghiệp Hồng Bản",
+        "locationConfidence" : 3.6582673
+      }, {
+        "latitudeE7" : 190017668,
+        "longitudeE7" : 1055969810,
+        "placeId" : "ChIJGb1t-VJ7NzER-P6QcukHoiY",
+        "name" : "Trung Tâm Dạy Nghề Huyện Diễn Châu",
+        "locationConfidence" : 2.6870182
+      }, {
+        "latitudeE7" : 190012514,
+        "longitudeE7" : 1055972706,
+        "placeId" : "ChIJq6qqqlN7NzER2ki3VRvsLms",
+        "name" : "Ngọc Minh",
+        "locationConfidence" : 2.64368
+      }, {
+        "latitudeE7" : 189995914,
+        "longitudeE7" : 1055924149,
+        "placeId" : "ChIJv1Ej7KxkNzERgFD6qRvNfcw",
+        "locationConfidence" : 1.6978898
+      }, {
+        "latitudeE7" : 190036048,
+        "longitudeE7" : 1055940949,
+        "placeId" : "ChIJ5zqWTa1kNzERfLu9ojpVj8Q",
+        "name" : "Công Ty TNHH Hải Vân",
+        "locationConfidence" : 1.6790129
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 1.5622176
+      }, {
+        "latitudeE7" : 189991282,
+        "longitudeE7" : 1055950981,
+        "placeId" : "ChIJL5eEWlN7NzERHF2QvFJ-XTs",
+        "name" : "Cửa Hàng Máy Nông Nghiệp Mai Hoa",
+        "locationConfidence" : 1.5290054
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 189997095,
+        "longitudeE7" : 1055953823
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1515673060501",
+        "endTimestampMs" : "1515677022201"
+      },
+      "distance" : 270,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 68.26823296190997
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.684251513079868
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.546753380577849
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 189997138,
+          "lngE7" : 1055953826
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1515677022201",
+        "endTimestampMs" : "1515809207752"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190049984,
+          "lngE7" : 1056006388,
+          "timestampMs" : "1515804322936",
+          "accuracyMeters" : 88
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387
+      },
+      "duration" : {
+        "startTimestampMs" : "1515809207752",
+        "endTimestampMs" : "1515824826152"
+      },
+      "distance" : 39,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 56.44616129405817
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 23.20410539515083
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 14.847953268667013
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190020694,
+          "lngE7" : 1056053314
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387,
+        "placeId" : "ChIJmWCgclB7NzERR9YHaZ7kJvU",
+        "address" : "Thôn Đông Lộc, Xã Diễn Ngọc, Huyện Diễn Châu, Tỉnh Nghệ An\nDiễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Công Ty TNHH Châu Tín Nghệ An",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 40.112785
+      },
+      "duration" : {
+        "startTimestampMs" : "1515824826152",
+        "endTimestampMs" : "1515847533313"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190034191,
+      "centerLngE7" : 1056032855,
+      "visitConfidence" : 59,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190015244,
+        "longitudeE7" : 1056056764,
+        "placeId" : "ChIJi_hJcVB7NzERwLWdoeFb-jw",
+        "name" : "Huong Que Trading & Investment Joint Stock Company",
+        "locationConfidence" : 38.01565
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 19.788162
+      }, {
+        "latitudeE7" : 190003703,
+        "longitudeE7" : 1056089983,
+        "placeId" : "ChIJ9bClt6Z8NzERP7VIKIrZ07I",
+        "locationConfidence" : 2.0834017
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1515847533313",
+        "endTimestampMs" : "1515852391127"
+      },
+      "distance" : 716,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 62.4177498598717
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 19.23630187460226
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 14.181699889445817
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190020694,
+          "lngE7" : 1056053314
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 54.460255
+      },
+      "duration" : {
+        "startTimestampMs" : "1515852391127",
+        "endTimestampMs" : "1515920271876"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190059651,
+      "centerLngE7" : 1056006738,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 22.77768
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 4.4376373
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 4.272864
+      }, {
+        "latitudeE7" : 190029700,
+        "longitudeE7" : 1055990400,
+        "placeId" : "ChIJicfuE1J7NzER5eyFbTgDt48",
+        "name" : "Cửa Hàng Thiết Bị Điện Công Nghiệp NGỌC HOÀNG",
+        "locationConfidence" : 3.9987624
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 3.7853653
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 2.5738144
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 1.9677093
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 0.86554813
+      }, {
+        "latitudeE7" : 190086026,
+        "longitudeE7" : 1055958047,
+        "placeId" : "ChIJbVnx6Ux7NzERWVgrae6Y8DQ",
+        "locationConfidence" : 0.8603642
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190074129,
+        "longitudeE7" : 1056039843
+      },
+      "duration" : {
+        "startTimestampMs" : "1515920271876",
+        "endTimestampMs" : "1515920391836"
+      },
+      "distance" : 496,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 81.39636454743513
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 14.413220698413085
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.769474082727537
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190076942,
+          "lngE7" : 1056041336
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190074129,
+        "longitudeE7" : 1056039843,
+        "placeId" : "ChIJwXzuEE97NzERckj_DeG6qME",
+        "address" : "Hải Đông\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Nước mắm Sạch Tâm Quê",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 88.76695
+      },
+      "duration" : {
+        "startTimestampMs" : "1515920391836",
+        "endTimestampMs" : "1515933236034"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190081946,
+      "centerLngE7" : 1056061991,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 11.2330475
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190074129,
+        "longitudeE7" : 1056039843
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061750,
+        "longitudeE7" : 1056007009
+      },
+      "duration" : {
+        "startTimestampMs" : "1515933236034",
+        "endTimestampMs" : "1515933669478"
+      },
+      "distance" : 371,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 62.2342975803854
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 18.727973914900566
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 15.928598606694935
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190076942,
+          "lngE7" : 1056041336
+        }, {
+          "latE7" : 190062046,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 64.53141
+      },
+      "duration" : {
+        "startTimestampMs" : "1515933669478",
+        "endTimestampMs" : "1516011933219"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190050651,
+      "centerLngE7" : 1056017012,
+      "visitConfidence" : 69,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 19.934628
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 4.1886334
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 3.6015794
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 2.567009
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 1.6299968
+      }, {
+        "latitudeE7" : 190086026,
+        "longitudeE7" : 1055958047,
+        "placeId" : "ChIJbVnx6Ux7NzERWVgrae6Y8DQ",
+        "locationConfidence" : 1.351396
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 1.1483861
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 1.0469586
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190050651,
+        "longitudeE7" : 1056017012
+      },
+      "endLocation" : {
+        "latitudeE7" : 190051130,
+        "longitudeE7" : 1056008093
+      },
+      "duration" : {
+        "startTimestampMs" : "1516011933219",
+        "endTimestampMs" : "1516148813046"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190049628,
+          "lngE7" : 1056007177,
+          "timestampMs" : "1516085632937",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 190049217,
+          "lngE7" : 1056001451,
+          "timestampMs" : "1516086834670",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190049217,
+          "lngE7" : 1056001451,
+          "timestampMs" : "1516096907673",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190059876,
+          "lngE7" : 1056008781,
+          "timestampMs" : "1516147255877",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190054577,
+          "lngE7" : 1056002138,
+          "timestampMs" : "1516147376645",
+          "accuracyMeters" : 24
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190051130,
+        "longitudeE7" : 1056008093
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061991,
+        "longitudeE7" : 1056006536
+      },
+      "duration" : {
+        "startTimestampMs" : "1516148813046",
+        "endTimestampMs" : "1516165885244"
+      },
+      "distance" : 121,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 67.35084234458557
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 17.439571702911188
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.199379296783093
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190051040,
+          "lngE7" : 1056008071
+        }, {
+          "latE7" : 190062408,
+          "lngE7" : 1056007766
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061991,
+        "longitudeE7" : 1056006536
+      },
+      "endLocation" : {
+        "latitudeE7" : 190062046,
+        "longitudeE7" : 1056007177
+      },
+      "duration" : {
+        "startTimestampMs" : "1516165885244",
+        "endTimestampMs" : "1516431201503"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190050158,
+          "lngE7" : 1056006261,
+          "timestampMs" : "1516174006733",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190049217,
+          "lngE7" : 1056001451,
+          "timestampMs" : "1516186254653",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 190059876,
+          "lngE7" : 1056008781,
+          "timestampMs" : "1516350379204",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 190065001,
+          "lngE7" : 1056006948,
+          "timestampMs" : "1516357785637",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190053237,
+          "lngE7" : 1055983585,
+          "timestampMs" : "1516407402751",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190062046,
+        "longitudeE7" : 1056007177
+      },
+      "endLocation" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341
+      },
+      "duration" : {
+        "startTimestampMs" : "1516431201503",
+        "endTimestampMs" : "1516432833892"
+      },
+      "distance" : 610,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 71.06535420406233
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 12.661767715690367
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.531513914149055
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190062274,
+          "lngE7" : 1056007843
+        }, {
+          "latE7" : 189993267,
+          "lngE7" : 1055993194
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341,
+        "placeId" : "ChIJq6qqqlN7NzER5BNbF7F2uy0",
+        "address" : "Diễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Trường Tiểu học xã Diễn Ngọc",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 69.38407
+      },
+      "duration" : {
+        "startTimestampMs" : "1516432833892",
+        "endTimestampMs" : "1516435527521"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190008539,
+      "centerLngE7" : 1055997368,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190015760,
+        "longitudeE7" : 1055971848,
+        "placeId" : "ChIJt3RI_1J7NzERqA7YQvZTIIM",
+        "name" : "Ngu Hai Construction Investment Joint Stock Company",
+        "locationConfidence" : 19.156673
+      }, {
+        "latitudeE7" : 189989596,
+        "longitudeE7" : 1056003974,
+        "placeId" : "ChIJR6itWVF7NzERwAaajSweBMs",
+        "name" : "KTS Trường Sơn",
+        "locationConfidence" : 2.8838127
+      }, {
+        "latitudeE7" : 190029700,
+        "longitudeE7" : 1055990400,
+        "placeId" : "ChIJicfuE1J7NzER5eyFbTgDt48",
+        "name" : "Cửa Hàng Thiết Bị Điện Công Nghiệp NGỌC HOÀNG",
+        "locationConfidence" : 1.5739267
+      }, {
+        "latitudeE7" : 190011723,
+        "longitudeE7" : 1055973887,
+        "placeId" : "ChIJ1_bDqlN7NzERrXeEi3gxTlE",
+        "name" : "Trạm Y tế xã Diễn Ngọc",
+        "locationConfidence" : 1.5444278
+      }, {
+        "latitudeE7" : 190017668,
+        "longitudeE7" : 1055969810,
+        "placeId" : "ChIJGb1t-VJ7NzER-P6QcukHoiY",
+        "name" : "Trung Tâm Dạy Nghề Huyện Diễn Châu",
+        "locationConfidence" : 1.5425634
+      }, {
+        "latitudeE7" : 190012514,
+        "longitudeE7" : 1055972706,
+        "placeId" : "ChIJq6qqqlN7NzER2ki3VRvsLms",
+        "name" : "Ngọc Minh",
+        "locationConfidence" : 0.76112807
+      }, {
+        "latitudeE7" : 190012514,
+        "longitudeE7" : 1055972706,
+        "placeId" : "ChIJq6qqqlN7NzERzy2vooiAoO4",
+        "name" : "Trường Mầm Non Diễn Ngọc",
+        "locationConfidence" : 0.6345906
+      }, {
+        "latitudeE7" : 190012363,
+        "longitudeE7" : 1055982774,
+        "placeId" : "ChIJ8abATFJ7NzERy6je39QG4KI",
+        "name" : "Công Ty TNHH Đầu Tư Thương Mại Và Phát Triển An Thịnh",
+        "locationConfidence" : 0.6109214
+      }, {
+        "latitudeE7" : 190012514,
+        "longitudeE7" : 1055972706,
+        "placeId" : "ChIJq6qqqlN7NzERxlRWVMbYpVg",
+        "name" : "Công Ty TNHH Thái Tuấn Hoa Mai",
+        "locationConfidence" : 0.33625072
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190008146,
+        "longitudeE7" : 1055995954
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061820,
+        "longitudeE7" : 1056007177
+      },
+      "duration" : {
+        "startTimestampMs" : "1516435527521",
+        "endTimestampMs" : "1516435748678"
+      },
+      "distance" : 653,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 83.82485749629357
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 13.107237010690504
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.58974520095107
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190008125,
+          "lngE7" : 1055995864
+        }, {
+          "latE7" : 190062065,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387
+      },
+      "duration" : {
+        "startTimestampMs" : "1516585524846",
+        "endTimestampMs" : "1516594767304"
+      },
+      "distance" : 658,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 63.05555409423755
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 20.921018436015785
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.360063686032122
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190020694,
+          "lngE7" : 1056053314
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1516594767304",
+        "endTimestampMs" : "1516764595685"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190059867,
+          "lngE7" : 1056006261,
+          "timestampMs" : "1516608098568",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190055077,
+          "lngE7" : 1056004200,
+          "timestampMs" : "1516608155680",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190049608,
+          "lngE7" : 1056007406,
+          "timestampMs" : "1516609791036",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 190051639,
+          "lngE7" : 1055991251,
+          "timestampMs" : "1516615548655",
+          "accuracyMeters" : 45
+        }, {
+          "latE7" : 190062667,
+          "lngE7" : 1055997328,
+          "timestampMs" : "1516753264774",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 190064589,
+          "lngE7" : 1056006490,
+          "timestampMs" : "1516761915632",
+          "accuracyMeters" : 24
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 189808682,
+        "longitudeE7" : 1056001107
+      },
+      "duration" : {
+        "startTimestampMs" : "1516764595685",
+        "endTimestampMs" : "1516765281168"
+      },
+      "distance" : 836,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 69.8483874989792
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 23.835124430654595
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.657881870512568
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 189809417,
+          "lngE7" : 1056001052
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 189808682,
+        "longitudeE7" : 1056001107,
+        "placeId" : "ChIJF8iN_618NzERDHmgXnCpqWA",
+        "address" : "AH1\nDien Chau\nDiễn Châu\nNghệ An\nVietnam",
+        "name" : "UBND huyện Diễn Châu",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 83.17252
+      },
+      "duration" : {
+        "startTimestampMs" : "1516765281168",
+        "endTimestampMs" : "1516767804127"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 189815050,
+      "centerLngE7" : 1056000100,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 189813797,
+        "longitudeE7" : 1055999851,
+        "placeId" : "ChIJudjk_K18NzERHrtn0AzLw3U",
+        "name" : "Trạm Y Tế Thị Trấn Diễn Châu",
+        "locationConfidence" : 3.9212265
+      }, {
+        "latitudeE7" : 189798782,
+        "longitudeE7" : 1056004089,
+        "placeId" : "ChIJMy6ZibF8NzERbHqqFAXrIPI",
+        "name" : "Tòa án Diễn Châu",
+        "locationConfidence" : 1.686203
+      }, {
+        "latitudeE7" : 189838691,
+        "longitudeE7" : 1056000790,
+        "placeId" : "ChIJE3JZKqx8NzERHkOQUT-ekhQ",
+        "name" : "Cây Xăng Diễn Châu",
+        "locationConfidence" : 0.7899198
+      }, {
+        "latitudeE7" : 189817792,
+        "longitudeE7" : 1056003915,
+        "placeId" : "ChIJ3Ul2Ca58NzERwsDGRnuDxoE",
+        "name" : "Taxi Lạc Hồng - CN Diễn Châu",
+        "locationConfidence" : 0.77816916
+      }, {
+        "latitudeE7" : 189795028,
+        "longitudeE7" : 1056007951,
+        "placeId" : "ChIJAfBP8rF8NzER4TqWpjE__Ro",
+        "name" : "Công Ty Du Lịch Văn Minh - Vpgd Diễn Châu",
+        "locationConfidence" : 0.7350351
+      }, {
+        "latitudeE7" : 189801673,
+        "longitudeE7" : 1056003714,
+        "placeId" : "ChIJf4JRirF8NzERiR7AGxMA8Nw",
+        "name" : "Công an Diễn Châu",
+        "locationConfidence" : 0.7081157
+      }, {
+        "latitudeE7" : 189784730,
+        "longitudeE7" : 1056010071,
+        "placeId" : "ChIJh8DkkbF8NzERVM1xmweyAbk",
+        "name" : "Cà phê Đắng",
+        "locationConfidence" : 0.5622567
+      }, {
+        "latitudeE7" : 189796486,
+        "longitudeE7" : 1056016719,
+        "placeId" : "ChIJAQAA8K18NzERlE-aJL3pvOs",
+        "name" : "Cà phê Xmen",
+        "locationConfidence" : 0.37901717
+      }, {
+        "latitudeE7" : 189796550,
+        "longitudeE7" : 1056012726,
+        "placeId" : "ChIJZwYzwrF8NzER4o3UOPCASOY",
+        "name" : "Đài Truyền thanh Truyền hình Diễn Châu",
+        "locationConfidence" : 0.36842692
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 189808682,
+        "longitudeE7" : 1056001107
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1516767804127",
+        "endTimestampMs" : "1516778614460"
+      },
+      "distance" : 125,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 68.30472226080153
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.651248319519432
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.5351588576583906
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 189809417,
+          "lngE7" : 1056001052
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 68.343605
+      },
+      "duration" : {
+        "startTimestampMs" : "1516778614460",
+        "endTimestampMs" : "1516881952550"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190061928,
+      "centerLngE7" : 1056007242,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 20.480167
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 3.667732
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 3.0397136
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 2.2382097
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 1.3704202
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 0.64402294
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 0.21612972
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061575,
+        "longitudeE7" : 1056007406
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1516881952550",
+        "endTimestampMs" : "1516885919798"
+      },
+      "distance" : 910,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 59.888340195735005
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 18.467171718125517
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.329813926779153
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190061779,
+          "lngE7" : 1056007995
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190062577,
+        "longitudeE7" : 1056006261
+      },
+      "duration" : {
+        "startTimestampMs" : "1516885919798",
+        "endTimestampMs" : "1516926381664"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190053166,
+          "lngE7" : 1055992289,
+          "timestampMs" : "1516889643856",
+          "accuracyMeters" : 26
+        }, {
+          "latE7" : 190041852,
+          "lngE7" : 1055991258,
+          "timestampMs" : "1516889764891",
+          "accuracyMeters" : 41
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190062577,
+        "longitudeE7" : 1056006261
+      },
+      "endLocation" : {
+        "latitudeE7" : 189965668,
+        "longitudeE7" : 1056026191
+      },
+      "duration" : {
+        "startTimestampMs" : "1516926381664",
+        "endTimestampMs" : "1516927342292"
+      },
+      "distance" : 211,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 56.98299732970401
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 22.545928403404254
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 16.847416665494073
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190063304,
+          "lngE7" : 1056005935
+        }, {
+          "latE7" : 189965324,
+          "lngE7" : 1056029357
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 189965668,
+        "longitudeE7" : 1056026191,
+        "placeId" : "ChIJq6qqqlN7NzERSSgPhYMIBN4",
+        "address" : "Ngọc Văn, Diễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "UBND xã Diễn Ngọc",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 97.54722
+      },
+      "duration" : {
+        "startTimestampMs" : "1516927342292",
+        "endTimestampMs" : "1516936338708"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 189961178,
+      "centerLngE7" : 1056028202,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 189954407,
+        "longitudeE7" : 1056025600,
+        "placeId" : "ChIJ210x-lZ7NzERSIpU3W9zrIs",
+        "name" : "Công Ty Cổ Phần Thuỷ Sản Diễn Châu",
+        "locationConfidence" : 1.9897969
+      }, {
+        "latitudeE7" : 189949002,
+        "longitudeE7" : 1056035236,
+        "placeId" : "ChIJh8j4Qs98NzEREAAuKmzYjO0",
+        "name" : "Nhà Văn Hóa Xóm 3",
+        "locationConfidence" : 0.24071889
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 0.11297007
+      }, {
+        "latitudeE7" : 189957701,
+        "longitudeE7" : 1056012240,
+        "placeId" : "ChIJsecUjlZ7NzER4p-FPACw0xU",
+        "name" : "Trạm Y Tế Diễn Ngọc",
+        "locationConfidence" : 0.109297685
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 189965358,
+        "longitudeE7" : 1056026188
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1516936338708",
+        "endTimestampMs" : "1516936578703"
+      },
+      "distance" : 1171,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 81.62715343130229
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.45700573972861
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.1423016916342932
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 189965019,
+          "lngE7" : 1056029357
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 61.373295
+      },
+      "duration" : {
+        "startTimestampMs" : "1516936578703",
+        "endTimestampMs" : "1516936939558"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 190061540,
+      "centerLngE7" : 1056007400,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 13.943194
+      }, {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 13.856421
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 3.6114125
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 2.1647062
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 2.0353003
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 1.9740503
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 1.0416186
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 189966075,
+        "longitudeE7" : 1056025730
+      },
+      "duration" : {
+        "startTimestampMs" : "1516936939558",
+        "endTimestampMs" : "1516937300728"
+      },
+      "distance" : 1239,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 79.91165494562865
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 17.372448094126895
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.271400324354048
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 189965667,
+          "lngE7" : 1056029434
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 189965668,
+        "longitudeE7" : 1056026191,
+        "placeId" : "ChIJq6qqqlN7NzERSSgPhYMIBN4",
+        "address" : "Ngọc Văn, Diễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "UBND xã Diễn Ngọc",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 96.05184
+      },
+      "duration" : {
+        "startTimestampMs" : "1516937300728",
+        "endTimestampMs" : "1516939449438"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 189957315,
+      "centerLngE7" : 1056029635,
+      "visitConfidence" : 68,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 189954407,
+        "longitudeE7" : 1056025600,
+        "placeId" : "ChIJ210x-lZ7NzERSIpU3W9zrIs",
+        "name" : "Công Ty Cổ Phần Thuỷ Sản Diễn Châu",
+        "locationConfidence" : 3.2864892
+      }, {
+        "latitudeE7" : 189949002,
+        "longitudeE7" : 1056035236,
+        "placeId" : "ChIJh8j4Qs98NzEREAAuKmzYjO0",
+        "name" : "Nhà Văn Hóa Xóm 3",
+        "locationConfidence" : 0.3404014
+      }, {
+        "latitudeE7" : 189957701,
+        "longitudeE7" : 1056012240,
+        "placeId" : "ChIJsecUjlZ7NzER4p-FPACw0xU",
+        "name" : "Trạm Y Tế Diễn Ngọc",
+        "locationConfidence" : 0.17440777
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 0.14685982
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 189965668,
+        "longitudeE7" : 1056026191
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1516939449438",
+        "endTimestampMs" : "1516949180161"
+      },
+      "distance" : 859,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 63.503822558119204
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 19.094145532986197
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 13.259727876108135
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 189965324,
+          "lngE7" : 1056029357
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061698,
+        "longitudeE7" : 1056007292
+      },
+      "duration" : {
+        "startTimestampMs" : "1516949180161",
+        "endTimestampMs" : "1517037888535"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190063425,
+          "lngE7" : 1056008208,
+          "timestampMs" : "1516958901839",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 190052136,
+          "lngE7" : 1056008208,
+          "timestampMs" : "1517015192679",
+          "accuracyMeters" : 28
+        }, {
+          "latE7" : 190049303,
+          "lngE7" : 1056004382,
+          "timestampMs" : "1517016582220",
+          "accuracyMeters" : 22
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061698,
+        "longitudeE7" : 1056007292
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1517037888535",
+        "endTimestampMs" : "1517039341514"
+      },
+      "distance" : 1571,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 71.43954604207265
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 21.92232367874827
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.5295455357207075
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190061912,
+          "lngE7" : 1056007919
+        }, {
+          "latE7" : 189996280,
+          "lngE7" : 1056000823
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 189996105,
+          "lngE7" : 1055998130,
+          "timestampMs" : "1517038138826",
+          "accuracyMeters" : 50
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 62.915123
+      },
+      "duration" : {
+        "startTimestampMs" : "1517039341514",
+        "endTimestampMs" : "1517069002195"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190061659,
+      "centerLngE7" : 1056007177,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 24.746004
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 4.4725084
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 2.5265343
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 2.2519252
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 1.9546244
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 0.81592023
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 0.317362
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387
+      },
+      "duration" : {
+        "startTimestampMs" : "1517069002195",
+        "endTimestampMs" : "1517072546344"
+      },
+      "distance" : 658,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 62.02582693390234
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 16.979168724769213
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.81535318710387
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190020694,
+          "lngE7" : 1056053314
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387,
+        "placeId" : "ChIJmWCgclB7NzERR9YHaZ7kJvU",
+        "address" : "Thôn Đông Lộc, Xã Diễn Ngọc, Huyện Diễn Châu, Tỉnh Nghệ An\nDiễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Công Ty TNHH Châu Tín Nghệ An",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 78.444885
+      },
+      "duration" : {
+        "startTimestampMs" : "1517072546344",
+        "endTimestampMs" : "1517091288246"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190037760,
+      "centerLngE7" : 1056033300,
+      "visitConfidence" : 74,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 21.55511
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387
+      },
+      "endLocation" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341
+      },
+      "duration" : {
+        "startTimestampMs" : "1517091288246",
+        "endTimestampMs" : "1517094486447"
+      },
+      "distance" : 1436,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 59.05606615035002
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.60140645902407
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 15.280826127589467
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190020694,
+          "lngE7" : 1056053314
+        }, {
+          "latE7" : 189993267,
+          "lngE7" : 1055993194
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341,
+        "placeId" : "ChIJq6qqqlN7NzER5BNbF7F2uy0",
+        "address" : "Diễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Trường Tiểu học xã Diễn Ngọc",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 81.62274
+      },
+      "duration" : {
+        "startTimestampMs" : "1517094486447",
+        "endTimestampMs" : "1517112432141"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190027583,
+      "centerLngE7" : 1055993440,
+      "visitConfidence" : 51,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190029700,
+        "longitudeE7" : 1055990400,
+        "placeId" : "ChIJicfuE1J7NzER5eyFbTgDt48",
+        "name" : "Cửa Hàng Thiết Bị Điện Công Nghiệp NGỌC HOÀNG",
+        "locationConfidence" : 7.6076045
+      }, {
+        "latitudeE7" : 189989596,
+        "longitudeE7" : 1056003974,
+        "placeId" : "ChIJR6itWVF7NzERwAaajSweBMs",
+        "name" : "KTS Trường Sơn",
+        "locationConfidence" : 4.9771237
+      }, {
+        "latitudeE7" : 190012363,
+        "longitudeE7" : 1055982774,
+        "placeId" : "ChIJ8abATFJ7NzERy6je39QG4KI",
+        "name" : "Công Ty TNHH Đầu Tư Thương Mại Và Phát Triển An Thịnh",
+        "locationConfidence" : 4.199889
+      }, {
+        "latitudeE7" : 189994254,
+        "longitudeE7" : 1055989014,
+        "placeId" : "ChIJazwJ61N7NzERMf8HWf8A-xk",
+        "name" : "Cơ Sở Vận Tải Hành Khách Nguyễn Văn Tuấn",
+        "locationConfidence" : 1.592639
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1517112432141",
+        "endTimestampMs" : "1517117751132"
+      },
+      "distance" : 788,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 61.92454057059534
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 17.703631809919486
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 13.671048461457083
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 189993267,
+          "lngE7" : 1055993194
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 74.981445
+      },
+      "duration" : {
+        "startTimestampMs" : "1517117751132",
+        "endTimestampMs" : "1517126437425"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190048277,
+      "centerLngE7" : 1055996327,
+      "visitConfidence" : 68,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 12.995185
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 4.487582
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 2.12654
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 2.0114737
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 1.8818399
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 1.0036297
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 0.5123044
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387
+      },
+      "duration" : {
+        "startTimestampMs" : "1517126437425",
+        "endTimestampMs" : "1517131373134"
+      },
+      "distance" : 679,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 58.57410861322185
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.75674496038983
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 17.31480574840856
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190020694,
+          "lngE7" : 1056053314
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387,
+        "placeId" : "ChIJmWCgclB7NzERR9YHaZ7kJvU",
+        "address" : "Thôn Đông Lộc, Xã Diễn Ngọc, Huyện Diễn Châu, Tỉnh Nghệ An\nDiễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Công Ty TNHH Châu Tín Nghệ An",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 79.22838
+      },
+      "duration" : {
+        "startTimestampMs" : "1517131373134",
+        "endTimestampMs" : "1517140144236"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190035617,
+      "centerLngE7" : 1056031133,
+      "visitConfidence" : 54,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 20.771622
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1517140144236",
+        "endTimestampMs" : "1517140264667"
+      },
+      "distance" : 1,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 58.25581819273985
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 30.047665669636864
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.788369190104454
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190020694,
+          "lngE7" : 1056053314
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 53.12977
+      },
+      "duration" : {
+        "startTimestampMs" : "1517140264667",
+        "endTimestampMs" : "1517141576507"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 190061717,
+      "centerLngE7" : 1056007233,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 22.95751
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 7.98294
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 5.179874
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 3.976197
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 3.180178
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 2.5845883
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 1.0089445
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061801,
+        "longitudeE7" : 1056007406
+      },
+      "endLocation" : {
+        "latitudeE7" : 190109451,
+        "longitudeE7" : 1056066274
+      },
+      "duration" : {
+        "startTimestampMs" : "1517141576507",
+        "endTimestampMs" : "1517142187254"
+      },
+      "distance" : 282,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 70.92237751279757
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 19.88098941190622
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.475469178848413
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190061988,
+          "lngE7" : 1056007919
+        }, {
+          "latE7" : 190109272,
+          "lngE7" : 1056067352
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190109451,
+        "longitudeE7" : 1056066274,
+        "placeId" : "ChIJfSqBJEZ7NzERcmAtMxJNzkE",
+        "address" : "Xóm Hải Bắc, Xã Diễn Bích, Huyện Diễn Châu\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Hoang Gia Trading & Service Private Enterprise",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 87.37676
+      },
+      "duration" : {
+        "startTimestampMs" : "1517142187254",
+        "endTimestampMs" : "1517146868537"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190100433,
+      "centerLngE7" : 1056062433,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190102413,
+        "longitudeE7" : 1056040028,
+        "placeId" : "ChIJZw2zUEh7NzERqH_jIHCHqOM",
+        "name" : "UBND xã Diễn Bích",
+        "locationConfidence" : 12.62324
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190109451,
+        "longitudeE7" : 1056066274
+      },
+      "endLocation" : {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154
+      },
+      "duration" : {
+        "startTimestampMs" : "1517146868537",
+        "endTimestampMs" : "1517152270001"
+      },
+      "distance" : 17,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 51.99142723562126
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 33.101869977282405
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.417912004853772
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190109272,
+          "lngE7" : 1056067352
+        }, {
+          "latE7" : 190060596,
+          "lngE7" : 1056013336
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "address" : "Diễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 53.602535
+      },
+      "duration" : {
+        "startTimestampMs" : "1517152270001",
+        "endTimestampMs" : "1517155278424"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 190037533,
+      "centerLngE7" : 1056032667,
+      "visitConfidence" : 50,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387,
+        "placeId" : "ChIJmWCgclB7NzERR9YHaZ7kJvU",
+        "name" : "Công Ty TNHH Châu Tín Nghệ An",
+        "locationConfidence" : 26.723366
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 19.674099
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154
+      },
+      "endLocation" : {
+        "latitudeE7" : 189949002,
+        "longitudeE7" : 1056035236
+      },
+      "duration" : {
+        "startTimestampMs" : "1517155278424",
+        "endTimestampMs" : "1517159003509"
+      },
+      "distance" : 1360,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 57.509714479400074
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 21.55102209553366
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 16.10676908610248
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190060596,
+          "lngE7" : 1056013336
+        }, {
+          "latE7" : 189950504,
+          "lngE7" : 1056037902
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 189949002,
+        "longitudeE7" : 1056035236,
+        "placeId" : "ChIJh8j4Qs98NzEREAAuKmzYjO0",
+        "address" : "Diễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Nhà Văn Hóa Xóm 3",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 44.83548
+      },
+      "duration" : {
+        "startTimestampMs" : "1517159003509",
+        "endTimestampMs" : "1517176793454"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 189951680,
+      "centerLngE7" : 1056029300,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 189965668,
+        "longitudeE7" : 1056026191,
+        "placeId" : "ChIJq6qqqlN7NzERSSgPhYMIBN4",
+        "name" : "UBND xã Diễn Ngọc",
+        "locationConfidence" : 43.69693
+      }, {
+        "latitudeE7" : 189954407,
+        "longitudeE7" : 1056025600,
+        "placeId" : "ChIJ210x-lZ7NzERSIpU3W9zrIs",
+        "name" : "Công Ty Cổ Phần Thuỷ Sản Diễn Châu",
+        "locationConfidence" : 7.881193
+      }, {
+        "latitudeE7" : 189934118,
+        "longitudeE7" : 1056020665,
+        "placeId" : "ChIJdy0pOVZ7NzERNshAMsVL6H0",
+        "name" : "Truong Thanh Company Limited",
+        "locationConfidence" : 1.9466623
+      }, {
+        "latitudeE7" : 189926791,
+        "longitudeE7" : 1056015659,
+        "placeId" : "ChIJoQnrGFZ7NzER1onnYW0pcG4",
+        "name" : "gara oto hung son",
+        "locationConfidence" : 0.6660761
+      }, {
+        "latitudeE7" : 189957701,
+        "longitudeE7" : 1056012240,
+        "placeId" : "ChIJsecUjlZ7NzER4p-FPACw0xU",
+        "name" : "Trạm Y Tế Diễn Ngọc",
+        "locationConfidence" : 0.6564887
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 0.3171683
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 189949002,
+        "longitudeE7" : 1056035236
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1517176793454",
+        "endTimestampMs" : "1517197768443"
+      },
+      "distance" : 1321,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 65.1690767582863
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.13175847051548
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 10.824981331053987
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 189950504,
+          "lngE7" : 1056037902
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059071,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154
+      },
+      "duration" : {
+        "startTimestampMs" : "1517197768443",
+        "endTimestampMs" : "1517279543469"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190051395,
+          "lngE7" : 1056007635,
+          "timestampMs" : "1517208981639",
+          "accuracyMeters" : 26
+        }, {
+          "latE7" : 190051395,
+          "lngE7" : 1056007635,
+          "timestampMs" : "1517209342863",
+          "accuracyMeters" : 26
+        }, {
+          "latE7" : 190050366,
+          "lngE7" : 1056001222,
+          "timestampMs" : "1517211746070",
+          "accuracyMeters" : 27
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154
+      },
+      "endLocation" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341
+      },
+      "duration" : {
+        "startTimestampMs" : "1517279543469",
+        "endTimestampMs" : "1517284590518"
+      },
+      "distance" : 831,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 63.71877205231866
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.357077116303184
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.584343047997946
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190060596,
+          "lngE7" : 1056013336
+        }, {
+          "latE7" : 189993267,
+          "lngE7" : 1055993194
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341
+      },
+      "endLocation" : {
+        "latitudeE7" : 190060613,
+        "longitudeE7" : 1056008093
+      },
+      "duration" : {
+        "startTimestampMs" : "1517284590518",
+        "endTimestampMs" : "1517440458663"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190050278,
+          "lngE7" : 1055999619,
+          "timestampMs" : "1517297301594",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 190050895,
+          "lngE7" : 1056005574,
+          "timestampMs" : "1517300421993",
+          "accuracyMeters" : 26
+        }, {
+          "latE7" : 190061258,
+          "lngE7" : 1056005871,
+          "timestampMs" : "1517395743590",
+          "accuracyMeters" : 21
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190060613,
+        "longitudeE7" : 1056008093
+      },
+      "endLocation" : {
+        "latitudeE7" : 190050374,
+        "longitudeE7" : 1056009010
+      },
+      "duration" : {
+        "startTimestampMs" : "1517440458663",
+        "endTimestampMs" : "1517443200000"
+      },
+      "distance" : 114,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 63.06529065715928
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 17.841676138638608
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 15.812031731709272
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190060729,
+          "lngE7" : 1056008377
+        }, {
+          "latE7" : 190051155,
+          "lngE7" : 1056008834
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

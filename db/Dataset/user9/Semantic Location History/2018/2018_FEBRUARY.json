@@ -1,0 +1,677 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210673103,
+        "longitudeE7" : 1058344193,
+        "placeId" : "ChIJOzvcVVeqNTERpfloUTZgrJ0",
+        "address" : "49 Âu Cơ\nTứ Liên\nTây Hồ\nHà Nội\nViệt Nam",
+        "name" : "49 Âu Cơ",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 42.29865
+      },
+      "duration" : {
+        "startTimestampMs" : "1519180746812",
+        "endTimestampMs" : "1519194284230"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210672605,
+      "centerLngE7" : 1058344440,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210675610,
+        "longitudeE7" : 1058339910,
+        "placeId" : "ChIJjcQH5VmqNTER_b-tvRAr5m0",
+        "name" : "CTY CỔ PHẦN PACKLAND VIỆT NAM",
+        "locationConfidence" : 38.238552
+      }, {
+        "latitudeE7" : 210649889,
+        "longitudeE7" : 1058349528,
+        "placeId" : "ChIJZ0C4zFCqNTERy_8XVhu3fPU",
+        "name" : "Đại Lý Tấm Lợp Kim Loại Hưng Hà",
+        "locationConfidence" : 3.0800974
+      }, {
+        "latitudeE7" : 210664806,
+        "longitudeE7" : 1058346472,
+        "placeId" : "ChIJpwSUU1eqNTERPypMcQk2Fyk",
+        "name" : "Sửa Xe Thìn Binh",
+        "locationConfidence" : 1.3289922
+      }, {
+        "latitudeE7" : 210673177,
+        "longitudeE7" : 1058325387,
+        "placeId" : "ChIJxRkG11mqNTERUl8oGO-60_Q",
+        "name" : "winsfashion",
+        "locationConfidence" : 1.208034
+      }, {
+        "latitudeE7" : 210691380,
+        "longitudeE7" : 1058340310,
+        "placeId" : "ChIJ0xSfZPaqNTER2bl4HAu5Ub4",
+        "name" : "Birdcage",
+        "locationConfidence" : 0.6269848
+      }, {
+        "latitudeE7" : 210675462,
+        "longitudeE7" : 1058333641,
+        "placeId" : "ChIJCX6Z3VmqNTERDOlIFGx9Y48",
+        "name" : "Nhà Thuốc Thiện Đức",
+        "locationConfidence" : 0.61620206
+      }, {
+        "latitudeE7" : 210664028,
+        "longitudeE7" : 1058346556,
+        "placeId" : "ChIJbR6xU1eqNTER_754E0UD4SA",
+        "name" : "Xưởng Sản Xuất Diamond Việt Nam",
+        "locationConfidence" : 0.5894325
+      }, {
+        "latitudeE7" : 210750527,
+        "longitudeE7" : 1060759318,
+        "placeId" : "ChIJvSBqvU12NTERbpvXtiguRFE",
+        "name" : "Duong River",
+        "locationConfidence" : 0.48852283
+      }, {
+        "latitudeE7" : 210669306,
+        "longitudeE7" : 1058325194,
+        "placeId" : "ChIJh-7_fFeqNTERTBBU_BPRW-I",
+        "name" : "Quán Ăn Duy Nhất",
+        "locationConfidence" : 0.47418228
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210672897,
+        "longitudeE7" : 1058342311
+      },
+      "endLocation" : {
+        "latitudeE7" : 210487783,
+        "longitudeE7" : 1058241361
+      },
+      "duration" : {
+        "startTimestampMs" : "1519194284230",
+        "endTimestampMs" : "1519197920353"
+      },
+      "distance" : 2299,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 57.04213160968262
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.97055434482133
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 12.677613255678255
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210672073,
+          "lngE7" : 1058340988
+        }, {
+          "latE7" : 210436153,
+          "lngE7" : 1058232498
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210482350,
+        "longitudeE7" : 1058238399
+      },
+      "endLocation" : {
+        "latitudeE7" : 210466876,
+        "longitudeE7" : 1058229962
+      },
+      "duration" : {
+        "startTimestampMs" : "1519198403080",
+        "endTimestampMs" : "1519199011457"
+      },
+      "distance" : 193,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 48.350540583829186
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 39.04943810960549
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.323133183977953
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210436305,
+          "lngE7" : 1058231582
+        }, {
+          "latE7" : 210438671,
+          "lngE7" : 1058219604
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210464027,
+        "longitudeE7" : 1058228408
+      },
+      "endLocation" : {
+        "latitudeE7" : 210445165,
+        "longitudeE7" : 1058218124
+      },
+      "duration" : {
+        "startTimestampMs" : "1519199983768",
+        "endTimestampMs" : "1519200603745"
+      },
+      "distance" : 235,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 43.85486127073864
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 43.000428501518755
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.98246974059271
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210438880,
+          "lngE7" : 1058218994
+        }, {
+          "latE7" : 210439796,
+          "lngE7" : 1058216171
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210445165,
+        "longitudeE7" : 1058218124
+      },
+      "endLocation" : {
+        "latitudeE7" : 210444669,
+        "longitudeE7" : 1058217885
+      },
+      "duration" : {
+        "startTimestampMs" : "1519200603745",
+        "endTimestampMs" : "1519201752387"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210439740,
+          "lngE7" : 1058215166,
+          "timestampMs" : "1519201145665",
+          "accuracyMeters" : 23
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210444669,
+        "longitudeE7" : 1058217885
+      },
+      "endLocation" : {
+        "latitudeE7" : 210672917,
+        "longitudeE7" : 1058343825
+      },
+      "duration" : {
+        "startTimestampMs" : "1519201752387",
+        "endTimestampMs" : "1519203431855"
+      },
+      "distance" : 2854,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 59.37022198216512
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 20.244866047329587
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.232336646192701
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210439834,
+          "lngE7" : 1058216018
+        }, {
+          "latE7" : 210671405,
+          "lngE7" : 1058345031
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210261861,
+        "longitudeE7" : 1058188646
+      },
+      "endLocation" : {
+        "latitudeE7" : 210675834,
+        "longitudeE7" : 1058323092
+      },
+      "duration" : {
+        "startTimestampMs" : "1519449328265",
+        "endTimestampMs" : "1519451526619"
+      },
+      "distance" : 6549,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 88.14279010933251
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.036483618130439
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.9662201496404321
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210257072,
+          "lngE7" : 1058182678
+        }, {
+          "latE7" : 210676708,
+          "lngE7" : 1058322372
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210673103,
+        "longitudeE7" : 1058344193,
+        "placeId" : "ChIJOzvcVVeqNTERpfloUTZgrJ0",
+        "address" : "49 Âu Cơ\nTứ Liên\nTây Hồ\nHà Nội\nViệt Nam",
+        "name" : "49 Âu Cơ",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 67.792465
+      },
+      "duration" : {
+        "startTimestampMs" : "1519451526619",
+        "endTimestampMs" : "1519476880315"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210673188,
+      "centerLngE7" : 1058343440,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210675610,
+        "longitudeE7" : 1058339910,
+        "placeId" : "ChIJjcQH5VmqNTER_b-tvRAr5m0",
+        "name" : "CTY CỔ PHẦN PACKLAND VIỆT NAM",
+        "locationConfidence" : 7.482796
+      }, {
+        "latitudeE7" : 210649889,
+        "longitudeE7" : 1058349528,
+        "placeId" : "ChIJZ0C4zFCqNTERy_8XVhu3fPU",
+        "name" : "Đại Lý Tấm Lợp Kim Loại Hưng Hà",
+        "locationConfidence" : 3.5074878
+      }, {
+        "latitudeE7" : 210664806,
+        "longitudeE7" : 1058346472,
+        "placeId" : "ChIJpwSUU1eqNTERPypMcQk2Fyk",
+        "name" : "Sửa Xe Thìn Binh",
+        "locationConfidence" : 2.2601902
+      }, {
+        "latitudeE7" : 210673177,
+        "longitudeE7" : 1058325387,
+        "placeId" : "ChIJxRkG11mqNTERUl8oGO-60_Q",
+        "name" : "winsfashion",
+        "locationConfidence" : 1.0258137
+      }, {
+        "latitudeE7" : 210675462,
+        "longitudeE7" : 1058333641,
+        "placeId" : "ChIJCX6Z3VmqNTERDOlIFGx9Y48",
+        "name" : "Nhà Thuốc Thiện Đức",
+        "locationConfidence" : 0.9427792
+      }, {
+        "latitudeE7" : 210664028,
+        "longitudeE7" : 1058346556,
+        "placeId" : "ChIJbR6xU1eqNTER_754E0UD4SA",
+        "name" : "Xưởng Sản Xuất Diamond Việt Nam",
+        "locationConfidence" : 0.9323596
+      }, {
+        "latitudeE7" : 210691380,
+        "longitudeE7" : 1058340310,
+        "placeId" : "ChIJ0xSfZPaqNTER2bl4HAu5Ub4",
+        "name" : "Birdcage",
+        "locationConfidence" : 0.9135954
+      }, {
+        "latitudeE7" : 210750527,
+        "longitudeE7" : 1060759318,
+        "placeId" : "ChIJvSBqvU12NTERbpvXtiguRFE",
+        "name" : "Duong River",
+        "locationConfidence" : 0.74319035
+      }, {
+        "latitudeE7" : 210662450,
+        "longitudeE7" : 1058363035,
+        "placeId" : "ChIJgTFkolCqNTERMBON8RzRXY8",
+        "name" : "Vườn quất Tứ Liên",
+        "locationConfidence" : 0.5577896
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210673103,
+        "longitudeE7" : 1058344193,
+        "placeId" : "ChIJOzvcVVeqNTERpfloUTZgrJ0",
+        "address" : "49 Âu Cơ\nTứ Liên\nTây Hồ\nHà Nội\nViệt Nam",
+        "name" : "49 Âu Cơ",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 57.464005
+      },
+      "duration" : {
+        "startTimestampMs" : "1519565453406",
+        "endTimestampMs" : "1519604679557"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210673535,
+      "centerLngE7" : 1058344628,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210675610,
+        "longitudeE7" : 1058339910,
+        "placeId" : "ChIJjcQH5VmqNTER_b-tvRAr5m0",
+        "name" : "CTY CỔ PHẦN PACKLAND VIỆT NAM",
+        "locationConfidence" : 11.862412
+      }, {
+        "latitudeE7" : 210649889,
+        "longitudeE7" : 1058349528,
+        "placeId" : "ChIJZ0C4zFCqNTERy_8XVhu3fPU",
+        "name" : "Đại Lý Tấm Lợp Kim Loại Hưng Hà",
+        "locationConfidence" : 3.6592784
+      }, {
+        "latitudeE7" : 210691380,
+        "longitudeE7" : 1058340310,
+        "placeId" : "ChIJ0xSfZPaqNTER2bl4HAu5Ub4",
+        "name" : "Birdcage",
+        "locationConfidence" : 2.2260885
+      }, {
+        "latitudeE7" : 210662450,
+        "longitudeE7" : 1058363035,
+        "placeId" : "ChIJgTFkolCqNTERMBON8RzRXY8",
+        "name" : "Vườn quất Tứ Liên",
+        "locationConfidence" : 1.7491566
+      }, {
+        "latitudeE7" : 210664806,
+        "longitudeE7" : 1058346472,
+        "placeId" : "ChIJpwSUU1eqNTERPypMcQk2Fyk",
+        "name" : "Sửa Xe Thìn Binh",
+        "locationConfidence" : 1.4027779
+      }, {
+        "latitudeE7" : 210673177,
+        "longitudeE7" : 1058325387,
+        "placeId" : "ChIJxRkG11mqNTERUl8oGO-60_Q",
+        "name" : "winsfashion",
+        "locationConfidence" : 1.3293438
+      }, {
+        "latitudeE7" : 210675462,
+        "longitudeE7" : 1058333641,
+        "placeId" : "ChIJCX6Z3VmqNTERDOlIFGx9Y48",
+        "name" : "Nhà Thuốc Thiện Đức",
+        "locationConfidence" : 0.9819635
+      }, {
+        "latitudeE7" : 210750527,
+        "longitudeE7" : 1060759318,
+        "placeId" : "ChIJvSBqvU12NTERbpvXtiguRFE",
+        "name" : "Duong River",
+        "locationConfidence" : 0.94326365
+      }, {
+        "latitudeE7" : 210664028,
+        "longitudeE7" : 1058346556,
+        "placeId" : "ChIJbR6xU1eqNTER_754E0UD4SA",
+        "name" : "Xưởng Sản Xuất Diamond Việt Nam",
+        "locationConfidence" : 0.8792037
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210673084,
+        "longitudeE7" : 1058344727
+      },
+      "endLocation" : {
+        "latitudeE7" : 210374287,
+        "longitudeE7" : 1057833339
+      },
+      "duration" : {
+        "startTimestampMs" : "1519604679557",
+        "endTimestampMs" : "1519610047899"
+      },
+      "distance" : 6204,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 75.86565651349295
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 10.620602583281132
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.192379669579365
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210671882,
+          "lngE7" : 1058345718
+        }, {
+          "latE7" : 210622234,
+          "lngE7" : 1058043899
+        }, {
+          "latE7" : 210367317,
+          "lngE7" : 1057833175
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1519610047899",
+        "location" : {
+          "latitudeE7" : 210374287,
+          "longitudeE7" : 1057833339,
+          "accuracyMetres" : 180
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210374287,
+        "longitudeE7" : 1057833339,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "address" : "136 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 10000\nViệt Nam",
+        "name" : "Hanoi National University of Education",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 57.572
+      },
+      "duration" : {
+        "startTimestampMs" : "1519610047899",
+        "endTimestampMs" : "1519610727471"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 210380448,
+          "longitudeE7" : 1057841828,
+          "placeId" : "ChIJM-QPQjWrNTERqa43PYzu4hg",
+          "address" : "Nhà D\n136 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội\nViệt Nam",
+          "name" : "High School for Gifted Students, Hanoi National University of Education",
+          "sourceInfo" : {
+            "deviceTag" : -1612489939
+          },
+          "locationConfidence" : 20.533556
+        },
+        "duration" : {
+          "startTimestampMs" : "1519610047899",
+          "endTimestampMs" : "1519610727471"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 210370167,
+        "centerLngE7" : 1057846156,
+        "visitConfidence" : 84,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210372453,
+          "longitudeE7" : 1057847631,
+          "placeId" : "ChIJ86VrYTWrNTERIfoSotTNzEs",
+          "name" : "Nguyen Tat Thanh High School",
+          "locationConfidence" : 10.014776
+        }, {
+          "latitudeE7" : 210371042,
+          "longitudeE7" : 1057860057,
+          "placeId" : "ChIJTb2PlDWrNTERMHOrOplO8vc",
+          "name" : "Nha Xanh Market",
+          "locationConfidence" : 3.9918277
+        }, {
+          "latitudeE7" : 210361438,
+          "longitudeE7" : 1057824323,
+          "placeId" : "ChIJbXb2vEqrNTERGZRetW2xUz0",
+          "name" : "Indochina Plaza Hanoi",
+          "locationConfidence" : 1.9930949
+        }, {
+          "latitudeE7" : 210363744,
+          "longitudeE7" : 1057846918,
+          "placeId" : "ChIJZZswhEqrNTERyoNHlpnStcc",
+          "name" : "Circle-K",
+          "locationConfidence" : 1.1540542
+        }, {
+          "latitudeE7" : 210382375,
+          "longitudeE7" : 1057827076,
+          "placeId" : "ChIJM8IgSTWrNTERN0_cv6MTA10",
+          "name" : "University of Engineering and Technology",
+          "locationConfidence" : 0.54216343
+        }, {
+          "latitudeE7" : 210377209,
+          "longitudeE7" : 1057854076,
+          "placeId" : "ChIJ8w-BmzWrNTERxAAHJwhtuHI",
+          "name" : "C'mon Fried Chicken",
+          "locationConfidence" : 0.31502098
+        }, {
+          "latitudeE7" : 210364270,
+          "longitudeE7" : 1057843427,
+          "placeId" : "ChIJp1RDg0qrNTERj-NfFI3021U",
+          "name" : "Men Shop",
+          "locationConfidence" : 0.23152101
+        }, {
+          "latitudeE7" : 210378247,
+          "longitudeE7" : 1057843217,
+          "placeId" : "ChIJ2zvNcTWrNTERwx1ngREEMbE",
+          "name" : "Cafe Lucky",
+          "locationConfidence" : 0.18664332
+        }, {
+          "latitudeE7" : 210362915,
+          "longitudeE7" : 1057840168,
+          "placeId" : "ChIJw1hpmkqrNTERcI0OOgP_Jic",
+          "name" : "Nexttop Jean",
+          "locationConfidence" : 0.16716994
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 210370167,
+      "centerLngE7" : 1057846156,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210371042,
+        "longitudeE7" : 1057860057,
+        "placeId" : "ChIJTb2PlDWrNTERMHOrOplO8vc",
+        "name" : "Nha Xanh Market",
+        "locationConfidence" : 6.9727707
+      }, {
+        "latitudeE7" : 210361438,
+        "longitudeE7" : 1057824323,
+        "placeId" : "ChIJbXb2vEqrNTERGZRetW2xUz0",
+        "name" : "Indochina Plaza Hanoi",
+        "locationConfidence" : 3.4814613
+      }, {
+        "latitudeE7" : 210363744,
+        "longitudeE7" : 1057846918,
+        "placeId" : "ChIJZZswhEqrNTERyoNHlpnStcc",
+        "name" : "Circle-K",
+        "locationConfidence" : 2.0158572
+      }, {
+        "latitudeE7" : 210382375,
+        "longitudeE7" : 1057827076,
+        "placeId" : "ChIJM8IgSTWrNTERN0_cv6MTA10",
+        "name" : "University of Engineering and Technology",
+        "locationConfidence" : 0.9470302
+      }, {
+        "latitudeE7" : 210377209,
+        "longitudeE7" : 1057854076,
+        "placeId" : "ChIJ8w-BmzWrNTERxAAHJwhtuHI",
+        "name" : "C'mon Fried Chicken",
+        "locationConfidence" : 0.5502665
+      }, {
+        "latitudeE7" : 210364270,
+        "longitudeE7" : 1057843427,
+        "placeId" : "ChIJp1RDg0qrNTERj-NfFI3021U",
+        "name" : "Men Shop",
+        "locationConfidence" : 0.40441197
+      }, {
+        "latitudeE7" : 210362915,
+        "longitudeE7" : 1057840168,
+        "placeId" : "ChIJw1hpmkqrNTERcI0OOgP_Jic",
+        "name" : "Nexttop Jean",
+        "locationConfidence" : 0.29200602
+      }, {
+        "latitudeE7" : 210362007,
+        "longitudeE7" : 1057815693,
+        "placeId" : "ChIJRY7zUbVUNDERcGt9Lc0E-eo",
+        "name" : "Flea Market",
+        "locationConfidence" : 0.28240964
+      }, {
+        "latitudeE7" : 210363360,
+        "longitudeE7" : 1057852250,
+        "placeId" : "ChIJx_hhfUqrNTERhhTJD-YDC80",
+        "name" : "Pico Electronics",
+        "locationConfidence" : 0.24613486
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210363595,
+          "lngE7" : 1057844519,
+          "timestampMs" : "1519610063479",
+          "accuracyMeters" : 400
+        }, {
+          "latE7" : 210363595,
+          "lngE7" : 1057844519,
+          "timestampMs" : "1519610066981",
+          "accuracyMeters" : 400
+        }, {
+          "latE7" : 210378292,
+          "lngE7" : 1057847089,
+          "timestampMs" : "1519610726602",
+          "accuracyMeters" : 64
+        } ]
+      }
+    }
+  } ]
+}

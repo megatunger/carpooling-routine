@@ -1,0 +1,177 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210672015,
+        "longitudeE7" : 1058342629
+      },
+      "endLocation" : {
+        "latitudeE7" : 210661875,
+        "longitudeE7" : 1058323844
+      },
+      "duration" : {
+        "startTimestampMs" : "1526820745785",
+        "endTimestampMs" : "1526821265583"
+      },
+      "distance" : 209,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 48.31080460006813
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 25.544450299022582
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 22.978964760687155
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210671310,
+          "lngE7" : 1058341522
+        }, {
+          "latE7" : 210665931,
+          "lngE7" : 1058337249
+        }, {
+          "latE7" : 210662136,
+          "lngE7" : 1058331756
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210662527,
+        "longitudeE7" : 1058325027,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 210672598,
+        "longitudeE7" : 1058341522,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1526824121511",
+        "endTimestampMs" : "1526824762000"
+      },
+      "distance" : 267,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 64.21337212115398
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 28.685804879226378
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.426101924401812
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210662136,
+          "lngE7" : 1058331756
+        }, {
+          "latE7" : 210670967,
+          "lngE7" : 1058341751
+        }, {
+          "latE7" : 210672206,
+          "lngE7" : 1058340911
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210673394,
+          "lngE7" : 1058344750,
+          "timestampMs" : "1526824662859",
+          "accuracyMeters" : 27
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210438101,
+        "longitudeE7" : 1057672336,
+        "placeId" : "ChIJq_gDh8ZUNDERcih9T9ycQl8",
+        "address" : "136 Hồ Tùng Mậu, Quận Bắc Từ Liêm, Mai Dịch Cầu Giấy Hà Nội, Việt Nam",
+        "name" : "TNR Goldmark city",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 65.308334
+      },
+      "duration" : {
+        "startTimestampMs" : "1527137148221",
+        "endTimestampMs" : "1527141314811"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210439657,
+      "centerLngE7" : 1057670950,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210402609,
+        "longitudeE7" : 1057676213,
+        "placeId" : "ChIJzT28-sBUNDERUqCAmbj7jyM",
+        "name" : "Maritime Bank",
+        "locationConfidence" : 3.3620741
+      }, {
+        "latitudeE7" : 210438077,
+        "longitudeE7" : 1057675178,
+        "placeId" : "ChIJZdrDO4ZTNDERt_lumSOA4H0",
+        "name" : "Jello Academy",
+        "locationConfidence" : 3.3519764
+      }, {
+        "latitudeE7" : 210434346,
+        "longitudeE7" : 1057677140,
+        "placeId" : "ChIJ64FvY8ZUNDERtLREC4CeifM",
+        "name" : "Wow Chicken",
+        "locationConfidence" : 2.4816241
+      }, {
+        "latitudeE7" : 210435760,
+        "longitudeE7" : 1057659190,
+        "placeId" : "ChIJocd9vcZUNDERkRQfmYDRxRo",
+        "name" : "Sakurabooks",
+        "locationConfidence" : 2.301804
+      }, {
+        "latitudeE7" : 210462510,
+        "longitudeE7" : 1057665110,
+        "placeId" : "ChIJ1zucfL2rNTERE4sw2v6wfNM",
+        "name" : "Hiệp Logo - in logo phản quang",
+        "locationConfidence" : 1.2765971
+      }, {
+        "latitudeE7" : 210432747,
+        "longitudeE7" : 1057674643,
+        "placeId" : "ChIJozOLXcZUNDERj0i_YTj_orc",
+        "name" : "Tous les Jours Goldmark",
+        "locationConfidence" : 1.1338308
+      }, {
+        "latitudeE7" : 210455245,
+        "longitudeE7" : 1057677080,
+        "placeId" : "ChIJt6f0tMVUNDERPNR7DFYohOg",
+        "name" : "Thế Giới Đồ Ăn Vặt",
+        "locationConfidence" : 1.0067061
+      }, {
+        "latitudeE7" : 210443621,
+        "longitudeE7" : 1057671062,
+        "placeId" : "ChIJiSAM9MZUNDERkBJQPV4KvCc",
+        "name" : "Khu đô thị Goldmark city 136 Ho Tung Mau",
+        "locationConfidence" : 0.99457633
+      }, {
+        "latitudeE7" : 210438917,
+        "longitudeE7" : 1057678391,
+        "placeId" : "ChIJuWTRlc9UNDERSVvc4IGUd38",
+        "name" : "Asiky",
+        "locationConfidence" : 0.9743098
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

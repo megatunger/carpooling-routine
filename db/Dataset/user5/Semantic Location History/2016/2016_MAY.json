@@ -1,0 +1,40 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190079183,
+        "longitudeE7" : 1056003449
+      },
+      "endLocation" : {
+        "latitudeE7" : 190074016,
+        "longitudeE7" : 1055997500
+      },
+      "duration" : {
+        "startTimestampMs" : "1462664092212",
+        "endTimestampMs" : "1462666219197"
+      },
+      "distance" : 2859,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190076732,
+          "lngE7" : 1056004638
+        }, {
+          "latE7" : 190073661,
+          "lngE7" : 1055999450
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

@@ -2,6 +2,7 @@ require 'tomoto'
 require 'tomoto/lda'
 
 class ModelingController < ApplicationController
+
   def pre_processing_lda
     @time_ranges = (0..7).map {|i| "#{i*3}h - #{(i+1)*3}h"}
     @start_time = Date.new(2020, 01, 01)
@@ -16,47 +17,34 @@ class ModelingController < ApplicationController
                  .group_by(&:group_by_criteria)
   end
 
+  def get_training_lda
+    @expecting_topics = 20
+    @users = User.all
+  end
+
   def training_lda
-    mdl = ::Tomoto::LDA.new(tw: :one, min_cf: 3, rm_top: 5, k: 20, seed: 42)
-    @docs = []
+    @expecting_topics = 20
+    if params['train_form']
+      @expecting_topics = params['train_form']['topics'].to_i
+    end
     User.all.each do |user|
-      location_per_days = user.locations.group_by(&:group_by_criteria)
-      location_per_days.each do |day|
-        if day[1]
-          @docs << day[1].map{|location| "#{location.hashing_lda} "}.join
-        end
+      user.create_lda_model(@expecting_topics)
+    end
+    redirect_to modeling_training_lda_path
+  end
+
+  def routes_trip_lda
+    if params['analysis_form']
+      @user = User.find(params['analysis_form']['user_id'].to_i)
+      @user.train_models.last.model_file.open do |file|
+        @mdl = ::Tomoto::LDA.load(file.path)
+        @topics = @mdl.topics_info([], topic_word_top_n: 10)
       end
     end
-    @docs.each do |doc|
-      mdl.add_doc(doc)
-    end
-    puts mdl
-    mdl.burn_in = 100
-    mdl.train(0)
-    @infor = "Num docs: #{mdl.num_docs}, Vocab size: #{mdl.used_vocabs.length}, Num words: #{mdl.num_words}"
-    @infor_removed_words = "Removed top words: #{mdl.removed_top_words}"
-    puts "Training..."
-    100.times do |i|
-      mdl.train(10)
-      puts "Iteration: #{i * 10}\tLog-likelihood: #{mdl.ll_per_word}"
-    end
-
-    puts mdl.summary
-    #
-    #
-    #
-    # puts "Saving..."
-    # mdl.save(save_path)
-    #
-    # mdl.k.times do |k|
-    #   puts "Topic ##{k}"
-    #   mdl.topic_words(k).each do |word, prob|
-    #     puts "\t\t#{word}\t#{prob}"
-    #   end
-    # end
   end
 
   def index
+    # @mdl = ::Tomoto.load(@user.train_models.last.model_file)
 
   end
 

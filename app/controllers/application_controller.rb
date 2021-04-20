@@ -3,4 +3,5 @@ class ApplicationController < ActionController::Base
     @users = User.all
     render 'application/index'
   end
+
 end

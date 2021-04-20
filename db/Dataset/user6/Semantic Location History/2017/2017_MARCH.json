@@ -1,0 +1,1405 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694
+      },
+      "endLocation" : {
+        "latitudeE7" : 209972926,
+        "longitudeE7" : 1058094101
+      },
+      "duration" : {
+        "startTimestampMs" : "1488354315040",
+        "endTimestampMs" : "1488354826636"
+      },
+      "distance" : 1913,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 49.402558111637354
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.06139121269129
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 6.406381763210435
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        }, {
+          "latE7" : 209975109,
+          "lngE7" : 1058097305
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209972928,
+        "longitudeE7" : 1058094102
+      },
+      "endLocation" : {
+        "latitudeE7" : 209960174,
+        "longitudeE7" : 1058079593
+      },
+      "duration" : {
+        "startTimestampMs" : "1488354826636",
+        "endTimestampMs" : "1488356096551"
+      },
+      "distance" : 163,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 43.54894575617628
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 41.642934128213085
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.669091752219949
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209975109,
+          "lngE7" : 1058097305
+        }, {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1488356096551",
+        "location" : {
+          "latitudeE7" : 209960174,
+          "longitudeE7" : 1058079593
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209960174,
+        "longitudeE7" : 1058079593,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 99.334236
+      },
+      "duration" : {
+        "startTimestampMs" : "1488356096551",
+        "endTimestampMs" : "1488363157816"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209958440,
+      "centerLngE7" : 1058081769,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209955717,
+        "longitudeE7" : 1058070286,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "name" : "VNU University of Social Sciences and Humanities",
+        "locationConfidence" : 0.18182519
+      }, {
+        "latitudeE7" : 209958270,
+        "longitudeE7" : 1058088279,
+        "placeId" : "ChIJE4wB9JasNTERNibVyrCjaYM",
+        "locationConfidence" : 0.092629835
+      }, {
+        "latitudeE7" : 209958477,
+        "longitudeE7" : 1058089907,
+        "placeId" : "ChIJOTZ88ZasNTER1iBUEIKI7jM",
+        "name" : "Phòng Khám Tư Nhân Chuyên Khoa Mắt 332",
+        "locationConfidence" : 0.03182092
+      }, {
+        "latitudeE7" : 209957683,
+        "longitudeE7" : 1058088176,
+        "placeId" : "ChIJq4QO9JasNTERaUiCipHXvmY",
+        "name" : "ATM Ngân Hàng BIDV",
+        "locationConfidence" : 0.027744964
+      }, {
+        "latitudeE7" : 209954596,
+        "longitudeE7" : 1058084410,
+        "placeId" : "ChIJl7kaYJasNTERk4WvRG2uLxE",
+        "name" : "Techcombank - Atm",
+        "locationConfidence" : 0.019384356
+      }, {
+        "latitudeE7" : 209954674,
+        "longitudeE7" : 1058084348,
+        "placeId" : "ChIJaUlSar-sNTERWDD9Ati1DwE",
+        "name" : "Cửa Hàng Hải Hà Kotobuki",
+        "locationConfidence" : 0.017447371
+      }, {
+        "latitudeE7" : 209958628,
+        "longitudeE7" : 1058090928,
+        "placeId" : "ChIJuyse8pasNTERCAndA237jlg",
+        "name" : "322 Nguyễn Trãi - gần Trường đại học Khoa học Tự nhiên",
+        "locationConfidence" : 0.012364101
+      }, {
+        "latitudeE7" : 209951866,
+        "longitudeE7" : 1058076042,
+        "placeId" : "ChIJ6b4vb5asNTERM9WSnZTnks8",
+        "name" : "Sejong Korean Language Center",
+        "locationConfidence" : 0.012168847
+      }, {
+        "latitudeE7" : 209954978,
+        "longitudeE7" : 1058084792,
+        "placeId" : "ChIJYRQAYJasNTER_5WvyG3bM5s",
+        "name" : "Hexagon Education",
+        "locationConfidence" : 0.012153974
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209960174,
+        "longitudeE7" : 1058079593
+      },
+      "endLocation" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694
+      },
+      "duration" : {
+        "startTimestampMs" : "1488363157816",
+        "endTimestampMs" : "1488363829127"
+      },
+      "distance" : 2020,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 63.16053627759811
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 33.04546566187943
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.3702662059073913
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        }, {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694,
+        "placeId" : "ChIJsY-qSp2sNTER900L1B3gc9Q",
+        "address" : "34 Thái Thịnh\nThịnh Quang\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "34 Thái Thịnh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 98.89274
+      },
+      "duration" : {
+        "startTimestampMs" : "1488363829127",
+        "endTimestampMs" : "1488370879797"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210092329,
+      "centerLngE7" : 1058173027,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093960,
+        "longitudeE7" : 1058167579,
+        "placeId" : "ChIJD8gASZ2sNTERGfbHCoVR0NY",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.4598124
+      }, {
+        "latitudeE7" : 210090765,
+        "longitudeE7" : 1058174331,
+        "placeId" : "ChIJ29iNyoKsNTERhaCKnY-ymRA",
+        "name" : "Hair salon Đông Phương",
+        "locationConfidence" : 0.10302182
+      }, {
+        "latitudeE7" : 210085945,
+        "longitudeE7" : 1058158118,
+        "placeId" : "ChIJnXr-F52sNTER9BoskabObmY",
+        "name" : "Chợ Thái Thịnh 1",
+        "locationConfidence" : 0.029562237
+      }, {
+        "latitudeE7" : 210106530,
+        "longitudeE7" : 1058162779,
+        "placeId" : "ChIJ1yCbymKrNTERgEbTtmSY6Eg",
+        "name" : "Mì Cay",
+        "locationConfidence" : 0.028161151
+      }, {
+        "latitudeE7" : 210101998,
+        "longitudeE7" : 1058186006,
+        "placeId" : "ChIJ1ajSpoKsNTERaJQghNw0SGk",
+        "name" : "Quán Nem Giòn Phố Thái Thịnh",
+        "locationConfidence" : 0.024392158
+      }, {
+        "latitudeE7" : 210103190,
+        "longitudeE7" : 1058167910,
+        "placeId" : "ChIJl27OVp2sNTERjJbElA0HdMU",
+        "name" : "TinhBộtNghệ.vn",
+        "locationConfidence" : 0.019029383
+      }, {
+        "latitudeE7" : 210089710,
+        "longitudeE7" : 1058185310,
+        "placeId" : "ChIJk-aNwIKsNTERW2h83v8W3ow",
+        "name" : "Trung tâm Đào tạo Tiếng Anh Cho Người Đi Làm EFA Vietnam",
+        "locationConfidence" : 0.016747817
+      }, {
+        "latitudeE7" : 210099679,
+        "longitudeE7" : 1058169383,
+        "placeId" : "ChIJ1eocUp2sNTERNA9p_uGivl8",
+        "name" : "Hair Salon Tony Cường",
+        "locationConfidence" : 0.016408721
+      }, {
+        "latitudeE7" : 210095059,
+        "longitudeE7" : 1058164440,
+        "placeId" : "ChIJ8etBRp2sNTERMIcHHHy54pM",
+        "name" : "King Mobile",
+        "locationConfidence" : 0.014689633
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694
+      },
+      "endLocation" : {
+        "latitudeE7" : 210005999,
+        "longitudeE7" : 1058163470
+      },
+      "duration" : {
+        "startTimestampMs" : "1488370879797",
+        "endTimestampMs" : "1488371397150"
+      },
+      "distance" : 1630,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 50.15332313356169
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 39.03797395834715
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 6.420820212161475
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        }, {
+          "latE7" : 210066776,
+          "lngE7" : 1058216094
+        }, {
+          "latE7" : 210005817,
+          "lngE7" : 1058163604
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210067081,
+          "lngE7" : 1058216453,
+          "timestampMs" : "1488371007189",
+          "accuracyMeters" : 23
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210005989,
+        "longitudeE7" : 1058163576
+      },
+      "endLocation" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694
+      },
+      "duration" : {
+        "startTimestampMs" : "1488371397150",
+        "endTimestampMs" : "1488372526093"
+      },
+      "distance" : 1053,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 49.535416478986406
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 30.00056276359952
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 8.751281728541493
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210005874,
+          "lngE7" : 1058163681
+        }, {
+          "latE7" : 210089569,
+          "lngE7" : 1058173065
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694,
+        "placeId" : "ChIJsY-qSp2sNTER900L1B3gc9Q",
+        "address" : "34 Thái Thịnh\nThịnh Quang\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "34 Thái Thịnh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 98.480865
+      },
+      "duration" : {
+        "startTimestampMs" : "1488372526093",
+        "endTimestampMs" : "1488391745814"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210091651,
+      "centerLngE7" : 1058173384,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093960,
+        "longitudeE7" : 1058167579,
+        "placeId" : "ChIJD8gASZ2sNTERGfbHCoVR0NY",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.89201915
+      }, {
+        "latitudeE7" : 210106530,
+        "longitudeE7" : 1058162779,
+        "placeId" : "ChIJ1yCbymKrNTERgEbTtmSY6Eg",
+        "name" : "Mì Cay",
+        "locationConfidence" : 0.051242027
+      }, {
+        "latitudeE7" : 210085945,
+        "longitudeE7" : 1058158118,
+        "placeId" : "ChIJnXr-F52sNTER9BoskabObmY",
+        "name" : "Chợ Thái Thịnh 1",
+        "locationConfidence" : 0.02969913
+      }, {
+        "latitudeE7" : 210090765,
+        "longitudeE7" : 1058174331,
+        "placeId" : "ChIJ29iNyoKsNTERhaCKnY-ymRA",
+        "name" : "Hair salon Đông Phương",
+        "locationConfidence" : 0.029238
+      }, {
+        "latitudeE7" : 210103190,
+        "longitudeE7" : 1058167910,
+        "placeId" : "ChIJl27OVp2sNTERjJbElA0HdMU",
+        "name" : "TinhBộtNghệ.vn",
+        "locationConfidence" : 0.026268026
+      }, {
+        "latitudeE7" : 210098580,
+        "longitudeE7" : 1058151850,
+        "placeId" : "ChIJV4h7XrqtNTERyNQFD7ibnbo",
+        "name" : "Cafe Phim Hà Nội",
+        "locationConfidence" : 0.022419626
+      }, {
+        "latitudeE7" : 210091116,
+        "longitudeE7" : 1058173460,
+        "placeId" : "ChIJ-9ikyoKsNTERltRi0-W6Rx0",
+        "name" : "Công Ty Tnhh Tm In Sơn Lan",
+        "locationConfidence" : 0.022300906
+      }, {
+        "latitudeE7" : 210100530,
+        "longitudeE7" : 1058187917,
+        "placeId" : "ChIJ8XOlmIKsNTERzR85pHNcPE0",
+        "name" : "magic city",
+        "locationConfidence" : 0.021954676
+      }, {
+        "latitudeE7" : 210087951,
+        "longitudeE7" : 1058149078,
+        "placeId" : "ChIJI2ZkpWKrNTERZDvLbN5-8Ws",
+        "name" : "Nhà hàng Thế giới Bia",
+        "locationConfidence" : 0.01597765
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210092728,
+        "longitudeE7" : 1058175174
+      },
+      "endLocation" : {
+        "latitudeE7" : 210092096,
+        "longitudeE7" : 1058179104
+      },
+      "duration" : {
+        "startTimestampMs" : "1489317127895",
+        "endTimestampMs" : "1489320001910"
+      },
+      "distance" : 3446,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 62.45408708042414
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 35.778942336100506
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.1744525054809634
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694,
+        "placeId" : "ChIJsY-qSp2sNTER900L1B3gc9Q",
+        "address" : "34 Thái Thịnh\nThịnh Quang\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "34 Thái Thịnh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 98.828094
+      },
+      "duration" : {
+        "startTimestampMs" : "1489320076812",
+        "endTimestampMs" : "1489326422866"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210090568,
+      "centerLngE7" : 1058170611,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093960,
+        "longitudeE7" : 1058167579,
+        "placeId" : "ChIJD8gASZ2sNTERGfbHCoVR0NY",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.6230244
+      }, {
+        "latitudeE7" : 210106530,
+        "longitudeE7" : 1058162779,
+        "placeId" : "ChIJ1yCbymKrNTERgEbTtmSY6Eg",
+        "name" : "Mì Cay",
+        "locationConfidence" : 0.13484357
+      }, {
+        "latitudeE7" : 210090765,
+        "longitudeE7" : 1058174331,
+        "placeId" : "ChIJ29iNyoKsNTERhaCKnY-ymRA",
+        "name" : "Hair salon Đông Phương",
+        "locationConfidence" : 0.04019188
+      }, {
+        "latitudeE7" : 210085945,
+        "longitudeE7" : 1058158118,
+        "placeId" : "ChIJnXr-F52sNTER9BoskabObmY",
+        "name" : "Chợ Thái Thịnh 1",
+        "locationConfidence" : 0.03681629
+      }, {
+        "latitudeE7" : 210089000,
+        "longitudeE7" : 1058170402,
+        "placeId" : "ChIJgZ5pNJ2sNTERLHxYvbOT6To",
+        "name" : "Solala jewelry",
+        "locationConfidence" : 0.021972794
+      }, {
+        "latitudeE7" : 210093770,
+        "longitudeE7" : 1058163321,
+        "placeId" : "ChIJH7oPR52sNTERbdwfZ0GQQyA",
+        "name" : "Shop Thời Trang 3H",
+        "locationConfidence" : 0.014039328
+      }, {
+        "latitudeE7" : 210103190,
+        "longitudeE7" : 1058167910,
+        "placeId" : "ChIJl27OVp2sNTERjJbElA0HdMU",
+        "name" : "TinhBộtNghệ.vn",
+        "locationConfidence" : 0.01334824
+      }, {
+        "latitudeE7" : 210093920,
+        "longitudeE7" : 1058162462,
+        "placeId" : "ChIJBSw7R52sNTER_Xkze7tTXN4",
+        "name" : "Nhà May Lan Phương",
+        "locationConfidence" : 0.012147442
+      }, {
+        "latitudeE7" : 210099528,
+        "longitudeE7" : 1058169631,
+        "placeId" : "ChIJC2kFUp2sNTERQntJC2kJhIw",
+        "name" : "Quán Phở Nhất Vị",
+        "locationConfidence" : 0.011754088
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694,
+        "placeId" : "ChIJsY-qSp2sNTER900L1B3gc9Q",
+        "address" : "34 Thái Thịnh\nThịnh Quang\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "34 Thái Thịnh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 98.80528
+      },
+      "duration" : {
+        "startTimestampMs" : "1489468460797",
+        "endTimestampMs" : "1489468974336"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210091112,
+      "centerLngE7" : 1058170750,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093960,
+        "longitudeE7" : 1058167579,
+        "placeId" : "ChIJD8gASZ2sNTERGfbHCoVR0NY",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.5849942
+      }, {
+        "latitudeE7" : 210089000,
+        "longitudeE7" : 1058170402,
+        "placeId" : "ChIJgZ5pNJ2sNTERLHxYvbOT6To",
+        "name" : "Solala jewelry",
+        "locationConfidence" : 0.05810189
+      }, {
+        "latitudeE7" : 210106530,
+        "longitudeE7" : 1058162779,
+        "placeId" : "ChIJ1yCbymKrNTERgEbTtmSY6Eg",
+        "name" : "Mì Cay",
+        "locationConfidence" : 0.05428234
+      }, {
+        "latitudeE7" : 210085945,
+        "longitudeE7" : 1058158118,
+        "placeId" : "ChIJnXr-F52sNTER9BoskabObmY",
+        "name" : "Chợ Thái Thịnh 1",
+        "locationConfidence" : 0.043117315
+      }, {
+        "latitudeE7" : 210097771,
+        "longitudeE7" : 1058191424,
+        "placeId" : "ChIJ99dqjIKsNTERb86wQLOeAoo",
+        "name" : "Khách Sạn Hacinco",
+        "locationConfidence" : 0.025852801
+      }, {
+        "latitudeE7" : 210090765,
+        "longitudeE7" : 1058174331,
+        "placeId" : "ChIJ29iNyoKsNTERhaCKnY-ymRA",
+        "name" : "Hair salon Đông Phương",
+        "locationConfidence" : 0.02472529
+      }, {
+        "latitudeE7" : 210093770,
+        "longitudeE7" : 1058163321,
+        "placeId" : "ChIJH7oPR52sNTERbdwfZ0GQQyA",
+        "name" : "Shop Thời Trang 3H",
+        "locationConfidence" : 0.01888775
+      }, {
+        "latitudeE7" : 210099528,
+        "longitudeE7" : 1058169631,
+        "placeId" : "ChIJC2kFUp2sNTERQntJC2kJhIw",
+        "name" : "Quán Phở Nhất Vị",
+        "locationConfidence" : 0.015196475
+      }, {
+        "latitudeE7" : 210087951,
+        "longitudeE7" : 1058149078,
+        "placeId" : "ChIJI2ZkpWKrNTERZDvLbN5-8Ws",
+        "name" : "Nhà hàng Thế giới Bia",
+        "locationConfidence" : 0.013815439
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210090595,
+        "longitudeE7" : 1058173798
+      },
+      "endLocation" : {
+        "latitudeE7" : 209960174,
+        "longitudeE7" : 1058079593
+      },
+      "duration" : {
+        "startTimestampMs" : "1489468974336",
+        "endTimestampMs" : "1489476650892"
+      },
+      "distance" : 1585,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 64.47104105047987
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 26.229864920203127
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.39243931717214
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210083580,
+          "lngE7" : 1058188171
+        }, {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209960174,
+        "longitudeE7" : 1058079593,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 99.68148
+      },
+      "duration" : {
+        "startTimestampMs" : "1489476650892",
+        "endTimestampMs" : "1489487730741"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209959873,
+      "centerLngE7" : 1058081823,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209958270,
+        "longitudeE7" : 1058088279,
+        "placeId" : "ChIJE4wB9JasNTERNibVyrCjaYM",
+        "locationConfidence" : 0.06375492
+      }, {
+        "latitudeE7" : 209955717,
+        "longitudeE7" : 1058070286,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "name" : "VNU University of Social Sciences and Humanities",
+        "locationConfidence" : 0.053250726
+      }, {
+        "latitudeE7" : 209958477,
+        "longitudeE7" : 1058089907,
+        "placeId" : "ChIJOTZ88ZasNTER1iBUEIKI7jM",
+        "name" : "Phòng Khám Tư Nhân Chuyên Khoa Mắt 332",
+        "locationConfidence" : 0.028062243
+      }, {
+        "latitudeE7" : 209957683,
+        "longitudeE7" : 1058088176,
+        "placeId" : "ChIJq4QO9JasNTERaUiCipHXvmY",
+        "name" : "ATM Ngân Hàng BIDV",
+        "locationConfidence" : 0.010863145
+      }, {
+        "latitudeE7" : 209958628,
+        "longitudeE7" : 1058090928,
+        "placeId" : "ChIJuyse8pasNTERCAndA237jlg",
+        "name" : "322 Nguyễn Trãi - gần Trường đại học Khoa học Tự nhiên",
+        "locationConfidence" : 0.007807044
+      }, {
+        "latitudeE7" : 209953595,
+        "longitudeE7" : 1058092189,
+        "placeId" : "ChIJj6dRjZasNTERjuqmplDe3_s",
+        "name" : "235 Nguyễn Trãi",
+        "locationConfidence" : 0.0071742334
+      }, {
+        "latitudeE7" : 209954596,
+        "longitudeE7" : 1058084410,
+        "placeId" : "ChIJl7kaYJasNTERk4WvRG2uLxE",
+        "name" : "Techcombank - Atm",
+        "locationConfidence" : 0.0069176108
+      }, {
+        "latitudeE7" : 209954978,
+        "longitudeE7" : 1058084792,
+        "placeId" : "ChIJYRQAYJasNTER_5WvyG3bM5s",
+        "name" : "Hexagon Education",
+        "locationConfidence" : 0.005265924
+      }, {
+        "latitudeE7" : 209965570,
+        "longitudeE7" : 1058100482,
+        "placeId" : "ChIJCSy8lLIOVhER0vkmnTXRPoU",
+        "name" : "Nhà Sách Phương Thu",
+        "locationConfidence" : 0.004948864
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209960174,
+        "longitudeE7" : 1058079593
+      },
+      "endLocation" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694
+      },
+      "duration" : {
+        "startTimestampMs" : "1489487730741",
+        "endTimestampMs" : "1489488342535"
+      },
+      "distance" : 2697,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 63.425337794642815
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 31.386266740355172
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.8085047062728004
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        }, {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1489488342535",
+        "location" : {
+          "latitudeE7" : 210091780,
+          "longitudeE7" : 1058170694
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694,
+        "placeId" : "ChIJsY-qSp2sNTER900L1B3gc9Q",
+        "address" : "34 Thái Thịnh\nThịnh Quang\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "34 Thái Thịnh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 99.18091
+      },
+      "duration" : {
+        "startTimestampMs" : "1489488342535",
+        "endTimestampMs" : "1489489993056"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210091873,
+      "centerLngE7" : 1058172368,
+      "visitConfidence" : 74,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093960,
+        "longitudeE7" : 1058167579,
+        "placeId" : "ChIJD8gASZ2sNTERGfbHCoVR0NY",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.33955154
+      }, {
+        "latitudeE7" : 210090765,
+        "longitudeE7" : 1058174331,
+        "placeId" : "ChIJ29iNyoKsNTERhaCKnY-ymRA",
+        "name" : "Hair salon Đông Phương",
+        "locationConfidence" : 0.06113046
+      }, {
+        "latitudeE7" : 210106530,
+        "longitudeE7" : 1058162779,
+        "placeId" : "ChIJ1yCbymKrNTERgEbTtmSY6Eg",
+        "name" : "Mì Cay",
+        "locationConfidence" : 0.041799318
+      }, {
+        "latitudeE7" : 210089000,
+        "longitudeE7" : 1058170402,
+        "placeId" : "ChIJgZ5pNJ2sNTERLHxYvbOT6To",
+        "name" : "Solala jewelry",
+        "locationConfidence" : 0.03249989
+      }, {
+        "latitudeE7" : 210097771,
+        "longitudeE7" : 1058191424,
+        "placeId" : "ChIJ99dqjIKsNTERb86wQLOeAoo",
+        "name" : "Khách Sạn Hacinco",
+        "locationConfidence" : 0.014203966
+      }, {
+        "latitudeE7" : 210087592,
+        "longitudeE7" : 1058180010,
+        "placeId" : "ChIJBTGpyIKsNTERoiiIVw16qH4",
+        "name" : "Television & Cinema Copyright Exploitation Co.,Ltd",
+        "locationConfidence" : 0.01352581
+      }, {
+        "latitudeE7" : 210103190,
+        "longitudeE7" : 1058167910,
+        "placeId" : "ChIJl27OVp2sNTERjJbElA0HdMU",
+        "name" : "TinhBộtNghệ.vn",
+        "locationConfidence" : 0.013201183
+      }, {
+        "latitudeE7" : 210095059,
+        "longitudeE7" : 1058164440,
+        "placeId" : "ChIJ8etBRp2sNTERMIcHHHy54pM",
+        "name" : "King Mobile",
+        "locationConfidence" : 0.012675757
+      }, {
+        "latitudeE7" : 210091116,
+        "longitudeE7" : 1058173460,
+        "placeId" : "ChIJ-9ikyoKsNTERltRi0-W6Rx0",
+        "name" : "Công Ty Tnhh Tm In Sơn Lan",
+        "locationConfidence" : 0.011123079
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210092728,
+        "longitudeE7" : 1058175174
+      },
+      "endLocation" : {
+        "latitudeE7" : 210088909,
+        "longitudeE7" : 1058287417
+      },
+      "duration" : {
+        "startTimestampMs" : "1489489993056",
+        "endTimestampMs" : "1489490359921"
+      },
+      "distance" : 736,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 50.12559342454631
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 48.172780529791346
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.144273903972425
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210101051,
+          "lngE7" : 1058187408
+        }, {
+          "latE7" : 210089588,
+          "lngE7" : 1058297729
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210088909,
+        "longitudeE7" : 1058287417,
+        "placeId" : "ChIJBwhFD4CsNTEROmlL2bxJmkE",
+        "address" : "12 Chùa Bộc\nQuang Trung\nĐống Đa\nHà Nội 100000\nViệt Nam",
+        "name" : "Banking Academy",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 73.35378
+      },
+      "duration" : {
+        "startTimestampMs" : "1489490359921",
+        "endTimestampMs" : "1489491065559"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 210082357,
+      "centerLngE7" : 1058277929,
+      "visitConfidence" : 57,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210077070,
+        "longitudeE7" : 1058270056,
+        "placeId" : "ChIJNxukbYerNTERdbVhbdghji0",
+        "name" : "Siêu thị điện thoại Topphone",
+        "locationConfidence" : 4.925077
+      }, {
+        "latitudeE7" : 210076468,
+        "longitudeE7" : 1058283202,
+        "placeId" : "ChIJOSEqboCsNTERxBeURobeJN4",
+        "name" : "12, 18, 21, 23, 26, 35, 44, 51",
+        "locationConfidence" : 4.534983
+      }, {
+        "latitudeE7" : 210085250,
+        "longitudeE7" : 1058275276,
+        "placeId" : "ChIJVWPhFYCsNTERjyPccN22jdo",
+        "name" : "Chùa Bộc",
+        "locationConfidence" : 4.4125724
+      }, {
+        "latitudeE7" : 210077535,
+        "longitudeE7" : 1058276393,
+        "placeId" : "ChIJabKJaYCsNTERPUGsWnBon9w",
+        "name" : "Cửa hàng Allkids",
+        "locationConfidence" : 0.98537105
+      }, {
+        "latitudeE7" : 210097261,
+        "longitudeE7" : 1058260930,
+        "placeId" : "ChIJCynm1n-rNTERBnw40sGm14s",
+        "name" : "Trade Union University",
+        "locationConfidence" : 0.85363334
+      }, {
+        "latitudeE7" : 210075951,
+        "longitudeE7" : 1058279503,
+        "placeId" : "ChIJY0Ulb4CsNTERvFx0BfpkN8I",
+        "name" : "Dell Store - Ben Computer",
+        "locationConfidence" : 0.6958616
+      }, {
+        "latitudeE7" : 210080148,
+        "longitudeE7" : 1058274525,
+        "placeId" : "ChIJcwAvw4GsNTERIw6LmSsFFiI",
+        "name" : "Hanoi Knitting Shop",
+        "locationConfidence" : 0.42451602
+      }, {
+        "latitudeE7" : 210075422,
+        "longitudeE7" : 1058276821,
+        "placeId" : "ChIJvxJCaICsNTERXRvR5lnqmvM",
+        "name" : "ATM Dong A Bank- Chi Nhánh Kim Liên",
+        "locationConfidence" : 0.37720594
+      }, {
+        "latitudeE7" : 210079840,
+        "longitudeE7" : 1058276489,
+        "placeId" : "ChIJt2FgaoCsNTERNFv6VvlKI2U",
+        "locationConfidence" : 0.29406285
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210088909,
+        "longitudeE7" : 1058287417
+      },
+      "endLocation" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694
+      },
+      "duration" : {
+        "startTimestampMs" : "1489491065559",
+        "endTimestampMs" : "1489494525046"
+      },
+      "distance" : 282,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 74.28365247193145
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.043709635390183
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.5819670544131066
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210089206,
+          "lngE7" : 1058297729
+        }, {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694,
+        "placeId" : "ChIJsY-qSp2sNTER900L1B3gc9Q",
+        "address" : "34 Thái Thịnh\nThịnh Quang\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "34 Thái Thịnh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 98.76548
+      },
+      "duration" : {
+        "startTimestampMs" : "1489494525046",
+        "endTimestampMs" : "1489543509701"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210090920,
+      "centerLngE7" : 1058171603,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093960,
+        "longitudeE7" : 1058167579,
+        "placeId" : "ChIJD8gASZ2sNTERGfbHCoVR0NY",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.5764035
+      }, {
+        "latitudeE7" : 210106530,
+        "longitudeE7" : 1058162779,
+        "placeId" : "ChIJ1yCbymKrNTERgEbTtmSY6Eg",
+        "name" : "Mì Cay",
+        "locationConfidence" : 0.12858266
+      }, {
+        "latitudeE7" : 210089000,
+        "longitudeE7" : 1058170402,
+        "placeId" : "ChIJgZ5pNJ2sNTERLHxYvbOT6To",
+        "name" : "Solala jewelry",
+        "locationConfidence" : 0.05342273
+      }, {
+        "latitudeE7" : 210085945,
+        "longitudeE7" : 1058158118,
+        "placeId" : "ChIJnXr-F52sNTER9BoskabObmY",
+        "name" : "Chợ Thái Thịnh 1",
+        "locationConfidence" : 0.051731143
+      }, {
+        "latitudeE7" : 210103190,
+        "longitudeE7" : 1058167910,
+        "placeId" : "ChIJl27OVp2sNTERjJbElA0HdMU",
+        "name" : "TinhBộtNghệ.vn",
+        "locationConfidence" : 0.026656788
+      }, {
+        "latitudeE7" : 210090765,
+        "longitudeE7" : 1058174331,
+        "placeId" : "ChIJ29iNyoKsNTERhaCKnY-ymRA",
+        "name" : "Hair salon Đông Phương",
+        "locationConfidence" : 0.02082378
+      }, {
+        "latitudeE7" : 210098580,
+        "longitudeE7" : 1058151850,
+        "placeId" : "ChIJV4h7XrqtNTERyNQFD7ibnbo",
+        "name" : "Cafe Phim Hà Nội",
+        "locationConfidence" : 0.019406522
+      }, {
+        "latitudeE7" : 210089710,
+        "longitudeE7" : 1058185310,
+        "placeId" : "ChIJk-aNwIKsNTERW2h83v8W3ow",
+        "name" : "Trung tâm Đào tạo Tiếng Anh Cho Người Đi Làm EFA Vietnam",
+        "locationConfidence" : 0.015111095
+      }, {
+        "latitudeE7" : 210087951,
+        "longitudeE7" : 1058149078,
+        "placeId" : "ChIJI2ZkpWKrNTERZDvLbN5-8Ws",
+        "name" : "Nhà hàng Thế giới Bia",
+        "locationConfidence" : 0.014446263
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694
+      },
+      "endLocation" : {
+        "latitudeE7" : 209960174,
+        "longitudeE7" : 1058079593
+      },
+      "duration" : {
+        "startTimestampMs" : "1489543509701",
+        "endTimestampMs" : "1489544129121"
+      },
+      "distance" : 517,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 61.9600121075248
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 24.93511204799825
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 8.550626936115034
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        }, {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209960174,
+        "longitudeE7" : 1058079593,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 99.13569
+      },
+      "duration" : {
+        "startTimestampMs" : "1489544129121",
+        "endTimestampMs" : "1489556205111"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209948916,
+      "centerLngE7" : 1058074948,
+      "visitConfidence" : 63,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209955717,
+        "longitudeE7" : 1058070286,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "name" : "VNU University of Social Sciences and Humanities",
+        "locationConfidence" : 0.25255084
+      }, {
+        "latitudeE7" : 209958270,
+        "longitudeE7" : 1058088279,
+        "placeId" : "ChIJE4wB9JasNTERNibVyrCjaYM",
+        "locationConfidence" : 0.11442466
+      }, {
+        "latitudeE7" : 209958477,
+        "longitudeE7" : 1058089907,
+        "placeId" : "ChIJOTZ88ZasNTER1iBUEIKI7jM",
+        "name" : "Phòng Khám Tư Nhân Chuyên Khoa Mắt 332",
+        "locationConfidence" : 0.034328707
+      }, {
+        "latitudeE7" : 209957683,
+        "longitudeE7" : 1058088176,
+        "placeId" : "ChIJq4QO9JasNTERaUiCipHXvmY",
+        "name" : "ATM Ngân Hàng BIDV",
+        "locationConfidence" : 0.028244317
+      }, {
+        "latitudeE7" : 209954674,
+        "longitudeE7" : 1058084348,
+        "placeId" : "ChIJaUlSar-sNTERWDD9Ati1DwE",
+        "name" : "Cửa Hàng Hải Hà Kotobuki",
+        "locationConfidence" : 0.026016625
+      }, {
+        "latitudeE7" : 209954596,
+        "longitudeE7" : 1058084410,
+        "placeId" : "ChIJl7kaYJasNTERk4WvRG2uLxE",
+        "name" : "Techcombank - Atm",
+        "locationConfidence" : 0.021711906
+      }, {
+        "latitudeE7" : 209951529,
+        "longitudeE7" : 1058077249,
+        "placeId" : "ChIJD7mXZZasNTER4kcwCbhG9Uk",
+        "name" : "Váy cưới - Áo dài Ana Pham Bridal",
+        "locationConfidence" : 0.020528492
+      }, {
+        "latitudeE7" : 209954978,
+        "longitudeE7" : 1058084792,
+        "placeId" : "ChIJYRQAYJasNTER_5WvyG3bM5s",
+        "name" : "Hexagon Education",
+        "locationConfidence" : 0.017271334
+      }, {
+        "latitudeE7" : 209953595,
+        "longitudeE7" : 1058092189,
+        "placeId" : "ChIJj6dRjZasNTERjuqmplDe3_s",
+        "name" : "235 Nguyễn Trãi",
+        "locationConfidence" : 0.015607606
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210003272,
+        "longitudeE7" : 1058113708,
+        "placeId" : "ChIJg6jw95msNTERuNEsM2a5N5A",
+        "address" : "50, Chinh Kinh Street, Thanh Xuan District, Ha Noi City, Vietnam",
+        "name" : "Computer - Mobile Phone Store",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 43.52981
+      },
+      "duration" : {
+        "startTimestampMs" : "1489584150429",
+        "endTimestampMs" : "1489586470366"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 210001522,
+      "centerLngE7" : 1058110700,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209998305,
+        "longitudeE7" : 1058110321,
+        "placeId" : "ChIJ-yMp_JmsNTERWifZ1M0Ql8Y",
+        "name" : "Thế giới hoa quả",
+        "locationConfidence" : 15.586559
+      }, {
+        "latitudeE7" : 210001310,
+        "longitudeE7" : 1058111230,
+        "placeId" : "ChIJCzF0-ZmsNTERd9uglv_MMNg",
+        "locationConfidence" : 11.154104
+      }, {
+        "latitudeE7" : 210001204,
+        "longitudeE7" : 1058110047,
+        "placeId" : "ChIJQQK8-5msNTERHkjrOckl4ks",
+        "name" : "Cháo Dinh Dưỡng 123",
+        "locationConfidence" : 5.9870663
+      }, {
+        "latitudeE7" : 210002420,
+        "longitudeE7" : 1058110770,
+        "placeId" : "ChIJe0Xz-ZmsNTER5DvK45Bu2LY",
+        "locationConfidence" : 3.7937627
+      }, {
+        "latitudeE7" : 210002362,
+        "longitudeE7" : 1058110612,
+        "placeId" : "ChIJ0d6K-ZmsNTERm_t2XgP19uk",
+        "name" : "Quang Duy Studio",
+        "locationConfidence" : 1.5229231
+      }, {
+        "latitudeE7" : 209999730,
+        "longitudeE7" : 1058109680,
+        "placeId" : "ChIJu40K_JmsNTER9wfTGTtYfBY",
+        "name" : "MyHome Palace",
+        "locationConfidence" : 1.0379775
+      }, {
+        "latitudeE7" : 210001395,
+        "longitudeE7" : 1058112045,
+        "placeId" : "ChIJrVpz-ZmsNTERRj5LGDS-yX0",
+        "name" : "Công Ty Tnhh Tm Công Nghệ Nguyễn Trần",
+        "locationConfidence" : 1.0042704
+      }, {
+        "latitudeE7" : 210001974,
+        "longitudeE7" : 1058110642,
+        "placeId" : "ChIJoYWI-ZmsNTERUJhm9opsp4Y",
+        "name" : "Công Ty Cp Đầu Tư Thương Mại & Xuất Nhập Khẩu Việt Hàn",
+        "locationConfidence" : 0.85114616
+      }, {
+        "latitudeE7" : 209999417,
+        "longitudeE7" : 1058110703,
+        "placeId" : "ChIJ2QGu_pmsNTER5YWn2DT1cHE",
+        "name" : "Nail Nhung",
+        "locationConfidence" : 0.7919867
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210002006,
+        "longitudeE7" : 1058110047
+      },
+      "endLocation" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694
+      },
+      "duration" : {
+        "startTimestampMs" : "1489586470366",
+        "endTimestampMs" : "1489587315813"
+      },
+      "distance" : 1154,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 77.66006750569419
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 10.666896909589234
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 8.433534792219598
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210002174,
+          "lngE7" : 1058110504
+        }, {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210091780,
+        "longitudeE7" : 1058170694,
+        "placeId" : "ChIJsY-qSp2sNTER900L1B3gc9Q",
+        "address" : "34 Thái Thịnh\nThịnh Quang\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "34 Thái Thịnh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 98.38781
+      },
+      "duration" : {
+        "startTimestampMs" : "1489587315813",
+        "endTimestampMs" : "1489593514149"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210090764,
+      "centerLngE7" : 1058170497,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093960,
+        "longitudeE7" : 1058167579,
+        "placeId" : "ChIJD8gASZ2sNTERGfbHCoVR0NY",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.85675675
+      }, {
+        "latitudeE7" : 210106530,
+        "longitudeE7" : 1058162779,
+        "placeId" : "ChIJ1yCbymKrNTERgEbTtmSY6Eg",
+        "name" : "Mì Cay",
+        "locationConfidence" : 0.1669665
+      }, {
+        "latitudeE7" : 210085945,
+        "longitudeE7" : 1058158118,
+        "placeId" : "ChIJnXr-F52sNTER9BoskabObmY",
+        "name" : "Chợ Thái Thịnh 1",
+        "locationConfidence" : 0.05563286
+      }, {
+        "latitudeE7" : 210090765,
+        "longitudeE7" : 1058174331,
+        "placeId" : "ChIJ29iNyoKsNTERhaCKnY-ymRA",
+        "name" : "Hair salon Đông Phương",
+        "locationConfidence" : 0.043890364
+      }, {
+        "latitudeE7" : 210089000,
+        "longitudeE7" : 1058170402,
+        "placeId" : "ChIJgZ5pNJ2sNTERLHxYvbOT6To",
+        "name" : "Solala jewelry",
+        "locationConfidence" : 0.024736054
+      }, {
+        "latitudeE7" : 210093770,
+        "longitudeE7" : 1058163321,
+        "placeId" : "ChIJH7oPR52sNTERbdwfZ0GQQyA",
+        "name" : "Shop Thời Trang 3H",
+        "locationConfidence" : 0.01918547
+      }, {
+        "latitudeE7" : 210091416,
+        "longitudeE7" : 1058159780,
+        "placeId" : "ChIJ_UevP52sNTER5e29Vc_s968",
+        "name" : "Himalaya.vn",
+        "locationConfidence" : 0.017293824
+      }, {
+        "latitudeE7" : 210093920,
+        "longitudeE7" : 1058162462,
+        "placeId" : "ChIJBSw7R52sNTER_Xkze7tTXN4",
+        "name" : "Nhà May Lan Phương",
+        "locationConfidence" : 0.016590405
+      }, {
+        "latitudeE7" : 210101998,
+        "longitudeE7" : 1058186006,
+        "placeId" : "ChIJ1ajSpoKsNTERaJQghNw0SGk",
+        "name" : "Quán Nem Giòn Phố Thái Thịnh",
+        "locationConfidence" : 0.016009856
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

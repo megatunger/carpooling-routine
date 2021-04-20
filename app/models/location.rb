@@ -8,6 +8,6 @@ class Location < ApplicationRecord
 
   def processing_lda_string
     time_ranges = (0..7).map {|i| "#{i*3}h - #{(i+1)*3}h"}
-    self.hashing_lda = "#{self&.address}_#{time_ranges[self.start_time.strftime('%H').to_i % 3]}".parameterize.underscore
+    self.hashing_lda = "#{self&.address}_#{time_ranges[self.start_time.strftime('%H').to_i % 3]}_#{self.start_time.strftime("%A").downcase}".parameterize.underscore
   end
 end

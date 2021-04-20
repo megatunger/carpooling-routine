@@ -1,0 +1,5294 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209699827,
+        "longitudeE7" : 1057918057
+      },
+      "endLocation" : {
+        "latitudeE7" : 209950130,
+        "longitudeE7" : 1058079319
+      },
+      "duration" : {
+        "startTimestampMs" : "1575251059857",
+        "endTimestampMs" : "1575252000059"
+      },
+      "distance" : 3624,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 92.35204458236694
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.676001891493797
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.0452281683683395
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209699783,
+          "lngE7" : 1057918014
+        }, {
+          "latE7" : 209936447,
+          "lngE7" : 1058064956
+        }, {
+          "latE7" : 209949817,
+          "lngE7" : 1058079528
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209920760,
+          "lngE7" : 1058041103,
+          "timestampMs" : "1575251697000",
+          "accuracyMeters" : 13
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575252037851",
+        "location" : {
+          "latitudeE7" : 209953478,
+          "longitudeE7" : 1058085473,
+          "accuracyMetres" : 33
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 65.7671
+      },
+      "duration" : {
+        "startTimestampMs" : "1575252000059",
+        "endTimestampMs" : "1575283024754"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209959424,
+      "centerLngE7" : 1058082215,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 34.06437
+      }, {
+        "latitudeE7" : 209956792,
+        "longitudeE7" : 1058080695,
+        "placeId" : "ChIJazpQOs-sNTER11FBJnyfPok",
+        "locationConfidence" : 0.14466478
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.0059550744
+      }, {
+        "latitudeE7" : 209957551,
+        "longitudeE7" : 1058089292,
+        "placeId" : "ChIJudTr85asNTERFXucFGsXseE",
+        "locationConfidence" : 0.0037393959
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209954224,
+        "longitudeE7" : 1058089410
+      },
+      "endLocation" : {
+        "latitudeE7" : 209708319,
+        "longitudeE7" : 1057911390
+      },
+      "duration" : {
+        "startTimestampMs" : "1575283024754",
+        "endTimestampMs" : "1575284088000"
+      },
+      "distance" : 3589,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 88.36665749549866
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.558842211961746
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.721160091459751
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209953842,
+          "lngE7" : 1058089752
+        }, {
+          "latE7" : 209943199,
+          "lngE7" : 1058070373
+        }, {
+          "latE7" : 209708461,
+          "lngE7" : 1057911529
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209954224,
+          "lngE7" : 1058089410,
+          "timestampMs" : "1575283024754",
+          "accuracyMeters" : 31
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575284171826",
+        "location" : {
+          "latitudeE7" : 209703156,
+          "longitudeE7" : 1057920804,
+          "accuracyMetres" : 25
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 63.28731
+      },
+      "duration" : {
+        "startTimestampMs" : "1575284088000",
+        "endTimestampMs" : "1575339496143"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702728,
+      "centerLngE7" : 1057921066,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 32.319
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 1.2080355
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.8686648
+      }, {
+        "latitudeE7" : 209706106,
+        "longitudeE7" : 1057915861,
+        "placeId" : "ChIJH-QSf_WtNTER3FqCciN6IUY",
+        "locationConfidence" : 0.635396
+      }, {
+        "latitudeE7" : 209675864,
+        "longitudeE7" : 1057890517,
+        "placeId" : "ChIJFQ73GdasNTERghOkJH6mVPk",
+        "locationConfidence" : 0.533873
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209703194,
+        "longitudeE7" : 1057920720
+      },
+      "endLocation" : {
+        "latitudeE7" : 209954307,
+        "longitudeE7" : 1058085039
+      },
+      "duration" : {
+        "startTimestampMs" : "1575339496143",
+        "endTimestampMs" : "1575340406000"
+      },
+      "distance" : 3638,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 91.67808294296265
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.6981010138988495
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.7668118923902512
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703445,
+          "lngE7" : 1057920532
+        }, {
+          "latE7" : 209745769,
+          "lngE7" : 1057897491
+        }, {
+          "latE7" : 209800148,
+          "lngE7" : 1057945327
+        }, {
+          "latE7" : 209936447,
+          "lngE7" : 1058064956
+        }, {
+          "latE7" : 209953784,
+          "lngE7" : 1058085403
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209771861,
+          "lngE7" : 1057916942,
+          "timestampMs" : "1575339661613",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : 209799112,
+          "lngE7" : 1057945229,
+          "timestampMs" : "1575339741000",
+          "accuracyMeters" : 4
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575340389174",
+        "location" : {
+          "latitudeE7" : 209954117,
+          "longitudeE7" : 1058084825,
+          "accuracyMetres" : 89
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 67.52658
+      },
+      "duration" : {
+        "startTimestampMs" : "1575340406000",
+        "endTimestampMs" : "1575367235680"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209960686,
+      "centerLngE7" : 1058081827,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 32.33142
+      }, {
+        "latitudeE7" : 209956792,
+        "longitudeE7" : 1058080695,
+        "placeId" : "ChIJazpQOs-sNTER11FBJnyfPok",
+        "locationConfidence" : 0.1192677
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.0036093262
+      }, {
+        "latitudeE7" : 209957551,
+        "longitudeE7" : 1058089292,
+        "placeId" : "ChIJudTr85asNTERFXucFGsXseE",
+        "locationConfidence" : 0.0034132125
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209956119,
+        "longitudeE7" : 1058085771
+      },
+      "endLocation" : {
+        "latitudeE7" : 209771183,
+        "longitudeE7" : 1057879255
+      },
+      "duration" : {
+        "startTimestampMs" : "1575367235680",
+        "endTimestampMs" : "1575368203250"
+      },
+      "distance" : 2970,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 88.04005980491638
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.711676716804504
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.4833424016833305
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209954719,
+          "lngE7" : 1058086853
+        }, {
+          "latE7" : 209845218,
+          "lngE7" : 1057931823
+        }, {
+          "latE7" : 209771289,
+          "lngE7" : 1057879180
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575368387766",
+        "location" : {
+          "latitudeE7" : 209798237,
+          "longitudeE7" : 1057983342,
+          "accuracyMetres" : 57
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209775540,
+        "longitudeE7" : 1057884264,
+        "placeId" : "ChIJM0Rs8dGsNTERh8Td8eW5hkY",
+        "address" : "Nguyễn Khuyến\nP. Văn Quán\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "CT8A Văn Quán",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 36.447006
+      },
+      "duration" : {
+        "startTimestampMs" : "1575368203250",
+        "endTimestampMs" : "1575370153710"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 209773000,
+      "centerLngE7" : 1057871000,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209792037,
+        "longitudeE7" : 1057856781,
+        "placeId" : "ChIJoVz1iM2sNTERgSsdYFGwDbs",
+        "locationConfidence" : 31.802584
+      }, {
+        "latitudeE7" : 209768145,
+        "longitudeE7" : 1057872370,
+        "placeId" : "ChIJg8GKJNKsNTERA01NkqM9bos",
+        "locationConfidence" : 6.4923034
+      }, {
+        "latitudeE7" : 209771029,
+        "longitudeE7" : 1057884381,
+        "placeId" : "ChIJ0b9Zi9GsNTERr-eRCjLppR8",
+        "locationConfidence" : 5.0884905
+      }, {
+        "latitudeE7" : 209765453,
+        "longitudeE7" : 1057896797,
+        "placeId" : "ChIJVVUVvNGsNTER_vyDRpdwt5Q",
+        "locationConfidence" : 4.1932893
+      }, {
+        "latitudeE7" : 209774378,
+        "longitudeE7" : 1057877487,
+        "placeId" : "ChIJE7Bf9dGsNTERyACoMqVbqTg",
+        "locationConfidence" : 3.6789558
+      }, {
+        "latitudeE7" : 209793712,
+        "longitudeE7" : 1057872612,
+        "placeId" : "ChIJix8K5s6sNTERdx_x-5Hm6k8",
+        "locationConfidence" : 1.9377992
+      }, {
+        "latitudeE7" : 209767450,
+        "longitudeE7" : 1057878120,
+        "placeId" : "ChIJ54A7J9KsNTERZFRO2FfrOnQ",
+        "locationConfidence" : 1.8979172
+      }, {
+        "latitudeE7" : 209776829,
+        "longitudeE7" : 1057851225,
+        "placeId" : "ChIJbencYNKsNTERd7WI_j8dn2Q",
+        "locationConfidence" : 1.867171
+      }, {
+        "latitudeE7" : 209773971,
+        "longitudeE7" : 1057867751,
+        "placeId" : "ChIJmZhVDhetNTERbaU0-sTZTxY",
+        "locationConfidence" : 1.4906452
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209774999,
+        "longitudeE7" : 1057862862
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702686,
+        "longitudeE7" : 1057921364
+      },
+      "duration" : {
+        "startTimestampMs" : "1575370153710",
+        "endTimestampMs" : "1575371008887"
+      },
+      "distance" : 1007,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 90.98377823829651
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.207702681422234
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.1958091519773006
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209774475,
+          "lngE7" : 1057862091
+        }, {
+          "latE7" : 209737472,
+          "lngE7" : 1057899017
+        }, {
+          "latE7" : 209703578,
+          "lngE7" : 1057920761
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575370825374",
+        "location" : {
+          "latitudeE7" : 209705966,
+          "longitudeE7" : 1057923491,
+          "accuracyMetres" : 97
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 64.581055
+      },
+      "duration" : {
+        "startTimestampMs" : "1575371008887",
+        "endTimestampMs" : "1575426123301"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702553,
+      "centerLngE7" : 1057921109,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 31.970915
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.9225038
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.6736238
+      }, {
+        "latitudeE7" : 209706106,
+        "longitudeE7" : 1057915861,
+        "placeId" : "ChIJH-QSf_WtNTER3FqCciN6IUY",
+        "locationConfidence" : 0.39167115
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209702943,
+        "longitudeE7" : 1057920731
+      },
+      "endLocation" : {
+        "latitudeE7" : 209950130,
+        "longitudeE7" : 1058079319
+      },
+      "duration" : {
+        "startTimestampMs" : "1575426123301",
+        "endTimestampMs" : "1575426761800"
+      },
+      "distance" : 3657,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 90.76902270317078
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.877726897597313
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.723547838628292
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703388,
+          "lngE7" : 1057920455
+        }, {
+          "latE7" : 209856986,
+          "lngE7" : 1057951812
+        }, {
+          "latE7" : 209956359,
+          "lngE7" : 1058088836
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209854883,
+          "lngE7" : 1057949603,
+          "timestampMs" : "1575426459000",
+          "accuracyMeters" : 5
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575426823850",
+        "location" : {
+          "latitudeE7" : 209955996,
+          "longitudeE7" : 1058088351,
+          "accuracyMetres" : 44
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 63.35182
+      },
+      "duration" : {
+        "startTimestampMs" : "1575426761800",
+        "endTimestampMs" : "1575454830667"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209959846,
+      "centerLngE7" : 1058083654,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 36.493702
+      }, {
+        "latitudeE7" : 209956792,
+        "longitudeE7" : 1058080695,
+        "placeId" : "ChIJazpQOs-sNTER11FBJnyfPok",
+        "locationConfidence" : 0.1243499
+      }, {
+        "latitudeE7" : 209957551,
+        "longitudeE7" : 1058089292,
+        "placeId" : "ChIJudTr85asNTERFXucFGsXseE",
+        "locationConfidence" : 0.0051197815
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.004223592
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209952773,
+        "longitudeE7" : 1058084903
+      },
+      "endLocation" : {
+        "latitudeE7" : 209743368,
+        "longitudeE7" : 1057889551
+      },
+      "duration" : {
+        "startTimestampMs" : "1575454830667",
+        "endTimestampMs" : "1575455727596"
+      },
+      "distance" : 3087,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 76.8192708492279
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.312099993228912
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.1362997591495514
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209953002,
+          "lngE7" : 1058084182
+        }, {
+          "latE7" : 209888305,
+          "lngE7" : 1057992782
+        }, {
+          "latE7" : 209742183,
+          "lngE7" : 1057887878
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575455727596",
+        "location" : {
+          "latitudeE7" : 209743368,
+          "longitudeE7" : 1057889551,
+          "accuracyMetres" : 128
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209743358,
+        "longitudeE7" : 1057892777,
+        "placeId" : "ChIJhxyeqdqsNTERJCv97waLb9s",
+        "address" : "Tầng 1 nhà CT7A, khu đô thị mới\nVăn Quán\nYên Phúc\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "VinMart Supermaket",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 95.34115
+      },
+      "duration" : {
+        "startTimestampMs" : "1575455727596",
+        "endTimestampMs" : "1575456319887"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209743657,
+      "centerLngE7" : 1057889771,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209741674,
+        "longitudeE7" : 1057894420,
+        "placeId" : "ChIJxSdQFdGsNTERKrpMLHa3bYo",
+        "locationConfidence" : 1.4445617
+      }, {
+        "latitudeE7" : 209743010,
+        "longitudeE7" : 1057893209,
+        "placeId" : "ChIJPTAnatGsNTER5Tga5MqT-e0",
+        "locationConfidence" : 1.0474921
+      }, {
+        "latitudeE7" : 209748382,
+        "longitudeE7" : 1057890416,
+        "placeId" : "ChIJX7HibdGsNTER5gJuubwGwZw",
+        "locationConfidence" : 0.50334954
+      }, {
+        "latitudeE7" : 209729815,
+        "longitudeE7" : 1057890503,
+        "placeId" : "ChIJmyuLS9GsNTERV5rTI9EZCb8",
+        "locationConfidence" : 0.4646792
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209743368,
+        "longitudeE7" : 1057889551
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702813,
+        "longitudeE7" : 1057921153
+      },
+      "duration" : {
+        "startTimestampMs" : "1575456319887",
+        "endTimestampMs" : "1575457005734"
+      },
+      "distance" : 557,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 81.87679052352905
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 12.018682062625885
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.7574386447668076
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209742183,
+          "lngE7" : 1057887878
+        }, {
+          "latE7" : 209737472,
+          "lngE7" : 1057899017
+        }, {
+          "latE7" : 209703521,
+          "lngE7" : 1057920608
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575457063707",
+        "location" : {
+          "latitudeE7" : 209702950,
+          "longitudeE7" : 1057920726,
+          "accuracyMetres" : 86
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 64.29871
+      },
+      "duration" : {
+        "startTimestampMs" : "1575457005734",
+        "endTimestampMs" : "1575511724920"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702662,
+      "centerLngE7" : 1057921119,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 31.623302
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 1.6877879
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.41741183
+      }, {
+        "latitudeE7" : 209699075,
+        "longitudeE7" : 1057921037,
+        "placeId" : "ChIJj0QbXg2tNTERT59c_nsNfns",
+        "locationConfidence" : 0.3706375
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209704551,
+        "longitudeE7" : 1057917454
+      },
+      "endLocation" : {
+        "latitudeE7" : 209954375,
+        "longitudeE7" : 1058088743
+      },
+      "duration" : {
+        "startTimestampMs" : "1575511724920",
+        "endTimestampMs" : "1575512396000"
+      },
+      "distance" : 3298,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 88.04247379302979
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.589013338088989
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.718088962137699
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209704017,
+          "lngE7" : 1057916564
+        }, {
+          "latE7" : 209869575,
+          "lngE7" : 1057970046
+        }, {
+          "latE7" : 209953575,
+          "lngE7" : 1058089447
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575512491808",
+        "location" : {
+          "latitudeE7" : 209957325,
+          "longitudeE7" : 1058085830,
+          "accuracyMetres" : 90
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 69.271286
+      },
+      "duration" : {
+        "startTimestampMs" : "1575512396000",
+        "endTimestampMs" : "1575543314794"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209960039,
+      "centerLngE7" : 1058081957,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 30.618895
+      }, {
+        "latitudeE7" : 209956792,
+        "longitudeE7" : 1058080695,
+        "placeId" : "ChIJazpQOs-sNTER11FBJnyfPok",
+        "locationConfidence" : 0.085922964
+      }, {
+        "latitudeE7" : 209953674,
+        "longitudeE7" : 1058092650,
+        "placeId" : "ChIJj6dRjZasNTERjuqmplDe3_s",
+        "locationConfidence" : 0.00542512
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.002598052
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209953290,
+        "longitudeE7" : 1058088062
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702997,
+        "longitudeE7" : 1057920770
+      },
+      "duration" : {
+        "startTimestampMs" : "1575543314794",
+        "endTimestampMs" : "1575544527478"
+      },
+      "distance" : 3457,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 85.62500476837158
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.622561812400818
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.8357865065336227
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209952831,
+          "lngE7" : 1058088455
+        }, {
+          "latE7" : 209983901,
+          "lngE7" : 1058135528
+        }, {
+          "latE7" : 209703407,
+          "lngE7" : 1057920455
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575544435619",
+        "location" : {
+          "latitudeE7" : 209707613,
+          "longitudeE7" : 1057922239,
+          "accuracyMetres" : 46
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 64.79116
+      },
+      "duration" : {
+        "startTimestampMs" : "1575544527478",
+        "endTimestampMs" : "1575596121000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702363,
+      "centerLngE7" : 1057921379,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 31.88273
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.94886166
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.4399968
+      }, {
+        "latitudeE7" : 209699075,
+        "longitudeE7" : 1057921037,
+        "placeId" : "ChIJj0QbXg2tNTERT59c_nsNfns",
+        "locationConfidence" : 0.35328212
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209704112,
+        "longitudeE7" : 1057919741
+      },
+      "endLocation" : {
+        "latitudeE7" : 209957044,
+        "longitudeE7" : 1058080739
+      },
+      "duration" : {
+        "startTimestampMs" : "1575596121000",
+        "endTimestampMs" : "1575597062131"
+      },
+      "distance" : 3444,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 72.90069460868835
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 19.10461038351059
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.2784305065870285
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703330,
+          "lngE7" : 1057920303
+        }, {
+          "latE7" : 209729404,
+          "lngE7" : 1057902755
+        }, {
+          "latE7" : 209742088,
+          "lngE7" : 1057909164
+        }, {
+          "latE7" : 209890136,
+          "lngE7" : 1057999267
+        }, {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209732239,
+          "lngE7" : 1057915277,
+          "timestampMs" : "1575596198000",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : 209746009,
+          "lngE7" : 1057913244,
+          "timestampMs" : "1575596306000",
+          "accuracyMeters" : 7
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575597125988",
+        "location" : {
+          "latitudeE7" : 209957696,
+          "longitudeE7" : 1058082869,
+          "accuracyMetres" : 130
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 76.7459
+      },
+      "duration" : {
+        "startTimestampMs" : "1575597062131",
+        "endTimestampMs" : "1575624569679"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209960905,
+      "centerLngE7" : 1058082078,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 23.094227
+      }, {
+        "latitudeE7" : 209956792,
+        "longitudeE7" : 1058080695,
+        "placeId" : "ChIJazpQOs-sNTER11FBJnyfPok",
+        "locationConfidence" : 0.13412735
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.00629825
+      }, {
+        "latitudeE7" : 209957551,
+        "longitudeE7" : 1058089292,
+        "placeId" : "ChIJudTr85asNTERFXucFGsXseE",
+        "locationConfidence" : 0.0038603356
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209959445,
+        "longitudeE7" : 1058082350
+      },
+      "endLocation" : {
+        "latitudeE7" : 209726364,
+        "longitudeE7" : 1057840851
+      },
+      "duration" : {
+        "startTimestampMs" : "1575624569679",
+        "endTimestampMs" : "1575625548965"
+      },
+      "distance" : 3728,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 84.30509567260742
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.935091525316238
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.756550282239914
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        }, {
+          "latE7" : 209888305,
+          "lngE7" : 1057992782
+        }, {
+          "latE7" : 209725742,
+          "lngE7" : 1057841415
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575625681550",
+        "location" : {
+          "latitudeE7" : 209763562,
+          "longitudeE7" : 1057961957,
+          "accuracyMetres" : 49
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209737569,
+        "longitudeE7" : 1057864325,
+        "placeId" : "ChIJ0Rm3ktOsNTERJWZRNXU3BrA",
+        "address" : "P. Phúc La\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "Sân Bóng Văn Quán",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 27.916376
+      },
+      "duration" : {
+        "startTimestampMs" : "1575625548965",
+        "endTimestampMs" : "1575626407804"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 209730567,
+      "centerLngE7" : 1057846900,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209709788,
+        "longitudeE7" : 1057823200,
+        "placeId" : "ChIJ3aMn1dSsNTERE7z-aUWK-04",
+        "locationConfidence" : 27.20521
+      }, {
+        "latitudeE7" : 209736921,
+        "longitudeE7" : 1057858515,
+        "placeId" : "ChIJM6vEj9OsNTERTlOZsWm8dUI",
+        "locationConfidence" : 24.145433
+      }, {
+        "latitudeE7" : 209736564,
+        "longitudeE7" : 1057862168,
+        "placeId" : "ChIJnQGSjdOsNTERPG3F7D5mIto",
+        "locationConfidence" : 4.865896
+      }, {
+        "latitudeE7" : 209739684,
+        "longitudeE7" : 1057860977,
+        "placeId" : "ChIJ9-phkdOsNTER2yNtUgk4tw4",
+        "locationConfidence" : 3.2228267
+      }, {
+        "latitudeE7" : 209725723,
+        "longitudeE7" : 1057842765,
+        "placeId" : "ChIJm7Llf9OsNTERXyveVh6DQEs",
+        "locationConfidence" : 2.8816905
+      }, {
+        "latitudeE7" : 209727905,
+        "longitudeE7" : 1057814664,
+        "placeId" : "ChIJT3GZVCtTNDER0hQI7Xq1seE",
+        "locationConfidence" : 2.7372391
+      }, {
+        "latitudeE7" : 209731582,
+        "longitudeE7" : 1057850447,
+        "placeId" : "ChIJPfcZgNOsNTERrvBibCD3PY0",
+        "locationConfidence" : 1.8301983
+      }, {
+        "latitudeE7" : 209743546,
+        "longitudeE7" : 1057863745,
+        "placeId" : "ChIJ0c1pldOsNTERGnGCdjaAo4Y",
+        "locationConfidence" : 1.3709207
+      }, {
+        "latitudeE7" : 209743000,
+        "longitudeE7" : 1057866700,
+        "placeId" : "ChIJv-pg6tOsNTERE6zOoCOHIqU",
+        "locationConfidence" : 1.0486122
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209726364,
+        "longitudeE7" : 1057840851
+      },
+      "endLocation" : {
+        "latitudeE7" : 209703055,
+        "longitudeE7" : 1057920666
+      },
+      "duration" : {
+        "startTimestampMs" : "1575626407804",
+        "endTimestampMs" : "1575627043726"
+      },
+      "distance" : 868,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 82.70482420921326
+      }, {
+        "activityType" : "STILL",
+        "probability" : 8.419445157051086
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.733418673276901
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209725742,
+          "lngE7" : 1057841415
+        }, {
+          "latE7" : 209745407,
+          "lngE7" : 1057872009
+        }, {
+          "latE7" : 209703407,
+          "lngE7" : 1057920455
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575626963811",
+        "location" : {
+          "latitudeE7" : 209703055,
+          "longitudeE7" : 1057920666,
+          "accuracyMetres" : 86
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 64.52948
+      },
+      "duration" : {
+        "startTimestampMs" : "1575627043726",
+        "endTimestampMs" : "1575702499935"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702516,
+      "centerLngE7" : 1057921220,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 33.194614
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.55714655
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.36098018
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.2885043
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209702401,
+        "longitudeE7" : 1057921422
+      },
+      "endLocation" : {
+        "latitudeE7" : 210164702,
+        "longitudeE7" : 1058152498
+      },
+      "duration" : {
+        "startTimestampMs" : "1575702499935",
+        "endTimestampMs" : "1575706125271"
+      },
+      "distance" : 5738,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 77.06797122955322
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 11.675620079040527
+      }, {
+        "activityType" : "STILL",
+        "probability" : 7.476434111595154
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703521,
+          "lngE7" : 1057920684
+        }, {
+          "latE7" : 209869575,
+          "lngE7" : 1057970046
+        }, {
+          "latE7" : 210164146,
+          "lngE7" : 1058152008
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575706203298",
+        "location" : {
+          "latitudeE7" : 210161412,
+          "longitudeE7" : 1058150767,
+          "accuracyMetres" : 47
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210168438,
+        "longitudeE7" : 1058156256,
+        "placeId" : "ChIJGXO_n2SrNTERvEZTAZaywLo",
+        "address" : "87 Láng Hạ\nChợ Dừa\nBa Đình\nHà Nội 100000\nViệt Nam",
+        "name" : "National Cinema Center",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 92.29301
+      },
+      "duration" : {
+        "startTimestampMs" : "1575706125271",
+        "endTimestampMs" : "1575708028569"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210166200,
+      "centerLngE7" : 1058150408,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210161269,
+        "longitudeE7" : 1058157930,
+        "placeId" : "ChIJ3-SJXWOrNTERP6KnqF4Grkw",
+        "locationConfidence" : 6.4088993
+      }, {
+        "latitudeE7" : 210159239,
+        "longitudeE7" : 1058162152,
+        "placeId" : "ChIJVWOi-n2rNTERVYktkt1NdiU",
+        "locationConfidence" : 0.4364458
+      }, {
+        "latitudeE7" : 210153763,
+        "longitudeE7" : 1058167465,
+        "placeId" : "ChIJTQXVTmOrNTERzwG3Y3c89gs",
+        "locationConfidence" : 0.23223068
+      }, {
+        "latitudeE7" : 210180994,
+        "longitudeE7" : 1058154581,
+        "placeId" : "ChIJxy3jWWSrNTERaa4h1H26Qis",
+        "locationConfidence" : 0.22549692
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210167660,
+        "longitudeE7" : 1058153552
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702768,
+        "longitudeE7" : 1057921229
+      },
+      "duration" : {
+        "startTimestampMs" : "1575708028569",
+        "endTimestampMs" : "1575721316065"
+      },
+      "distance" : 6173,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 52.225708961486816
+      }, {
+        "activityType" : "STILL",
+        "probability" : 29.772847890853882
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 10.86091622710228
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210167922,
+          "lngE7" : 1058152084
+        }, {
+          "latE7" : 209888305,
+          "lngE7" : 1057992782
+        }, {
+          "latE7" : 209703540,
+          "lngE7" : 1057920684
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575721320019",
+        "location" : {
+          "latitudeE7" : 209702744,
+          "longitudeE7" : 1057921249,
+          "accuracyMetres" : 87
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 65.704346
+      },
+      "duration" : {
+        "startTimestampMs" : "1575721316065",
+        "endTimestampMs" : "1575858743267"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702540,
+      "centerLngE7" : 1057921128,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 31.672743
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.8250848
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.30460626
+      }, {
+        "latitudeE7" : 209675864,
+        "longitudeE7" : 1057890517,
+        "placeId" : "ChIJFQ73GdasNTERghOkJH6mVPk",
+        "locationConfidence" : 0.28325137
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209702905,
+        "longitudeE7" : 1057920726
+      },
+      "endLocation" : {
+        "latitudeE7" : 209956600,
+        "longitudeE7" : 1058081378
+      },
+      "duration" : {
+        "startTimestampMs" : "1575858743267",
+        "endTimestampMs" : "1575860102149"
+      },
+      "distance" : 5703,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 88.71634006500244
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.467107355594635
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.8369104266166687
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703388,
+          "lngE7" : 1057920455
+        }, {
+          "latE7" : 209936447,
+          "lngE7" : 1058064956
+        }, {
+          "latE7" : 210017395,
+          "lngE7" : 1058181304
+        }, {
+          "latE7" : 210004940,
+          "lngE7" : 1058162231
+        }, {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209960658,
+          "lngE7" : 1058095504,
+          "timestampMs" : "1575859942000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575860202301",
+        "location" : {
+          "latitudeE7" : 209961349,
+          "longitudeE7" : 1058081602,
+          "accuracyMetres" : 88
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 70.65294
+      },
+      "duration" : {
+        "startTimestampMs" : "1575860102149",
+        "endTimestampMs" : "1575886570486"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209960873,
+      "centerLngE7" : 1058081804,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 29.118376
+      }, {
+        "latitudeE7" : 209956792,
+        "longitudeE7" : 1058080695,
+        "placeId" : "ChIJazpQOs-sNTER11FBJnyfPok",
+        "locationConfidence" : 0.19744882
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.005374993
+      }, {
+        "latitudeE7" : 209957551,
+        "longitudeE7" : 1058089292,
+        "placeId" : "ChIJudTr85asNTERFXucFGsXseE",
+        "locationConfidence" : 0.005181224
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209954371,
+        "longitudeE7" : 1058084408
+      },
+      "endLocation" : {
+        "latitudeE7" : 209703007,
+        "longitudeE7" : 1057920642
+      },
+      "duration" : {
+        "startTimestampMs" : "1575886570486",
+        "endTimestampMs" : "1575888090746"
+      },
+      "distance" : 3275,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 86.49360537528992
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.921531796455383
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.4483131244778633
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209953556,
+          "lngE7" : 1058085021
+        }, {
+          "latE7" : 209943199,
+          "lngE7" : 1058070373
+        }, {
+          "latE7" : 209703350,
+          "lngE7" : 1057920379
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209949078,
+          "lngE7" : 1058077962,
+          "timestampMs" : "1575886674344",
+          "accuracyMeters" : 28
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575888180297",
+        "location" : {
+          "latitudeE7" : 209703032,
+          "longitudeE7" : 1057920664,
+          "accuracyMetres" : 46
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 65.79924
+      },
+      "duration" : {
+        "startTimestampMs" : "1575888090746",
+        "endTimestampMs" : "1575945213000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702497,
+      "centerLngE7" : 1057921135,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 31.547684
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.5570325
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.54772776
+      }, {
+        "latitudeE7" : 209676941,
+        "longitudeE7" : 1057891269,
+        "placeId" : "ChIJP3-I2CmtNTER_RimYlcOTjU",
+        "locationConfidence" : 0.3554184
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209703043,
+        "longitudeE7" : 1057918068
+      },
+      "endLocation" : {
+        "latitudeE7" : 209956332,
+        "longitudeE7" : 1058090326
+      },
+      "duration" : {
+        "startTimestampMs" : "1575945213000",
+        "endTimestampMs" : "1575946174966"
+      },
+      "distance" : 3641,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 89.47845697402954
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.942257329821587
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.13865265250206
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209702682,
+          "lngE7" : 1057917480
+        }, {
+          "latE7" : 209856986,
+          "lngE7" : 1057951812
+        }, {
+          "latE7" : 209956779,
+          "lngE7" : 1058090057
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575946235008",
+        "location" : {
+          "latitudeE7" : 209957876,
+          "longitudeE7" : 1058081766,
+          "accuracyMetres" : 90
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 71.93741
+      },
+      "duration" : {
+        "startTimestampMs" : "1575946174966",
+        "endTimestampMs" : "1575973768847"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209960758,
+      "centerLngE7" : 1058081930,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 27.837017
+      }, {
+        "latitudeE7" : 209956792,
+        "longitudeE7" : 1058080695,
+        "placeId" : "ChIJazpQOs-sNTER11FBJnyfPok",
+        "locationConfidence" : 0.19379707
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.0059121223
+      }, {
+        "latitudeE7" : 209957551,
+        "longitudeE7" : 1058089292,
+        "placeId" : "ChIJudTr85asNTERFXucFGsXseE",
+        "locationConfidence" : 0.0050660004
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209956917,
+        "longitudeE7" : 1058086861
+      },
+      "endLocation" : {
+        "latitudeE7" : 209703019,
+        "longitudeE7" : 1057920675
+      },
+      "duration" : {
+        "startTimestampMs" : "1575973768847",
+        "endTimestampMs" : "1575975106535"
+      },
+      "distance" : 3308,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 88.59235644340515
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.955783650279045
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.655750349164009
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209957580,
+          "lngE7" : 1058087844
+        }, {
+          "latE7" : 209888305,
+          "lngE7" : 1057992782
+        }, {
+          "latE7" : 209703388,
+          "lngE7" : 1057920455
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575975160190",
+        "location" : {
+          "latitudeE7" : 209703003,
+          "longitudeE7" : 1057920884,
+          "accuracyMetres" : 44
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 66.28919
+      },
+      "duration" : {
+        "startTimestampMs" : "1575975106535",
+        "endTimestampMs" : "1576029962000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702593,
+      "centerLngE7" : 1057921056,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 30.582842
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.6066975
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.58502287
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.4819914
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209706969,
+        "longitudeE7" : 1057914802
+      },
+      "endLocation" : {
+        "latitudeE7" : 209960216,
+        "longitudeE7" : 1058082058
+      },
+      "duration" : {
+        "startTimestampMs" : "1576029962000",
+        "endTimestampMs" : "1576031064460"
+      },
+      "distance" : 3586,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 89.89705443382263
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.607732713222504
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.8207634091377258
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209706802,
+          "lngE7" : 1057914581
+        }, {
+          "latE7" : 209745769,
+          "lngE7" : 1057897491
+        }, {
+          "latE7" : 209800148,
+          "lngE7" : 1057945327
+        }, {
+          "latE7" : 209890136,
+          "lngE7" : 1057999267
+        }, {
+          "latE7" : 209960021,
+          "lngE7" : 1058085937
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209767770,
+          "lngE7" : 1057910185,
+          "timestampMs" : "1576030052000",
+          "accuracyMeters" : 9
+        }, {
+          "latE7" : 209799847,
+          "lngE7" : 1057945336,
+          "timestampMs" : "1576030128000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576030772870",
+        "location" : {
+          "latitudeE7" : 209951541,
+          "longitudeE7" : 1058073651,
+          "accuracyMetres" : 49
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 68.98938
+      },
+      "duration" : {
+        "startTimestampMs" : "1576031064460",
+        "endTimestampMs" : "1576056977015"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209959855,
+      "centerLngE7" : 1058082239,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 30.797327
+      }, {
+        "latitudeE7" : 209956792,
+        "longitudeE7" : 1058080695,
+        "placeId" : "ChIJazpQOs-sNTER11FBJnyfPok",
+        "locationConfidence" : 0.1808956
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.007508103
+      }, {
+        "latitudeE7" : 209957551,
+        "longitudeE7" : 1058089292,
+        "placeId" : "ChIJudTr85asNTERFXucFGsXseE",
+        "locationConfidence" : 0.0049465564
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209954104,
+        "longitudeE7" : 1058088915
+      },
+      "endLocation" : {
+        "latitudeE7" : 209777117,
+        "longitudeE7" : 1057850147
+      },
+      "duration" : {
+        "startTimestampMs" : "1576056977015",
+        "endTimestampMs" : "1576057941551"
+      },
+      "distance" : 3170,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 89.93309140205383
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.492341101169586
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.0901513509452343
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209953536,
+          "lngE7" : 1058089370
+        }, {
+          "latE7" : 209888305,
+          "lngE7" : 1057992782
+        }, {
+          "latE7" : 209777374,
+          "lngE7" : 1057849884
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209863289,
+          "lngE7" : 1057955916,
+          "timestampMs" : "1576057234000",
+          "accuracyMeters" : 5
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576057786692",
+        "location" : {
+          "latitudeE7" : 209778945,
+          "longitudeE7" : 1057909780,
+          "accuracyMetres" : 114
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209774153,
+        "longitudeE7" : 1057847191,
+        "placeId" : "ChIJrUe49NKsNTERx3bvBdI_1KQ",
+        "address" : "149 Trần Phú\nP. Văn Quán\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "Thời trang M2, Hà Đông",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 58.249466
+      },
+      "duration" : {
+        "startTimestampMs" : "1576057941551",
+        "endTimestampMs" : "1576060389560"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209776800,
+      "centerLngE7" : 1057845833,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209790077,
+        "longitudeE7" : 1057856378,
+        "placeId" : "ChIJex3iwNKsNTERsq4PIl8gwg4",
+        "locationConfidence" : 33.602062
+      }, {
+        "latitudeE7" : 209791702,
+        "longitudeE7" : 1057854488,
+        "placeId" : "ChIJveVqhM2sNTER7fAEJJldjjQ",
+        "locationConfidence" : 3.3428638
+      }, {
+        "latitudeE7" : 209773870,
+        "longitudeE7" : 1057846410,
+        "placeId" : "ChIJMd1b8c2sNTER0mInBVSHTaI",
+        "locationConfidence" : 1.0988396
+      }, {
+        "latitudeE7" : 209774452,
+        "longitudeE7" : 1057849978,
+        "placeId" : "ChIJVVWlX9KsNTERBwoTix1nJ0w",
+        "locationConfidence" : 0.5563844
+      }, {
+        "latitudeE7" : 209772654,
+        "longitudeE7" : 1057845189,
+        "placeId" : "ChIJQQjB89KsNTERcC32w-oJEVw",
+        "locationConfidence" : 0.5497749
+      }, {
+        "latitudeE7" : 209775559,
+        "longitudeE7" : 1057848983,
+        "placeId" : "ChIJtbSZ79KsNTERamMDoKgOyWU",
+        "locationConfidence" : 0.54351544
+      }, {
+        "latitudeE7" : 209776829,
+        "longitudeE7" : 1057851225,
+        "placeId" : "ChIJbencYNKsNTERd7WI_j8dn2Q",
+        "locationConfidence" : 0.50468034
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209777020,
+        "longitudeE7" : 1057839309
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702958,
+        "longitudeE7" : 1057920608
+      },
+      "duration" : {
+        "startTimestampMs" : "1576060389560",
+        "endTimestampMs" : "1576061079144"
+      },
+      "distance" : 1179,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 83.3875834941864
+      }, {
+        "activityType" : "STILL",
+        "probability" : 8.817873895168304
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.104164570569992
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209776115,
+          "lngE7" : 1057837600
+        }, {
+          "latE7" : 209720516,
+          "lngE7" : 1057828063
+        }, {
+          "latE7" : 209703330,
+          "lngE7" : 1057920303
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576060880541",
+        "location" : {
+          "latitudeE7" : 209702958,
+          "longitudeE7" : 1057920608,
+          "accuracyMetres" : 86
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 64.8419
+      },
+      "duration" : {
+        "startTimestampMs" : "1576061079144",
+        "endTimestampMs" : "1576117682000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702564,
+      "centerLngE7" : 1057921048,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 31.881107
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.610554
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.580047
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.45414016
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209703547,
+        "longitudeE7" : 1057921754
+      },
+      "endLocation" : {
+        "latitudeE7" : 209959954,
+        "longitudeE7" : 1058090326
+      },
+      "duration" : {
+        "startTimestampMs" : "1576117682000",
+        "endTimestampMs" : "1576118886499"
+      },
+      "distance" : 3645,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 88.96905183792114
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 4.411160945892334
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 3.63646000623703
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703998,
+          "lngE7" : 1057921447
+        }, {
+          "latE7" : 209890136,
+          "lngE7" : 1057999267
+        }, {
+          "latE7" : 209958000,
+          "lngE7" : 1058091888
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576118946658",
+        "location" : {
+          "latitudeE7" : 209952958,
+          "longitudeE7" : 1058077355,
+          "accuracyMetres" : 86
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 67.9034
+      },
+      "duration" : {
+        "startTimestampMs" : "1576118886499",
+        "endTimestampMs" : "1576147750392"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209959638,
+      "centerLngE7" : 1058082676,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 31.91479
+      }, {
+        "latitudeE7" : 209956792,
+        "longitudeE7" : 1058080695,
+        "placeId" : "ChIJazpQOs-sNTER11FBJnyfPok",
+        "locationConfidence" : 0.15211701
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.0049645137
+      }, {
+        "latitudeE7" : 209957551,
+        "longitudeE7" : 1058089292,
+        "placeId" : "ChIJudTr85asNTERFXucFGsXseE",
+        "locationConfidence" : 0.0045793117
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209956332,
+        "longitudeE7" : 1058090326
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702643,
+        "longitudeE7" : 1057920177
+      },
+      "duration" : {
+        "startTimestampMs" : "1576147750392",
+        "endTimestampMs" : "1576148821000"
+      },
+      "distance" : 3659,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 91.0513699054718
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.72885924577713
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.9038753807544708
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209956779,
+          "lngE7" : 1058090057
+        }, {
+          "latE7" : 209888305,
+          "lngE7" : 1057992782
+        }, {
+          "latE7" : 209703044,
+          "lngE7" : 1057919845
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576148841884",
+        "location" : {
+          "latitudeE7" : 209702614,
+          "longitudeE7" : 1057920911,
+          "accuracyMetres" : 23
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 65.240524
+      },
+      "duration" : {
+        "startTimestampMs" : "1576148821000",
+        "endTimestampMs" : "1576203041768"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702495,
+      "centerLngE7" : 1057921090,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 32.65978
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.4462729
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.33386675
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.28825885
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209702497,
+        "longitudeE7" : 1057921988
+      },
+      "endLocation" : {
+        "latitudeE7" : 209949783,
+        "longitudeE7" : 1058082988
+      },
+      "duration" : {
+        "startTimestampMs" : "1576203041768",
+        "endTimestampMs" : "1576203916724"
+      },
+      "distance" : 3959,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 90.35220146179199
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.408797949552536
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.4558816328644753
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703788,
+          "lngE7" : 1057921066
+        }, {
+          "latE7" : 209890136,
+          "lngE7" : 1057999267
+        }, {
+          "latE7" : 209949283,
+          "lngE7" : 1058083343
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576203978759",
+        "location" : {
+          "latitudeE7" : 209953352,
+          "longitudeE7" : 1058081548,
+          "accuracyMetres" : 38
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 69.71374
+      },
+      "duration" : {
+        "startTimestampMs" : "1576203916724",
+        "endTimestampMs" : "1576232768768"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209959020,
+      "centerLngE7" : 1058082330,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 30.102276
+      }, {
+        "latitudeE7" : 209956792,
+        "longitudeE7" : 1058080695,
+        "placeId" : "ChIJazpQOs-sNTER11FBJnyfPok",
+        "locationConfidence" : 0.15507776
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.004686778
+      }, {
+        "latitudeE7" : 209953674,
+        "longitudeE7" : 1058092650,
+        "placeId" : "ChIJj6dRjZasNTERjuqmplDe3_s",
+        "locationConfidence" : 0.0044525787
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209959607,
+        "longitudeE7" : 1058093995
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702771,
+        "longitudeE7" : 1057920800
+      },
+      "duration" : {
+        "startTimestampMs" : "1576232768768",
+        "endTimestampMs" : "1576234327746"
+      },
+      "distance" : 3525,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 79.45541143417358
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.913400024175644
+      }, {
+        "activityType" : "STILL",
+        "probability" : 7.312268018722534
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        }, {
+          "latE7" : 209888305,
+          "lngE7" : 1057992782
+        }, {
+          "latE7" : 209773330,
+          "lngE7" : 1057881317
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209889242,
+          "lngE7" : 1057994230,
+          "timestampMs" : "1576233034000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576234324894",
+        "location" : {
+          "latitudeE7" : 209702798,
+          "longitudeE7" : 1057920810,
+          "accuracyMetres" : 44
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 63.62521
+      },
+      "duration" : {
+        "startTimestampMs" : "1576234327746",
+        "endTimestampMs" : "1576318907974"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702531,
+      "centerLngE7" : 1057921147,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 32.84424
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.8819552
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.54253525
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.40709648
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209703612,
+        "longitudeE7" : 1057920009
+      },
+      "endLocation" : {
+        "latitudeE7" : 210093937,
+        "longitudeE7" : 1058346083
+      },
+      "duration" : {
+        "startTimestampMs" : "1576318907974",
+        "endTimestampMs" : "1576320465066"
+      },
+      "distance" : 6816,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 90.39486050605774
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.661672681570053
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.8697121404111385
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703273,
+          "lngE7" : 1057920227
+        }, {
+          "latE7" : 209745769,
+          "lngE7" : 1057897491
+        }, {
+          "latE7" : 209796104,
+          "lngE7" : 1057939910
+        }, {
+          "latE7" : 210004253,
+          "lngE7" : 1058166122
+        }, {
+          "latE7" : 210094146,
+          "lngE7" : 1058346328
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209740182,
+          "lngE7" : 1057895949,
+          "timestampMs" : "1576319029911",
+          "accuracyMeters" : 35
+        }, {
+          "latE7" : 209796290,
+          "lngE7" : 1057939750,
+          "timestampMs" : "1576319184000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576320489877",
+        "location" : {
+          "latitudeE7" : 210093365,
+          "longitudeE7" : 1058346114,
+          "accuracyMetres" : 29
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210094371,
+        "longitudeE7" : 1058347711,
+        "placeId" : "ChIJW0uoW3-sNTERolfyVYpEhEQ",
+        "address" : "101B Phạm Ngọc Thạch\nTrung Tự\nĐống Đa\nHà Nội 100000\nViệt Nam",
+        "name" : "Kichi Kichi Hot Pot Restaurant",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 94.97303
+      },
+      "duration" : {
+        "startTimestampMs" : "1576320465066",
+        "endTimestampMs" : "1576326448000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210093817,
+      "centerLngE7" : 1058348067,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093528,
+        "longitudeE7" : 1058348154,
+        "placeId" : "ChIJ29GirICrNTERwOOAl2TZq4Q",
+        "locationConfidence" : 2.790982
+      }, {
+        "latitudeE7" : 210090681,
+        "longitudeE7" : 1058349468,
+        "placeId" : "ChIJLTE0q4CrNTERR5I4J0sdK3k",
+        "locationConfidence" : 0.45116192
+      }, {
+        "latitudeE7" : 210092190,
+        "longitudeE7" : 1058348630,
+        "placeId" : "ChIJ1UVIq4CrNTERbOMkb0Xhy5o",
+        "locationConfidence" : 0.3238795
+      }, {
+        "latitudeE7" : 210095770,
+        "longitudeE7" : 1058355203,
+        "placeId" : "ChIJ26VyFYerNTER98icF_uXrMQ",
+        "locationConfidence" : 0.2714215
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210098829,
+        "longitudeE7" : 1058348377
+      },
+      "endLocation" : {
+        "latitudeE7" : 210022800,
+        "longitudeE7" : 1058204036
+      },
+      "duration" : {
+        "startTimestampMs" : "1576326448000",
+        "endTimestampMs" : "1576327528042"
+      },
+      "distance" : 1720,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 87.26001977920532
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.7591001987457275
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.3162998259067535
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210097541,
+          "lngE7" : 1058349533
+        }, {
+          "latE7" : 210087032,
+          "lngE7" : 1058258972
+        }, {
+          "latE7" : 210022525,
+          "lngE7" : 1058203277
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210069748,
+          "lngE7" : 1058294689,
+          "timestampMs" : "1576327068846",
+          "accuracyMeters" : 26
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576327525079",
+        "location" : {
+          "latitudeE7" : 210022818,
+          "longitudeE7" : 1058204070,
+          "accuracyMetres" : 46
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210019643,
+        "longitudeE7" : 1058203706,
+        "placeId" : "ChIJE-ZC-YSsNTERCyMpZ3ZcYp4",
+        "address" : "19 Nguyễn Trãi\nNgã Tư Sở\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "Fafim Cinema",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 97.68631
+      },
+      "duration" : {
+        "startTimestampMs" : "1576327528042",
+        "endTimestampMs" : "1576333441000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210021356,
+      "centerLngE7" : 1058203867,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210018191,
+        "longitudeE7" : 1058206096,
+        "placeId" : "ChIJVfo-UoSsNTERi4IswV03k9w",
+        "locationConfidence" : 0.7141332
+      }, {
+        "latitudeE7" : 210018712,
+        "longitudeE7" : 1058200569,
+        "placeId" : "ChIJFwscAYWsNTERRHlGrA8YHiE",
+        "locationConfidence" : 0.4050296
+      }, {
+        "latitudeE7" : 210023985,
+        "longitudeE7" : 1058184569,
+        "placeId" : "ChIJ1eeF3YSsNTERzoWhbfV6gDk",
+        "locationConfidence" : 0.39285222
+      }, {
+        "latitudeE7" : 210031177,
+        "longitudeE7" : 1058201408,
+        "placeId" : "ChIJ8Xq2ioSsNTERZCD5T-H5oDw",
+        "locationConfidence" : 0.19974974
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210022214,
+        "longitudeE7" : 1058202759
+      },
+      "endLocation" : {
+        "latitudeE7" : 209704247,
+        "longitudeE7" : 1057921559
+      },
+      "duration" : {
+        "startTimestampMs" : "1576333441000",
+        "endTimestampMs" : "1576337352612"
+      },
+      "distance" : 4585,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 83.29883813858032
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 12.239249795675278
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.9849034026265144
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210022430,
+          "lngE7" : 1058203353
+        }, {
+          "latE7" : 210016593,
+          "lngE7" : 1058180160
+        }, {
+          "latE7" : 209704113,
+          "lngE7" : 1057921600
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210022214,
+          "lngE7" : 1058202759,
+          "timestampMs" : "1576333441000",
+          "accuracyMeters" : 49
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576337383209",
+        "location" : {
+          "latitudeE7" : 209709919,
+          "longitudeE7" : 1057927332,
+          "accuracyMetres" : 69
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 68.61219
+      },
+      "duration" : {
+        "startTimestampMs" : "1576337352612",
+        "endTimestampMs" : "1576462835639"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702609,
+      "centerLngE7" : 1057921169,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 28.79031
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.60733557
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.49350023
+      }, {
+        "latitudeE7" : 209682638,
+        "longitudeE7" : 1057929330,
+        "placeId" : "ChIJW2edlEWtNTERcZ-0tjqpaGA",
+        "locationConfidence" : 0.29296264
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209706234,
+        "longitudeE7" : 1057914804
+      },
+      "endLocation" : {
+        "latitudeE7" : 209958591,
+        "longitudeE7" : 1058082146
+      },
+      "duration" : {
+        "startTimestampMs" : "1576462835639",
+        "endTimestampMs" : "1576464506000"
+      },
+      "distance" : 5201,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 86.07635498046875
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.054701447486877
+      }, {
+        "activityType" : "STILL",
+        "probability" : 5.220220237970352
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209706325,
+          "lngE7" : 1057914962
+        }, {
+          "latE7" : 209745769,
+          "lngE7" : 1057897491
+        }, {
+          "latE7" : 209804821,
+          "lngE7" : 1057950820
+        }, {
+          "latE7" : 209890136,
+          "lngE7" : 1057999267
+        }, {
+          "latE7" : 209997959,
+          "lngE7" : 1058152236
+        }, {
+          "latE7" : 209971961,
+          "lngE7" : 1058112258
+        }, {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209767348,
+          "lngE7" : 1057909542,
+          "timestampMs" : "1576462908000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 209803993,
+          "lngE7" : 1057949651,
+          "timestampMs" : "1576463001000",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : 209997195,
+          "lngE7" : 1058152720,
+          "timestampMs" : "1576464197000",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 209975104,
+          "lngE7" : 1058116866,
+          "timestampMs" : "1576464259000",
+          "accuracyMeters" : 6
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576464442906",
+        "location" : {
+          "latitudeE7" : 209957555,
+          "longitudeE7" : 1058083794,
+          "accuracyMetres" : 51
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 69.46809
+      },
+      "duration" : {
+        "startTimestampMs" : "1576464506000",
+        "endTimestampMs" : "1576488618743"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209960031,
+      "centerLngE7" : 1058081996,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 30.28327
+      }, {
+        "latitudeE7" : 209956792,
+        "longitudeE7" : 1058080695,
+        "placeId" : "ChIJazpQOs-sNTER11FBJnyfPok",
+        "locationConfidence" : 0.21438378
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.006237882
+      }, {
+        "latitudeE7" : 209957551,
+        "longitudeE7" : 1058089292,
+        "placeId" : "ChIJudTr85asNTERFXucFGsXseE",
+        "locationConfidence" : 0.005357157
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209953870,
+        "longitudeE7" : 1058089189
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702933,
+        "longitudeE7" : 1057920613
+      },
+      "duration" : {
+        "startTimestampMs" : "1576488618743",
+        "endTimestampMs" : "1576489682239"
+      },
+      "distance" : 3293,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 88.67051601409912
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.567509055137634
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.2552227824926376
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209953594,
+          "lngE7" : 1058089447
+        }, {
+          "latE7" : 209888305,
+          "lngE7" : 1057992782
+        }, {
+          "latE7" : 209703330,
+          "lngE7" : 1057920303
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576489691588",
+        "location" : {
+          "latitudeE7" : 209702909,
+          "longitudeE7" : 1057920632,
+          "accuracyMetres" : 46
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 62.67486
+      },
+      "duration" : {
+        "startTimestampMs" : "1576489682239",
+        "endTimestampMs" : "1576545922058"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702528,
+      "centerLngE7" : 1057921152,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 34.876266
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.67141557
+      }, {
+        "latitudeE7" : 209676941,
+        "longitudeE7" : 1057891269,
+        "placeId" : "ChIJP3-I2CmtNTER_RimYlcOTjU",
+        "locationConfidence" : 0.31591538
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.31335738
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209702971,
+        "longitudeE7" : 1057920582
+      },
+      "endLocation" : {
+        "latitudeE7" : 209685168,
+        "longitudeE7" : 1057866136
+      },
+      "duration" : {
+        "startTimestampMs" : "1576545922058",
+        "endTimestampMs" : "1576546088811"
+      },
+      "distance" : 598,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 76.4577567577362
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 20.709483325481415
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.6635801643133163
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703330,
+          "lngE7" : 1057920379
+        }, {
+          "latE7" : 209695549,
+          "lngE7" : 1057907104
+        }, {
+          "latE7" : 209685173,
+          "lngE7" : 1057866363
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209702971,
+          "lngE7" : 1057920582,
+          "timestampMs" : "1576545922058",
+          "accuracyMeters" : 16
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576546199000",
+        "location" : {
+          "latitudeE7" : 209684322,
+          "longitudeE7" : 1057868211,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209686517,
+        "longitudeE7" : 1057867785,
+        "placeId" : "ChIJEUIE6dSsNTERgjWjenzT6NU",
+        "address" : "207 Đ. Phùng Hưng\nP. Phúc La\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "Thien Duc Hospital",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 95.62304
+      },
+      "duration" : {
+        "startTimestampMs" : "1576546088811",
+        "endTimestampMs" : "1576549570000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209688019,
+      "centerLngE7" : 1057865429,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209685048,
+        "longitudeE7" : 1057867648,
+        "placeId" : "ChIJrTwU6tWsNTERgz7H_taLtT0",
+        "locationConfidence" : 2.3772762
+      }, {
+        "latitudeE7" : 209689510,
+        "longitudeE7" : 1057864925,
+        "placeId" : "ChIJoYqrwNWsNTER7U51pHYsAtk",
+        "locationConfidence" : 0.43123984
+      }, {
+        "latitudeE7" : 209676941,
+        "longitudeE7" : 1057891269,
+        "placeId" : "ChIJP3-I2CmtNTER_RimYlcOTjU",
+        "locationConfidence" : 0.39900094
+      }, {
+        "latitudeE7" : 209684226,
+        "longitudeE7" : 1057866025,
+        "placeId" : "ChIJx9zi6tWsNTERui9wjIukKGk",
+        "locationConfidence" : 0.27107143
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209691173,
+        "longitudeE7" : 1057879882
+      },
+      "endLocation" : {
+        "latitudeE7" : 209703020,
+        "longitudeE7" : 1057920556
+      },
+      "duration" : {
+        "startTimestampMs" : "1576549570000",
+        "endTimestampMs" : "1576549665000"
+      },
+      "distance" : 451,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 84.25371646881104
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 11.683447659015656
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.8965654075145721
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209691009,
+          "lngE7" : 1057879867
+        }, {
+          "latE7" : 209697132,
+          "lngE7" : 1057911300
+        }, {
+          "latE7" : 209703311,
+          "lngE7" : 1057920303
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209697491,
+          "lngE7" : 1057911123,
+          "timestampMs" : "1576549633000",
+          "accuracyMeters" : 12
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576549681000",
+        "location" : {
+          "latitudeE7" : 209702999,
+          "longitudeE7" : 1057920729,
+          "accuracyMetres" : 66
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 66.678
+      },
+      "duration" : {
+        "startTimestampMs" : "1576549665000",
+        "endTimestampMs" : "1577067601558"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702442,
+      "centerLngE7" : 1057921108,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 30.970533
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.50023603
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.3153588
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.2908196
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209711492,
+        "longitudeE7" : 1057921559
+      },
+      "endLocation" : {
+        "latitudeE7" : 209959965,
+        "longitudeE7" : 1058082301
+      },
+      "duration" : {
+        "startTimestampMs" : "1577067601558",
+        "endTimestampMs" : "1577069286966"
+      },
+      "distance" : 3381,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 80.8298110961914
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.984164357185364
+      }, {
+        "activityType" : "STILL",
+        "probability" : 4.7363124787807465
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209710159,
+          "lngE7" : 1057919845
+        }, {
+          "latE7" : 209856986,
+          "lngE7" : 1057951812
+        }, {
+          "latE7" : 209960021,
+          "lngE7" : 1058085937
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209868009,
+          "lngE7" : 1057966146,
+          "timestampMs" : "1577067889000",
+          "accuracyMeters" : 7
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577069286966",
+        "location" : {
+          "latitudeE7" : 209959965,
+          "longitudeE7" : 1058082301,
+          "accuracyMetres" : 86
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 69.55732
+      },
+      "duration" : {
+        "startTimestampMs" : "1577069286966",
+        "endTimestampMs" : "1577096410205"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209958631,
+      "centerLngE7" : 1058081290,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 23.461443
+      }, {
+        "latitudeE7" : 209956939,
+        "longitudeE7" : 1058080108,
+        "placeId" : "ChIJq04yY5asNTERJBUPjyWugsk",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 6.377923
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.2887988
+      }, {
+        "latitudeE7" : 209939375,
+        "longitudeE7" : 1058069734,
+        "placeId" : "ChIJvX07IL6sNTERCr-tOBmJ-ek",
+        "locationConfidence" : 0.19787474
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209957049,
+        "longitudeE7" : 1058084512
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702794,
+        "longitudeE7" : 1057920392
+      },
+      "duration" : {
+        "startTimestampMs" : "1577096410205",
+        "endTimestampMs" : "1577097639563"
+      },
+      "distance" : 3321,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 87.43249773979187
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.028042733669281
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.660353295505047
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209955825,
+          "lngE7" : 1058082351
+        }, {
+          "latE7" : 209888305,
+          "lngE7" : 1057992782
+        }, {
+          "latE7" : 209703178,
+          "lngE7" : 1057920074
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577097590637",
+        "location" : {
+          "latitudeE7" : 209705601,
+          "longitudeE7" : 1057922022,
+          "accuracyMetres" : 49
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 64.75857
+      },
+      "duration" : {
+        "startTimestampMs" : "1577097639563",
+        "endTimestampMs" : "1577154580000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702529,
+      "centerLngE7" : 1057921232,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 32.685028
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.5305556
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.38996267
+      }, {
+        "latitudeE7" : 209675864,
+        "longitudeE7" : 1057890517,
+        "placeId" : "ChIJFQ73GdasNTERghOkJH6mVPk",
+        "locationConfidence" : 0.329306
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209702492,
+        "longitudeE7" : 1057920882
+      },
+      "endLocation" : {
+        "latitudeE7" : 209957138,
+        "longitudeE7" : 1058080789
+      },
+      "duration" : {
+        "startTimestampMs" : "1577154580000",
+        "endTimestampMs" : "1577155543683"
+      },
+      "distance" : 3631,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 78.01536321640015
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 17.10498332977295
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.7643915489315987
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703330,
+          "lngE7" : 1057920303
+        }, {
+          "latE7" : 209745769,
+          "lngE7" : 1057897491
+        }, {
+          "latE7" : 209801826,
+          "lngE7" : 1057947311
+        }, {
+          "latE7" : 209856986,
+          "lngE7" : 1057951812
+        }, {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209755057,
+          "lngE7" : 1057894743,
+          "timestampMs" : "1577154739000",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 209800280,
+          "lngE7" : 1057946078,
+          "timestampMs" : "1577154846000",
+          "accuracyMeters" : 6
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577155608189",
+        "location" : {
+          "latitudeE7" : 209958705,
+          "longitudeE7" : 1058081936,
+          "accuracyMetres" : 87
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 74.3032
+      },
+      "duration" : {
+        "startTimestampMs" : "1577155543683",
+        "endTimestampMs" : "1577181244783"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209959096,
+      "centerLngE7" : 1058082268,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 19.616085
+      }, {
+        "latitudeE7" : 209956939,
+        "longitudeE7" : 1058080108,
+        "placeId" : "ChIJq04yY5asNTERJBUPjyWugsk",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 5.363449
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.34121722
+      }, {
+        "latitudeE7" : 209942049,
+        "longitudeE7" : 1058067843,
+        "placeId" : "ChIJu66HMVitNTERgkziQM-Mg5A",
+        "locationConfidence" : 0.16207184
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209953159,
+        "longitudeE7" : 1058087399
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702788,
+        "longitudeE7" : 1057920347
+      },
+      "duration" : {
+        "startTimestampMs" : "1577181244783",
+        "endTimestampMs" : "1577182747525"
+      },
+      "distance" : 3280,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 74.16747808456421
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 17.405083775520325
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.904645726084709
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209952468,
+          "lngE7" : 1058087997
+        }, {
+          "latE7" : 209849624,
+          "lngE7" : 1057937850
+        }, {
+          "latE7" : 209703178,
+          "lngE7" : 1057920074
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577182632591",
+        "location" : {
+          "latitudeE7" : 209704080,
+          "longitudeE7" : 1057921220,
+          "accuracyMetres" : 58
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 63.92198
+      },
+      "duration" : {
+        "startTimestampMs" : "1577182747525",
+        "endTimestampMs" : "1577239526634"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702561,
+      "centerLngE7" : 1057921091,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 33.13926
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.6183213
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.5095533
+      }, {
+        "latitudeE7" : 209675864,
+        "longitudeE7" : 1057890517,
+        "placeId" : "ChIJFQ73GdasNTERghOkJH6mVPk",
+        "locationConfidence" : 0.3784195
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209702428,
+        "longitudeE7" : 1057921352
+      },
+      "endLocation" : {
+        "latitudeE7" : 209950130,
+        "longitudeE7" : 1058079319
+      },
+      "duration" : {
+        "startTimestampMs" : "1577239526634",
+        "endTimestampMs" : "1577240719772"
+      },
+      "distance" : 3205,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 89.04512524604797
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.098972588777542
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.1631590314209461
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703502,
+          "lngE7" : 1057920608
+        }, {
+          "latE7" : 209936447,
+          "lngE7" : 1058064956
+        }, {
+          "latE7" : 209949817,
+          "lngE7" : 1058079528
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577240719938",
+        "location" : {
+          "latitudeE7" : 209957792,
+          "longitudeE7" : 1058083466,
+          "accuracyMetres" : 51
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 73.47737
+      },
+      "duration" : {
+        "startTimestampMs" : "1577240719772",
+        "endTimestampMs" : "1577270829000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209959416,
+      "centerLngE7" : 1058081971,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 20.39615
+      }, {
+        "latitudeE7" : 209956939,
+        "longitudeE7" : 1058080108,
+        "placeId" : "ChIJq04yY5asNTERJBUPjyWugsk",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 5.8131933
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.1550566
+      }, {
+        "latitudeE7" : 209939375,
+        "longitudeE7" : 1058069734,
+        "placeId" : "ChIJvX07IL6sNTERCr-tOBmJ-ek",
+        "locationConfidence" : 0.07860254
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209948138,
+        "longitudeE7" : 1058076870
+      },
+      "endLocation" : {
+        "latitudeE7" : 209791751,
+        "longitudeE7" : 1057906212
+      },
+      "duration" : {
+        "startTimestampMs" : "1577270829000",
+        "endTimestampMs" : "1577271977000"
+      },
+      "distance" : 3743,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 79.23042178153992
+      }, {
+        "activityType" : "STILL",
+        "probability" : 11.632208526134491
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.436785101890564
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209947967,
+          "lngE7" : 1058077011
+        }, {
+          "latE7" : 209797630,
+          "lngE7" : 1057871170
+        }, {
+          "latE7" : 209744110,
+          "lngE7" : 1057893905
+        }, {
+          "latE7" : 209737472,
+          "lngE7" : 1057899017
+        }, {
+          "latE7" : 209791603,
+          "lngE7" : 1057905960
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209785193,
+          "lngE7" : 1057912103,
+          "timestampMs" : "1577271961000",
+          "accuracyMeters" : 4
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577272042554",
+        "location" : {
+          "latitudeE7" : 209788333,
+          "longitudeE7" : 1057899062,
+          "accuracyMetres" : 48
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209786456,
+        "longitudeE7" : 1057894822,
+        "placeId" : "ChIJ4eVjwJ2tNTERlTKWRqqLNN4",
+        "address" : "Unnamed Road\nP. Văn Quán\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "Cafe Nhất Long",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 35.648827
+      },
+      "duration" : {
+        "startTimestampMs" : "1577271977000",
+        "endTimestampMs" : "1577273524207"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 209787980,
+      "centerLngE7" : 1057899380,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209788108,
+        "longitudeE7" : 1057895955,
+        "placeId" : "ChIJe_df8uetNTERVafTdGpLIPE",
+        "locationConfidence" : 15.326634
+      }, {
+        "latitudeE7" : 209765453,
+        "longitudeE7" : 1057896797,
+        "placeId" : "ChIJVVUVvNGsNTER_vyDRpdwt5Q",
+        "locationConfidence" : 14.0487995
+      }, {
+        "latitudeE7" : 209787843,
+        "longitudeE7" : 1057894872,
+        "placeId" : "ChIJiU6dxhitNTER83glQ2j3QCo",
+        "locationConfidence" : 11.590498
+      }, {
+        "latitudeE7" : 209805524,
+        "longitudeE7" : 1057893665,
+        "placeId" : "ChIJRUKmQ86sNTERTUUgpSFgF9s",
+        "locationConfidence" : 9.022822
+      }, {
+        "latitudeE7" : 209769915,
+        "longitudeE7" : 1057914318,
+        "placeId" : "ChIJSQGiytGsNTERxz_MG0f1rjQ",
+        "locationConfidence" : 5.3310604
+      }, {
+        "latitudeE7" : 209780711,
+        "longitudeE7" : 1057906952,
+        "placeId" : "ChIJlRG52dGsNTERvayY7rFuGPY",
+        "locationConfidence" : 2.0224965
+      }, {
+        "latitudeE7" : 209760444,
+        "longitudeE7" : 1057893471,
+        "placeId" : "ChIJN5JH1j2tNTERJ5HK8Av8h8E",
+        "locationConfidence" : 1.9881057
+      }, {
+        "latitudeE7" : 209784757,
+        "longitudeE7" : 1057896280,
+        "placeId" : "ChIJMRKivMytNTERm5m4oShqlkw",
+        "locationConfidence" : 1.9872943
+      }, {
+        "latitudeE7" : 209771029,
+        "longitudeE7" : 1057884381,
+        "placeId" : "ChIJ0b9Zi9GsNTERr-eRCjLppR8",
+        "locationConfidence" : 0.79011124
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209764572,
+        "longitudeE7" : 1057898818
+      },
+      "endLocation" : {
+        "latitudeE7" : 209701714,
+        "longitudeE7" : 1057920410
+      },
+      "duration" : {
+        "startTimestampMs" : "1577273524207",
+        "endTimestampMs" : "1577273649128"
+      },
+      "distance" : 734,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 91.68049097061157
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.090087816119194
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.1600219644606113
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209762363,
+          "lngE7" : 1057900543
+        }, {
+          "latE7" : 209737472,
+          "lngE7" : 1057899017
+        }, {
+          "latE7" : 209702854,
+          "lngE7" : 1057919540
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209764572,
+          "lngE7" : 1057898818,
+          "timestampMs" : "1577273524207",
+          "accuracyMeters" : 28
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577273740133",
+        "location" : {
+          "latitudeE7" : 209702611,
+          "longitudeE7" : 1057921072,
+          "accuracyMetres" : 91
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 67.175545
+      },
+      "duration" : {
+        "startTimestampMs" : "1577273649128",
+        "endTimestampMs" : "1577326297000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702511,
+      "centerLngE7" : 1057921132,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 30.10923
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.7305847
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.3922363
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.30494216
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209702332,
+        "longitudeE7" : 1057920488
+      },
+      "endLocation" : {
+        "latitudeE7" : 209954267,
+        "longitudeE7" : 1058086047
+      },
+      "duration" : {
+        "startTimestampMs" : "1577326297000",
+        "endTimestampMs" : "1577327055585"
+      },
+      "distance" : 3557,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 91.71255826950073
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.714120715856552
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.9336480870842934
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703083,
+          "lngE7" : 1057919921
+        }, {
+          "latE7" : 209858875,
+          "lngE7" : 1057954483
+        }, {
+          "latE7" : 209954223,
+          "lngE7" : 1058086013
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577327101489",
+        "location" : {
+          "latitudeE7" : 209954522,
+          "longitudeE7" : 1058085540,
+          "accuracyMetres" : 130
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 74.94326
+      },
+      "duration" : {
+        "startTimestampMs" : "1577327055585",
+        "endTimestampMs" : "1577355630627"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209959570,
+      "centerLngE7" : 1058082224,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 19.408266
+      }, {
+        "latitudeE7" : 209956939,
+        "longitudeE7" : 1058080108,
+        "placeId" : "ChIJq04yY5asNTERJBUPjyWugsk",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 4.934154
+      }, {
+        "latitudeE7" : 209953674,
+        "longitudeE7" : 1058092650,
+        "placeId" : "ChIJj6dRjZasNTERjuqmplDe3_s",
+        "locationConfidence" : 0.34819433
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.10341019
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209956877,
+        "longitudeE7" : 1058086471
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702840,
+        "longitudeE7" : 1057920739
+      },
+      "duration" : {
+        "startTimestampMs" : "1577355630627",
+        "endTimestampMs" : "1577356970727"
+      },
+      "distance" : 3426,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 81.22755885124207
+      }, {
+        "activityType" : "STILL",
+        "probability" : 8.07884857058525
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.924895197153091
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209957733,
+          "lngE7" : 1058087692
+        }, {
+          "latE7" : 209849624,
+          "lngE7" : 1057937850
+        }, {
+          "latE7" : 209703369,
+          "lngE7" : 1057920379
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577357081874",
+        "location" : {
+          "latitudeE7" : 209702660,
+          "longitudeE7" : 1057920855,
+          "accuracyMetres" : 46
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 67.17352
+      },
+      "duration" : {
+        "startTimestampMs" : "1577356970727",
+        "endTimestampMs" : "1577413297485"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702883,
+      "centerLngE7" : 1057920923,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 29.649584
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.6310328
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.63031405
+      }, {
+        "latitudeE7" : 209675864,
+        "longitudeE7" : 1057890517,
+        "placeId" : "ChIJFQ73GdasNTERghOkJH6mVPk",
+        "locationConfidence" : 0.42599103
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209703020,
+        "longitudeE7" : 1057920593
+      },
+      "endLocation" : {
+        "latitudeE7" : 209955634,
+        "longitudeE7" : 1058082483
+      },
+      "duration" : {
+        "startTimestampMs" : "1577413297485",
+        "endTimestampMs" : "1577414184000"
+      },
+      "distance" : 3285,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 85.24640202522278
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 12.327992916107178
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.8784188888967037
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703350,
+          "lngE7" : 1057920379
+        }, {
+          "latE7" : 209858875,
+          "lngE7" : 1057954483
+        }, {
+          "latE7" : 209955615,
+          "lngE7" : 1058082504
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577414153002",
+        "location" : {
+          "latitudeE7" : 209954375,
+          "longitudeE7" : 1058083382,
+          "accuracyMetres" : 49
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 72.01555
+      },
+      "duration" : {
+        "startTimestampMs" : "1577414184000",
+        "endTimestampMs" : "1577441857000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209959282,
+      "centerLngE7" : 1058082261,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 21.877893
+      }, {
+        "latitudeE7" : 209956939,
+        "longitudeE7" : 1058080108,
+        "placeId" : "ChIJq04yY5asNTERJBUPjyWugsk",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 5.80653
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.15349956
+      }, {
+        "latitudeE7" : 209959819,
+        "longitudeE7" : 1058097244,
+        "placeId" : "ChIJqw92BXGtNTERE22QoI84_eA",
+        "locationConfidence" : 0.067998186
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209947206,
+        "longitudeE7" : 1058076508
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702801,
+        "longitudeE7" : 1057921263
+      },
+      "duration" : {
+        "startTimestampMs" : "1577441857000",
+        "endTimestampMs" : "1577443002032"
+      },
+      "distance" : 3301,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 76.06503367424011
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 19.020551443099976
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.5000499784946442
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209947433,
+          "lngE7" : 1058076248
+        }, {
+          "latE7" : 209855499,
+          "lngE7" : 1057946395
+        }, {
+          "latE7" : 209703578,
+          "lngE7" : 1057920761
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209881981,
+          "lngE7" : 1057983901,
+          "timestampMs" : "1577442029000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577442924919",
+        "location" : {
+          "latitudeE7" : 209706731,
+          "longitudeE7" : 1057922637,
+          "accuracyMetres" : 36
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 65.939125
+      },
+      "duration" : {
+        "startTimestampMs" : "1577443002032",
+        "endTimestampMs" : "1577522600333"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702706,
+      "centerLngE7" : 1057921118,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 31.29554
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.79978484
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.37749538
+      }, {
+        "latitudeE7" : 209699075,
+        "longitudeE7" : 1057921037,
+        "placeId" : "ChIJj0QbXg2tNTERT59c_nsNfns",
+        "locationConfidence" : 0.3296048
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209703911,
+        "longitudeE7" : 1057920254
+      },
+      "endLocation" : {
+        "latitudeE7" : 209893296,
+        "longitudeE7" : 1057503984
+      },
+      "duration" : {
+        "startTimestampMs" : "1577522600333",
+        "endTimestampMs" : "1577524524896"
+      },
+      "distance" : 6423,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 55.09207248687744
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 39.94995057582855
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.6604484990239143
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703464,
+          "lngE7" : 1057920532
+        }, {
+          "latE7" : 209739875,
+          "lngE7" : 1057813415
+        }, {
+          "latE7" : 209651489,
+          "lngE7" : 1057601318
+        }, {
+          "latE7" : 209695167,
+          "lngE7" : 1057522354
+        }, {
+          "latE7" : 209895229,
+          "lngE7" : 1057499160
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209651823,
+          "lngE7" : 1057602196,
+          "timestampMs" : "1577523405822",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : 209685110,
+          "lngE7" : 1057542872,
+          "timestampMs" : "1577523516000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577524339067",
+        "location" : {
+          "latitudeE7" : 209686459,
+          "longitudeE7" : 1057573390,
+          "accuracyMetres" : 86
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209901926,
+        "longitudeE7" : 1057524025,
+        "placeId" : "ChIJF4p0bzJTNDERtwhHcRJcW_8",
+        "address" : "Đường Ngô Thì Nhậm\nkéo dài\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "AEON Mall Hà Đông",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 43.89137
+      },
+      "duration" : {
+        "startTimestampMs" : "1577524524896",
+        "endTimestampMs" : "1577538503824"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 209898964,
+          "longitudeE7" : 1057514735,
+          "placeId" : "ChIJofjzu2NTNDER1CczOKjz-r0",
+          "name" : "AEON Mall Hà Đông (đang xây)",
+          "sourceInfo" : {
+            "deviceTag" : -1287864179
+          },
+          "locationConfidence" : 27.441422
+        },
+        "duration" : {
+          "startTimestampMs" : "1577528734813",
+          "endTimestampMs" : "1577538503824"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 209897602,
+        "centerLngE7" : 1057511071,
+        "visitConfidence" : 81,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 209901649,
+          "longitudeE7" : 1057523996,
+          "placeId" : "ChIJb5B9D51TNDERdIrl0AqEUOo",
+          "locationConfidence" : 11.7287655
+        }, {
+          "latitudeE7" : 209899504,
+          "longitudeE7" : 1057526534,
+          "placeId" : "ChIJixSWq61TNDERd8jLotbt20Q",
+          "locationConfidence" : 1.0260931
+        }, {
+          "latitudeE7" : 209900171,
+          "longitudeE7" : 1057523973,
+          "placeId" : "ChIJ3dJ2WYtTNDERY68H68nDmvY",
+          "locationConfidence" : 0.26311883
+        }, {
+          "latitudeE7" : 209899654,
+          "longitudeE7" : 1057518158,
+          "placeId" : "ChIJIa6KE5BTNDERSj9qZpDAFb4",
+          "locationConfidence" : 0.07788901
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 209897602,
+      "centerLngE7" : 1057511071,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209893131,
+        "longitudeE7" : 1057510069,
+        "placeId" : "ChIJofjzu2NTNDER1CczOKjz-r0",
+        "locationConfidence" : 33.34611
+      }, {
+        "latitudeE7" : 209901649,
+        "longitudeE7" : 1057523996,
+        "placeId" : "ChIJb5B9D51TNDERdIrl0AqEUOo",
+        "locationConfidence" : 20.409117
+      }, {
+        "latitudeE7" : 209899504,
+        "longitudeE7" : 1057526534,
+        "placeId" : "ChIJixSWq61TNDERd8jLotbt20Q",
+        "locationConfidence" : 1.7003772
+      }, {
+        "latitudeE7" : 209900171,
+        "longitudeE7" : 1057523973,
+        "placeId" : "ChIJ3dJ2WYtTNDERY68H68nDmvY",
+        "locationConfidence" : 0.32498056
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209896769,
+        "longitudeE7" : 1057501593
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702502,
+        "longitudeE7" : 1057921280
+      },
+      "duration" : {
+        "startTimestampMs" : "1577538503824",
+        "endTimestampMs" : "1577540030001"
+      },
+      "distance" : 4863,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 65.70110321044922
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 29.615524411201477
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.4883514270186424
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209897365,
+          "lngE7" : 1057500076
+        }, {
+          "latE7" : 209847869,
+          "lngE7" : 1057749252
+        }, {
+          "latE7" : 209703483,
+          "lngE7" : 1057920608
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577539929520",
+        "location" : {
+          "latitudeE7" : 209702502,
+          "longitudeE7" : 1057921280,
+          "accuracyMetres" : 46
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 67.97657
+      },
+      "duration" : {
+        "startTimestampMs" : "1577540030001",
+        "endTimestampMs" : "1577671880256"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209702681,
+      "centerLngE7" : 1057921207,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 29.924988
+      }, {
+        "latitudeE7" : 209675864,
+        "longitudeE7" : 1057890517,
+        "placeId" : "ChIJFQ73GdasNTERghOkJH6mVPk",
+        "locationConfidence" : 0.40043044
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.32750246
+      }, {
+        "latitudeE7" : 209676941,
+        "longitudeE7" : 1057891269,
+        "placeId" : "ChIJP3-I2CmtNTER_RimYlcOTjU",
+        "locationConfidence" : 0.3154597
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209702958,
+        "longitudeE7" : 1057920680
+      },
+      "endLocation" : {
+        "latitudeE7" : 209957716,
+        "longitudeE7" : 1058083012
+      },
+      "duration" : {
+        "startTimestampMs" : "1577671880256",
+        "endTimestampMs" : "1577673446000"
+      },
+      "distance" : 5722,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 86.75556182861328
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.176084816455841
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.938545659184456
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703369,
+          "lngE7" : 1057920379
+        }, {
+          "latE7" : 209822711,
+          "lngE7" : 1057906799
+        }, {
+          "latE7" : 210017013,
+          "lngE7" : 1058180770
+        }, {
+          "latE7" : 210004940,
+          "lngE7" : 1058162231
+        }, {
+          "latE7" : 209956016,
+          "lngE7" : 1058082199
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210017214,
+          "lngE7" : 1058180604,
+          "timestampMs" : "1577672909000",
+          "accuracyMeters" : 29
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577673399553",
+        "location" : {
+          "latitudeE7" : 209957329,
+          "longitudeE7" : 1058078880,
+          "accuracyMetres" : 77
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959344,
+        "longitudeE7" : 1058079725,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 73.595116
+      },
+      "duration" : {
+        "startTimestampMs" : "1577673446000",
+        "endTimestampMs" : "1577702361000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209959260,
+      "centerLngE7" : 1058082275,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 20.99997
+      }, {
+        "latitudeE7" : 209956939,
+        "longitudeE7" : 1058080108,
+        "placeId" : "ChIJq04yY5asNTERJBUPjyWugsk",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 5.1614265
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.123783566
+      }, {
+        "latitudeE7" : 209953674,
+        "longitudeE7" : 1058092650,
+        "placeId" : "ChIJj6dRjZasNTERjuqmplDe3_s",
+        "locationConfidence" : 0.054484252
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209951919,
+        "longitudeE7" : 1058081469
+      },
+      "endLocation" : {
+        "latitudeE7" : 209908197,
+        "longitudeE7" : 1057978432
+      },
+      "duration" : {
+        "startTimestampMs" : "1577702361000",
+        "endTimestampMs" : "1577702963838"
+      },
+      "distance" : 1217,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 78.6193311214447
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.046230494976044
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.0819302648305893
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209951400,
+          "lngE7" : 1058081817
+        }, {
+          "latE7" : 209943199,
+          "lngE7" : 1058070373
+        }, {
+          "latE7" : 209908237,
+          "lngE7" : 1057978515
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209944550,
+          "lngE7" : 1058071810,
+          "timestampMs" : "1577702422000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577702769367",
+        "location" : {
+          "latitudeE7" : 209908479,
+          "longitudeE7" : 1057980772,
+          "accuracyMetres" : 47
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209907452,
+        "longitudeE7" : 1057979083,
+        "placeId" : "ChIJacqXw7isNTERUaABghb5F5g",
+        "address" : "E11 Thanh Xuân Bắc\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "E11 Thanh Xuân Bắc",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 48.511337
+      },
+      "duration" : {
+        "startTimestampMs" : "1577702963838",
+        "endTimestampMs" : "1577704433173"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 209908140,
+      "centerLngE7" : 1057978500,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209907731,
+        "longitudeE7" : 1057978763,
+        "placeId" : "ChIJpYGqsImtNTER1Kk5gM4Qm6A",
+        "locationConfidence" : 11.934553
+      }, {
+        "latitudeE7" : 209924244,
+        "longitudeE7" : 1057969333,
+        "placeId" : "ChIJ0dS4WLisNTER2aZB1HvTes0",
+        "locationConfidence" : 7.8608923
+      }, {
+        "latitudeE7" : 209905699,
+        "longitudeE7" : 1057980287,
+        "placeId" : "ChIJef-rIjytNTERs_b6tGu8fO4",
+        "locationConfidence" : 6.066339
+      }, {
+        "latitudeE7" : 209904516,
+        "longitudeE7" : 1057982373,
+        "placeId" : "ChIJbUAtD6etNTERSOhGzWJFutI",
+        "locationConfidence" : 5.6788225
+      }, {
+        "latitudeE7" : 209906203,
+        "longitudeE7" : 1057978495,
+        "placeId" : "ChIJRcfzkrisNTER44cuAURUQR4",
+        "locationConfidence" : 5.174632
+      }, {
+        "latitudeE7" : 209908056,
+        "longitudeE7" : 1057978565,
+        "placeId" : "ChIJIYlixgetNTERivQ2x9xaPKM",
+        "locationConfidence" : 3.852486
+      }, {
+        "latitudeE7" : 209908504,
+        "longitudeE7" : 1057978324,
+        "placeId" : "ChIJWQhQegKtNTERO919FUY-0XA",
+        "locationConfidence" : 3.7410932
+      }, {
+        "latitudeE7" : 209902323,
+        "longitudeE7" : 1057988220,
+        "placeId" : "ChIJiUAkurisNTERG54dcG70rzg",
+        "locationConfidence" : 2.1178005
+      }, {
+        "latitudeE7" : 209907915,
+        "longitudeE7" : 1057981127,
+        "placeId" : "ChIJxTtVlbisNTERPh40P7IpVTU",
+        "locationConfidence" : 1.704157
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209908209,
+        "longitudeE7" : 1057978419
+      },
+      "endLocation" : {
+        "latitudeE7" : 209748936,
+        "longitudeE7" : 1057878130
+      },
+      "duration" : {
+        "startTimestampMs" : "1577704433173",
+        "endTimestampMs" : "1577705382000"
+      },
+      "distance" : 2721,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 83.05116891860962
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 12.728160619735718
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.578320935368538
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209908237,
+          "lngE7" : 1057978439
+        }, {
+          "latE7" : 209855499,
+          "lngE7" : 1057946395
+        }, {
+          "latE7" : 209732894,
+          "lngE7" : 1057851104
+        }, {
+          "latE7" : 209748363,
+          "lngE7" : 1057877426
+        }, {
+          "latE7" : 209748783,
+          "lngE7" : 1057878189
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209731651,
+          "lngE7" : 1057850179,
+          "timestampMs" : "1577705321000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 209745383,
+          "lngE7" : 1057872063,
+          "timestampMs" : "1577705367000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577705568890",
+        "location" : {
+          "latitudeE7" : 209743043,
+          "longitudeE7" : 1057894358,
+          "accuracyMetres" : 57
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209743358,
+        "longitudeE7" : 1057892777,
+        "placeId" : "ChIJhxyeqdqsNTERJCv97waLb9s",
+        "address" : "Tầng 1 nhà CT7A, khu đô thị mới\nVăn Quán\nYên Phúc\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "VinMart Supermaket",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 97.0092
+      },
+      "duration" : {
+        "startTimestampMs" : "1577705382000",
+        "endTimestampMs" : "1577706403714"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209745010,
+      "centerLngE7" : 1057891270,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209743010,
+        "longitudeE7" : 1057893209,
+        "placeId" : "ChIJPTAnatGsNTER5Tga5MqT-e0",
+        "locationConfidence" : 1.5796586
+      }, {
+        "latitudeE7" : 209741674,
+        "longitudeE7" : 1057894420,
+        "placeId" : "ChIJxSdQFdGsNTERKrpMLHa3bYo",
+        "locationConfidence" : 0.26561996
+      }, {
+        "latitudeE7" : 209746000,
+        "longitudeE7" : 1057891070,
+        "placeId" : "ChIJK8k5AyStNTERESD6g5X2Dsc",
+        "locationConfidence" : 0.21835627
+      }, {
+        "latitudeE7" : 209741262,
+        "longitudeE7" : 1057894045,
+        "placeId" : "ChIJmWb4PNCsNTERuQ2CN8W7aWc",
+        "locationConfidence" : 0.18553662
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209743519,
+        "longitudeE7" : 1057890587
+      },
+      "endLocation" : {
+        "latitudeE7" : 209706185,
+        "longitudeE7" : 1057914299
+      },
+      "duration" : {
+        "startTimestampMs" : "1577706403714",
+        "endTimestampMs" : "1577706582875"
+      },
+      "distance" : 482,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 86.54630780220032
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 10.373307019472122
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.2989877723157406
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209741802,
+          "lngE7" : 1057888183
+        }, {
+          "latE7" : 209737472,
+          "lngE7" : 1057899017
+        }, {
+          "latE7" : 209705791,
+          "lngE7" : 1057913665
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209743519,
+          "lngE7" : 1057890587,
+          "timestampMs" : "1577706403714",
+          "accuracyMeters" : 44
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577706663646",
+        "location" : {
+          "latitudeE7" : 209702784,
+          "longitudeE7" : 1057920689,
+          "accuracyMetres" : 93
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 71.40047
+      },
+      "duration" : {
+        "startTimestampMs" : "1577706582875",
+        "endTimestampMs" : "1577751209519"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209703174,
+      "centerLngE7" : 1057920613,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 25.834652
+      }, {
+        "latitudeE7" : 209706166,
+        "longitudeE7" : 1057905560,
+        "placeId" : "ChIJWb6a49asNTER1MgpZk1savg",
+        "locationConfidence" : 0.43218458
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.4046305
+      }, {
+        "latitudeE7" : 209676941,
+        "longitudeE7" : 1057891269,
+        "placeId" : "ChIJP3-I2CmtNTER_RimYlcOTjU",
+        "locationConfidence" : 0.37518868
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209703317,
+        "longitudeE7" : 1057920037
+      },
+      "endLocation" : {
+        "latitudeE7" : 209965518,
+        "longitudeE7" : 1058081750
+      },
+      "duration" : {
+        "startTimestampMs" : "1577751209519",
+        "endTimestampMs" : "1577752838675"
+      },
+      "distance" : 3803,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 81.76441192626953
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 10.089012235403061
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.8882110491394997
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209703216,
+          "lngE7" : 1057920150
+        }, {
+          "latE7" : 209822711,
+          "lngE7" : 1057906799
+        }, {
+          "latE7" : 209968242,
+          "lngE7" : 1058082122
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577752623707",
+        "location" : {
+          "latitudeE7" : 209956818,
+          "longitudeE7" : 1058081237,
+          "accuracyMetres" : 87
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209959199,
+        "longitudeE7" : 1058079837,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 66.26164
+      },
+      "duration" : {
+        "startTimestampMs" : "1577752838675",
+        "endTimestampMs" : "1577790463559"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 209959492,
+      "centerLngE7" : 1058082314,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209959183,
+        "longitudeE7" : 1058082275,
+        "placeId" : "ChIJSyijXZasNTERRe8judxaWNg",
+        "locationConfidence" : 26.144672
+      }, {
+        "latitudeE7" : 209956939,
+        "longitudeE7" : 1058080108,
+        "placeId" : "ChIJq04yY5asNTERJBUPjyWugsk",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 7.2222886
+      }, {
+        "latitudeE7" : 209951645,
+        "longitudeE7" : 1058072280,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "locationConfidence" : 0.11271942
+      }, {
+        "latitudeE7" : 209939375,
+        "longitudeE7" : 1058069734,
+        "placeId" : "ChIJvX07IL6sNTERCr-tOBmJ-ek",
+        "locationConfidence" : 0.10315797
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209957032,
+        "longitudeE7" : 1058085936
+      },
+      "endLocation" : {
+        "latitudeE7" : 209702613,
+        "longitudeE7" : 1057921256
+      },
+      "duration" : {
+        "startTimestampMs" : "1577790463559",
+        "endTimestampMs" : "1577791359638"
+      },
+      "distance" : 3509,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 89.56958651542664
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.493025854229927
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.039462700486183
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209958076,
+          "lngE7" : 1058087463
+        }, {
+          "latE7" : 209855499,
+          "lngE7" : 1057946395
+        }, {
+          "latE7" : 209703483,
+          "lngE7" : 1057920608
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 209861286,
+          "lngE7" : 1057957628,
+          "timestampMs" : "1577790703416",
+          "accuracyMeters" : 28
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577791501446",
+        "location" : {
+          "latitudeE7" : 209702613,
+          "longitudeE7" : 1057921256,
+          "accuracyMetres" : 85
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209702206,
+        "longitudeE7" : 1057921524,
+        "placeId" : "ChIJmwx1DNesNTERnqjmGmzjDaU",
+        "address" : "2 Nguyễn Khuyến\nTân Triều\nHà Đông\nHà Nội\nViệt Nam",
+        "name" : "2 Nguyễn Khuyến",
+        "sourceInfo" : {
+          "deviceTag" : -1287864179
+        },
+        "locationConfidence" : 65.35198
+      },
+      "duration" : {
+        "startTimestampMs" : "1577791359638",
+        "endTimestampMs" : "1577931366000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209703002,
+      "centerLngE7" : 1057920907,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209702034,
+        "longitudeE7" : 1057921600,
+        "placeId" : "ChIJ9zAfc9esNTERlp20a08s-v8",
+        "locationConfidence" : 31.705677
+      }, {
+        "latitudeE7" : 209685325,
+        "longitudeE7" : 1057926539,
+        "placeId" : "ChIJ72JDvdesNTERQWlQRMQhXl8",
+        "locationConfidence" : 0.732255
+      }, {
+        "latitudeE7" : 209702947,
+        "longitudeE7" : 1057916417,
+        "placeId" : "ChIJIfEtt2StNTERk3Ml16srZLo",
+        "locationConfidence" : 0.40813032
+      }, {
+        "latitudeE7" : 209676941,
+        "longitudeE7" : 1057891269,
+        "placeId" : "ChIJP3-I2CmtNTER_RimYlcOTjU",
+        "locationConfidence" : 0.35469294
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

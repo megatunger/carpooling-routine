@@ -1,0 +1,36 @@
+<h2>Training LDA</h2>
+<div>
+  <%= simple_form_for :train_form, url: modeling_training_lda_path, method: "POST" do |f| %>
+    <div class="row">
+      <div class="col-md-6">
+        <%= f.input :topics, label: 'Expecting Routines ~ Topics in LDA', as: :integer, input_html: { value: @expecting_topics } %>
+      </div>
+    </div>
+    <%= f.submit "Train Model", class: "btn btn-primary" %>
+  <% end %>
+  <div class="mt-4">
+    <h3>Model Information</h3>
+    <table class="table table-striped table-sm">
+      <thead>
+      <tr>
+        <th>User</th>
+        <th>Model File</th>
+      </tr>
+      </thead>
+      <tbody>
+        <% @users.each do |user| %>
+          <tr>
+            <td><%= user.id %> - <%= user.user_name %></td>
+            <td>
+              <% user.train_models.each do |model| %>
+                <div><%= model.params %></div>
+                <div><a href="<%= rails_blob_path(model.model_file) %>"><%= model.model_file.filename %></a></div>
+                <hr>
+              <% end %>
+            </td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+</div>

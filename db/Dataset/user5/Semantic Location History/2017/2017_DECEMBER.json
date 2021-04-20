@@ -1,0 +1,2545 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061378,
+        "longitudeE7" : 1056006165
+      },
+      "endLocation" : {
+        "latitudeE7" : 190029700,
+        "longitudeE7" : 1055990400
+      },
+      "duration" : {
+        "startTimestampMs" : "1512182168309",
+        "endTimestampMs" : "1512183490391"
+      },
+      "distance" : 414,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 52.515861871456885
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 22.28213603480303
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.14628562718833
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190063114,
+          "lngE7" : 1056005401
+        }, {
+          "latE7" : 190029335,
+          "lngE7" : 1055990447
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190029700,
+        "longitudeE7" : 1055990400,
+        "placeId" : "ChIJicfuE1J7NzER5eyFbTgDt48",
+        "address" : "Diễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Cửa Hàng Thiết Bị Điện Công Nghiệp NGỌC HOÀNG",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 90.01914
+      },
+      "duration" : {
+        "startTimestampMs" : "1512183490391",
+        "endTimestampMs" : "1512235021719"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190048854,
+      "centerLngE7" : 1056012788,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 9.98086
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190029700,
+        "longitudeE7" : 1055990400
+      },
+      "endLocation" : {
+        "latitudeE7" : 207189282,
+        "longitudeE7" : 1064851579
+      },
+      "duration" : {
+        "startTimestampMs" : "1512235021719",
+        "endTimestampMs" : "1512256388694"
+      },
+      "distance" : 194241,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 77.41948195308035
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 8.3823725637014
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.426545788482588
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190029335,
+          "lngE7" : 1055990447
+        }, {
+          "latE7" : 207189445,
+          "lngE7" : 1064851608
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1512256388694",
+        "location" : {
+          "latitudeE7" : 207189282,
+          "longitudeE7" : 1064851579
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 207190629,
+        "longitudeE7" : 1064846810,
+        "placeId" : "ChIJQ6oXoKuLNTERcziZgsolI7Y",
+        "address" : "Xã Việt Tiến, Huyện Vĩnh Bảo, Thành Phố Hải Phòng\nViệt Tiến\nVĩnh Bảo\nHải Phòng\nViệt Nam",
+        "name" : "Ủy Ban Nhân Dân Xã Việt Tiến",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 87.232086
+      },
+      "duration" : {
+        "startTimestampMs" : "1512256388694",
+        "endTimestampMs" : "1512267761306"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 207189222,
+      "centerLngE7" : 1064851384,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 207189778,
+        "longitudeE7" : 1064839125,
+        "placeId" : "ChIJtRKRqa6LNTERI6-Uarloajo",
+        "name" : "Viet Tien Elementary School",
+        "locationConfidence" : 5.870882
+      }, {
+        "latitudeE7" : 207191674,
+        "longitudeE7" : 1064847217,
+        "placeId" : "ChIJ_____6uLNTERERjZVJA0cA4",
+        "name" : "Đảng ủy Xã Việt Tiến",
+        "locationConfidence" : 4.37359
+      }, {
+        "latitudeE7" : 206957069,
+        "longitudeE7" : 1063170644,
+        "placeId" : "ChIJe0gOe6TBNTERi_UKO0cs9n8",
+        "name" : "Luộc River",
+        "locationConfidence" : 0.30331874
+      }, {
+        "latitudeE7" : 206968288,
+        "longitudeE7" : 1063229566,
+        "placeId" : "ChIJGwXG9aXBNTER9B0LUmmro0o",
+        "name" : "Sông Luộc",
+        "locationConfidence" : 0.30009067
+      }, {
+        "latitudeE7" : 206968288,
+        "longitudeE7" : 1063229566,
+        "placeId" : "ChIJ4w1045fBNTERftRnVYMpr04",
+        "name" : "Sông Luộc",
+        "locationConfidence" : 0.30009067
+      }, {
+        "latitudeE7" : 206968288,
+        "longitudeE7" : 1063229566,
+        "placeId" : "ChIJUeIGwfaJNTERanBd-7D443E",
+        "name" : "Sông Luộc",
+        "locationConfidence" : 0.30009067
+      }, {
+        "latitudeE7" : 206968288,
+        "longitudeE7" : 1063229566,
+        "placeId" : "ChIJm3A0FrXBNTEREmQfacHGEcM",
+        "name" : "Sông Luộc",
+        "locationConfidence" : 0.30009067
+      }, {
+        "latitudeE7" : 206968288,
+        "longitudeE7" : 1063229566,
+        "placeId" : "ChIJC_UFuTPANTER_tDuuEmhFAE",
+        "name" : "Sông Luộc",
+        "locationConfidence" : 0.19671734
+      }, {
+        "latitudeE7" : 206968288,
+        "longitudeE7" : 1063229566,
+        "placeId" : "ChIJRYv7GbHBNTERkT-kOwoVp6Y",
+        "name" : "Sông Luộc",
+        "locationConfidence" : 0.19671734
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 207189717,
+        "longitudeE7" : 1064851416
+      },
+      "endLocation" : {
+        "latitudeE7" : 190080413,
+        "longitudeE7" : 1056016337
+      },
+      "duration" : {
+        "startTimestampMs" : "1512267761306",
+        "endTimestampMs" : "1512303990247"
+      },
+      "distance" : 211495,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 63.49867567911838
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 21.078226445684663
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.691609033202743
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 207189426,
+          "lngE7" : 1064851379
+        }, {
+          "latE7" : 190080490,
+          "lngE7" : 1056016616
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1512303990247",
+        "location" : {
+          "latitudeE7" : 190080413,
+          "longitudeE7" : 1056016337
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190080413,
+        "longitudeE7" : 1056016337
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061700,
+        "longitudeE7" : 1056006788
+      },
+      "duration" : {
+        "startTimestampMs" : "1512303990247",
+        "endTimestampMs" : "1512304761921"
+      },
+      "distance" : 231,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 54.29457762627551
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 39.05456468946861
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.214309250568623
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190080490,
+          "lngE7" : 1056016616
+        }, {
+          "latE7" : 190062084,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061700,
+        "longitudeE7" : 1056006788
+      },
+      "endLocation" : {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633
+      },
+      "duration" : {
+        "startTimestampMs" : "1512304761921",
+        "endTimestampMs" : "1512443081353"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190050251,
+          "lngE7" : 1056009124,
+          "timestampMs" : "1512344890452",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190061914,
+          "lngE7" : 1056006547,
+          "timestampMs" : "1512364599405",
+          "accuracyMeters" : 28
+        }, {
+          "latE7" : 190043029,
+          "lngE7" : 1056015495,
+          "timestampMs" : "1512432505759",
+          "accuracyMeters" : 104
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633
+      },
+      "endLocation" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341
+      },
+      "duration" : {
+        "startTimestampMs" : "1512443081353",
+        "endTimestampMs" : "1512445004574"
+      },
+      "distance" : 859,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 60.311750059909485
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 23.516647821296267
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.052537516651498
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1055995330
+        }, {
+          "latE7" : 189993267,
+          "lngE7" : 1055993194
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 189994985,
+        "longitudeE7" : 1055992341
+      },
+      "endLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "duration" : {
+        "startTimestampMs" : "1512445004574",
+        "endTimestampMs" : "1512532988194"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190061958,
+          "lngE7" : 1056006555,
+          "timestampMs" : "1512485340887",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 190049977,
+          "lngE7" : 1056004930,
+          "timestampMs" : "1512532620594",
+          "accuracyMeters" : 77
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061779,
+        "longitudeE7" : 1056007163
+      },
+      "duration" : {
+        "startTimestampMs" : "1512532988194",
+        "endTimestampMs" : "1512535603841"
+      },
+      "distance" : 133,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 56.45632942996306
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 27.53069090153593
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 11.469196054659124
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190050544,
+          "lngE7" : 1056005249
+        }, {
+          "latE7" : 190062026,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061779,
+        "longitudeE7" : 1056007163
+      },
+      "endLocation" : {
+        "latitudeE7" : 190057239,
+        "longitudeE7" : 1055999110
+      },
+      "duration" : {
+        "startTimestampMs" : "1512535603841",
+        "endTimestampMs" : "1512803535948"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190061700,
+          "lngE7" : 1056006785,
+          "timestampMs" : "1512536623160",
+          "accuracyMeters" : 27
+        }, {
+          "latE7" : 190056638,
+          "lngE7" : 1056004429,
+          "timestampMs" : "1512542703774",
+          "accuracyMeters" : 24
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190057239,
+        "longitudeE7" : 1055999110
+      },
+      "endLocation" : {
+        "latitudeE7" : 190050767,
+        "longitudeE7" : 1055987630
+      },
+      "duration" : {
+        "startTimestampMs" : "1512803535948",
+        "endTimestampMs" : "1512809685492"
+      },
+      "distance" : 140,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 48.630695894733776
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 35.49941169027975
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.285767150170228
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190055923,
+          "lngE7" : 1055999526
+        }, {
+          "latE7" : 190053100,
+          "lngE7" : 1055987930
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190051037,
+        "longitudeE7" : 1055988166
+      },
+      "endLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "duration" : {
+        "startTimestampMs" : "1512809863566",
+        "endTimestampMs" : "1512810343135"
+      },
+      "distance" : 200,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 65.50506024203416
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 23.721003137690786
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.529545236931122
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190053043,
+          "lngE7" : 1055988464
+        }, {
+          "latE7" : 190050487,
+          "lngE7" : 1056004867
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "endLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "duration" : {
+        "startTimestampMs" : "1512810343135",
+        "endTimestampMs" : "1512811173785"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190052646,
+          "lngE7" : 1055990457,
+          "timestampMs" : "1512810794005",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "endLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "duration" : {
+        "startTimestampMs" : "1512811173785",
+        "endTimestampMs" : "1512811645330"
+      },
+      "distance" : 354,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 46.35094803515409
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 31.139459330583858
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 13.111232098294728
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059764,
+        "longitudeE7" : 1056006147
+      },
+      "duration" : {
+        "startTimestampMs" : "1512811645330",
+        "endTimestampMs" : "1512949894775"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190040681,
+          "lngE7" : 1056007678,
+          "timestampMs" : "1512811765530",
+          "accuracyMeters" : 116
+        }, {
+          "latE7" : 190049972,
+          "lngE7" : 1056009253,
+          "timestampMs" : "1512811886018",
+          "accuracyMeters" : 116
+        }, {
+          "latE7" : 190047587,
+          "lngE7" : 1056004658,
+          "timestampMs" : "1512812627610",
+          "accuracyMeters" : 36
+        }, {
+          "latE7" : 190051037,
+          "lngE7" : 1055988166,
+          "timestampMs" : "1512813744132",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059764,
+        "longitudeE7" : 1056006147
+      },
+      "endLocation" : {
+        "latitudeE7" : 190051170,
+        "longitudeE7" : 1056007134
+      },
+      "duration" : {
+        "startTimestampMs" : "1512949894775",
+        "endTimestampMs" : "1512950149548"
+      },
+      "distance" : 130,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 58.8641051111926
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 19.962350356886873
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 18.16167528285393
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058422,
+          "lngE7" : 1056006698
+        }, {
+          "latE7" : 190050888,
+          "lngE7" : 1056007232
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061684,
+        "longitudeE7" : 1056006798
+      },
+      "duration" : {
+        "startTimestampMs" : "1512952797750",
+        "endTimestampMs" : "1512969104415"
+      },
+      "distance" : 131,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 72.37255181589374
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.62857371312502
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.583917160649392
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190050544,
+          "lngE7" : 1056005249
+        }, {
+          "latE7" : 190062065,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061684,
+        "longitudeE7" : 1056006798
+      },
+      "endLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "duration" : {
+        "startTimestampMs" : "1512969104415",
+        "endTimestampMs" : "1513073610570"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190052200,
+          "lngE7" : 1056008781,
+          "timestampMs" : "1513036703436",
+          "accuracyMeters" : 29
+        }, {
+          "latE7" : 190060054,
+          "lngE7" : 1056006719,
+          "timestampMs" : "1513061218439",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 190051956,
+          "lngE7" : 1056003742,
+          "timestampMs" : "1513063148387",
+          "accuracyMeters" : 26
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061983,
+        "longitudeE7" : 1056007177
+      },
+      "duration" : {
+        "startTimestampMs" : "1513073610570",
+        "endTimestampMs" : "1513073826998"
+      },
+      "distance" : 170,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 53.74407819906598
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 34.99503411320118
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 9.171788198397238
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190050544,
+          "lngE7" : 1056005249
+        }, {
+          "latE7" : 190062217,
+          "lngE7" : 1056007843
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061284,
+        "longitudeE7" : 1056007171
+      },
+      "endLocation" : {
+        "latitudeE7" : 190051284,
+        "longitudeE7" : 1056007055
+      },
+      "duration" : {
+        "startTimestampMs" : "1513123200000",
+        "endTimestampMs" : "1513125216620"
+      },
+      "distance" : 111,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 60.352540077025054
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 28.063644524887817
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.367676669218871
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190061588,
+          "lngE7" : 1056008071
+        }, {
+          "latE7" : 190050868,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061595,
+        "longitudeE7" : 1056007177
+      },
+      "endLocation" : {
+        "latitudeE7" : 190050492,
+        "longitudeE7" : 1056006149
+      },
+      "duration" : {
+        "startTimestampMs" : "1513209278724",
+        "endTimestampMs" : "1513209600000"
+      },
+      "distance" : 123,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 63.44539138552631
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 23.805105330845553
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.38425951775195
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190061855,
+          "lngE7" : 1056007995
+        }, {
+          "latE7" : 190050697,
+          "lngE7" : 1056006088
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190050492,
+        "longitudeE7" : 1056006149
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061722,
+        "longitudeE7" : 1056008323
+      },
+      "duration" : {
+        "startTimestampMs" : "1513209600000",
+        "endTimestampMs" : "1513259454102"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190051877,
+          "lngE7" : 1056004658,
+          "timestampMs" : "1513222377025",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190061912,
+          "lngE7" : 1056007233,
+          "timestampMs" : "1513226907734",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190057668,
+          "lngE7" : 1056005574,
+          "timestampMs" : "1513233988625",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190050128,
+          "lngE7" : 1056009239,
+          "timestampMs" : "1513247064338",
+          "accuracyMeters" : 23
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061722,
+        "longitudeE7" : 1056008323
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1513259454102",
+        "endTimestampMs" : "1513265786594"
+      },
+      "distance" : 2267,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 76.4568038813139
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 15.842125755177165
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.105825753599031
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190061645,
+          "lngE7" : 1056008071
+        }, {
+          "latE7" : 189976196,
+          "lngE7" : 1055955657
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 189974346,
+          "lngE7" : 1055953122,
+          "timestampMs" : "1513259814283",
+          "accuracyMeters" : 42
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190049972,
+        "longitudeE7" : 1056009253
+      },
+      "endLocation" : {
+        "latitudeE7" : 190049902,
+        "longitudeE7" : 1056009239
+      },
+      "duration" : {
+        "startTimestampMs" : "1513321035399",
+        "endTimestampMs" : "1513321876591"
+      },
+      "distance" : 484,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 48.209657318559316
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 28.177462732673625
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.50973321684608
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190049902,
+        "longitudeE7" : 1056009239
+      },
+      "endLocation" : {
+        "latitudeE7" : 190062704,
+        "longitudeE7" : 1056007406
+      },
+      "duration" : {
+        "startTimestampMs" : "1513321876591",
+        "endTimestampMs" : "1513382315198"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190051425,
+          "lngE7" : 1056004658,
+          "timestampMs" : "1513322476628",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190051425,
+          "lngE7" : 1056004658,
+          "timestampMs" : "1513325006954",
+          "accuracyMeters" : 24
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190062704,
+        "longitudeE7" : 1056007406
+      },
+      "endLocation" : {
+        "latitudeE7" : 190050413,
+        "longitudeE7" : 1056008552
+      },
+      "duration" : {
+        "startTimestampMs" : "1513382315198",
+        "endTimestampMs" : "1513382502983"
+      },
+      "distance" : 159,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 61.58151883559315
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 26.460232961130707
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.669230194942745
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190062770,
+          "lngE7" : 1056007614
+        }, {
+          "latE7" : 190051078,
+          "lngE7" : 1056008377
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190050242,
+        "longitudeE7" : 1056006605
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061820,
+        "longitudeE7" : 1056007177
+      },
+      "duration" : {
+        "startTimestampMs" : "1513382820767",
+        "endTimestampMs" : "1513383397143"
+      },
+      "distance" : 148,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 67.66457314918075
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 25.456114711132233
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.542313274715443
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190050773,
+          "lngE7" : 1056006546
+        }, {
+          "latE7" : 190062065,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061820,
+        "longitudeE7" : 1056007177
+      },
+      "endLocation" : {
+        "latitudeE7" : 190051539,
+        "longitudeE7" : 1056007941
+      },
+      "duration" : {
+        "startTimestampMs" : "1513383397143",
+        "endTimestampMs" : "1513554939022"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190061959,
+          "lngE7" : 1056006598,
+          "timestampMs" : "1513383516459",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190050566,
+          "lngE7" : 1056005459,
+          "timestampMs" : "1513407386665",
+          "accuracyMeters" : 24
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190051539,
+        "longitudeE7" : 1056007941
+      },
+      "endLocation" : {
+        "latitudeE7" : 190062061,
+        "longitudeE7" : 1056007037
+      },
+      "duration" : {
+        "startTimestampMs" : "1513554939022",
+        "endTimestampMs" : "1513555200000"
+      },
+      "distance" : 117,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 66.55571678977797
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 17.661778369252605
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.412502202058976
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190051021,
+          "lngE7" : 1056007995
+        }, {
+          "latE7" : 190062332,
+          "lngE7" : 1056007766
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190062061,
+        "longitudeE7" : 1056007037
+      },
+      "endLocation" : {
+        "latitudeE7" : 190062252,
+        "longitudeE7" : 1056007406
+      },
+      "duration" : {
+        "startTimestampMs" : "1513555200000",
+        "endTimestampMs" : "1513652350882"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190049371,
+          "lngE7" : 1056004659,
+          "timestampMs" : "1513593225478",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190054788,
+          "lngE7" : 1056003627,
+          "timestampMs" : "1513641925785",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 190050315,
+          "lngE7" : 1056009697,
+          "timestampMs" : "1513651266703",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190059209,
+          "lngE7" : 1056006032,
+          "timestampMs" : "1513651483703",
+          "accuracyMeters" : 24
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190062252,
+        "longitudeE7" : 1056007406
+      },
+      "endLocation" : {
+        "latitudeE7" : 190142301,
+        "longitudeE7" : 1056017890
+      },
+      "duration" : {
+        "startTimestampMs" : "1513652350882",
+        "endTimestampMs" : "1513652592127"
+      },
+      "distance" : 272,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 78.18399685836506
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.12233334119219
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.627957908797848
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190062389,
+          "lngE7" : 1056007766
+        }, {
+          "latE7" : 190141448,
+          "lngE7" : 1056017227
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190123075,
+        "longitudeE7" : 1056031342,
+        "placeId" : "ChIJIT7mBzd7NzERC8EWD0yYGZs",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 77.81985
+      },
+      "duration" : {
+        "startTimestampMs" : "1513652592127",
+        "endTimestampMs" : "1513656668711"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190051994,
+      "centerLngE7" : 1056048874,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190220443,
+        "longitudeE7" : 1056075321,
+        "placeId" : "ChIJ2YCI90p7NzERsEkhoXtlb7E",
+        "locationConfidence" : 11.49268
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 10.687474
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190065740,
+        "longitudeE7" : 1056069251
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061820,
+        "longitudeE7" : 1056007177
+      },
+      "duration" : {
+        "startTimestampMs" : "1513656668711",
+        "endTimestampMs" : "1513657751946"
+      },
+      "distance" : 654,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 61.48210383005468
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 23.636082166359206
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.50397557689507
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190065479,
+          "lngE7" : 1056070632
+        }, {
+          "latE7" : 190062065,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190029700,
+        "longitudeE7" : 1055990400
+      },
+      "duration" : {
+        "startTimestampMs" : "1513742312235",
+        "endTimestampMs" : "1513743632545"
+      },
+      "distance" : 430,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 59.50315551541232
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 19.258083925590956
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.957224283668413
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190029335,
+          "lngE7" : 1055990447
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190029700,
+        "longitudeE7" : 1055990400
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061840,
+        "longitudeE7" : 1056006948
+      },
+      "duration" : {
+        "startTimestampMs" : "1513743632545",
+        "endTimestampMs" : "1513857696909"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190061677,
+          "lngE7" : 1056006805,
+          "timestampMs" : "1513784905590",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190050011,
+          "lngE7" : 1056005345,
+          "timestampMs" : "1513828416458",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 190054418,
+          "lngE7" : 1055992175,
+          "timestampMs" : "1513841032818",
+          "accuracyMeters" : 24
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061840,
+        "longitudeE7" : 1056006948
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061820,
+        "longitudeE7" : 1056007177
+      },
+      "duration" : {
+        "startTimestampMs" : "1513857696909",
+        "endTimestampMs" : "1513859498121"
+      },
+      "distance" : 2248,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 72.27180381621852
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 21.48528711284881
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.705469734870638
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190062160,
+          "lngE7" : 1056007843
+        }, {
+          "latE7" : 190012035,
+          "lngE7" : 1055994949
+        }, {
+          "latE7" : 190062065,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190012063,
+          "lngE7" : 1055995038,
+          "timestampMs" : "1513857924140",
+          "accuracyMeters" : 25
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 60.98182
+      },
+      "duration" : {
+        "startTimestampMs" : "1513859498121",
+        "endTimestampMs" : "1513865512627"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190061796,
+      "centerLngE7" : 1056007087,
+      "visitConfidence" : 60,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 21.753962
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 4.6628513
+      }, {
+        "latitudeE7" : 190123075,
+        "longitudeE7" : 1056031342,
+        "placeId" : "ChIJIT7mBzd7NzERC8EWD0yYGZs",
+        "locationConfidence" : 3.55636
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 2.6271322
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 2.5507624
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 1.2867754
+      }, {
+        "latitudeE7" : 190086026,
+        "longitudeE7" : 1055958047,
+        "placeId" : "ChIJbVnx6Ux7NzERWVgrae6Y8DQ",
+        "locationConfidence" : 1.0024196
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 0.9288082
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 0.64911085
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061840,
+        "longitudeE7" : 1056006948
+      },
+      "duration" : {
+        "startTimestampMs" : "1513865512627",
+        "endTimestampMs" : "1513868541969"
+      },
+      "distance" : 949,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 63.69468620955192
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 17.222081467141827
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 13.548846758599556
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190062160,
+          "lngE7" : 1056007843
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 46.561527
+      },
+      "duration" : {
+        "startTimestampMs" : "1513868541969",
+        "endTimestampMs" : "1513892985382"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190005660,
+      "centerLngE7" : 1056037798,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 25.42359
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 7.0350485
+      }, {
+        "latitudeE7" : 190123075,
+        "longitudeE7" : 1056031342,
+        "placeId" : "ChIJIT7mBzd7NzERC8EWD0yYGZs",
+        "locationConfidence" : 5.4210253
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 3.7990286
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 3.5500064
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 3.5092926
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 1.9451177
+      }, {
+        "latitudeE7" : 190086026,
+        "longitudeE7" : 1055958047,
+        "placeId" : "ChIJbVnx6Ux7NzERWVgrae6Y8DQ",
+        "locationConfidence" : 1.4178418
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 1.3375236
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633
+      },
+      "duration" : {
+        "startTimestampMs" : "1513892985382",
+        "endTimestampMs" : "1513911727232"
+      },
+      "distance" : 150,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 59.50681093288871
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 24.45693560454678
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.263879521579542
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1055995330
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633
+      },
+      "endLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056009196
+      },
+      "duration" : {
+        "startTimestampMs" : "1513911727232",
+        "endTimestampMs" : "1514101660433"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190055980,
+          "lngE7" : 1056004200,
+          "timestampMs" : "1513986902957",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190061634,
+          "lngE7" : 1056006719,
+          "timestampMs" : "1514079669261",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 190048655,
+          "lngE7" : 1056010613,
+          "timestampMs" : "1514098524575",
+          "accuracyMeters" : 28
+        }, {
+          "latE7" : 190050566,
+          "lngE7" : 1056005459,
+          "timestampMs" : "1514098849644",
+          "accuracyMeters" : 24
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056009196
+      },
+      "endLocation" : {
+        "latitudeE7" : 190050251,
+        "longitudeE7" : 1056009124
+      },
+      "duration" : {
+        "startTimestampMs" : "1514101660433",
+        "endTimestampMs" : "1514101900596"
+      },
+      "distance" : 399,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 67.03468269122382
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 21.956312847792073
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.606840551871122
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190050452,
+        "longitudeE7" : 1056008093
+      },
+      "endLocation" : {
+        "latitudeE7" : 190049977,
+        "longitudeE7" : 1056004930
+      },
+      "duration" : {
+        "startTimestampMs" : "1514103567658",
+        "endTimestampMs" : "1514103808549"
+      },
+      "distance" : 346,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 62.83698917234436
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 28.18206135347171
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 4.151837407132526
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190051021,
+          "lngE7" : 1056007995
+        }, {
+          "latE7" : 190050544,
+          "lngE7" : 1056005249
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190049952,
+        "longitudeE7" : 1056006032
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061903,
+        "longitudeE7" : 1056007797
+      },
+      "duration" : {
+        "startTimestampMs" : "1514108826023",
+        "endTimestampMs" : "1514115105616"
+      },
+      "distance" : 134,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 55.116598133855135
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 33.85858117195881
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.051281705437282
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190050659,
+          "lngE7" : 1056005859
+        }, {
+          "latE7" : 190061969,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061903,
+        "longitudeE7" : 1056007797
+      },
+      "endLocation" : {
+        "latitudeE7" : 190062494,
+        "longitudeE7" : 1056004539
+      },
+      "duration" : {
+        "startTimestampMs" : "1514115105616",
+        "endTimestampMs" : "1514257780224"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190061963,
+          "lngE7" : 1056006589,
+          "timestampMs" : "1514133027931",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 190049992,
+          "lngE7" : 1056005574,
+          "timestampMs" : "1514166267980",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 190065730,
+          "lngE7" : 1055998473,
+          "timestampMs" : "1514257742650",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190062494,
+        "longitudeE7" : 1056004539
+      },
+      "endLocation" : {
+        "latitudeE7" : 190050993,
+        "longitudeE7" : 1056007541
+      },
+      "duration" : {
+        "startTimestampMs" : "1514257780224",
+        "endTimestampMs" : "1514258108795"
+      },
+      "distance" : 132,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 48.94418057932437
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 36.85586593401042
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.516463620751264
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190062732,
+          "lngE7" : 1056004486
+        }, {
+          "latE7" : 190050945,
+          "lngE7" : 1056007537
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190050001,
+        "longitudeE7" : 1056008093
+      },
+      "endLocation" : {
+        "latitudeE7" : 190054439,
+        "longitudeE7" : 1056001371
+      },
+      "duration" : {
+        "startTimestampMs" : "1514260277858",
+        "endTimestampMs" : "1514260517170"
+      },
+      "distance" : 127,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 57.810605508729196
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 30.43335138829189
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.61078460161323
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190051002,
+          "lngE7" : 1056007919
+        }, {
+          "latE7" : 190056285,
+          "lngE7" : 1056000595
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190054439,
+        "longitudeE7" : 1056001371
+      },
+      "endLocation" : {
+        "latitudeE7" : 190054439,
+        "longitudeE7" : 1056001371
+      },
+      "duration" : {
+        "startTimestampMs" : "1514260517170",
+        "endTimestampMs" : "1514263583350"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190047864,
+          "lngE7" : 1055996183,
+          "timestampMs" : "1514260517170",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190054439,
+        "longitudeE7" : 1056001371
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061779,
+        "longitudeE7" : 1056007163
+      },
+      "duration" : {
+        "startTimestampMs" : "1514263583350",
+        "endTimestampMs" : "1514267006140"
+      },
+      "distance" : 101,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 52.2575129225753
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 36.79070709657989
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.23498138859541
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190056285,
+          "lngE7" : 1056000595
+        }, {
+          "latE7" : 190062026,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061698,
+        "longitudeE7" : 1056007292
+      },
+      "endLocation" : {
+        "latitudeE7" : 190064819,
+        "longitudeE7" : 1056007750
+      },
+      "duration" : {
+        "startTimestampMs" : "1514278415608",
+        "endTimestampMs" : "1514278776936"
+      },
+      "distance" : 413,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 56.133365055042184
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 31.980507029576238
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.4674242940261095
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190061912,
+          "lngE7" : 1056007919
+        }, {
+          "latE7" : 190064029,
+          "lngE7" : 1056007995
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061269,
+        "longitudeE7" : 1056006734
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061719,
+        "longitudeE7" : 1056007321
+      },
+      "duration" : {
+        "startTimestampMs" : "1514282074401",
+        "endTimestampMs" : "1514282311497"
+      },
+      "distance" : 378,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 49.34001396879786
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 39.73518309465731
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.3866812120572485
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190061702,
+          "lngE7" : 1056007995
+        }, {
+          "latE7" : 190061931,
+          "lngE7" : 1056007919
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061719,
+        "longitudeE7" : 1056007321
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1514282311497",
+        "endTimestampMs" : "1514417126343"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190048070,
+          "lngE7" : 1055996412,
+          "timestampMs" : "1514369576031",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190021736,
+        "longitudeE7" : 1056061056
+      },
+      "duration" : {
+        "startTimestampMs" : "1514417126343",
+        "endTimestampMs" : "1514417256413"
+      },
+      "distance" : 751,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 83.0053358672015
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 12.483868627052184
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.7497723144400417
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190021667,
+          "lngE7" : 1056061325
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190021736,
+        "longitudeE7" : 1056061056,
+        "placeId" : "ChIJDfWaoFp7NzERoQbFIfrbGS8",
+        "address" : "Cảng cá Diễn Ngọc, xóm Đông Lộc, xã Diễn Ngọc, huyện Diễn Châu\nDiễn Ngọc\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Công Ty TNHH MTV Trung Trinh",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 46.421425
+      },
+      "duration" : {
+        "startTimestampMs" : "1514417256413",
+        "endTimestampMs" : "1514420138766"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 190001300,
+      "centerLngE7" : 1056040067,
+      "visitConfidence" : 51,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190015244,
+        "longitudeE7" : 1056056764,
+        "placeId" : "ChIJi_hJcVB7NzERwLWdoeFb-jw",
+        "name" : "Huong Que Trading & Investment Joint Stock Company",
+        "locationConfidence" : 29.41168
+      }, {
+        "latitudeE7" : 190019229,
+        "longitudeE7" : 1056053387,
+        "placeId" : "ChIJmWCgclB7NzERR9YHaZ7kJvU",
+        "name" : "Công Ty TNHH Châu Tín Nghệ An",
+        "locationConfidence" : 13.417949
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 8.775964
+      }, {
+        "latitudeE7" : 190003703,
+        "longitudeE7" : 1056089983,
+        "placeId" : "ChIJ9bClt6Z8NzERP7VIKIrZ07I",
+        "locationConfidence" : 1.1892418
+      }, {
+        "latitudeE7" : 190075577,
+        "longitudeE7" : 1056105901,
+        "placeId" : "ChIJ86akFUR7NzERGG77J_6dgEg",
+        "locationConfidence" : 0.78374016
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1514420138766",
+        "endTimestampMs" : "1514423739736"
+      },
+      "distance" : 193,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 53.10503226652962
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 23.803112692300594
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 14.894458915339333
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004,
+        "placeId" : "ChIJgWIAmE57NzERKNbjtl9JWQY",
+        "address" : "Nam Thinh\nDiễn Bích\nDiễn Châu\nNghệ An\nViệt Nam",
+        "name" : "Vũ Thùy",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 69.78469
+      },
+      "duration" : {
+        "startTimestampMs" : "1514423739736",
+        "endTimestampMs" : "1514552419547"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190057859,
+      "centerLngE7" : 1056007455,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190060974,
+        "longitudeE7" : 1056013154,
+        "placeId" : "ChIJU9Z5Zk57NzERHPO55PaPjgI",
+        "name" : "Hợp Tác Xã Chế Biến Thủy Hải Sản Diễn Châu",
+        "locationConfidence" : 18.177305
+      }, {
+        "latitudeE7" : 190053390,
+        "longitudeE7" : 1055988050,
+        "placeId" : "ChIJ_QfE6k17NzER1ne-eMxuI8U",
+        "name" : "Mẹ và Bé Thắng Nhàn Cơ Sở Diễn Ngọc",
+        "locationConfidence" : 3.0481114
+      }, {
+        "latitudeE7" : 190123075,
+        "longitudeE7" : 1056031342,
+        "placeId" : "ChIJIT7mBzd7NzERC8EWD0yYGZs",
+        "locationConfidence" : 2.3783004
+      }, {
+        "latitudeE7" : 190051856,
+        "longitudeE7" : 1055980834,
+        "placeId" : "ChIJyQlJl017NzERAnk8UBHgyQY",
+        "name" : "Nha Thuốc Gia Truyền Nguyễn Văn Sơn Xóm Hồng Yên Diễn Ngọc DC NA",
+        "locationConfidence" : 2.070552
+      }, {
+        "latitudeE7" : 190051688,
+        "longitudeE7" : 1055995439,
+        "placeId" : "ChIJK2g35k17NzERqGwhgXQnBtM",
+        "name" : "Trung Tâm Lắp Mới Và Sửa Chữa Điện Lạnh Tiến Huyền",
+        "locationConfidence" : 2.0220292
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 0.8468042
+      }, {
+        "latitudeE7" : 190052509,
+        "longitudeE7" : 1055985159,
+        "placeId" : "ChIJqZpalE17NzERhaujH-GYkUY",
+        "name" : "Cơ Sở Sản Xuất Bình Trần",
+        "locationConfidence" : 0.7433187
+      }, {
+        "latitudeE7" : 190086026,
+        "longitudeE7" : 1055958047,
+        "placeId" : "ChIJbVnx6Ux7NzERWVgrae6Y8DQ",
+        "locationConfidence" : 0.6930608
+      }, {
+        "latitudeE7" : 190057879,
+        "longitudeE7" : 1055996633,
+        "placeId" : "ChIJASud2017NzER-riDYH_qboI",
+        "name" : "Cửa hàng xăng dầu Diễn Bích",
+        "locationConfidence" : 0.23582579
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "endLocation" : {
+        "latitudeE7" : 190067480,
+        "longitudeE7" : 1056075106
+      },
+      "duration" : {
+        "startTimestampMs" : "1514552419547",
+        "endTimestampMs" : "1514562998735"
+      },
+      "distance" : 1255,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 71.59727826935561
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 21.702434811664606
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.1586169456617417
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        }, {
+          "latE7" : 190067577,
+          "lngE7" : 1056070938
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190123075,
+        "longitudeE7" : 1056031342,
+        "placeId" : "ChIJIT7mBzd7NzERC8EWD0yYGZs",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 81.66688
+      },
+      "duration" : {
+        "startTimestampMs" : "1514562998735",
+        "endTimestampMs" : "1514563960611"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 190067000,
+      "centerLngE7" : 1056074756,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190220443,
+        "longitudeE7" : 1056075321,
+        "placeId" : "ChIJ2YCI90p7NzERsEkhoXtlb7E",
+        "locationConfidence" : 9.508056
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 8.825063
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190067156,
+        "longitudeE7" : 1056075092
+      },
+      "endLocation" : {
+        "latitudeE7" : 190061860,
+        "longitudeE7" : 1056006719
+      },
+      "duration" : {
+        "startTimestampMs" : "1514563960611",
+        "endTimestampMs" : "1514564200713"
+      },
+      "distance" : 845,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 83.67400998595929
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 14.40574407503549
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.0122256536240255
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190067253,
+          "lngE7" : 1056070938
+        }, {
+          "latE7" : 190062236,
+          "lngE7" : 1056007843
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190061860,
+        "longitudeE7" : 1056006719
+      },
+      "endLocation" : {
+        "latitudeE7" : 190047864,
+        "longitudeE7" : 1055996183
+      },
+      "duration" : {
+        "startTimestampMs" : "1514564200713",
+        "endTimestampMs" : "1514602781636"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 190060829,
+          "lngE7" : 1056005501,
+          "timestampMs" : "1514601408409",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 190048070,
+          "lngE7" : 1055996412,
+          "timestampMs" : "1514602419897",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190047864,
+        "longitudeE7" : 1055996183
+      },
+      "endLocation" : {
+        "latitudeE7" : 190067544,
+        "longitudeE7" : 1056074519
+      },
+      "duration" : {
+        "startTimestampMs" : "1514602781636",
+        "endTimestampMs" : "1514603055262"
+      },
+      "distance" : 1064,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 79.02821981900459
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.76294239862802
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.152638391106723
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190050830,
+          "lngE7" : 1055996932
+        }, {
+          "latE7" : 190067634,
+          "lngE7" : 1056070938
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 190123075,
+        "longitudeE7" : 1056031342,
+        "placeId" : "ChIJIT7mBzd7NzERC8EWD0yYGZs",
+        "sourceInfo" : {
+          "deviceTag" : 1914915607
+        },
+        "locationConfidence" : 78.817116
+      },
+      "duration" : {
+        "startTimestampMs" : "1514603055262",
+        "endTimestampMs" : "1514607468567"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 190067998,
+      "centerLngE7" : 1056074442,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 190220443,
+        "longitudeE7" : 1056075321,
+        "placeId" : "ChIJ2YCI90p7NzERsEkhoXtlb7E",
+        "locationConfidence" : 11.13144
+      }, {
+        "latitudeE7" : 190023476,
+        "longitudeE7" : 1056097311,
+        "placeId" : "ChIJwYK2F1B7NzERqymA2DNU31Y",
+        "name" : "Sông Lạch Vạn",
+        "locationConfidence" : 10.051441
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 190067480,
+        "longitudeE7" : 1056075106
+      },
+      "endLocation" : {
+        "latitudeE7" : 190059013,
+        "longitudeE7" : 1056007004
+      },
+      "duration" : {
+        "startTimestampMs" : "1514607468567",
+        "endTimestampMs" : "1514607829191"
+      },
+      "distance" : 722,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 81.80926251245391
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 12.067947589804112
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.10081582979668
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 190067577,
+          "lngE7" : 1056070938
+        }, {
+          "latE7" : 190058593,
+          "lngE7" : 1056007156
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

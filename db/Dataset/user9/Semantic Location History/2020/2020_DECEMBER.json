@@ -1,0 +1,1259 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210374663,
+        "longitudeE7" : 1057833679,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "address" : "136 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 10000\nViệt Nam",
+        "name" : "Hanoi National University of Education",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 54.716713
+      },
+      "duration" : {
+        "startTimestampMs" : "1606958017518",
+        "endTimestampMs" : "1606968463196"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210369468,
+      "centerLngE7" : 1057839659,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210371265,
+        "longitudeE7" : 1057839890,
+        "placeId" : "ChIJp8eWgzWrNTEREOULQ5oCwAg",
+        "semanticType" : "TYPE_WORK",
+        "locationConfidence" : 40.812428
+      }, {
+        "latitudeE7" : 210368344,
+        "longitudeE7" : 1057839763,
+        "placeId" : "ChIJ8_syeTWrNTERthO34y_r9y4",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 3.4881349
+      }, {
+        "latitudeE7" : 210363324,
+        "longitudeE7" : 1057825872,
+        "placeId" : "ChIJbXb2vEqrNTERGZRetW2xUz0",
+        "locationConfidence" : 0.34815535
+      }, {
+        "latitudeE7" : 210376713,
+        "longitudeE7" : 1057816301,
+        "placeId" : "ChIJSR4BW7VUNDERYEFgxC3BBpQ",
+        "locationConfidence" : 0.18096976
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210374360,
+        "longitudeE7" : 1057841787,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 210503393,
+        "longitudeE7" : 1057999362,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1606968463196",
+        "endTimestampMs" : "1606969312727"
+      },
+      "distance" : 2637,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 86.05698943138123
+      }, {
+        "activityType" : "STILL",
+        "probability" : 6.373395025730133
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.989539086818695
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.6587581485509872
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.5879579577594995
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.2304048975929618
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.052538851741701365
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.020845074323005974
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.01764887128956616
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0058598106988938525
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0028453438062570058
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0022051155610824935
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 8.100915692921262E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.9456265363260172E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 8.69590621732641E-6
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210365370,
+          "lngE7" : 1057851875,
+          "timestampMs" : "1606968546719",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 210382745,
+          "lngE7" : 1057853979,
+          "timestampMs" : "1606968583392",
+          "accuracyMeters" : 11
+        }, {
+          "latE7" : 210416277,
+          "lngE7" : 1057884971,
+          "timestampMs" : "1606968704424",
+          "accuracyMeters" : 12
+        }, {
+          "latE7" : 210414026,
+          "lngE7" : 1057904807,
+          "timestampMs" : "1606968739237",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 210429680,
+          "lngE7" : 1057972546,
+          "timestampMs" : "1606968906804",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 210511082,
+          "lngE7" : 1057989619,
+          "timestampMs" : "1606969070229",
+          "accuracyMeters" : 25
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210511252,
+        "longitudeE7" : 1058007040,
+        "placeId" : "ChIJlTpclCOrNTERwPs_YQfgo6U",
+        "address" : "Tòa nhà Ecolife Tây Hồ, đường p. Q\nVõ Chí Công\nXuân La\nTây Hồ\nHà Nội\nViệt Nam",
+        "name" : "Ecolife West Lake",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 31.453457
+      },
+      "duration" : {
+        "startTimestampMs" : "1606969312727",
+        "endTimestampMs" : "1606973215799"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210504587,
+      "centerLngE7" : 1057998452,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210499684,
+        "longitudeE7" : 1057992253,
+        "placeId" : "ChIJidxdhySrNTERian_jp7gaO0",
+        "locationConfidence" : 22.72628
+      }, {
+        "latitudeE7" : 210510770,
+        "longitudeE7" : 1057988257,
+        "placeId" : "ChIJbzOH5BerNTERYUvF5xP5c2Q",
+        "locationConfidence" : 15.904745
+      }, {
+        "latitudeE7" : 210500839,
+        "longitudeE7" : 1057998573,
+        "placeId" : "ChIJK7Q1gCOrNTERbBbLotPssdw",
+        "locationConfidence" : 15.571208
+      }, {
+        "latitudeE7" : 210501719,
+        "longitudeE7" : 1057999214,
+        "placeId" : "ChIJ4UZsrbarNTER4vosZXJ5WEs",
+        "locationConfidence" : 4.8516097
+      }, {
+        "latitudeE7" : 210502275,
+        "longitudeE7" : 1058008403,
+        "placeId" : "ChIJp7DA0YWrNTERH-Qb2UW5_lY",
+        "locationConfidence" : 2.6978378
+      }, {
+        "latitudeE7" : 210502469,
+        "longitudeE7" : 1058002506,
+        "placeId" : "ChIJNdV9gyOrNTERwEojxglAQ1A",
+        "locationConfidence" : 2.0979066
+      }, {
+        "latitudeE7" : 210511352,
+        "longitudeE7" : 1057990701,
+        "placeId" : "ChIJv-ExtdyrNTERNZ81Wd_LAQM",
+        "locationConfidence" : 1.6736732
+      }, {
+        "latitudeE7" : 210498185,
+        "longitudeE7" : 1057988320,
+        "placeId" : "ChIJkT_sJoSrNTERStT8JYDL75Y",
+        "locationConfidence" : 0.81326616
+      }, {
+        "latitudeE7" : 210500940,
+        "longitudeE7" : 1057991870,
+        "placeId" : "ChIJH52NZByrNTERYxI61N0r410",
+        "locationConfidence" : 0.80032104
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210511466,
+        "longitudeE7" : 1057994332,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 210647002,
+        "longitudeE7" : 1058300988,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1606973215799",
+        "endTimestampMs" : "1606974916881"
+      },
+      "distance" : 6461,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 92.7221953868866
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.3320924043655396
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.4317524619400501
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.0772502049803734
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.27691188734024763
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.05112931248731911
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.04596201179083437
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.03609789127949625
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.016057584434747696
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.004975200863555074
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0025945357265300117
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0019502538634696975
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 9.214990313921589E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.1551863963177311E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 4.789336482957651E-7
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210467264,
+          "lngE7" : 1057976111,
+          "timestampMs" : "1606973321102",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 210614359,
+          "lngE7" : 1058090227,
+          "timestampMs" : "1606973703458",
+          "accuracyMeters" : 98
+        }, {
+          "latE7" : 210766529,
+          "lngE7" : 1058165419,
+          "timestampMs" : "1606973949011",
+          "accuracyMeters" : 48
+        }, {
+          "latE7" : 210730978,
+          "lngE7" : 1058256214,
+          "timestampMs" : "1606974071289",
+          "accuracyMeters" : 11
+        }, {
+          "latE7" : 210647002,
+          "lngE7" : 1058300988,
+          "timestampMs" : "1606974192325",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 210652632,
+          "lngE7" : 1058354051,
+          "timestampMs" : "1606974311523",
+          "accuracyMeters" : 11
+        }, {
+          "latE7" : 210657218,
+          "lngE7" : 1058332179,
+          "timestampMs" : "1606974554619",
+          "accuracyMeters" : 17
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210673370,
+        "longitudeE7" : 1058345184,
+        "placeId" : "ChIJOzvcVVeqNTERpfloUTZgrJ0",
+        "address" : "49 Âu Cơ\nTứ Liên\nTây Hồ\nHà Nội\nViệt Nam",
+        "name" : "49 Âu Cơ",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 49.19252
+      },
+      "duration" : {
+        "startTimestampMs" : "1606974916881",
+        "endTimestampMs" : "1606988087896"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210672862,
+      "centerLngE7" : 1058344462,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210644417,
+        "longitudeE7" : 1058311157,
+        "placeId" : "ChIJDW9GrVeqNTER6hadng8bPPE",
+        "locationConfidence" : 2.5678117
+      }, {
+        "latitudeE7" : 210673637,
+        "longitudeE7" : 1058330080,
+        "placeId" : "ChIJmb7uu2mrNTERAT7GBL_Dx7U",
+        "locationConfidence" : 1.1320938
+      }, {
+        "latitudeE7" : 210671965,
+        "longitudeE7" : 1058345436,
+        "placeId" : "ChIJ2-gK8dmrNTER6B5mguBf9CM",
+        "locationConfidence" : 0.89695704
+      }, {
+        "latitudeE7" : 210672731,
+        "longitudeE7" : 1058341691,
+        "placeId" : "ChIJ4-s-v2urNTERlVrLHjkEeTE",
+        "locationConfidence" : 0.62655413
+      }, {
+        "latitudeE7" : 210664590,
+        "longitudeE7" : 1058336766,
+        "placeId" : "ChIJSdCZjNGrNTERzwAVK96OU-I",
+        "locationConfidence" : 0.5509384
+      }, {
+        "latitudeE7" : 210676322,
+        "longitudeE7" : 1058342029,
+        "placeId" : "ChIJp_2pmhqrNTERSKoHO_6u3pc",
+        "locationConfidence" : 0.5112341
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210673370,
+        "longitudeE7" : 1058345184,
+        "placeId" : "ChIJOzvcVVeqNTERpfloUTZgrJ0",
+        "address" : "49 Âu Cơ\nTứ Liên\nTây Hồ\nHà Nội\nViệt Nam",
+        "name" : "49 Âu Cơ",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 45.483326
+      },
+      "duration" : {
+        "startTimestampMs" : "1607867183050",
+        "endTimestampMs" : "1607909595328"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210671743,
+      "centerLngE7" : 1058344235,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210644417,
+        "longitudeE7" : 1058311157,
+        "placeId" : "ChIJDW9GrVeqNTER6hadng8bPPE",
+        "locationConfidence" : 3.61015
+      }, {
+        "latitudeE7" : 210673637,
+        "longitudeE7" : 1058330080,
+        "placeId" : "ChIJmb7uu2mrNTERAT7GBL_Dx7U",
+        "locationConfidence" : 0.7622358
+      }, {
+        "latitudeE7" : 210654012,
+        "longitudeE7" : 1058354496,
+        "placeId" : "ChIJQeGrMqerNTERSnyn5nAuiBc",
+        "locationConfidence" : 0.4436667
+      }, {
+        "latitudeE7" : 210672731,
+        "longitudeE7" : 1058341691,
+        "placeId" : "ChIJ4-s-v2urNTERlVrLHjkEeTE",
+        "locationConfidence" : 0.33637813
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210672630,
+        "longitudeE7" : 1058345012,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 210367089,
+        "longitudeE7" : 1057843775,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1607909595328",
+        "endTimestampMs" : "1607911472000"
+      },
+      "distance" : 7442,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 93.39218139648438
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.945402964949608
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6178421899676323
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.4603347275406122
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3359598107635975
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.1317900256253779
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.039835445932112634
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.033244400401599705
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02738736802712083
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.00972218404058367
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0042513136577326804
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0011055962204409298
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 9.230074283550493E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.2128199955441232E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.9496943554363497E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210671749,
+          "lngE7" : 1058345489
+        }, {
+          "latE7" : 210683956,
+          "lngE7" : 1058263702
+        }, {
+          "latE7" : 210652904,
+          "lngE7" : 1058100662
+        }, {
+          "latE7" : 210464324,
+          "lngE7" : 1058054580
+        }, {
+          "latE7" : 210462970,
+          "lngE7" : 1057987365
+        }, {
+          "latE7" : 210377788,
+          "lngE7" : 1057942352
+        }, {
+          "latE7" : 210366725,
+          "lngE7" : 1057843780
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210654583,
+          "lngE7" : 1058101501,
+          "timestampMs" : "1607910312000",
+          "accuracyMeters" : 9
+        }, {
+          "latE7" : 210462513,
+          "lngE7" : 1057987366,
+          "timestampMs" : "1607910688000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1607911465042",
+        "location" : {
+          "latitudeE7" : 210367951,
+          "longitudeE7" : 1057845023,
+          "accuracyMetres" : 41
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210374663,
+        "longitudeE7" : 1057833679,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "address" : "136 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 10000\nViệt Nam",
+        "name" : "Hanoi National University of Education",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 82.81363
+      },
+      "duration" : {
+        "startTimestampMs" : "1607911472000",
+        "endTimestampMs" : "1607920987150"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210370113,
+      "centerLngE7" : 1057840038,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210371265,
+        "longitudeE7" : 1057839890,
+        "placeId" : "ChIJp8eWgzWrNTEREOULQ5oCwAg",
+        "semanticType" : "TYPE_WORK",
+        "locationConfidence" : 15.420471
+      }, {
+        "latitudeE7" : 210368344,
+        "longitudeE7" : 1057839763,
+        "placeId" : "ChIJ8_syeTWrNTERthO34y_r9y4",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.1648223
+      }, {
+        "latitudeE7" : 210363324,
+        "longitudeE7" : 1057825872,
+        "placeId" : "ChIJbXb2vEqrNTERGZRetW2xUz0",
+        "locationConfidence" : 0.24829142
+      }, {
+        "latitudeE7" : 210364464,
+        "longitudeE7" : 1057847320,
+        "placeId" : "ChIJZZswhEqrNTERyoNHlpnStcc",
+        "locationConfidence" : 0.13260871
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210372636,
+        "longitudeE7" : 1057842773,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 210672807,
+        "longitudeE7" : 1058344195,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1607920987150",
+        "endTimestampMs" : "1607923299968"
+      },
+      "distance" : 9310,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 89.84687924385071
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.734371021389961
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.293391339480877
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.973528902977705
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.9608901105821133
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.07395994616672397
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.039893758366815746
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.028033077251166105
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.017587910406291485
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.01230592024512589
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.010199433017987758
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005848000000696629
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.003014160211023409
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.453145940417016E-5
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.5842979905755783E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210372562,
+          "lngE7" : 1057844924
+        }, {
+          "latE7" : 210416336,
+          "lngE7" : 1057901687
+        }, {
+          "latE7" : 210447998,
+          "lngE7" : 1057993698
+        }, {
+          "latE7" : 210460224,
+          "lngE7" : 1058054733
+        }, {
+          "latE7" : 210600051,
+          "lngE7" : 1058089752
+        }, {
+          "latE7" : 210691642,
+          "lngE7" : 1058116226
+        }, {
+          "latE7" : 210732402,
+          "lngE7" : 1058149414
+        }, {
+          "latE7" : 210790462,
+          "lngE7" : 1058192977
+        }, {
+          "latE7" : 210790462,
+          "lngE7" : 1058192977
+        }, {
+          "latE7" : 210683403,
+          "lngE7" : 1058263015
+        }, {
+          "latE7" : 210671539,
+          "lngE7" : 1058345260
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210447540,
+          "lngE7" : 1057993546,
+          "timestampMs" : "1607921720338",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 210599880,
+          "lngE7" : 1058091202,
+          "timestampMs" : "1607922085207",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 210732365,
+          "lngE7" : 1058149490,
+          "timestampMs" : "1607922572923",
+          "accuracyMeters" : 19
+        }, {
+          "latE7" : 210791206,
+          "lngE7" : 1058191299,
+          "timestampMs" : "1607922815608",
+          "accuracyMeters" : 15
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1607923307983",
+        "location" : {
+          "latitudeE7" : 210672812,
+          "longitudeE7" : 1058344193,
+          "accuracyMetres" : 32
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210673370,
+        "longitudeE7" : 1058345184,
+        "placeId" : "ChIJOzvcVVeqNTERpfloUTZgrJ0",
+        "address" : "49 Âu Cơ\nTứ Liên\nTây Hồ\nHà Nội\nViệt Nam",
+        "name" : "49 Âu Cơ",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 51.289783
+      },
+      "duration" : {
+        "startTimestampMs" : "1607923299968",
+        "endTimestampMs" : "1608252809257"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210672952,
+      "centerLngE7" : 1058344299,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210644417,
+        "longitudeE7" : 1058311157,
+        "placeId" : "ChIJDW9GrVeqNTER6hadng8bPPE",
+        "locationConfidence" : 1.9707779
+      }, {
+        "latitudeE7" : 210659153,
+        "longitudeE7" : 1058356219,
+        "placeId" : "ChIJ9yl-sFCqNTER5yxAulKpeK8",
+        "locationConfidence" : 0.56587636
+      }, {
+        "latitudeE7" : 210676322,
+        "longitudeE7" : 1058342029,
+        "placeId" : "ChIJp_2pmhqrNTERSKoHO_6u3pc",
+        "locationConfidence" : 0.21975219
+      }, {
+        "latitudeE7" : 210654012,
+        "longitudeE7" : 1058354496,
+        "placeId" : "ChIJQeGrMqerNTERSnyn5nAuiBc",
+        "locationConfidence" : 0.15752532
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210374663,
+        "longitudeE7" : 1057833679,
+        "placeId" : "ChIJmyPCXDWrNTERo42zTxFH4po",
+        "address" : "136 Xuân Thủy\nDịch Vọng Hậu\nCầu Giấy\nHà Nội 10000\nViệt Nam",
+        "name" : "Hanoi National University of Education",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 73.0155
+      },
+      "duration" : {
+        "startTimestampMs" : "1608252809257",
+        "endTimestampMs" : "1608266020802"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210369938,
+      "centerLngE7" : 1057840242,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210371265,
+        "longitudeE7" : 1057839890,
+        "placeId" : "ChIJp8eWgzWrNTEREOULQ5oCwAg",
+        "semanticType" : "TYPE_WORK",
+        "locationConfidence" : 20.709284
+      }, {
+        "latitudeE7" : 210368344,
+        "longitudeE7" : 1057839763,
+        "placeId" : "ChIJ8_syeTWrNTERthO34y_r9y4",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.9337293
+      }, {
+        "latitudeE7" : 210363324,
+        "longitudeE7" : 1057825872,
+        "placeId" : "ChIJbXb2vEqrNTERGZRetW2xUz0",
+        "locationConfidence" : 0.23546195
+      }, {
+        "latitudeE7" : 210364464,
+        "longitudeE7" : 1057847320,
+        "placeId" : "ChIJZZswhEqrNTERyoNHlpnStcc",
+        "locationConfidence" : 0.09415211
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210374497,
+        "longitudeE7" : 1057847816,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 210310623,
+        "longitudeE7" : 1058146638,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608266020802",
+        "endTimestampMs" : "1608267238357"
+      },
+      "distance" : 3676,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 90.03601670265198
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.584521591663361
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.0804984495043755
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.0964094661176205
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.8962038904428482
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.14290176331996918
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.04728194617200643
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.040233758045360446
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.03192698350176215
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.024412931816186756
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.010599416418699548
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.006057610517018475
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0028772681616828777
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 2.947107304862584E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.33326261422917E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210375823,
+          "lngE7" : 1057847900
+        }, {
+          "latE7" : 210416336,
+          "lngE7" : 1057901687
+        }, {
+          "latE7" : 210415287,
+          "lngE7" : 1057944717
+        }, {
+          "latE7" : 210346469,
+          "lngE7" : 1058047485
+        }, {
+          "latE7" : 210310192,
+          "lngE7" : 1058146514
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210415249,
+          "lngE7" : 1057943344,
+          "timestampMs" : "1608266628453",
+          "accuracyMeters" : 21
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1608267356400",
+        "location" : {
+          "latitudeE7" : 210313113,
+          "longitudeE7" : 1058155263,
+          "accuracyMetres" : 102
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210314956,
+        "longitudeE7" : 1058150065,
+        "placeId" : "ChIJ1Rygw7erNTEReT67V4Z9S78",
+        "address" : "29 Liễu Giai\nNgọc Khánh\nBa Đình\nHà Nội 100000\nViệt Nam",
+        "name" : "Vincom Center Metropolis",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 77.055954
+      },
+      "duration" : {
+        "startTimestampMs" : "1608267238357",
+        "endTimestampMs" : "1608268990442"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 210312643,
+          "longitudeE7" : 1058145997,
+          "placeId" : "ChIJ8Rx0BMSrNTER4nos4nCn9oE",
+          "address" : "Số 29 Liễu Giai\nNgọc Khánh\nBa Đình\nHà Nội 100000\nViệt Nam",
+          "name" : "Vincom Metropolis",
+          "sourceInfo" : {
+            "deviceTag" : -1612489939
+          },
+          "locationConfidence" : 29.292072
+        },
+        "duration" : {
+          "startTimestampMs" : "1608267238357",
+          "endTimestampMs" : "1608267470468"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 210313604,
+        "centerLngE7" : 1058150405,
+        "visitConfidence" : 96,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210314377,
+          "longitudeE7" : 1058150006,
+          "placeId" : "ChIJT891Tq2rNTERdfaE5-uthOs",
+          "locationConfidence" : 8.17863
+        }, {
+          "latitudeE7" : 210316566,
+          "longitudeE7" : 1058161618,
+          "placeId" : "ChIJexok7xCrNTERCzTw3lZSNxQ",
+          "locationConfidence" : 6.2571754
+        }, {
+          "latitudeE7" : 210315556,
+          "longitudeE7" : 1058158974,
+          "placeId" : "ChIJL7aFAyyrNTERDU7vdCgFL0w",
+          "locationConfidence" : 4.222488
+        }, {
+          "latitudeE7" : 210311801,
+          "longitudeE7" : 1058149096,
+          "placeId" : "ChIJiSH1mU2rNTERARSQYsZVaHk",
+          "locationConfidence" : 1.9000014
+        }, {
+          "latitudeE7" : 210322659,
+          "longitudeE7" : 1058126119,
+          "placeId" : "ChIJb5w3kmyrNTER2QTRfirIcps",
+          "locationConfidence" : 1.7411946
+        }, {
+          "latitudeE7" : 210310010,
+          "longitudeE7" : 1058148240,
+          "placeId" : "ChIJQf-8qW2rNTERrVyWkgBitsM",
+          "locationConfidence" : 1.1961056
+        }, {
+          "latitudeE7" : 210316261,
+          "longitudeE7" : 1058152795,
+          "placeId" : "ChIJQ5AKrcOrNTERBFaF6h3fUFc",
+          "locationConfidence" : 0.5086096
+        }, {
+          "latitudeE7" : 210318911,
+          "longitudeE7" : 1058145555,
+          "placeId" : "ChIJl5P0Vv2rNTER7Z4lpXGVwCA",
+          "locationConfidence" : 0.45421833
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 210313003,
+          "longitudeE7" : 1058146089,
+          "placeId" : "ChIJFU6dcYmrNTERXs4O1KljRWY",
+          "address" : "29 Liễu Giai\nNgọc Khánh\nBa Đình\nHà Nội 100000\nViệt Nam",
+          "name" : "UNIQLO Vincom Metropolis",
+          "sourceInfo" : {
+            "deviceTag" : -1612489939
+          },
+          "locationConfidence" : 27.371656
+        },
+        "duration" : {
+          "startTimestampMs" : "1608267470468",
+          "endTimestampMs" : "1608267702580"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 210313604,
+        "centerLngE7" : 1058150405,
+        "visitConfidence" : 96,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210320508,
+          "longitudeE7" : 1058152247,
+          "placeId" : "ChIJ5a8dyparNTERvHHOKc_J4jY",
+          "locationConfidence" : 0.70987254
+        }, {
+          "latitudeE7" : 210315556,
+          "longitudeE7" : 1058158974,
+          "placeId" : "ChIJid5xBeGrNTERTd--GbaY2KU",
+          "locationConfidence" : 0.38108128
+        }, {
+          "latitudeE7" : 210317396,
+          "longitudeE7" : 1058145560,
+          "placeId" : "ChIJTVYebmWrNTERaugqZQ_HuYg",
+          "locationConfidence" : 0.20565961
+        }, {
+          "latitudeE7" : 210321577,
+          "longitudeE7" : 1058150819,
+          "placeId" : "ChIJNVkwtNCrNTER2OTOGLS3XRE",
+          "locationConfidence" : 0.15956777
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 210313354,
+      "centerLngE7" : 1058148911,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210312643,
+        "longitudeE7" : 1058145997,
+        "placeId" : "ChIJ8Rx0BMSrNTER4nos4nCn9oE",
+        "locationConfidence" : 8.103494
+      }, {
+        "latitudeE7" : 210314377,
+        "longitudeE7" : 1058150006,
+        "placeId" : "ChIJT891Tq2rNTERdfaE5-uthOs",
+        "locationConfidence" : 3.2871056
+      }, {
+        "latitudeE7" : 210316566,
+        "longitudeE7" : 1058161618,
+        "placeId" : "ChIJexok7xCrNTERCzTw3lZSNxQ",
+        "locationConfidence" : 1.5375986
+      }, {
+        "latitudeE7" : 210311801,
+        "longitudeE7" : 1058149096,
+        "placeId" : "ChIJiSH1mU2rNTERARSQYsZVaHk",
+        "locationConfidence" : 0.90183926
+      }, {
+        "latitudeE7" : 210315556,
+        "longitudeE7" : 1058158974,
+        "placeId" : "ChIJL7aFAyyrNTERDU7vdCgFL0w",
+        "locationConfidence" : 0.86923766
+      }, {
+        "latitudeE7" : 210318911,
+        "longitudeE7" : 1058145555,
+        "placeId" : "ChIJl5P0Vv2rNTER7Z4lpXGVwCA",
+        "locationConfidence" : 0.5946868
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210310623,
+          "lngE7" : 1058146638,
+          "timestampMs" : "1608267238357",
+          "accuracyMeters" : 42
+        }, {
+          "latE7" : 210313180,
+          "lngE7" : 1058155496,
+          "timestampMs" : "1608267359590",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 210315014,
+          "lngE7" : 1058151611,
+          "timestampMs" : "1608267481656",
+          "accuracyMeters" : 94
+        }, {
+          "latE7" : 210313897,
+          "lngE7" : 1058146910,
+          "timestampMs" : "1608267702580",
+          "accuracyMeters" : 13
+        }, {
+          "latE7" : 210314498,
+          "lngE7" : 1058152292,
+          "timestampMs" : "1608268693059",
+          "accuracyMeters" : 72
+        }, {
+          "latE7" : 210310310,
+          "lngE7" : 1058151154,
+          "timestampMs" : "1608268939643",
+          "accuracyMeters" : 28
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210310006,
+        "longitudeE7" : 1058150008,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 210663972,
+        "longitudeE7" : 1058347250,
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608268990442",
+        "endTimestampMs" : "1608270158200"
+      },
+      "distance" : 5984,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 87.97570466995239
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 9.576416015625
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.0428429581224918
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.7748959586024284
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.47653489746153355
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.048095587408170104
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.035156088415533304
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0332915224134922
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.015407560567837209
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006323763227555901
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.005833935210830532
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005573934686253779
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0038603597204200923
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.410459493759845E-5
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 8.157914521689236E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210309352,
+          "lngE7" : 1058149871
+        }, {
+          "latE7" : 210334892,
+          "lngE7" : 1058139877
+        }, {
+          "latE7" : 210429859,
+          "lngE7" : 1058234558
+        }, {
+          "latE7" : 210589904,
+          "lngE7" : 1058343811
+        }, {
+          "latE7" : 210663776,
+          "lngE7" : 1058346939
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210429878,
+          "lngE7" : 1058234558,
+          "timestampMs" : "1608269426248",
+          "accuracyMeters" : 13
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1608270277170",
+        "location" : {
+          "latitudeE7" : 210672313,
+          "longitudeE7" : 1058344290,
+          "accuracyMetres" : 82
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210673370,
+        "longitudeE7" : 1058345184,
+        "placeId" : "ChIJOzvcVVeqNTERpfloUTZgrJ0",
+        "address" : "49 Âu Cơ\nTứ Liên\nTây Hồ\nHà Nội\nViệt Nam",
+        "name" : "49 Âu Cơ",
+        "sourceInfo" : {
+          "deviceTag" : -1612489939
+        },
+        "locationConfidence" : 49.269268
+      },
+      "duration" : {
+        "startTimestampMs" : "1608270158200",
+        "endTimestampMs" : "1608326867762"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210672885,
+      "centerLngE7" : 1058344518,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210644417,
+        "longitudeE7" : 1058311157,
+        "placeId" : "ChIJDW9GrVeqNTER6hadng8bPPE",
+        "locationConfidence" : 2.087084
+      }, {
+        "latitudeE7" : 210659153,
+        "longitudeE7" : 1058356219,
+        "placeId" : "ChIJ9yl-sFCqNTER5yxAulKpeK8",
+        "locationConfidence" : 0.7631952
+      }, {
+        "latitudeE7" : 210654012,
+        "longitudeE7" : 1058354496,
+        "placeId" : "ChIJQeGrMqerNTERSnyn5nAuiBc",
+        "locationConfidence" : 0.23649475
+      }, {
+        "latitudeE7" : 210664278,
+        "longitudeE7" : 1058345944,
+        "placeId" : "ChIJObvFU1eqNTERnWiH1V-pN58",
+        "locationConfidence" : 0.10934344
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

@@ -1,0 +1,729 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210322670,
+        "longitudeE7" : 1057978730,
+        "placeId" : "ChIJSxqZ5karNTERT2p3dRE4yys",
+        "address" : "5a,37/,, 4 Cầu Giấy, Dịch Vọng, Việt Nam",
+        "name" : "dịch vọng cầu giấy hà nội",
+        "locationConfidence" : 6.5410175
+      },
+      "duration" : {
+        "startTimestampMs" : "1448553548629",
+        "endTimestampMs" : "1448597552926"
+      },
+      "centerLatE7" : 210319166,
+      "centerLngE7" : 1057974923,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210324561,
+        "longitudeE7" : 1057982915,
+        "placeId" : "ChIJxyVO3karNTERoFXsnGRXWT0",
+        "name" : "Bưu điện Cầu Giấy",
+        "locationConfidence" : 3.2636993
+      }, {
+        "latitudeE7" : 210318390,
+        "longitudeE7" : 1057969545,
+        "placeId" : "ChIJXe0_1karNTERyQ0C8abbh6U",
+        "name" : "Gomhang.vn",
+        "locationConfidence" : 2.0025485
+      }, {
+        "latitudeE7" : 210323259,
+        "longitudeE7" : 1057978892,
+        "placeId" : "ChIJyQOw5karNTERpSilzbPHRW0",
+        "name" : "Giày Điệu",
+        "locationConfidence" : 1.2496973
+      }, {
+        "latitudeE7" : 210322922,
+        "longitudeE7" : 1057974225,
+        "placeId" : "ChIJr0Q6-0arNTERmzPWBd9GH9o",
+        "name" : "Công ty TNHH Thương mại & Du lịch Thịnh Long",
+        "locationConfidence" : 0.9669149
+      }, {
+        "latitudeE7" : 210324261,
+        "longitudeE7" : 1057975835,
+        "placeId" : "ChIJocFm40arNTER6TUZ2sccTNk",
+        "name" : "Khai Sáng NLP coaching center",
+        "locationConfidence" : 0.65336126
+      }, {
+        "latitudeE7" : 210320350,
+        "longitudeE7" : 1057977060,
+        "placeId" : "ChIJ7X6I5UarNTERHhRsNqWu088",
+        "name" : "Trung tâm Tin học VT - Cơ sở Cầu Giấy",
+        "locationConfidence" : 0.6463288
+      }, {
+        "latitudeE7" : 210323860,
+        "longitudeE7" : 1057977920,
+        "placeId" : "ChIJ21VN30arNTERvhXlPX6EKRM",
+        "name" : "Đồng Phục Đẹp K14",
+        "locationConfidence" : 0.5738558
+      }, {
+        "latitudeE7" : 210317520,
+        "longitudeE7" : 1057976896,
+        "placeId" : "ChIJ93A3J0erNTEROeBaLXfbZfc",
+        "name" : "Bể Bơi Quan Hoa",
+        "locationConfidence" : 0.5563316
+      }, {
+        "latitudeE7" : 210326064,
+        "longitudeE7" : 1057985812,
+        "placeId" : "ChIJuQuy2EarNTERk2S0zmU-NmU",
+        "name" : "Bưu điện Cầu Giấy",
+        "locationConfidence" : 0.5339695
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210322670,
+        "longitudeE7" : 1057978730
+      },
+      "endLocation" : {
+        "latitudeE7" : 210318390,
+        "longitudeE7" : 1057969545
+      },
+      "duration" : {
+        "startTimestampMs" : "1448597552926",
+        "endTimestampMs" : "1448598895876"
+      },
+      "distance" : 106,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210323448,
+          "lngE7" : 1057978057
+        }, {
+          "latE7" : 210319137,
+          "lngE7" : 1057968444
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210318390,
+        "longitudeE7" : 1057969545,
+        "placeId" : "ChIJXe0_1karNTERyQ0C8abbh6U",
+        "address" : "Số 2D ngách 45 ngõ 165 Cầu Giấy, Ngõ 165 Cầu Giấy, Cầu Giấy, Hà Nội, Việt Nam",
+        "name" : "Gomhang.vn",
+        "locationConfidence" : 9.442655
+      },
+      "duration" : {
+        "startTimestampMs" : "1448598895876",
+        "endTimestampMs" : "1448600434234"
+      },
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 210322670,
+          "longitudeE7" : 1057978730,
+          "placeId" : "ChIJSxqZ5karNTERT2p3dRE4yys",
+          "address" : "5a,37/,, 4 Cầu Giấy, Dịch Vọng, Việt Nam",
+          "name" : "dịch vọng cầu giấy hà nội",
+          "locationConfidence" : 8.1667
+        },
+        "duration" : {
+          "startTimestampMs" : "1448598895876",
+          "endTimestampMs" : "1448600434234"
+        },
+        "centerLatE7" : 210316839,
+        "centerLngE7" : 1057972894,
+        "visitConfidence" : 69,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210318703,
+          "longitudeE7" : 1057988870,
+          "placeId" : "ChIJ0dbRz0arNTERTRK3tq8Epc8",
+          "name" : "Cau Giay SuperMarket",
+          "locationConfidence" : 3.6205475
+        }, {
+          "latitudeE7" : 210324561,
+          "longitudeE7" : 1057982915,
+          "placeId" : "ChIJxyVO3karNTERoFXsnGRXWT0",
+          "name" : "Bưu điện Cầu Giấy",
+          "locationConfidence" : 2.1013534
+        }, {
+          "latitudeE7" : 210323259,
+          "longitudeE7" : 1057978892,
+          "placeId" : "ChIJyQOw5karNTERpSilzbPHRW0",
+          "name" : "Giày Điệu",
+          "locationConfidence" : 1.2052894
+        }, {
+          "latitudeE7" : 210323860,
+          "longitudeE7" : 1057977920,
+          "placeId" : "ChIJ21VN30arNTERvhXlPX6EKRM",
+          "name" : "Đồng Phục Đẹp K14",
+          "locationConfidence" : 0.96244454
+        }, {
+          "latitudeE7" : 210326064,
+          "longitudeE7" : 1057985812,
+          "placeId" : "ChIJuQuy2EarNTERk2S0zmU-NmU",
+          "name" : "Bưu điện Cầu Giấy",
+          "locationConfidence" : 0.8466217
+        }, {
+          "latitudeE7" : 210318510,
+          "longitudeE7" : 1057968260,
+          "placeId" : "ChIJ6xXGuclUNDERoiALSgeR4aU",
+          "name" : "THIÊN LINH FSC",
+          "locationConfidence" : 0.55557585
+        }, {
+          "latitudeE7" : 210324261,
+          "longitudeE7" : 1057975835,
+          "placeId" : "ChIJocFm40arNTER6TUZ2sccTNk",
+          "name" : "Khai Sáng NLP coaching center",
+          "locationConfidence" : 0.50489557
+        }, {
+          "latitudeE7" : 210317151,
+          "longitudeE7" : 1057977819,
+          "placeId" : "ChIJ7bq77karNTERajlGIip9XKI",
+          "name" : "Cho thuê máy chủ Dell giá rẻ",
+          "locationConfidence" : 0.4687252
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 210316839,
+      "centerLngE7" : 1057972894,
+      "visitConfidence" : 69,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210322670,
+        "longitudeE7" : 1057978730,
+        "placeId" : "ChIJSxqZ5karNTERT2p3dRE4yys",
+        "name" : "dịch vọng cầu giấy hà nội",
+        "locationConfidence" : 7.395547
+      }, {
+        "latitudeE7" : 210318703,
+        "longitudeE7" : 1057988870,
+        "placeId" : "ChIJ0dbRz0arNTERTRK3tq8Epc8",
+        "name" : "Cau Giay SuperMarket",
+        "locationConfidence" : 3.2786717
+      }, {
+        "latitudeE7" : 210324561,
+        "longitudeE7" : 1057982915,
+        "placeId" : "ChIJxyVO3karNTERoFXsnGRXWT0",
+        "name" : "Bưu điện Cầu Giấy",
+        "locationConfidence" : 1.9029299
+      }, {
+        "latitudeE7" : 210323259,
+        "longitudeE7" : 1057978892,
+        "placeId" : "ChIJyQOw5karNTERpSilzbPHRW0",
+        "name" : "Giày Điệu",
+        "locationConfidence" : 1.0914781
+      }, {
+        "latitudeE7" : 210323860,
+        "longitudeE7" : 1057977920,
+        "placeId" : "ChIJ21VN30arNTERvhXlPX6EKRM",
+        "name" : "Đồng Phục Đẹp K14",
+        "locationConfidence" : 0.8715642
+      }, {
+        "latitudeE7" : 210326064,
+        "longitudeE7" : 1057985812,
+        "placeId" : "ChIJuQuy2EarNTERk2S0zmU-NmU",
+        "name" : "Bưu điện Cầu Giấy",
+        "locationConfidence" : 0.76667815
+      }, {
+        "latitudeE7" : 210318510,
+        "longitudeE7" : 1057968260,
+        "placeId" : "ChIJ6xXGuclUNDERoiALSgeR4aU",
+        "name" : "THIÊN LINH FSC",
+        "locationConfidence" : 0.50311476
+      }, {
+        "latitudeE7" : 210324261,
+        "longitudeE7" : 1057975835,
+        "placeId" : "ChIJocFm40arNTER6TUZ2sccTNk",
+        "name" : "Khai Sáng NLP coaching center",
+        "locationConfidence" : 0.45722002
+      }, {
+        "latitudeE7" : 210317151,
+        "longitudeE7" : 1057977819,
+        "placeId" : "ChIJ7bq77karNTERajlGIip9XKI",
+        "name" : "Cho thuê máy chủ Dell giá rẻ",
+        "locationConfidence" : 0.4244651
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210318390,
+        "longitudeE7" : 1057969545
+      },
+      "endLocation" : {
+        "latitudeE7" : 210322670,
+        "longitudeE7" : 1057978730
+      },
+      "duration" : {
+        "startTimestampMs" : "1448600434234",
+        "endTimestampMs" : "1448600555215"
+      },
+      "distance" : 106,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210319137,
+          "lngE7" : 1057968444
+        }, {
+          "latE7" : 210323448,
+          "lngE7" : 1057978057
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210322670,
+        "longitudeE7" : 1057978730,
+        "placeId" : "ChIJSxqZ5karNTERT2p3dRE4yys",
+        "address" : "5a,37/,, 4 Cầu Giấy, Dịch Vọng, Việt Nam",
+        "name" : "dịch vọng cầu giấy hà nội",
+        "locationConfidence" : 5.8517585
+      },
+      "duration" : {
+        "startTimestampMs" : "1448600555215",
+        "endTimestampMs" : "1448610988061"
+      },
+      "centerLatE7" : 210318207,
+      "centerLngE7" : 1057974094,
+      "visitConfidence" : 67,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210324561,
+        "longitudeE7" : 1057982915,
+        "placeId" : "ChIJxyVO3karNTERoFXsnGRXWT0",
+        "name" : "Bưu điện Cầu Giấy",
+        "locationConfidence" : 2.6751666
+      }, {
+        "latitudeE7" : 210318390,
+        "longitudeE7" : 1057969545,
+        "placeId" : "ChIJXe0_1karNTERyQ0C8abbh6U",
+        "name" : "Gomhang.vn",
+        "locationConfidence" : 2.2143543
+      }, {
+        "latitudeE7" : 210318703,
+        "longitudeE7" : 1057988870,
+        "placeId" : "ChIJ0dbRz0arNTERTRK3tq8Epc8",
+        "name" : "Cau Giay SuperMarket",
+        "locationConfidence" : 1.4112817
+      }, {
+        "latitudeE7" : 210323259,
+        "longitudeE7" : 1057978892,
+        "placeId" : "ChIJyQOw5karNTERpSilzbPHRW0",
+        "name" : "Giày Điệu",
+        "locationConfidence" : 0.6323028
+      }, {
+        "latitudeE7" : 210318510,
+        "longitudeE7" : 1057968260,
+        "placeId" : "ChIJ6xXGuclUNDERoiALSgeR4aU",
+        "name" : "THIÊN LINH FSC",
+        "locationConfidence" : 0.6256258
+      }, {
+        "latitudeE7" : 210317151,
+        "longitudeE7" : 1057977819,
+        "placeId" : "ChIJ7bq77karNTERajlGIip9XKI",
+        "name" : "Cho thuê máy chủ Dell giá rẻ",
+        "locationConfidence" : 0.386857
+      }, {
+        "latitudeE7" : 210322922,
+        "longitudeE7" : 1057974225,
+        "placeId" : "ChIJr0Q6-0arNTERmzPWBd9GH9o",
+        "name" : "Công ty TNHH Thương mại & Du lịch Thịnh Long",
+        "locationConfidence" : 0.3737863
+      }, {
+        "latitudeE7" : 210326064,
+        "longitudeE7" : 1057985812,
+        "placeId" : "ChIJuQuy2EarNTERk2S0zmU-NmU",
+        "name" : "Bưu điện Cầu Giấy",
+        "locationConfidence" : 0.33952767
+      }, {
+        "latitudeE7" : 210324261,
+        "longitudeE7" : 1057975835,
+        "placeId" : "ChIJocFm40arNTER6TUZ2sccTNk",
+        "name" : "Khai Sáng NLP coaching center",
+        "locationConfidence" : 0.33072394
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210322670,
+        "longitudeE7" : 1057978730
+      },
+      "endLocation" : {
+        "latitudeE7" : 210318703,
+        "longitudeE7" : 1057988870
+      },
+      "duration" : {
+        "startTimestampMs" : "1448610988061",
+        "endTimestampMs" : "1448611106339"
+      },
+      "distance" : 114,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210323448,
+          "lngE7" : 1057978057
+        }, {
+          "latE7" : 210320053,
+          "lngE7" : 1057975234
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210318703,
+        "longitudeE7" : 1057988870,
+        "placeId" : "ChIJUVmb0EarNTERcAHBW55CH8Q",
+        "address" : "139 Cầu Giấy\nQuan Hoa\nCầu Giấy\nHà Nội\nViệt Nam",
+        "name" : "Siêu Thị CTM Cầu Giấy",
+        "locationConfidence" : 3.936413
+      },
+      "duration" : {
+        "startTimestampMs" : "1448611106339",
+        "endTimestampMs" : "1448620718678"
+      },
+      "centerLatE7" : 210309725,
+      "centerLngE7" : 1057963612,
+      "visitConfidence" : 44,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210322670,
+        "longitudeE7" : 1057978730,
+        "placeId" : "ChIJSxqZ5karNTERT2p3dRE4yys",
+        "name" : "dịch vọng cầu giấy hà nội",
+        "locationConfidence" : 3.7064795
+      }, {
+        "latitudeE7" : 210324561,
+        "longitudeE7" : 1057982915,
+        "placeId" : "ChIJxyVO3karNTERoFXsnGRXWT0",
+        "name" : "Bưu điện Cầu Giấy",
+        "locationConfidence" : 2.0729892
+      }, {
+        "latitudeE7" : 210318390,
+        "longitudeE7" : 1057969545,
+        "placeId" : "ChIJXe0_1karNTERyQ0C8abbh6U",
+        "name" : "Gomhang.vn",
+        "locationConfidence" : 1.8183836
+      }, {
+        "latitudeE7" : 210318510,
+        "longitudeE7" : 1057968260,
+        "placeId" : "ChIJ6xXGuclUNDERoiALSgeR4aU",
+        "name" : "THIÊN LINH FSC",
+        "locationConfidence" : 1.4863858
+      }, {
+        "latitudeE7" : 210313095,
+        "longitudeE7" : 1057948195,
+        "placeId" : "ChIJwQg0EUarNTERvx8t69AkJnA",
+        "name" : "XPSHOP",
+        "locationConfidence" : 1.3820249
+      }, {
+        "latitudeE7" : 210331919,
+        "longitudeE7" : 1057956905,
+        "placeId" : "ChIJmxqSs0erNTERDSmZjHdnyjo",
+        "name" : "Nhà Cho Thuê Hoàng Minh Thảo",
+        "locationConfidence" : 1.0204346
+      }, {
+        "latitudeE7" : 210332119,
+        "longitudeE7" : 1057956690,
+        "placeId" : "ChIJ5baMs0erNTERgxCjunvRxcs",
+        "name" : "Nhà Cho Thuê Hoàng Minh Thảo",
+        "locationConfidence" : 0.9996652
+      }, {
+        "latitudeE7" : 210323259,
+        "longitudeE7" : 1057978892,
+        "placeId" : "ChIJyQOw5karNTERpSilzbPHRW0",
+        "name" : "Giày Điệu",
+        "locationConfidence" : 0.85372216
+      }, {
+        "latitudeE7" : 210309790,
+        "longitudeE7" : 1057960640,
+        "placeId" : "ChIJwzJqb0arNTERK2Fvpvf9hLo",
+        "name" : "Văn phòng phẩm Việt Hoàng",
+        "locationConfidence" : 0.8367921
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210318703,
+        "longitudeE7" : 1057988870
+      },
+      "endLocation" : {
+        "latitudeE7" : 210322670,
+        "longitudeE7" : 1057978730
+      },
+      "duration" : {
+        "startTimestampMs" : "1448620718678",
+        "endTimestampMs" : "1448622813480"
+      },
+      "distance" : 114,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210320587,
+          "lngE7" : 1057986984
+        }, {
+          "latE7" : 210323448,
+          "lngE7" : 1057978057
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210322670,
+        "longitudeE7" : 1057978730,
+        "placeId" : "ChIJSxqZ5karNTERT2p3dRE4yys",
+        "address" : "5a,37/,, 4 Cầu Giấy, Dịch Vọng, Việt Nam",
+        "name" : "dịch vọng cầu giấy hà nội",
+        "locationConfidence" : 3.9917557
+      },
+      "duration" : {
+        "startTimestampMs" : "1448622813480",
+        "endTimestampMs" : "1448647452963"
+      },
+      "centerLatE7" : 210317093,
+      "centerLngE7" : 1057973569,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210324561,
+        "longitudeE7" : 1057982915,
+        "placeId" : "ChIJxyVO3karNTERoFXsnGRXWT0",
+        "name" : "Bưu điện Cầu Giấy",
+        "locationConfidence" : 2.2734332
+      }, {
+        "latitudeE7" : 210318703,
+        "longitudeE7" : 1057988870,
+        "placeId" : "ChIJ0dbRz0arNTERTRK3tq8Epc8",
+        "name" : "Cau Giay SuperMarket",
+        "locationConfidence" : 2.2146642
+      }, {
+        "latitudeE7" : 210318390,
+        "longitudeE7" : 1057969545,
+        "placeId" : "ChIJXe0_1karNTERyQ0C8abbh6U",
+        "name" : "Gomhang.vn",
+        "locationConfidence" : 1.0723954
+      }, {
+        "latitudeE7" : 210331919,
+        "longitudeE7" : 1057956905,
+        "placeId" : "ChIJmxqSs0erNTERDSmZjHdnyjo",
+        "name" : "Nhà Cho Thuê Hoàng Minh Thảo",
+        "locationConfidence" : 0.48215428
+      }, {
+        "latitudeE7" : 210318510,
+        "longitudeE7" : 1057968260,
+        "placeId" : "ChIJ6xXGuclUNDERoiALSgeR4aU",
+        "name" : "THIÊN LINH FSC",
+        "locationConfidence" : 0.42274734
+      }, {
+        "latitudeE7" : 210332119,
+        "longitudeE7" : 1057956690,
+        "placeId" : "ChIJ5baMs0erNTERgxCjunvRxcs",
+        "name" : "Nhà Cho Thuê Hoàng Minh Thảo",
+        "locationConfidence" : 0.41346815
+      }, {
+        "latitudeE7" : 210326064,
+        "longitudeE7" : 1057985812,
+        "placeId" : "ChIJuQuy2EarNTERk2S0zmU-NmU",
+        "name" : "Bưu điện Cầu Giấy",
+        "locationConfidence" : 0.39402086
+      }, {
+        "latitudeE7" : 210320055,
+        "longitudeE7" : 1057995844,
+        "placeId" : "ChIJlekp00arNTEROvU2CslPVrM",
+        "name" : "Cau Giay Hotel",
+        "locationConfidence" : 0.38957226
+      }, {
+        "latitudeE7" : 210327365,
+        "longitudeE7" : 1057989836,
+        "placeId" : "ChIJlxVyKEerNTERmT-OTkEoV74",
+        "name" : "Masscom Vietnam JSC",
+        "locationConfidence" : 0.35508212
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210322670,
+        "longitudeE7" : 1057978730,
+        "placeId" : "ChIJSxqZ5karNTERT2p3dRE4yys",
+        "address" : "5a,37/,, 4 Cầu Giấy, Dịch Vọng, Việt Nam",
+        "name" : "dịch vọng cầu giấy hà nội",
+        "locationConfidence" : 9.757401
+      },
+      "duration" : {
+        "startTimestampMs" : "1448668425550",
+        "endTimestampMs" : "1448994477240"
+      },
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 210328284,
+          "longitudeE7" : 1057986872,
+          "placeId" : "ChIJE_C4H0KrNTERQzryjU4gXmA",
+          "address" : "Số 15\nngõ 60 Vũ Phạm Hàm\nYên Hoà\nCầu Giấy\nHà Nội\nViệt Nam",
+          "name" : "Tram Anh Hotel",
+          "locationConfidence" : 2.9663262
+        },
+        "duration" : {
+          "startTimestampMs" : "1448931096502",
+          "endTimestampMs" : "1448946493597"
+        },
+        "centerLatE7" : 210312106,
+        "centerLngE7" : 1057964663,
+        "visitConfidence" : 25,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 210322670,
+          "longitudeE7" : 1057978730,
+          "placeId" : "ChIJSxqZ5karNTERT2p3dRE4yys",
+          "name" : "dịch vọng cầu giấy hà nội",
+          "locationConfidence" : 1.6440846
+        }, {
+          "latitudeE7" : 210324561,
+          "longitudeE7" : 1057982915,
+          "placeId" : "ChIJxyVO3karNTERoFXsnGRXWT0",
+          "name" : "Bưu điện Cầu Giấy",
+          "locationConfidence" : 1.1272373
+        }, {
+          "latitudeE7" : 210318510,
+          "longitudeE7" : 1057968260,
+          "placeId" : "ChIJ6xXGuclUNDERoiALSgeR4aU",
+          "name" : "THIÊN LINH FSC",
+          "locationConfidence" : 0.9222489
+        }, {
+          "latitudeE7" : 210331919,
+          "longitudeE7" : 1057956905,
+          "placeId" : "ChIJmxqSs0erNTERDSmZjHdnyjo",
+          "name" : "Nhà Cho Thuê Hoàng Minh Thảo",
+          "locationConfidence" : 0.7403802
+        }, {
+          "latitudeE7" : 210313095,
+          "longitudeE7" : 1057948195,
+          "placeId" : "ChIJwQg0EUarNTERvx8t69AkJnA",
+          "name" : "XPSHOP",
+          "locationConfidence" : 0.7030685
+        }, {
+          "latitudeE7" : 210323259,
+          "longitudeE7" : 1057978892,
+          "placeId" : "ChIJyQOw5karNTERpSilzbPHRW0",
+          "name" : "Giày Điệu",
+          "locationConfidence" : 0.6419965
+        }, {
+          "latitudeE7" : 210332119,
+          "longitudeE7" : 1057956690,
+          "placeId" : "ChIJ5baMs0erNTERgxCjunvRxcs",
+          "name" : "Nhà Cho Thuê Hoàng Minh Thảo",
+          "locationConfidence" : 0.6352289
+        }, {
+          "latitudeE7" : 210330169,
+          "longitudeE7" : 1057978785,
+          "placeId" : "ChIJ5wOjHkerNTERYoQpNoS73lQ",
+          "name" : "BTMC",
+          "locationConfidence" : 0.4677257
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 210316768,
+      "centerLngE7" : 1057972333,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210318390,
+        "longitudeE7" : 1057969545,
+        "placeId" : "ChIJXe0_1karNTERyQ0C8abbh6U",
+        "name" : "Gomhang.vn",
+        "locationConfidence" : 4.4550724
+      }, {
+        "latitudeE7" : 210323259,
+        "longitudeE7" : 1057978892,
+        "placeId" : "ChIJyQOw5karNTERpSilzbPHRW0",
+        "name" : "Giày Điệu",
+        "locationConfidence" : 1.8689277
+      }, {
+        "latitudeE7" : 210328284,
+        "longitudeE7" : 1057986872,
+        "placeId" : "ChIJE_C4H0KrNTERQzryjU4gXmA",
+        "name" : "Khách Sạn Quan Hoa",
+        "locationConfidence" : 1.7267609
+      }, {
+        "latitudeE7" : 210324561,
+        "longitudeE7" : 1057982915,
+        "placeId" : "ChIJxyVO3karNTERoFXsnGRXWT0",
+        "name" : "Bưu điện Cầu Giấy",
+        "locationConfidence" : 1.6601789
+      }, {
+        "latitudeE7" : 210318703,
+        "longitudeE7" : 1057988870,
+        "placeId" : "ChIJ0dbRz0arNTERTRK3tq8Epc8",
+        "name" : "Cau Giay SuperMarket",
+        "locationConfidence" : 1.6180942
+      }, {
+        "latitudeE7" : 210330169,
+        "longitudeE7" : 1057978785,
+        "placeId" : "ChIJ5wOjHkerNTERYoQpNoS73lQ",
+        "name" : "BTMC",
+        "locationConfidence" : 0.65105665
+      }, {
+        "latitudeE7" : 210326064,
+        "longitudeE7" : 1057985812,
+        "placeId" : "ChIJuQuy2EarNTERk2S0zmU-NmU",
+        "name" : "Bưu điện Cầu Giấy",
+        "locationConfidence" : 0.6313176
+      }, {
+        "latitudeE7" : 210321056,
+        "longitudeE7" : 1057988441,
+        "placeId" : "ChIJ07tf2karNTERy2x9E2b1__I",
+        "name" : "Mực in Phương Đông",
+        "locationConfidence" : 0.5974665
+      }, {
+        "latitudeE7" : 210317151,
+        "longitudeE7" : 1057977819,
+        "placeId" : "ChIJ7bq77karNTERajlGIip9XKI",
+        "name" : "Cho thuê máy chủ Dell giá rẻ",
+        "locationConfidence" : 0.51749855
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

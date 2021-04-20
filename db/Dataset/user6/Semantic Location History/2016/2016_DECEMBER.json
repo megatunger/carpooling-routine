@@ -1,0 +1,1282 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210203233,
+        "longitudeE7" : 1058135140
+      },
+      "endLocation" : {
+        "latitudeE7" : 210133983,
+        "longitudeE7" : 1058160838
+      },
+      "duration" : {
+        "startTimestampMs" : "1481280483999",
+        "endTimestampMs" : "1481282024284"
+      },
+      "distance" : 845,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 51.367169197110464
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 31.79642131423458
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.441864800445485
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210203285,
+          "lngE7" : 1058135147
+        }, {
+          "latE7" : 210182342,
+          "lngE7" : 1058134155
+        }, {
+          "latE7" : 210133190,
+          "lngE7" : 1058162002
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210182285,
+          "lngE7" : 1058134079,
+          "timestampMs" : "1481280701999",
+          "accuracyMeters" : 8
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210142375,
+        "longitudeE7" : 1058156603
+      },
+      "endLocation" : {
+        "latitudeE7" : 210129889,
+        "longitudeE7" : 1058162903
+      },
+      "duration" : {
+        "startTimestampMs" : "1481282024284",
+        "endTimestampMs" : "1481282496708"
+      },
+      "distance" : 149,
+      "activityType" : "CYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 30.959640402101137
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 23.94531476704675
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 23.340919187107005
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210142021,
+          "lngE7" : 1058157119
+        }, {
+          "latE7" : 210129718,
+          "lngE7" : 1058162765
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209960174,
+        "longitudeE7" : 1058079593,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "address" : "334 Nguyễn Trãi\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "VNU University of Science",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 99.07572
+      },
+      "duration" : {
+        "startTimestampMs" : "1481871279311",
+        "endTimestampMs" : "1481872180445"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 209956705,
+      "centerLngE7" : 1058081189,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209955717,
+        "longitudeE7" : 1058070286,
+        "placeId" : "ChIJfXfnQpasNTERktdNDNoDJEE",
+        "name" : "VNU University of Social Sciences and Humanities",
+        "locationConfidence" : 0.4548731
+      }, {
+        "latitudeE7" : 209958628,
+        "longitudeE7" : 1058090928,
+        "placeId" : "ChIJuyse8pasNTERCAndA237jlg",
+        "name" : "322 Nguyễn Trãi",
+        "locationConfidence" : 0.08075213
+      }, {
+        "latitudeE7" : 209951529,
+        "longitudeE7" : 1058077249,
+        "placeId" : "ChIJD7mXZZasNTER4kcwCbhG9Uk",
+        "name" : "Váy cưới - Áo dài Ana Pham Bridal",
+        "locationConfidence" : 0.04712146
+      }, {
+        "latitudeE7" : 209956775,
+        "longitudeE7" : 1058073134,
+        "placeId" : "ChIJc7XuQZasNTERGMBTIVQguCk",
+        "name" : "T&T Shop - Mỹ Phẩm Nga xách tay chính hãng",
+        "locationConfidence" : 0.036733653
+      }, {
+        "latitudeE7" : 209945331,
+        "longitudeE7" : 1058061558,
+        "placeId" : "ChIJI6ZDBpasNTER1ismaXxBBjw",
+        "name" : "Mua sắm cùng Hội Mua",
+        "locationConfidence" : 0.02189571
+      }, {
+        "latitudeE7" : 209953595,
+        "longitudeE7" : 1058092189,
+        "placeId" : "ChIJj6dRjZasNTERjuqmplDe3_s",
+        "name" : "235 Nguyễn Trãi",
+        "locationConfidence" : 0.021221016
+      }, {
+        "latitudeE7" : 209956299,
+        "longitudeE7" : 1058080019,
+        "placeId" : "ChIJQ9SVXZasNTERVX4rN8u7KLA",
+        "name" : "Nhà Liên hợp - Đại học Tổng hợp Hà Nội.",
+        "locationConfidence" : 0.014980179
+      }, {
+        "latitudeE7" : 209958981,
+        "longitudeE7" : 1058083731,
+        "placeId" : "ChIJR5-cWJasNTERgjXBZswNho8",
+        "name" : "Faculty of Chemistry",
+        "locationConfidence" : 0.013508512
+      }, {
+        "latitudeE7" : 209958981,
+        "longitudeE7" : 1058083731,
+        "placeId" : "ChIJs-DLWJasNTERx5xzZgdjCEE",
+        "name" : "Faculty of Environmental Science",
+        "locationConfidence" : 0.013508512
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210091956,
+        "longitudeE7" : 1058170526,
+        "placeId" : "ChIJsY-qSp2sNTER900L1B3gc9Q",
+        "address" : "34 Thái Thịnh\nThịnh Quang\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "34 Thái Thịnh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 94.462395
+      },
+      "duration" : {
+        "startTimestampMs" : "1482397747817",
+        "endTimestampMs" : "1482409126230"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210089965,
+      "centerLngE7" : 1058172072,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093960,
+        "longitudeE7" : 1058167579,
+        "placeId" : "ChIJD8gASZ2sNTERGfbHCoVR0NY",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 4.2600193
+      }, {
+        "latitudeE7" : 210089710,
+        "longitudeE7" : 1058185310,
+        "placeId" : "ChIJk-aNwIKsNTERW2h83v8W3ow",
+        "name" : "Trung tâm Đào tạo Tiếng Anh Cho Người Đi Làm EFA Vietnam",
+        "locationConfidence" : 0.13247538
+      }, {
+        "latitudeE7" : 210093265,
+        "longitudeE7" : 1058163593,
+        "placeId" : "ChIJRfHGOJ2sNTER8WewEHnwUZg",
+        "name" : "thoitrangpho.vn",
+        "locationConfidence" : 0.10882466
+      }, {
+        "latitudeE7" : 210090765,
+        "longitudeE7" : 1058174331,
+        "placeId" : "ChIJ29iNyoKsNTERhaCKnY-ymRA",
+        "name" : "Hair salon Đông Phương",
+        "locationConfidence" : 0.0638433
+      }, {
+        "latitudeE7" : 210097771,
+        "longitudeE7" : 1058191424,
+        "placeId" : "ChIJ99dqjIKsNTERb86wQLOeAoo",
+        "name" : "Khách Sạn Hacinco",
+        "locationConfidence" : 0.05417962
+      }, {
+        "latitudeE7" : 210085945,
+        "longitudeE7" : 1058158118,
+        "placeId" : "ChIJnXr-F52sNTER9BoskabObmY",
+        "name" : "Chợ Thái Thịnh 1",
+        "locationConfidence" : 0.04956583
+      }, {
+        "latitudeE7" : 210099852,
+        "longitudeE7" : 1058181863,
+        "placeId" : "ChIJuT2qpYKsNTERs_4yIqn1V6s",
+        "name" : "Cửa Hàng Key",
+        "locationConfidence" : 0.039884303
+      }, {
+        "latitudeE7" : 210100530,
+        "longitudeE7" : 1058187917,
+        "placeId" : "ChIJ8XOlmIKsNTERzR85pHNcPE0",
+        "name" : "magic city",
+        "locationConfidence" : 0.03928776
+      }, {
+        "latitudeE7" : 210106530,
+        "longitudeE7" : 1058162779,
+        "placeId" : "ChIJ1yCbymKrNTERgEbTtmSY6Eg",
+        "name" : "Mì Cay",
+        "locationConfidence" : 0.036051154
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210091956,
+        "longitudeE7" : 1058170526
+      },
+      "endLocation" : {
+        "latitudeE7" : 209981336,
+        "longitudeE7" : 1058116953
+      },
+      "duration" : {
+        "startTimestampMs" : "1482409126230",
+        "endTimestampMs" : "1482409619977"
+      },
+      "distance" : 1160,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 50.259813525822864
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 21.203713722741835
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 14.22407013833289
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        }, {
+          "latE7" : 209981231,
+          "lngE7" : 1058116531
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209981336,
+        "longitudeE7" : 1058116953,
+        "placeId" : "ChIJ27KPypCsNTERUrvUB6xj5II",
+        "address" : "Phố Chính Kinh\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "Chợ Chính Kinh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 47.07522
+      },
+      "duration" : {
+        "startTimestampMs" : "1482409619977",
+        "endTimestampMs" : "1482417122122"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 209997016,
+          "longitudeE7" : 1058098739,
+          "placeId" : "ChIJ60zPZJmsNTERwNMgWv4LVjs",
+          "address" : "279 Quan Nhân\nThanh Xuân Trung\nThanh Xuân\nHà Nội 120617\nViệt Nam",
+          "name" : "Nam Shop",
+          "sourceInfo" : {
+            "deviceTag" : 1988160651
+          },
+          "locationConfidence" : 11.191086
+        },
+        "duration" : {
+          "startTimestampMs" : "1482409619977",
+          "endTimestampMs" : "1482417122122"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 209986121,
+        "centerLngE7" : 1058105400,
+        "visitConfidence" : 79,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 209985215,
+          "longitudeE7" : 1058108457,
+          "placeId" : "ChIJ0w7USJesNTERR0tSNb4zBoE",
+          "name" : "Quán Ăn Vặt",
+          "locationConfidence" : 8.626709
+        }, {
+          "latitudeE7" : 209992345,
+          "longitudeE7" : 1058091461,
+          "placeId" : "ChIJubX8d5esNTERsuIKU-oqmaA",
+          "name" : "Dai Nam University, Campus No.1",
+          "locationConfidence" : 7.836816
+        }, {
+          "latitudeE7" : 209989598,
+          "longitudeE7" : 1058089529,
+          "placeId" : "ChIJuwfpcJesNTERcntgSWWJ3KU",
+          "name" : "Trường Cao Đẳng Công Thương Hà Nội",
+          "locationConfidence" : 4.8919673
+        }, {
+          "latitudeE7" : 209988036,
+          "longitudeE7" : 1058097419,
+          "placeId" : "ChIJE1V_aZesNTER3Z9PAf_HU2E",
+          "name" : "Quán Phở Dung",
+          "locationConfidence" : 4.7094145
+        }, {
+          "latitudeE7" : 209992707,
+          "longitudeE7" : 1058097445,
+          "placeId" : "ChIJt83gZpesNTERswITQLLEsis",
+          "name" : "Bán Stud 100 chính hãng",
+          "locationConfidence" : 4.678437
+        }, {
+          "latitudeE7" : 209977280,
+          "longitudeE7" : 1058120940,
+          "placeId" : "ChIJfaexyJCsNTERaNt_uMZmSGM",
+          "name" : "224 Nguyễn Trãi",
+          "locationConfidence" : 4.639157
+        }, {
+          "latitudeE7" : 209994505,
+          "longitudeE7" : 1058099295,
+          "placeId" : "ChIJYdOZYJesNTERD4gZNVaRqmY",
+          "name" : "Cafe Hội Android Hàn Quốc",
+          "locationConfidence" : 4.6141577
+        }, {
+          "latitudeE7" : 209976520,
+          "longitudeE7" : 1058095662,
+          "placeId" : "ChIJC0xQF5esNTER4HHyhzC_DRM",
+          "name" : "79 Market",
+          "locationConfidence" : 4.4129987
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 209986121,
+      "centerLngE7" : 1058105400,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209997016,
+        "longitudeE7" : 1058098739,
+        "placeId" : "ChIJ60zPZJmsNTERwNMgWv4LVjs",
+        "name" : "Nam Shop Net",
+        "locationConfidence" : 5.9228573
+      }, {
+        "latitudeE7" : 209985215,
+        "longitudeE7" : 1058108457,
+        "placeId" : "ChIJ0w7USJesNTERR0tSNb4zBoE",
+        "name" : "Quán Ăn Vặt",
+        "locationConfidence" : 4.565667
+      }, {
+        "latitudeE7" : 209992345,
+        "longitudeE7" : 1058091461,
+        "placeId" : "ChIJubX8d5esNTERsuIKU-oqmaA",
+        "name" : "Dai Nam University, Campus No.1",
+        "locationConfidence" : 4.147618
+      }, {
+        "latitudeE7" : 209989598,
+        "longitudeE7" : 1058089529,
+        "placeId" : "ChIJuwfpcJesNTERcntgSWWJ3KU",
+        "name" : "Trường Cao Đẳng Công Thương Hà Nội",
+        "locationConfidence" : 2.589063
+      }, {
+        "latitudeE7" : 209988036,
+        "longitudeE7" : 1058097419,
+        "placeId" : "ChIJE1V_aZesNTER3Z9PAf_HU2E",
+        "name" : "Quán Phở Dung",
+        "locationConfidence" : 2.4924474
+      }, {
+        "latitudeE7" : 209992707,
+        "longitudeE7" : 1058097445,
+        "placeId" : "ChIJt83gZpesNTERswITQLLEsis",
+        "name" : "Bán Stud 100 chính hãng",
+        "locationConfidence" : 2.4760525
+      }, {
+        "latitudeE7" : 209977280,
+        "longitudeE7" : 1058120940,
+        "placeId" : "ChIJfaexyJCsNTERaNt_uMZmSGM",
+        "name" : "224 Nguyễn Trãi",
+        "locationConfidence" : 2.4552636
+      }, {
+        "latitudeE7" : 209994505,
+        "longitudeE7" : 1058099295,
+        "placeId" : "ChIJYdOZYJesNTERD4gZNVaRqmY",
+        "name" : "Cafe Hội Android Hàn Quốc",
+        "locationConfidence" : 2.4420328
+      }, {
+        "latitudeE7" : 209976520,
+        "longitudeE7" : 1058095662,
+        "placeId" : "ChIJC0xQF5esNTER4HHyhzC_DRM",
+        "name" : "79 Market",
+        "locationConfidence" : 2.3355699
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209981336,
+        "longitudeE7" : 1058116953
+      },
+      "endLocation" : {
+        "latitudeE7" : 210091956,
+        "longitudeE7" : 1058170526
+      },
+      "duration" : {
+        "startTimestampMs" : "1482417122122",
+        "endTimestampMs" : "1482417890925"
+      },
+      "distance" : 1170,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 43.83246942404387
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 34.603792375844215
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.936384060718478
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209981231,
+          "lngE7" : 1058116531
+        }, {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210091956,
+        "longitudeE7" : 1058170526,
+        "placeId" : "ChIJsY-qSp2sNTER900L1B3gc9Q",
+        "address" : "34 Thái Thịnh\nThịnh Quang\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "34 Thái Thịnh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 80.83209
+      },
+      "duration" : {
+        "startTimestampMs" : "1482417890925",
+        "endTimestampMs" : "1482419515056"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210092520,
+      "centerLngE7" : 1058167240,
+      "visitConfidence" : 71,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093960,
+        "longitudeE7" : 1058167579,
+        "placeId" : "ChIJD8gASZ2sNTERGfbHCoVR0NY",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 12.011395
+      }, {
+        "latitudeE7" : 210093265,
+        "longitudeE7" : 1058163593,
+        "placeId" : "ChIJRfHGOJ2sNTER8WewEHnwUZg",
+        "name" : "thoitrangpho.vn",
+        "locationConfidence" : 2.499991
+      }, {
+        "latitudeE7" : 210106530,
+        "longitudeE7" : 1058162779,
+        "placeId" : "ChIJ1yCbymKrNTERgEbTtmSY6Eg",
+        "name" : "Mì Cay",
+        "locationConfidence" : 0.7508421
+      }, {
+        "latitudeE7" : 210085945,
+        "longitudeE7" : 1058158118,
+        "placeId" : "ChIJnXr-F52sNTER9BoskabObmY",
+        "name" : "Chợ Thái Thịnh 1",
+        "locationConfidence" : 0.26580423
+      }, {
+        "latitudeE7" : 210107779,
+        "longitudeE7" : 1058164203,
+        "placeId" : "ChIJbV95p2KrNTERFXeK3wjXXRI",
+        "name" : "Dịch Vụ Cưới Hỏi Thông Hà",
+        "locationConfidence" : 0.21301343
+      }, {
+        "latitudeE7" : 210101998,
+        "longitudeE7" : 1058186006,
+        "placeId" : "ChIJ1ajSpoKsNTERaJQghNw0SGk",
+        "name" : "Quán Nem Giòn Phố Thái Thịnh",
+        "locationConfidence" : 0.18308586
+      }, {
+        "latitudeE7" : 210099178,
+        "longitudeE7" : 1058146745,
+        "placeId" : "ChIJTYLQdp2sNTERdWSGbEUxkb4",
+        "name" : "Mỹ phẩm Khánh Ly",
+        "locationConfidence" : 0.17197326
+      }, {
+        "latitudeE7" : 210101244,
+        "longitudeE7" : 1058187354,
+        "placeId" : "ChIJYcj-oYKsNTERC4FHKgRmM_Y",
+        "name" : "Cty tnhh dịch vụ kỹ thuật thương mại Hưng Thịnh",
+        "locationConfidence" : 0.17127036
+      }, {
+        "latitudeE7" : 210092818,
+        "longitudeE7" : 1058186817,
+        "placeId" : "ChIJG5U-voKsNTERD5xM3bK89HY",
+        "name" : "máy hàn nhiệt ống nước ppr",
+        "locationConfidence" : 0.16311565
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209976520,
+        "longitudeE7" : 1058095662,
+        "placeId" : "ChIJC0xQF5esNTER4HHyhzC_DRM",
+        "address" : "Vũ Trọng Phụng\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "79 Market",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 39.927013
+      },
+      "duration" : {
+        "startTimestampMs" : "1482740862921",
+        "endTimestampMs" : "1482741769491"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 209969792,
+          "longitudeE7" : 1058098811,
+          "placeId" : "ChIJPXxkJ5esNTER6GIN0lOZoog",
+          "address" : "Số 21 Vũ Trọng Phụng\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+          "name" : "Phan Boi Chau High School",
+          "sourceInfo" : {
+            "deviceTag" : 1988160651
+          },
+          "locationConfidence" : 16.888014
+        },
+        "duration" : {
+          "startTimestampMs" : "1482740862921",
+          "endTimestampMs" : "1482741769491"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 209972378,
+        "centerLngE7" : 1058098944,
+        "visitConfidence" : 77,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 209977058,
+          "longitudeE7" : 1058094013,
+          "placeId" : "ChIJZwT2EJesNTERLnoLoeEUG7I",
+          "name" : "Trung tâm Thương mại Toto Alphanam",
+          "locationConfidence" : 8.406826
+        }, {
+          "latitudeE7" : 209960174,
+          "longitudeE7" : 1058079593,
+          "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+          "name" : "VNU University of Science",
+          "locationConfidence" : 7.5109305
+        }, {
+          "latitudeE7" : 209974729,
+          "longitudeE7" : 1058097285,
+          "placeId" : "ChIJAQAAAF-sNTER3bCQzjuIrBI",
+          "name" : "Công Ty Cổ Phần Thương Mại Dược Phẩm Quốc Kỳ",
+          "locationConfidence" : 5.729807
+        }, {
+          "latitudeE7" : 209981336,
+          "longitudeE7" : 1058116953,
+          "placeId" : "ChIJ27KPypCsNTERUrvUB6xj5II",
+          "name" : "chợ Chính Kinh",
+          "locationConfidence" : 5.62583
+        }, {
+          "latitudeE7" : 209977140,
+          "longitudeE7" : 1058094660,
+          "placeId" : "ChIJ87eXEZesNTERhQeGGhZRFio",
+          "name" : "Học Viện Kế Toán Việt Nam",
+          "locationConfidence" : 4.65378
+        }, {
+          "latitudeE7" : 209967033,
+          "longitudeE7" : 1058104081,
+          "placeId" : "ChIJaUlSar-sNTER7IJ6Os4US_0",
+          "name" : "Thanh Xuân Trung Police",
+          "locationConfidence" : 3.6916695
+        }, {
+          "latitudeE7" : 209967763,
+          "longitudeE7" : 1058104176,
+          "placeId" : "ChIJdRau8pCsNTERPD_hHRWjnbw",
+          "name" : "Đại Lý Bưu Điện Khương Trung 3",
+          "locationConfidence" : 3.6688464
+        }, {
+          "latitudeE7" : 209974560,
+          "longitudeE7" : 1058096900,
+          "placeId" : "ChIJw-y-GZesNTERvJ6urc49gNs",
+          "name" : "Chung cư Alphanam",
+          "locationConfidence" : 2.8678322
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 209972378,
+      "centerLngE7" : 1058098944,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209969792,
+        "longitudeE7" : 1058098811,
+        "placeId" : "ChIJPXxkJ5esNTER6GIN0lOZoog",
+        "name" : "Trường THPT Dân lập Phan Bội Châu",
+        "locationConfidence" : 10.145134
+      }, {
+        "latitudeE7" : 209977058,
+        "longitudeE7" : 1058094013,
+        "placeId" : "ChIJZwT2EJesNTERLnoLoeEUG7I",
+        "name" : "Trung tâm Thương mại Toto Alphanam",
+        "locationConfidence" : 5.050231
+      }, {
+        "latitudeE7" : 209960174,
+        "longitudeE7" : 1058079593,
+        "placeId" : "ChIJ5cDyDb-sNTER7aDhmGmmQNc",
+        "name" : "VNU University of Science",
+        "locationConfidence" : 4.51204
+      }, {
+        "latitudeE7" : 209974729,
+        "longitudeE7" : 1058097285,
+        "placeId" : "ChIJAQAAAF-sNTER3bCQzjuIrBI",
+        "name" : "Công Ty Cổ Phần Thương Mại Dược Phẩm Quốc Kỳ",
+        "locationConfidence" : 3.442066
+      }, {
+        "latitudeE7" : 209981336,
+        "longitudeE7" : 1058116953,
+        "placeId" : "ChIJ27KPypCsNTERUrvUB6xj5II",
+        "name" : "chợ Chính Kinh",
+        "locationConfidence" : 3.379604
+      }, {
+        "latitudeE7" : 209977140,
+        "longitudeE7" : 1058094660,
+        "placeId" : "ChIJ87eXEZesNTERhQeGGhZRFio",
+        "name" : "Học Viện Kế Toán Việt Nam",
+        "locationConfidence" : 2.7956645
+      }, {
+        "latitudeE7" : 209967033,
+        "longitudeE7" : 1058104081,
+        "placeId" : "ChIJaUlSar-sNTER7IJ6Os4US_0",
+        "name" : "Thanh Xuân Trung Police",
+        "locationConfidence" : 2.217696
+      }, {
+        "latitudeE7" : 209967763,
+        "longitudeE7" : 1058104176,
+        "placeId" : "ChIJdRau8pCsNTERPD_hHRWjnbw",
+        "name" : "Đại Lý Bưu Điện Khương Trung 3",
+        "locationConfidence" : 2.2039855
+      }, {
+        "latitudeE7" : 209974560,
+        "longitudeE7" : 1058096900,
+        "placeId" : "ChIJw-y-GZesNTERvJ6urc49gNs",
+        "name" : "Chung cư Alphanam",
+        "locationConfidence" : 1.7227924
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209976520,
+        "longitudeE7" : 1058095662
+      },
+      "endLocation" : {
+        "latitudeE7" : 210085670,
+        "longitudeE7" : 1058461673
+      },
+      "duration" : {
+        "startTimestampMs" : "1482741769491",
+        "endTimestampMs" : "1482743155396"
+      },
+      "distance" : 3996,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 47.84030787749423
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 32.79183857360803
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.849375124247196
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209976749,
+          "lngE7" : 1058095932
+        }, {
+          "latE7" : 210081329,
+          "lngE7" : 1058462753
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210085670,
+        "longitudeE7" : 1058461673
+      },
+      "endLocation" : {
+        "latitudeE7" : 210125604,
+        "longitudeE7" : 1058490821
+      },
+      "duration" : {
+        "startTimestampMs" : "1482743155396",
+        "endTimestampMs" : "1482746140608"
+      },
+      "distance" : 441,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 46.06035977191717
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 27.57157426382697
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 17.53263021125383
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210081291,
+          "lngE7" : 1058462142
+        }, {
+          "latE7" : 210125579,
+          "lngE7" : 1058491439
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210125604,
+        "longitudeE7" : 1058490821,
+        "placeId" : "ChIJaTeTnourNTERE3o5GEXRZR4",
+        "address" : "154 Bà Triệu\nNguyễn Du\nHai Bà Trưng\nHà Nội 100000\nViệt Nam",
+        "name" : "Nhà hàng Lotteria - (KFC cũ) Add zalo sở hữu vị trí map",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 63.110928
+      },
+      "duration" : {
+        "startTimestampMs" : "1482746140608",
+        "endTimestampMs" : "1482748414959"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210125500,
+      "centerLngE7" : 1058491375,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210126630,
+        "longitudeE7" : 1058491839,
+        "placeId" : "ChIJIV6shIurNTERjYikojMoviA",
+        "name" : "Mr. Good Tea",
+        "locationConfidence" : 6.5207243
+      }, {
+        "latitudeE7" : 210127212,
+        "longitudeE7" : 1058491080,
+        "placeId" : "ChIJ00Xzm4urNTERUsc3Egb7eZM",
+        "name" : "Nhà Hàng Triều Nhật (Asahi Sushi)",
+        "locationConfidence" : 5.390072
+      }, {
+        "latitudeE7" : 210131178,
+        "longitudeE7" : 1058498366,
+        "placeId" : "ChIJ4_mYfourNTERorLca7MTBKc",
+        "name" : "Bệnh Viện Mắt Quốc Tế DND",
+        "locationConfidence" : 2.6899784
+      }, {
+        "latitudeE7" : 210124769,
+        "longitudeE7" : 1058490174,
+        "placeId" : "ChIJCahVmourNTERgQbISzslYvY",
+        "name" : "Zen Store",
+        "locationConfidence" : 1.7818937
+      }, {
+        "latitudeE7" : 210130888,
+        "longitudeE7" : 1058491568,
+        "placeId" : "ChIJsZi5hourNTEROHXH9cnIn4w",
+        "name" : "Quà tặng quảng cáo 3A",
+        "locationConfidence" : 1.7036127
+      }, {
+        "latitudeE7" : 210123915,
+        "longitudeE7" : 1058489582,
+        "placeId" : "ChIJPfsjW4qrNTERd_hOncOn7Lw",
+        "name" : "Tiệm bánh Nhọ Nồi bay",
+        "locationConfidence" : 1.2049072
+      }, {
+        "latitudeE7" : 210127565,
+        "longitudeE7" : 1058490944,
+        "placeId" : "ChIJT50dhYurNTERSx6dUY270kI",
+        "name" : "Asahi Sushi Restaurant",
+        "locationConfidence" : 1.164288
+      }, {
+        "latitudeE7" : 210128080,
+        "longitudeE7" : 1058491120,
+        "placeId" : "ChIJzw_zhIurNTERt-GxlpluEiI",
+        "name" : "Nhà hàng Lẩu Phát",
+        "locationConfidence" : 1.1156253
+      }, {
+        "latitudeE7" : 210126755,
+        "longitudeE7" : 1058487198,
+        "placeId" : "ChIJN4gmkIurNTERhI924yhltfw",
+        "name" : "Hanoi Riot",
+        "locationConfidence" : 0.97019607
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210125604,
+        "longitudeE7" : 1058490821
+      },
+      "endLocation" : {
+        "latitudeE7" : 210091956,
+        "longitudeE7" : 1058170526
+      },
+      "duration" : {
+        "startTimestampMs" : "1482748414959",
+        "endTimestampMs" : "1482753758393"
+      },
+      "distance" : 5868,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 43.43383416937086
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 30.562316993516443
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 14.688026267806015
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210125579,
+          "lngE7" : 1058491439
+        }, {
+          "latE7" : 210299930,
+          "lngE7" : 1058490524
+        }, {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 210300004,
+          "lngE7" : 1058490750,
+          "timestampMs" : "1482749187823",
+          "accuracyMeters" : 24
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210091956,
+        "longitudeE7" : 1058170526,
+        "placeId" : "ChIJsY-qSp2sNTER900L1B3gc9Q",
+        "address" : "34 Thái Thịnh\nThịnh Quang\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "34 Thái Thịnh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 91.595566
+      },
+      "duration" : {
+        "startTimestampMs" : "1482753758393",
+        "endTimestampMs" : "1482754277894"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 210091340,
+      "centerLngE7" : 1058172900,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093960,
+        "longitudeE7" : 1058167579,
+        "placeId" : "ChIJD8gASZ2sNTERGfbHCoVR0NY",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 6.0565324
+      }, {
+        "latitudeE7" : 210093265,
+        "longitudeE7" : 1058163593,
+        "placeId" : "ChIJRfHGOJ2sNTER8WewEHnwUZg",
+        "name" : "thoitrangpho.vn",
+        "locationConfidence" : 0.23103705
+      }, {
+        "latitudeE7" : 210092818,
+        "longitudeE7" : 1058186817,
+        "placeId" : "ChIJG5U-voKsNTERD5xM3bK89HY",
+        "name" : "máy hàn nhiệt ống nước ppr",
+        "locationConfidence" : 0.13482597
+      }, {
+        "latitudeE7" : 210099852,
+        "longitudeE7" : 1058181863,
+        "placeId" : "ChIJuT2qpYKsNTERs_4yIqn1V6s",
+        "name" : "Cửa Hàng Key",
+        "locationConfidence" : 0.12538332
+      }, {
+        "latitudeE7" : 210085945,
+        "longitudeE7" : 1058158118,
+        "placeId" : "ChIJnXr-F52sNTER9BoskabObmY",
+        "name" : "Chợ Thái Thịnh 1",
+        "locationConfidence" : 0.10819269
+      }, {
+        "latitudeE7" : 210106530,
+        "longitudeE7" : 1058162779,
+        "placeId" : "ChIJ1yCbymKrNTERgEbTtmSY6Eg",
+        "name" : "Mì Cay",
+        "locationConfidence" : 0.10655204
+      }, {
+        "latitudeE7" : 210089710,
+        "longitudeE7" : 1058185310,
+        "placeId" : "ChIJk-aNwIKsNTERW2h83v8W3ow",
+        "name" : "Trung tâm Đào tạo Tiếng Anh Cho Người Đi Làm EFA Vietnam",
+        "locationConfidence" : 0.09772468
+      }, {
+        "latitudeE7" : 210101230,
+        "longitudeE7" : 1058182740,
+        "placeId" : "ChIJe3UkpIKsNTER85b0FymFgFg",
+        "name" : "Chum Nho Shop",
+        "locationConfidence" : 0.08374085
+      }, {
+        "latitudeE7" : 210097771,
+        "longitudeE7" : 1058191424,
+        "placeId" : "ChIJ99dqjIKsNTERb86wQLOeAoo",
+        "name" : "Khách Sạn Hacinco",
+        "locationConfidence" : 0.0700684
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 210091956,
+        "longitudeE7" : 1058170526
+      },
+      "endLocation" : {
+        "latitudeE7" : 209981336,
+        "longitudeE7" : 1058116953
+      },
+      "duration" : {
+        "startTimestampMs" : "1482754277894",
+        "endTimestampMs" : "1482755177951"
+      },
+      "distance" : 1488,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 35.5686590001684
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 34.03040708537061
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 21.081180462590797
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        }, {
+          "latE7" : 209981231,
+          "lngE7" : 1058116531
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 209981336,
+        "longitudeE7" : 1058116953,
+        "placeId" : "ChIJ27KPypCsNTERUrvUB6xj5II",
+        "address" : "Phố Chính Kinh\nThanh Xuân Trung\nThanh Xuân\nHà Nội\nViệt Nam",
+        "name" : "Chợ Chính Kinh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 44.315075
+      },
+      "duration" : {
+        "startTimestampMs" : "1482755177951",
+        "endTimestampMs" : "1482762999997"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 209997016,
+          "longitudeE7" : 1058098739,
+          "placeId" : "ChIJ60zPZJmsNTERwNMgWv4LVjs",
+          "address" : "279 Quan Nhân\nThanh Xuân Trung\nThanh Xuân\nHà Nội 120617\nViệt Nam",
+          "name" : "Nam Shop",
+          "sourceInfo" : {
+            "deviceTag" : 1988160651
+          },
+          "locationConfidence" : 11.310036
+        },
+        "duration" : {
+          "startTimestampMs" : "1482755177951",
+          "endTimestampMs" : "1482762999997"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 209986150,
+        "centerLngE7" : 1058105560,
+        "visitConfidence" : 78,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 209992345,
+          "longitudeE7" : 1058091461,
+          "placeId" : "ChIJubX8d5esNTERsuIKU-oqmaA",
+          "name" : "Dai Nam University, Campus No.1",
+          "locationConfidence" : 9.596787
+        }, {
+          "latitudeE7" : 209985215,
+          "longitudeE7" : 1058108457,
+          "placeId" : "ChIJ0w7USJesNTERR0tSNb4zBoE",
+          "name" : "Quán Ăn Vặt",
+          "locationConfidence" : 6.1851068
+        }, {
+          "latitudeE7" : 209989598,
+          "longitudeE7" : 1058089529,
+          "placeId" : "ChIJuwfpcJesNTERcntgSWWJ3KU",
+          "name" : "Trường Cao Đẳng Công Thương Hà Nội",
+          "locationConfidence" : 6.0807095
+        }, {
+          "latitudeE7" : 209976520,
+          "longitudeE7" : 1058095662,
+          "placeId" : "ChIJC0xQF5esNTER4HHyhzC_DRM",
+          "name" : "79 Market",
+          "locationConfidence" : 4.5007963
+        }, {
+          "latitudeE7" : 209992707,
+          "longitudeE7" : 1058097445,
+          "placeId" : "ChIJt83gZpesNTERswITQLLEsis",
+          "name" : "Bán Stud 100 chính hãng",
+          "locationConfidence" : 4.4443774
+        }, {
+          "latitudeE7" : 209994505,
+          "longitudeE7" : 1058099295,
+          "placeId" : "ChIJYdOZYJesNTERD4gZNVaRqmY",
+          "name" : "Cafe Hội Android Hàn Quốc",
+          "locationConfidence" : 4.0216885
+        }, {
+          "latitudeE7" : 209987463,
+          "longitudeE7" : 1058117093,
+          "placeId" : "ChIJ5UAUspCsNTERdgMKyWhYTRU",
+          "name" : "Trung tâm mua sắm Saphire Place",
+          "locationConfidence" : 3.5712366
+        }, {
+          "latitudeE7" : 209977469,
+          "longitudeE7" : 1058110965,
+          "placeId" : "ChIJa5MyMpesNTEROf2dV_gk8uM",
+          "name" : "giaydepsinhvien",
+          "locationConfidence" : 3.5079045
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 209986150,
+      "centerLngE7" : 1058105560,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 209997016,
+        "longitudeE7" : 1058098739,
+        "placeId" : "ChIJ60zPZJmsNTERwNMgWv4LVjs",
+        "name" : "Nam Shop Net",
+        "locationConfidence" : 6.2979846
+      }, {
+        "latitudeE7" : 209992345,
+        "longitudeE7" : 1058091461,
+        "placeId" : "ChIJubX8d5esNTERsuIKU-oqmaA",
+        "name" : "Dai Nam University, Campus No.1",
+        "locationConfidence" : 5.3439636
+      }, {
+        "latitudeE7" : 209985215,
+        "longitudeE7" : 1058108457,
+        "placeId" : "ChIJ0w7USJesNTERR0tSNb4zBoE",
+        "name" : "Quán Ăn Vặt",
+        "locationConfidence" : 3.444172
+      }, {
+        "latitudeE7" : 209989598,
+        "longitudeE7" : 1058089529,
+        "placeId" : "ChIJuwfpcJesNTERcntgSWWJ3KU",
+        "name" : "Trường Cao Đẳng Công Thương Hà Nội",
+        "locationConfidence" : 3.3860383
+      }, {
+        "latitudeE7" : 209976520,
+        "longitudeE7" : 1058095662,
+        "placeId" : "ChIJC0xQF5esNTER4HHyhzC_DRM",
+        "name" : "79 Market",
+        "locationConfidence" : 2.506265
+      }, {
+        "latitudeE7" : 209992707,
+        "longitudeE7" : 1058097445,
+        "placeId" : "ChIJt83gZpesNTERswITQLLEsis",
+        "name" : "Bán Stud 100 chính hãng",
+        "locationConfidence" : 2.4748483
+      }, {
+        "latitudeE7" : 209994505,
+        "longitudeE7" : 1058099295,
+        "placeId" : "ChIJYdOZYJesNTERD4gZNVaRqmY",
+        "name" : "Cafe Hội Android Hàn Quốc",
+        "locationConfidence" : 2.239474
+      }, {
+        "latitudeE7" : 209987463,
+        "longitudeE7" : 1058117093,
+        "placeId" : "ChIJ5UAUspCsNTERdgMKyWhYTRU",
+        "name" : "Trung tâm mua sắm Saphire Place",
+        "locationConfidence" : 1.9886404
+      }, {
+        "latitudeE7" : 209977469,
+        "longitudeE7" : 1058110965,
+        "placeId" : "ChIJa5MyMpesNTEROf2dV_gk8uM",
+        "name" : "giaydepsinhvien",
+        "locationConfidence" : 1.9533739
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 209986141,
+        "longitudeE7" : 1058105461
+      },
+      "endLocation" : {
+        "latitudeE7" : 210091956,
+        "longitudeE7" : 1058170526
+      },
+      "duration" : {
+        "startTimestampMs" : "1482762999997",
+        "endTimestampMs" : "1482763757266"
+      },
+      "distance" : 1179,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 53.64766189069235
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.89603697631607
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 16.353828089532644
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 209990081,
+          "lngE7" : 1058113861
+        }, {
+          "latE7" : 210100879,
+          "lngE7" : 1058157958
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 210091956,
+        "longitudeE7" : 1058170526,
+        "placeId" : "ChIJsY-qSp2sNTER900L1B3gc9Q",
+        "address" : "34 Thái Thịnh\nThịnh Quang\nĐống Đa\nHà Nội\nViệt Nam",
+        "name" : "34 Thái Thịnh",
+        "sourceInfo" : {
+          "deviceTag" : 1988160651
+        },
+        "locationConfidence" : 88.47884
+      },
+      "duration" : {
+        "startTimestampMs" : "1482763757266",
+        "endTimestampMs" : "1482807545124"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 210090301,
+      "centerLngE7" : 1058170811,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 210093960,
+        "longitudeE7" : 1058167579,
+        "placeId" : "ChIJD8gASZ2sNTERGfbHCoVR0NY",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 9.544186
+      }, {
+        "latitudeE7" : 210093265,
+        "longitudeE7" : 1058163593,
+        "placeId" : "ChIJRfHGOJ2sNTER8WewEHnwUZg",
+        "name" : "thoitrangpho.vn",
+        "locationConfidence" : 0.25420415
+      }, {
+        "latitudeE7" : 210085945,
+        "longitudeE7" : 1058158118,
+        "placeId" : "ChIJnXr-F52sNTER9BoskabObmY",
+        "name" : "Chợ Thái Thịnh 1",
+        "locationConfidence" : 0.24924894
+      }, {
+        "latitudeE7" : 210097771,
+        "longitudeE7" : 1058191424,
+        "placeId" : "ChIJ99dqjIKsNTERb86wQLOeAoo",
+        "name" : "Khách Sạn Hacinco",
+        "locationConfidence" : 0.14104505
+      }, {
+        "latitudeE7" : 210089710,
+        "longitudeE7" : 1058185310,
+        "placeId" : "ChIJk-aNwIKsNTERW2h83v8W3ow",
+        "name" : "Trung tâm Đào tạo Tiếng Anh Cho Người Đi Làm EFA Vietnam",
+        "locationConfidence" : 0.11431615
+      }, {
+        "latitudeE7" : 210106530,
+        "longitudeE7" : 1058162779,
+        "placeId" : "ChIJ1yCbymKrNTERgEbTtmSY6Eg",
+        "name" : "Mì Cay",
+        "locationConfidence" : 0.07906585
+      }, {
+        "latitudeE7" : 210090765,
+        "longitudeE7" : 1058174331,
+        "placeId" : "ChIJ29iNyoKsNTERhaCKnY-ymRA",
+        "name" : "Hair salon Đông Phương",
+        "locationConfidence" : 0.068646125
+      }, {
+        "latitudeE7" : 210092818,
+        "longitudeE7" : 1058186817,
+        "placeId" : "ChIJG5U-voKsNTERD5xM3bK89HY",
+        "name" : "máy hàn nhiệt ống nước ppr",
+        "locationConfidence" : 0.046780776
+      }, {
+        "latitudeE7" : 210099852,
+        "longitudeE7" : 1058181863,
+        "placeId" : "ChIJuT2qpYKsNTERs_4yIqn1V6s",
+        "name" : "Cửa Hàng Key",
+        "locationConfidence" : 0.044775862
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

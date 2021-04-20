@@ -1,0 +1,46 @@
+<h2>Analysis - Routine Trip Illustrate</h2>
+<div>
+  <%= simple_form_for :analysis_form, url: modeling_routes_trip_lda_path, method: "GET" do |f| %>
+    <div class="row">
+      <div class="col-md-6">
+        <%= f.input :user_id, collection: User.all, label_method: lambda { |owner| "#{owner.id} --> #{owner.user_name}" }, value_method: :id, label: "Select user", include_blank: false, selected: @user&.id %>
+      </div>
+    </div>
+    <%= f.submit "Get Data", class: "btn btn-primary" %>
+  <% end %>
+
+  <% if @user %>
+    <h3 class="mt-4">Model</h3>
+    <h6><%= "Num docs: #{@mdl.num_docs}, Vocab size: #{@mdl.used_vocabs.length}, Num words: #{@mdl.num_words}" %></h6>
+    <h3 class="mt-4">Removed Top Words</h3>
+    <h6><%= @mdl.removed_top_words %></h6>
+    <h3 class="mt-4">Training Info</h3>
+    <%= @mdl.training_info('') %>
+    <h3 class="mt-4">Summary</h3>
+    <h5 class="mt-4">Topics Word</h5>
+    <table class="table table-striped table-sm">
+      <thead>
+      <tr>
+        <th>Word</th>
+        <th>Probability</th>
+      </tr>
+      </thead>
+      <tbody>
+      <% @mdl.topic_words.each do |topic_word| %>
+        <% topic_word.each do |word, prob| %>
+          <tr>
+            <td><%= word %></td>
+            <td><%= prob %></td>
+          </tr>
+        <% end %>
+      <% end %>
+      </tbody>
+    </table>
+    <h5 class="mt-4">Topics</h5>
+    <% @topics.each do |topic| %>
+      <h6>
+        <%= topic %>
+      </h6>
+    <% end %>
+  <% end %>
+</div>
