@@ -25,15 +25,23 @@
 </table>
 <h4 class="mt-4">Topics</h4>
 <% mdl.topics_info([], topic_word_top_n: 10).take(5).each do |topic| %>
-  <h6>
-    <%= topic %>
-    <% paths=[] %>
-    <% topic.each do |pos| %>
-      <% location_object = Location.where(hashing_lda: pos[0])&.first %>
-      <% paths << "#{location_object&.get_latitude},#{location_object&.get_longitude}" %>
-    <% end %>
-    <div class="mt-4">
+
+  <div class="row">
+    <div class="col-md-4 text-wrap">
+      <% paths=[] %>
+      <ul>
+        <% topic.each do |pos| %>
+          <% location_object = Location.where(hashing_lda: pos[0])&.first %>
+          <% paths << "#{location_object&.get_latitude},#{location_object&.get_longitude}" %>
+          <li><%= location_object&.address %></li>
+        <% end %>
+      </ul>
+    </div>
+    <div class="col-md-8 mt-4">
       <%= image_tag "http://maps.googleapis.com/maps/api/staticmap?zoom=13&size=1000x1000&path=color:0xff0000ff|weight:5|#{paths.join("|")}&key=#{ENV['GOOGLE_MAP_API_KEY']}", alt: "Map", class: 'img-fluid' %>
     </div>
-  </h6>
+  </div>
+  <div class="text-muted m-4">
+    <%= topic %>
+  </div>
 <% end %>
