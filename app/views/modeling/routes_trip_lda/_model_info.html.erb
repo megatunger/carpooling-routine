@@ -1,0 +1,39 @@
+<h4 class="mt-4">Model</h4>
+<h6><%= "Num docs: #{mdl.num_docs}, Vocab size: #{mdl.used_vocabs.length}, Num words: #{mdl.num_words}" %></h6>
+<h4 class="mt-4">Removed Top Words</h4>
+<h6><%= mdl.removed_top_words %></h6>
+<h4 class="mt-4">Training Info</h4>
+<%= mdl.training_info('') %>
+<h4 class="mt-4">Topics Word</h4>
+<table class="table table-striped table-sm">
+  <thead>
+  <tr>
+    <th>Word</th>
+    <th>Probability</th>
+  </tr>
+  </thead>
+  <tbody>
+  <% mdl.topic_words.each do |topic_word| %>
+    <% topic_word.each do |word, prob| %>
+      <tr>
+        <td><%= word %></td>
+        <td><%= prob %></td>
+      </tr>
+    <% end %>
+  <% end %>
+  </tbody>
+</table>
+<h4 class="mt-4">Topics</h4>
+<% mdl.topics_info([], topic_word_top_n: 10).take(5).each do |topic| %>
+  <h6>
+    <%= topic %>
+    <% paths=[] %>
+    <% topic.each do |pos| %>
+      <% location_object = Location.where(hashing_lda: pos[0])&.first %>
+      <% paths << "#{location_object&.get_latitude},#{location_object&.get_longitude}" %>
+    <% end %>
+    <div class="mt-4">
+      <%= image_tag "http://maps.googleapis.com/maps/api/staticmap?zoom=13&size=1000x1000&path=color:0xff0000ff|weight:5|#{paths.join("|")}&key=#{ENV['GOOGLE_MAP_API_KEY']}", alt: "Map", class: 'img-fluid' %>
+    </div>
+  </h6>
+<% end %>

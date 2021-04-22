@@ -4,14 +4,15 @@ require 'tomoto/lda'
 class ModelingController < ApplicationController
 
   def pre_processing_lda
-    @time_ranges = (0..7).map {|i| "#{i*3}h - #{(i+1)*3}h"}
     @start_time = Date.new(2020, 01, 01)
     @end_time = Date.new(2020, 02, 01)
+    @user = User.first
     if search_params
       @start_time = Date.parse(search_params[:start_time])
       @end_time = Date.parse(search_params[:end_time])
+      @user = User.find(search_params[:user_id])
     end
-    @entries = Location.includes(:user)
+    @entries = Location.includes(:user).where(user_id: @user&.id)
                  .where('start_time >= ? and end_time < ?', @start_time, @end_time)
                  .sort_by(&:start_time)
                  .group_by(&:group_by_criteria)
@@ -34,11 +35,16 @@ class ModelingController < ApplicationController
   end
 
   def routes_trip_lda
+    @days = []
+    Date::DAYNAMES.each_with_index { |x, i| @days << [x, i] }
+    @wday = 1
+    @place = Location.first
     if params['analysis_form']
       @user = User.find(params['analysis_form']['user_id'].to_i)
-      @user.train_models.last.model_file.open do |file|
+      @wday = params['analysis_form']['wday'].to_i
+      @models = []
+      @user.train_models.where(week_day: @wday)&.last.model_file.open do |file|
         @mdl = ::Tomoto::LDA.load(file.path)
-        @topics = @mdl.topics_info([], topic_word_top_n: 10)
       end
     end
   end
@@ -50,7 +56,7 @@ class ModelingController < ApplicationController
 
   def search_params
     if params[:search].present?
-      params.require(:search).permit(:start_time, :end_time)
+      params.require(:search).permit(:start_time, :end_time, :user_id)
     end
   end
 end

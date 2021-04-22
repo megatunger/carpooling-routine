@@ -9,7 +9,7 @@ require 'faker'
 require 'json'
 
 def seed_user
-  (1..8).each do
+  (1..2).each do
     User.create(user_name: Faker::Name.name)
   end
 end

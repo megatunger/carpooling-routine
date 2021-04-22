@@ -64,6 +64,7 @@ ActiveRecord::Schema.define(version: 2021_04_20_044611) do
   create_table "train_models", force: :cascade do |t|
     t.string "params"
     t.bigint "user_id"
+    t.integer "week_day"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["user_id"], name: "index_train_models_on_user_id"
