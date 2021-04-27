@@ -1,4 +1,5 @@
 class Location < ApplicationRecord
+  geocoded_by :address, latitude: :latitude, longitude: :longitude
   belongs_to :user
   before_save :processing_lda_string, :add_time_range
 
@@ -16,11 +17,4 @@ class Location < ApplicationRecord
     self.time_range = time_ranges[self.start_time.strftime('%H').to_i/3]
   end
 
-  def get_longitude
-    self.longitude*0.0000001
-  end
-
-  def get_latitude
-    self.latitude*0.0000001
-  end
 end

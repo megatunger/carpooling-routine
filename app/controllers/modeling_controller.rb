@@ -31,6 +31,7 @@ class ModelingController < ApplicationController
     User.all.each do |user|
       user.create_lda_model(@expecting_topics)
     end
+    flash[:success] = "Save model successfully!"
     redirect_to modeling_training_lda_path
   end
 
@@ -49,10 +50,14 @@ class ModelingController < ApplicationController
     end
   end
 
-  def index
-    # @mdl = ::Tomoto.load(@user.train_models.last.model_file)
-
+  def save_routines_to_db
+    User.all.each do |user|
+      user.save_model_to_routine
+    end
+    flash[:success] = "Save routines to database successfully!"
+    redirect_to modeling_training_lda_path
   end
+
 
   def search_params
     if params[:search].present?

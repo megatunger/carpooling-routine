@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_04_20_044611) do
+ActiveRecord::Schema.define(version: 2021_04_27_062104) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -45,8 +45,8 @@ ActiveRecord::Schema.define(version: 2021_04_20_044611) do
 
   create_table "locations", force: :cascade do |t|
     t.bigint "user_id"
-    t.bigint "latitude"
-    t.bigint "longitude"
+    t.float "latitude"
+    t.float "longitude"
     t.string "place_id"
     t.string "location_name"
     t.string "address"
@@ -59,6 +59,38 @@ ActiveRecord::Schema.define(version: 2021_04_20_044611) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["user_id"], name: "index_locations_on_user_id"
+  end
+
+  create_table "routine_location_nearbies", force: :cascade do |t|
+    t.bigint "routine_id"
+    t.bigint "location_from_id"
+    t.bigint "location_to_id"
+    t.bigint "user_id"
+    t.integer "week_day"
+    t.float "distance"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["location_from_id"], name: "index_routine_location_nearbies_on_location_from_id"
+    t.index ["location_to_id"], name: "index_routine_location_nearbies_on_location_to_id"
+    t.index ["routine_id"], name: "index_routine_location_nearbies_on_routine_id"
+    t.index ["user_id"], name: "index_routine_location_nearbies_on_user_id"
+  end
+
+  create_table "routine_locations", force: :cascade do |t|
+    t.bigint "routine_id"
+    t.bigint "location_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["location_id"], name: "index_routine_locations_on_location_id"
+    t.index ["routine_id"], name: "index_routine_locations_on_routine_id"
+  end
+
+  create_table "routines", force: :cascade do |t|
+    t.bigint "user_id"
+    t.integer "week_day"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["user_id"], name: "index_routines_on_user_id"
   end
 
   create_table "train_models", force: :cascade do |t|

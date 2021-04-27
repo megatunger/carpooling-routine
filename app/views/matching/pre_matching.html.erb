@@ -1,0 +1,74 @@
+<h2 class="font-weight-bold">Pre-matching Availability</h2>
+<div>
+  <h3>Preview</h3>
+  <%= simple_form_for :matching_form, url: matching_pre_matching_path, method: "GET" do |f| %>
+    <div class="row">
+      <div class="col-md-6">
+        <%= f.input :user_id, collection: User.all, label_method: lambda { |owner| "#{owner.id} --> #{owner.user_name}" }, value_method: :id, label: "Select user", include_blank: false, selected: @user&.id %>
+      </div>
+      <div class="col-md-6">
+        <%= f.input :wday, collection: @days, label_method: lambda { |x| x[0] }, value_method: lambda { |x| x[1] }, label: "Select Week Day", include_blank: false, selected: @days[@wday] %>
+      </div>
+    </div>
+    <%= f.submit "Get Data", class: "btn btn-primary" %>
+  <% end %>
+  <h3 class="my-3">Precalculate</h3>
+  <%= simple_form_for :matching_form, url: matching_pre_matching_calculate_path, method: "POST" do |f| %>
+    <div class="row">
+      <div class="col-md-6">
+        <%= f.input :user_id, collection: User.all, label_method: lambda { |owner| "#{owner.id} --> #{owner.user_name}" }, value_method: :id, label: "Select user", include_blank: false, selected: @user&.id %>
+      </div>
+      <div class="col-md-6">
+        <%= f.input :threshold_distance, label: 'Threshold (km)', as: :integer, input_html: { value: @threshold } %>
+      </div>
+    </div>
+    <%= f.submit "Calculate", class: "btn btn-warning" %>
+  <% end %>
+</div>
+
+
+
+
+<% if @user %>
+  <% @user.routines.where(week_day: @wday).each_with_index do |routine, index| %>
+    <div class="card border-secondary my-3">
+      <div class="card-header">Routine <%= index+1 %></div>
+      <div class="card-body text-secondary overflow-auto">
+        <h4 class="font-weight-bold">Matching Matrix</h4>
+        <table class="table my-4">
+          <thead class="thead-dark">
+          <tr>
+            <th scope="col">#</th>
+            <% (0..23).map {|i| "#{i}h - #{(i+1)}h"}.each do |i| %>
+              <th scope="col" class="text-nowrap"><%= i %></th>
+            <% end %>
+          </tr>
+          </thead>
+          <tbody >
+          <% routine.locations.each do |location| %>
+            <tr>
+              <th scope="row" class="text-nowrap"><%= location.address %></th>
+              <% (0..23).each do |i| %>
+                <td>
+                  <% RoutineLocationNearby.where(location_from: location.id) do |_location| %>
+                    <%= _location %>
+                    <%# user.routines.includes(:locations).where(week_day: @wday).each do |routine| %>
+<!--                      <p class="mt-2">-->
+                        <%# potentials.each do |_location| %>
+<!--                          <div class="font-weight-bold"><%#= "User ##{user.id} - Routine ##{routine.id}" %></div>-->
+<!--                          <div class="<%#= distance_color(location.distance_from(_location)) %>"><%#= "#{location.distance_from(_location)} km" %></div>-->
+                        <%# end %>
+<!--                      </p>-->
+                    <%# end %>
+                  <% end %>
+                </td>
+              <% end %>
+            </tr>
+          <% end %>
+          </tbody>
+        </table>
+        <h4 class="font-weight-bold my-4">Matching Rides</h4>
+      </div>
+    </div>
+  <% end %>
+<% end %>

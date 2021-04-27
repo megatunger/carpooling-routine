@@ -8,6 +8,10 @@
     </div>
     <%= f.submit "Train Model", class: "btn btn-primary" %>
   <% end %>
+  <%= simple_form_for :train_form, url: modeling_save_routines_to_db_path, method: "POST" do |f| %>
+    <%= f.submit "Save Routines To Database", class: "btn btn-warning mt-2" %>
+  <% end %>
+
   <div class="mt-4">
     <h3>Model Information</h3>
     <table class="table table-striped table-sm">

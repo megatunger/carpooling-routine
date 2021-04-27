@@ -9,7 +9,7 @@ require 'faker'
 require 'json'
 
 def seed_user
-  (1..2).each do
+  (1..9).each do
     User.create(user_name: Faker::Name.name)
   end
 end
@@ -35,8 +35,8 @@ def seed_location
           start_time = DateTime.strptime(object['placeVisit']['duration']['start_time'] || object['placeVisit']['duration']['startTimestampMs'],'%Q')
           end_time = DateTime.strptime(object['placeVisit']['duration']['end_time'] || object['placeVisit']['duration']['endTimestampMs'],'%Q')
           user.locations.create(
-            latitude: location['latitudeE7'],
-            longitude: location['longitudeE7'],
+            latitude: (location['latitudeE7'] || 0) * 0.0000001,
+            longitude: ( location['longitudeE7'] || 0) * 0.0000001,
             place_id: location['placeId'],
             address: location['address'],
             location_name: location['name'],

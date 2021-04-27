@@ -25,14 +25,13 @@
 </table>
 <h4 class="mt-4">Topics</h4>
 <% mdl.topics_info([], topic_word_top_n: 10).take(5).each do |topic| %>
-
   <div class="row">
     <div class="col-md-4 text-wrap">
       <% paths=[] %>
       <ul>
         <% topic.each do |pos| %>
           <% location_object = Location.where(hashing_lda: pos[0])&.first %>
-          <% paths << "#{location_object&.get_latitude},#{location_object&.get_longitude}" %>
+          <% paths << "#{location_object&.latitude},#{location_object&.longitude}" %>
           <li><%= location_object&.address %></li>
         <% end %>
       </ul>

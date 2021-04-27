@@ -9,7 +9,13 @@ Rails.application.routes.draw do
     get 'pre-processing-lda'
     get 'training-lda', action: 'get_training_lda'
     post 'training-lda', action: 'training_lda'
+    post 'save-routines-to-db', action: 'save_routines_to_db'
     get 'routes-trip-lda'
+  end
+
+  namespace :matching do
+    get 'pre-matching', action: 'pre_matching'
+    post 'pre-matching-calculate', action: 'pre_matching_calculate'
   end
 end
 

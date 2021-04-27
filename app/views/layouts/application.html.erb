@@ -11,7 +11,6 @@
   </head>
 
   <body>
-
     <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
       <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Carpooling Routine</a>
     </nav>
@@ -62,21 +61,22 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="<%= matching_pre_matching_path %>">
                   <span data-feather="file-text"></span>
-                  Matching
+                  Pre-Matching
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
                   <span data-feather="file-text"></span>
-                  Review
+
                 </a>
               </li>
             </ul>
           </div>
         </nav>
         <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4 my-4">
+          <%= render_flash_messages %>
           <%= yield %>
         </main>
       </div>

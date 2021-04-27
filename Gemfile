@@ -4,6 +4,9 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '3.0.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
+gem 'flash_rails_messages'
+gem 'geocoder'
+gem 'redis'
 gem 'dotenv-rails', groups: [:development, :test]
 gem 'tomoto'
 gem 'simple_form'
