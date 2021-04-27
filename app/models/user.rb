@@ -2,7 +2,6 @@ class User < ApplicationRecord
   has_many :locations
   has_many :train_models
   has_many :routines
-  has_many :routine_location_nearbies
 
   def create_lda_model(expecting_topics)
     train_models.destroy_all
@@ -65,8 +64,10 @@ class User < ApplicationRecord
         mdl.topics_info([], topic_word_top_n: 10).take(5).each do |topic|
           routine = routines.create(week_day: model.week_day)
           topic.each do |pos|
-            location_object = Location.where(hashing_lda: pos[0])&.first
-            routine.locations << location_object
+            location_object = Location.where(hashing_lda: pos[0], user_id: self.id).where("extract(dow from start_time) = ?", model.week_day)&.first
+            if location_object
+              routine.locations << location_object
+            end
           end
         end
       end
@@ -74,21 +75,25 @@ class User < ApplicationRecord
   end
 
   def pre_matching_process(threshold)
-    routine_location_nearbies.destroy_all
     self.routines.each do |routine|
       routine.locations.each do |location_from|
-
-        Routine.where(user_id: User.where.not(id: self.id).pluck(:id), week_day: routine.week_day).includes(:locations).each do |_routine|
-          potentials = _routine.locations.where(time_range: location_from.time_range).select { |_location| location_from.distance_from(_location) <= threshold }
-          potentials.each do |location_to|
-            RoutineLocationNearby.create(
-              routine_id: routine.id,
-              location_from_id: location_from.id,
-              location_to_id: location_to.id,
-              user_id: location_from.user_id,
-              distance: location_to.distance_from(location_from),
-              week_day: routine.week_day
-            )
+        User.where.not(id: self.id).each do |user|
+          user.routines.where(week_day: routine.week_day).each do |_routine|
+            _routine.routine_locations.each do |_routine_location|
+              location_to = _routine_location.location
+              if location_from.distance_from(location_to) <= threshold && location_to.time_range == location_from.time_range
+                RoutineLocationNearby.create(
+                  routine_location_id: _routine_location.id,
+                  location_from_id: location_from.id,
+                  location_to_id: location_to.id,
+                  user_from_id: location_from.user_id,
+                  user_to_id: location_to.user_id,
+                  distance: location_from.distance_from(location_to),
+                  week_day: routine.week_day,
+                  time_range: location_from.time_range
+                )
+              end
+            end
           end
         end
       end

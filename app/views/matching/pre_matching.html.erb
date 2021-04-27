@@ -26,9 +26,6 @@
   <% end %>
 </div>
 
-
-
-
 <% if @user %>
   <% @user.routines.where(week_day: @wday).each_with_index do |routine, index| %>
     <div class="card border-secondary my-3">
@@ -45,22 +42,16 @@
           </tr>
           </thead>
           <tbody >
-          <% routine.locations.each do |location| %>
+          <% routine.routine_locations.each do |routine_location| %>
+            <% location = routine_location.location %>
             <tr>
               <th scope="row" class="text-nowrap"><%= location.address %></th>
               <% (0..23).each do |i| %>
                 <td>
-                  <% RoutineLocationNearby.where(location_from: location.id) do |_location| %>
-                    <%= _location %>
-                    <%# user.routines.includes(:locations).where(week_day: @wday).each do |routine| %>
-<!--                      <p class="mt-2">-->
-                        <%# potentials.each do |_location| %>
-<!--                          <div class="font-weight-bold"><%#= "User ##{user.id} - Routine ##{routine.id}" %></div>-->
-<!--                          <div class="<%#= distance_color(location.distance_from(_location)) %>"><%#= "#{location.distance_from(_location)} km" %></div>-->
-                        <%# end %>
-<!--                      </p>-->
-                    <%# end %>
-                  <% end %>
+                    <% routine_location.routine_location_nearbies.where(week_day: @wday, time_range: location.time_range).sort_by(&:distance).each do |nearby| %>
+                      <div class="font-weight-bold"><%= "User ##{nearby.user_to_id} " %></div>
+                      <div class="<%= distance_color(nearby.distance) %>"><%= "#{nearby.distance} km" %></div>
+                    <% end %>
                 </td>
               <% end %>
             </tr>

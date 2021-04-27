@@ -62,18 +62,22 @@ ActiveRecord::Schema.define(version: 2021_04_27_062104) do
   end
 
   create_table "routine_location_nearbies", force: :cascade do |t|
-    t.bigint "routine_id"
+    t.bigint "routine_location_id"
     t.bigint "location_from_id"
+    t.bigint "user_from_id"
     t.bigint "location_to_id"
-    t.bigint "user_id"
+    t.bigint "user_to_id"
     t.integer "week_day"
     t.float "distance"
+    t.string "time_range"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["location_from_id"], name: "index_routine_location_nearbies_on_location_from_id"
     t.index ["location_to_id"], name: "index_routine_location_nearbies_on_location_to_id"
-    t.index ["routine_id"], name: "index_routine_location_nearbies_on_routine_id"
-    t.index ["user_id"], name: "index_routine_location_nearbies_on_user_id"
+    t.index ["routine_location_id"], name: "index_routine_location_nearbies_on_routine_location_id"
+    t.index ["time_range"], name: "index_routine_location_nearbies_on_time_range"
+    t.index ["user_from_id"], name: "index_routine_location_nearbies_on_user_from_id"
+    t.index ["user_to_id"], name: "index_routine_location_nearbies_on_user_to_id"
   end
 
   create_table "routine_locations", force: :cascade do |t|
