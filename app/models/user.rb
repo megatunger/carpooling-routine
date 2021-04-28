@@ -76,24 +76,27 @@ class User < ApplicationRecord
 
   def pre_matching_process(threshold)
     self.routines.each do |routine|
-      routine.locations.each do |location_from|
-        User.where.not(id: self.id).each do |user|
-          user.routines.where(week_day: routine.week_day).each do |_routine|
-            _routine.routine_locations.each do |_routine_location|
-              location_to = _routine_location.location
-              if location_from.distance_from(location_to) <= threshold && location_to.time_range == location_from.time_range
-                RoutineLocationNearby.create(
-                  routine_location_id: _routine_location.id,
-                  location_from_id: location_from.id,
-                  location_to_id: location_to.id,
-                  user_from_id: location_from.user_id,
-                  user_to_id: location_to.user_id,
-                  distance: location_from.distance_from(location_to),
-                  week_day: routine.week_day,
-                  time_range: location_from.time_range
-                )
-              end
-            end
+      routine.locations.each do |location|
+        routine_locations = RoutineLocation.where(
+          routine_id: Routine.where(
+            user_id: User.where.not(id: self.id).pluck(:id),
+            week_day: routine.week_day
+          ).pluck(:id),
+          location_id: Location.where(time_range: location.time_range).pluck(:id)
+        )
+        routine_locations.each do |routine_location|
+          location_to = routine_location.location
+          if location.distance_from(location_to) <= threshold
+            RoutineLocationNearby.create(
+              routine_location_id: routine_location.id,
+              location_from_id: location.id,
+              location_to_id: location_to.id,
+              user_from_id: location.user_id,
+              user_to_id: location_to.user_id,
+              distance: location.distance_from(location_to),
+              week_day: routine.week_day,
+              time_range: location.time_range
+            )
           end
         end
       end

@@ -36,29 +36,46 @@
           <thead class="thead-dark">
           <tr>
             <th scope="col">#</th>
-            <% (0..23).map {|i| "#{i}h - #{(i+1)}h"}.each do |i| %>
-              <th scope="col" class="text-nowrap"><%= i %></th>
-            <% end %>
+            <th scope="col" class="text-nowrap">Nearby</th>
           </tr>
           </thead>
           <tbody >
           <% routine.routine_locations.each do |routine_location| %>
             <% location = routine_location.location %>
             <tr>
-              <th scope="row" class="text-nowrap"><%= location.address %></th>
-              <% (0..23).each do |i| %>
-                <td>
-                    <% routine_location.routine_location_nearbies.where(week_day: @wday, time_range: location.time_range).sort_by(&:distance).each do |nearby| %>
-                      <div class="font-weight-bold"><%= "User ##{nearby.user_to_id} " %></div>
-                      <div class="<%= distance_color(nearby.distance) %>"><%= "#{nearby.distance} km" %></div>
-                    <% end %>
-                </td>
-              <% end %>
+              <td scope="row" class="text-nowrap">
+                <%= location.address %><br>
+                <%= location.time_range %><br>
+                <%= location.id %>
+              </td>
+              <td scope="row" class="text-nowrap">
+                <% routine_location.routine_location_nearbies.each do |nearby| %>
+                  <div>
+                    <%= nearby.location_from.address %> <--> <%= nearby.location_to.address %> (<%= nearby.distance %> km)
+                  </div>
+                <% end %>
+              </td>
             </tr>
           <% end %>
           </tbody>
         </table>
         <h4 class="font-weight-bold my-4">Matching Rides</h4>
+        <div>
+          <% array = routine.routine_locations.map { |routine_location|
+            {
+              :location => routine_location.location,
+              :nearby => routine_location.routine_location_nearbies.empty? ? [] : routine_location.routine_location_nearbies
+            }
+          } %>
+          <% array.each_with_index do |element, index| %>
+            <%= element %><br><br>
+            <% index.upto(array.length-1) do |i| %>
+              <% if array[i].empty? %>
+                <%= puts "werwer23423" %>
+              <% end %>
+            <% end %>
+          <% end %>
+        </div>
       </div>
     </div>
   <% end %>
