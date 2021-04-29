@@ -1,4 +1,4 @@
-<h2 class="font-weight-bold">Pre-matching Availability</h2>
+<h2 class="font-weight-bold">Matching Availability</h2>
 <div>
   <h3>Preview</h3>
   <%= simple_form_for :matching_form, url: matching_pre_matching_path, method: "GET" do |f| %>
@@ -37,10 +37,14 @@
           <tr>
             <th scope="col">#</th>
             <th scope="col" class="text-nowrap">Nearby</th>
+            <th scope="col" class="text-nowrap">Visualize</th>
           </tr>
           </thead>
           <tbody >
-          <% routine.routine_locations.each do |routine_location| %>
+          <% pickups = [] %>
+          <% potential_routine_locations = routine.routine_locations.includes(:location).order('locations.time_range ASC').uniq { |p| p.location.time_range && p.location.address } %>
+          <% potential_routine_locations.each do |routine_location| %>
+            <% processed = [] %>
             <% location = routine_location.location %>
             <tr>
               <td scope="row" class="text-nowrap">
@@ -48,18 +52,46 @@
                 <%= location.time_range %><br>
                 <%= location.id %>
               </td>
-              <td scope="row" class="text-nowrap">
-                <% routine_location.routine_location_nearbies.each do |nearby| %>
+              <td scope="row">
+                <% processed << {
+                  :location => location,
+                  :nearbies =>  routine_location.routine_location_nearbies
+                } %>
+
+                <% puts processed.count %>
+                <% routine_location.routine_location_nearbies.sort_by(&:distance).each do |nearby| %>
                   <div>
-                    <%= nearby.location_from.address %> <--> <%= nearby.location_to.address %> (<%= nearby.distance %> km)
+                    User #<%= nearby.user_from_id %> --> <%= nearby.location_from.address %> (<%= nearby.distance %> km) <%= nearby.routine_location_id %>
                   </div>
                 <% end %>
+              </td>
+              <td>
+                <% paths = routine_location.routine_location_nearbies.map {|nearby| "&markers=color:red%7Clabel:#{nearby.user_from_id}%7C#{nearby.location_from.latitude},#{nearby.location_from.longitude}" }.join('') %>
+                <%= image_tag "http://maps.googleapis.com/maps/api/staticmap?zoom=14&size=1000x1000&markers=color:red%7Clabel:S%7C#{location.latitude},#{location.longitude}#{paths}&key=#{ENV['GOOGLE_MAP_API_KEY']}", alt: "Map", class: 'img-fluid' %>
               </td>
             </tr>
           <% end %>
           </tbody>
         </table>
+        <h4>Rides Suggestion</h4>
 
+        <table class="table my-4">
+          <thead class="thead-dark">
+          <tr>
+            <th scope="col">Rider</th>
+            <th scope="col" class="text-nowrap">Pickup User + Location</th>
+          </tr>
+          </thead>
+          <tbody >
+          <tr>
+            <td scope="row" class="text-nowrap">21 Đặng Trần Côn Quốc Tử Giám Đống Đa Hà Nội Việt Nam</td>
+            <td scope="row" class="text-nowrap">
+              User #8 --> 44 P. Tôn Đức Thắng Cát Linh Đống Đa Hà Nội Việt Nam (0.2279749348750322 km)<br>
+              User #7 --> 75 P. Ô Chợ Dừa Chợ Dừa Đống Đa Hà Nội Việt Nam (1.0325989338783677 km)
+            </td>
+          </tr>
+          </tbody>
+        </table>
       </div>
     </div>
   <% end %>
