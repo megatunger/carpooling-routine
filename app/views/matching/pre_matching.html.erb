@@ -59,23 +59,7 @@
           <% end %>
           </tbody>
         </table>
-        <h4 class="font-weight-bold my-4">Matching Rides</h4>
-        <div>
-          <% array = routine.routine_locations.map { |routine_location|
-            {
-              :location => routine_location.location,
-              :nearby => routine_location.routine_location_nearbies.empty? ? [] : routine_location.routine_location_nearbies
-            }
-          } %>
-          <% array.each_with_index do |element, index| %>
-            <%= element %><br><br>
-            <% index.upto(array.length-1) do |i| %>
-              <% if array[i].empty? %>
-                <%= puts "werwer23423" %>
-              <% end %>
-            <% end %>
-          <% end %>
-        </div>
+
       </div>
     </div>
   <% end %>

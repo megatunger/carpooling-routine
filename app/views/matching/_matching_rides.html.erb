@@ -1,0 +1,24 @@
+<h4 class="font-weight-bold my-4">Matching Rides</h4>
+<div>
+  <% array = routine.routine_locations.map { |routine_location|
+    {
+      :location => routine_location.location,
+      :nearby => routine_location.routine_location_nearbies.empty? ? [] : routine_location.routine_location_nearbies
+    }
+  } %>
+  <% array.each_with_index do |element, index| %>
+    <h2>Before</h2>
+    <%= index %>
+    <%= element %><br><br>
+    <h2>After</h2>
+    <% trips = [element] %>
+    <% (index+1).upto(array.length-1) do |i| %>
+      <% next if array[i][:nearby].empty? %>
+      <%= trips << array[i][:nearby] %>
+    <% end %>
+    <% if trips != [] && trips.length != 1 %>
+      <%#= trips.first.map(&:user_to_id) %>
+    <% end %>
+    <hr>
+  <% end %>
+</div>

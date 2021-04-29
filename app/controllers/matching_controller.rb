@@ -1,7 +1,9 @@
 class MatchingController < ApplicationController
   def pre_matching_calculate
     matching_params
-    @user.pre_matching_process(@threshold)
+    User.all.each do |user|
+      user.pre_matching_process(@threshold)
+    end
     flash[:success] = 'Calculate successful!'
     redirect_to matching_pre_matching_path
   end
