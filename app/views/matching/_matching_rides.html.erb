@@ -22,3 +22,17 @@
     <hr>
   <% end %>
 </div>
+
+<td scope="row">
+  <% processed << {
+    :location => location,
+    :nearbies =>  routine_location.routine_location_nearbies
+  } %>
+
+  <% puts processed.count %>
+  <% routine_location.routine_location_nearbies.sort_by(&:distance).each do |nearby| %>
+    <div>
+      User #<%= nearby.user_from_id %> --> <%= nearby.location_from.address %> (<%= nearby.distance %> km) <%= nearby.routine_location_id %>
+    </div>
+  <% end %>
+</td>

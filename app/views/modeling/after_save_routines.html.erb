@@ -1,0 +1,25 @@
+<% User.all.each do |user| %>
+  <% if user.routines.present? %>
+    <div>
+      <h6><%= "User #{user.id}" %></h6>
+      <table class="table table-striped table-sm">
+        <thead>
+        <tr>
+          <% @days.each_with_index do |day, index| %>
+            <td><%= day %></td>
+          <% end %>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <% @days.each_with_index do |day, index| %>
+            <td><% user.routines.where(week_day: index).each do |routine| %>
+                <%= image_tag routine.google_maps_image, alt: "Map", class: 'img-fluid' %>
+              <% end %></td>
+          <% end %>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+  <% end %>
+<% end %>

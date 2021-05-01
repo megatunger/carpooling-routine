@@ -64,4 +64,9 @@ class ModelingController < ApplicationController
       params.require(:search).permit(:start_time, :end_time, :user_id)
     end
   end
+
+  def after_save_routines
+    @days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday']
+    @users = User.all
+  end
 end

@@ -61,7 +61,7 @@ class User < ApplicationRecord
     train_models.each do |model|
       model.model_file.open do |file|
         mdl = ::Tomoto::LDA.load(file.path)
-        mdl.topics_info([], topic_word_top_n: 10).take(5).each do |topic|
+        mdl.topics_info([], topic_word_top_n: 10).take(1).each do |topic|
           routine = routines.create(week_day: model.week_day)
           topic.each do |pos|
             location_object = Location.where(hashing_lda: pos[0], user_id: self.id).where("extract(dow from start_time) = ?", model.week_day)&.first
@@ -89,10 +89,12 @@ class User < ApplicationRecord
           if location.distance_from(location_to) <= threshold
             RoutineLocationNearby.create(
               routine_location_id: routine_location.id,
+              routine_from_id: routine.id,
               location_from_id: location.id,
               location_to_id: location_to.id,
               user_from_id: location.user_id,
               user_to_id: location_to.user_id,
+              routine_to_id: routine_location.routine_id,
               distance: location.distance_from(location_to),
               week_day: routine.week_day,
               time_range: location.time_range

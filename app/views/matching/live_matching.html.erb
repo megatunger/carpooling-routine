@@ -1,0 +1,91 @@
+<script async
+        src=<%= "https://maps.googleapis.com/maps/api/js?key=#{ENV['GOOGLE_MAP_API_KEY']}&callback=initMap" %>>
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<h2>Live Matching</h2>
+<div class="row">
+  <div class="col-md-5">
+    <%= simple_form_for :matching_form, url: matching_live_matching_path, id: 'matching_form', method: "GET" do |f| %>
+      <%= f.input :wday, collection: @days, label_method: lambda { |x| x[0] }, value_method: lambda { |x| x[1] }, label: "Select Week Day", include_blank: false, selected: @days[@wday] %>
+      <%= f.input :time_range, collection: @time_ranges, label: "Select Time Range", include_blank: false, selected: @time_range %>
+    <% end %>
+
+    <% if @start_point %>
+      <div class="text-danger font-weight-bold">
+        <div>Start: <%= @start_point.latitude %>, <%= @start_point.longitude %></div>
+        <div>End: <%= @end_point.latitude %>, <%= @end_point.longitude %></div>
+        <div class="text-secondary"><%= @time_range %></div>
+      </div>
+      <hr>
+      <h4>Pick-ups</h4>
+      <% @choices.flatten!.each do |choice| %>
+        <div class="card shadow my-2">
+          <div class="card-body">
+            <h5 class="card-title">User #<%= choice.user_id %></h5>
+            <p class="card-text"><%= choice.address %></p>
+            <a href="#" class="btn btn-primary">Notify Driver</a>
+          </div>
+        </div>
+      <% end %>
+    <% end %>
+  </div>
+  <div class="col-md-7" style="height: 600px">
+    <div id="map"></div>
+  </div>
+</div>
+
+<style>
+    #map {
+        height: 100%;
+    }
+</style>
+
+<script>
+    let map;
+    let markers = [];
+    function initMap() {
+        map = new google.maps.Map(document.getElementById("map"), {
+            center: { lat: 21.026016, lng: 105.838225 },
+            zoom: 13,
+        });
+
+        google.maps.event.addListener(map, 'click', function( event ){
+            var myLatlng = new google.maps.LatLng(event.latLng.lat(),event.latLng.lng() );
+            markers.push(
+                {
+                    "latitude": event.latLng.lat(),
+                    "longitude": event.latLng.lng()
+                }
+            )
+            var marker = new google.maps.Marker({
+                position: myLatlng,
+                map: map,
+                title: 'Hello World!'
+            });
+            if (markers.length >= 2) {
+                setTimeout(() => {
+                    var input = $("<input>")
+                        .attr("type", "hidden")
+                        .attr("name", "start_point[latitude]").val(markers[0].latitude);
+                    $('.matching_form').append(input);
+                    input = $("<input>")
+                        .attr("type", "hidden")
+                        .attr("name", "start_point[longitude]").val(markers[0].longitude);
+                    $('.matching_form').append(input);
+                    input = $("<input>")
+                        .attr("type", "hidden")
+                        .attr("name", "end_point[latitude]").val(markers[1].latitude);
+                    $('.matching_form').append(input);
+                    input = $("<input>")
+                        .attr("type", "hidden")
+                        .attr("name", "end_point[longitude]").val(markers[1].longitude);
+                    $('.matching_form').append(input);
+                    $('.matching_form').submit();
+                }, 1000);
+            }
+
+        });
+    }
+
+</script>
